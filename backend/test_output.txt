@@ -1,0 +1,54 @@
+TEST 1: Autocomplete — 'industrial area Pune Maharashtra'
+Status: ok
+Results: 5
+  Name: Maharashtra
+  Desc: Maharashtra, Shinde Gaon, Chakan MIDC Phase2, Beside New Holland Company, Chakan, Pune, Maharashtra, Shinde Gaon, Beside New Holland Company, MIDC Phase2, Chakan, Maharashtra, 410501, India
+  Lat: 18.7632, Lng: 73.8612
+  Types: ['storage']
+
+  Name: Kalyani Creation - Saree Shop In Pune, Maharashtra
+  Desc: Kalyani Creation - Saree Shop In Pune, Maharashtra, Shop No. 6, 7 Kalpvruksh SR. 74/2/6 Canal Road, Sinhgad Rd, Near Prayeja City Road, Below Valentina Hotel, Nanded Fata, Pandurang Industrial Area, Vadgaon Budruk, Pune, Maharashtra 411068, India
+  Lat: 18.4702, Lng: 73.8123
+  Types: ['clothing_store']
+
+  Name: Rajyog Society, Pune, Maharashtra
+  Desc: Rajyog Society, Pune, Maharashtra, Rajyog Society, Rajyog Rd, Vadgaon Khurd, Nanded Fata, Pandurang Industrial Area, Nanded, Pune, Maharashtra, 411068, India
+  Lat: 18.4631, Lng: 73.8067
+  Types: ['finance']
+
+  Name: Yes Bank Branch Bhosari, Pune-Maharashtra
+  Desc: Yes Bank Branch Bhosari, Pune-Maharashtra, Ground Floor, Morya Transport Terminus (MD Babar Business Centre Plot No. BGP 109, MIDC, Pimpri, Slum Area, Industrial Area, Bhosari, Pune, Pimpri-Chinchwad, Maharashtra 411026, India
+  Lat: 18.6217, Lng: 73.8387
+  Types: ['bank']
+
+  Name: Rutuja Arts -|Best LED Acrylic Signage Board Manufacturers In Kondwa Katraj Pune Maharashtra|
+  Desc: Rutuja Arts -|Best LED Acrylic Signage Board Manufacturers In Kondwa Katraj Pune Maharashtra|, Gokul Nagar Industrial Area, Katraj, Pune, Maharashtra, 411046, India
+  Lat: 18.4494, Lng: 73.8774
+  Types: ['store']
+
+
+TEST 2: Nearby Search — types='industrial' near Pune (18.52,73.85)
+Status: zero_results
+Results: 0
+
+TEST 3: Text Search — 'MIDC Pune'
+Status: zero_results
+Results: 0
+
+TEST 4: Autocomplete — 'MIDC'
+Status: ok, Results: 5
+  Hingoli MIDC | lat=19.686057, lng=77.100626
+  Pandare MIDC | lat=18.138778, lng=74.45102
+  Mohadi MIDC | lat=21.324254, lng=79.687479
+
+TEST 4: Autocomplete — 'industrial estate'
+Status: ok, Results: 5
+  IIE Industrial Estate Bajpur 2 | lat=29.145573, lng=79.185869
+  IIE Industrial Estate Peepasna | lat=29.289179, lng=79.03436
+  Kappalur Sidco Industrial Estate | lat=9.859185, lng=78.021473
+
+TEST 4: Autocomplete — 'factory area Mumbai'
+Status: ok, Results: 5
+  Bombay Gas Services | lat=20.920209, lng=70.357399
+  Bombay Pav Bhaji Sangli | lat=16.863, lng=74.5764
+  Kaun Banega Crorepati Mumbai | lat=30.3467, lng=76.4033
