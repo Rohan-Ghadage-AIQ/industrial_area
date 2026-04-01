@@ -1,0 +1,543 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.4035,
+          30.3464
+        ]
+      },
+      "properties": {
+        "name": "Factory Area",
+        "place_id": "ola-platform:5000196695280",
+        "address": "Factory Area, Upkar Nagar, Patiala, Punjab, 147007, India",
+        "district": "Bilaspur",
+        "state": "Himachal Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Bilaspur",
+        "fetched_at": "2026-04-01T15:43:30.371384"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.4016,
+          30.3465
+        ]
+      },
+      "properties": {
+        "name": "Factory Area Main Road",
+        "place_id": "ola-platform:5000197260238",
+        "address": "Factory Area Main Road, Factory Area Main Rd, Factory Area, Upkar Nagar, Patiala, Punjab, 147007, India",
+        "district": "Bilaspur",
+        "state": "Himachal Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Bilaspur",
+        "fetched_at": "2026-04-01T15:43:30.393826"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1135,
+          32.5617
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate Sultanpur",
+        "place_id": "ola-platform:5000068606713",
+        "address": "Industrial Estate Sultanpur, Sultanpur, Chamba, Himachal Pradesh, 176310, India",
+        "district": "Chamba",
+        "state": "Himachal Pradesh",
+        "types": [
+          "real_estate_agency"
+        ],
+        "query_used": "industrial estate Chamba Himachal Pradesh",
+        "fetched_at": "2026-04-01T15:43:32.637567"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2786,
+          32.112
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Kangra",
+        "place_id": "ola-platform:5000067380929",
+        "address": "Industrial Area Kangra, Adarsh Colony, Kangra, Himachal Pradesh, 176001, India",
+        "district": "Kangra",
+        "state": "Himachal Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Kangra",
+        "fetched_at": "2026-04-01T15:43:37.842669"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.0018,
+          30.8247
+        ]
+      },
+      "properties": {
+        "name": "Kangaroo Factory",
+        "place_id": "ola-platform:5000198258792",
+        "address": "Kangaroo Factory, Kanech, Punjab, 141120, India",
+        "district": "Kangra",
+        "state": "Himachal Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Kangra",
+        "fetched_at": "2026-04-01T15:43:38.214929"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8591,
+          30.8732
+        ]
+      },
+      "properties": {
+        "name": "Dashmesh Sweet And Fast Food, Industrial Area, Ludhiana (Dashmesh Sweets)",
+        "place_id": "ola-platform:5000060631293",
+        "address": "Dashmesh Sweet And Fast Food, Industrial Area, Ludhiana (Dashmesh Sweets), Dashmesh Sweets, Bxxi-3368, Opp Arora Palace, New Janta Nagar, Gill Road Ludhiana-141003, 4, Gill Rd, Shimlapuri, Ludhiana, Punjab",
+        "district": "Shimla",
+        "state": "Himachal Pradesh",
+        "types": [
+          "food",
+          "restaurant"
+        ],
+        "query_used": "industrial area Shimla",
+        "fetched_at": "2026-04-01T15:43:50.941297"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1096,
+          31.0368
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Shoghi",
+        "place_id": "ola-platform:5000198812360",
+        "address": "Industrial Area Shoghi, Shoghi, Himachal Pradesh, 171219, India",
+        "district": "Shimla",
+        "state": "Himachal Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Shimla",
+        "fetched_at": "2026-04-01T15:43:50.971365"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1121,
+          31.0368
+        ]
+      },
+      "properties": {
+        "name": "85/1, Industrial Area Shoghi",
+        "place_id": "ola-platform:5000193714021",
+        "address": "85/1, Industrial Area Shoghi, Shoghi, Himachal Pradesh, 171219, India",
+        "district": "Shimla",
+        "state": "Himachal Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Shimla",
+        "fetched_at": "2026-04-01T15:43:50.999084"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.11092,
+          31.03738
+        ]
+      },
+      "properties": {
+        "name": "34-37, Industrial Area Shoghi",
+        "place_id": "ola-platform:5000188292474",
+        "address": "34-37, Industrial Area Shoghi, Shoghi, Himachal Pradesh, 171219, India",
+        "district": "Shimla",
+        "state": "Himachal Pradesh",
+        "types": [],
+        "query_used": "industrial area Shimla",
+        "fetched_at": "2026-04-01T15:43:51.037323"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.11068,
+          31.03707
+        ]
+      },
+      "properties": {
+        "name": "11, Industrial Area Shoghi",
+        "place_id": "ola-platform:5000186797740",
+        "address": "11, Industrial Area Shoghi, Shoghi, Himachal Pradesh, 171219, India",
+        "district": "Shimla",
+        "state": "Himachal Pradesh",
+        "types": [],
+        "query_used": "industrial area Shimla",
+        "fetched_at": "2026-04-01T15:43:51.068839"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6845,
+          30.7062
+        ]
+      },
+      "properties": {
+        "name": "Digital Sirmour",
+        "place_id": "ola-platform:5000054875315",
+        "address": "Digital Sirmour, 7th Floor, Plot No C203, Phase VIII B, World Tech Tower, Phase 8B, Industrial Area, Industrial Focal Point, Sahibzada Ajit Singh Nagar, Punjab, 140307, India",
+        "district": "Sirmaur",
+        "state": "Himachal Pradesh",
+        "types": [
+          "point_of_interest"
+        ],
+        "query_used": "industrial area Sirmaur",
+        "fetched_at": "2026-04-01T15:43:53.743156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6248,
+          30.4681
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Gondpur Ponta Sahib",
+        "place_id": "ola-platform:5000067895339",
+        "address": "Industrial Area Gondpur Ponta Sahib, Gondpur, Himachal Pradesh, 173025, India",
+        "district": "Sirmaur",
+        "state": "Himachal Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Sirmaur",
+        "fetched_at": "2026-04-01T15:43:53.763773"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.62314,
+          30.46765
+        ]
+      },
+      "properties": {
+        "name": "Plot No 17 Industrial Area",
+        "place_id": "ola-platform:5000185682829",
+        "address": "Plot No 17 Industrial Area, Gondpur, Paonta Sahib, Gondpur, Himachal Pradesh, 173025, India",
+        "district": "Sirmaur",
+        "state": "Himachal Pradesh",
+        "types": [],
+        "query_used": "industrial area Sirmaur",
+        "fetched_at": "2026-04-01T15:43:53.784561"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2179,
+          30.511
+        ]
+      },
+      "properties": {
+        "name": "Athens Labs Limited - Pharma Manufacturing Company In Kala Amb",
+        "place_id": "ola-platform:5000220677240",
+        "address": "Athens Labs Limited - Pharma Manufacturing Company In Kala Amb, Kala Amb Industrial Area, Nahan, Sirmaur, Himachal Pradesh, India, 173030",
+        "district": "Sirmaur",
+        "state": "Himachal Pradesh",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "manufacturing hub Sirmaur",
+        "fetched_at": "2026-04-01T15:43:54.067450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.7743,
+          30.9935
+        ]
+      },
+      "properties": {
+        "name": "Lodhimajra Industrial Area Road",
+        "place_id": "ola-platform:5000199480966",
+        "address": "Lodhimajra Industrial Area Road, Lodhimajra Industrial Area Rd, Baddi, Himachal Pradesh, 174101, India",
+        "district": "Solan",
+        "state": "Himachal Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Solan",
+        "fetched_at": "2026-04-01T15:43:56.364927"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8028,
+          30.9702
+        ]
+      },
+      "properties": {
+        "name": "Arki Industrial Area",
+        "place_id": "ola-platform:5000050797991",
+        "address": "Arki Industrial Area, Arki, 105, Doon Apartment, Baddi, Himachal Pradesh, 173205, India",
+        "district": "Solan",
+        "state": "Himachal Pradesh",
+        "types": [
+          "point_of_interest"
+        ],
+        "query_used": "industrial area Solan",
+        "fetched_at": "2026-04-01T15:43:56.390200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.7848,
+          30.9849
+        ]
+      },
+      "properties": {
+        "name": "Davni Industrial Area",
+        "place_id": "ola-platform:5000061131521",
+        "address": "Davni Industrial Area, Baddi, Himachal Pradesh, 174101, India",
+        "district": "Solan",
+        "state": "Himachal Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Solan",
+        "fetched_at": "2026-04-01T15:43:56.413920"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8045,
+          30.9613
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000222080876",
+        "address": "Industrial Area, Baddi, Himachal Pradesh 173205, India",
+        "district": "Solan",
+        "state": "Himachal Pradesh",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial area Solan",
+        "fetched_at": "2026-04-01T15:43:56.439518"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8081,
+          30.9321
+        ]
+      },
+      "properties": {
+        "name": "USV Industrial Area",
+        "place_id": "ola-platform:5000064258818",
+        "address": "USV Industrial Area, USV, MDR 7, Baddi, Himachal Pradesh, 173205, India",
+        "district": "Solan",
+        "state": "Himachal Pradesh",
+        "types": [
+          "health"
+        ],
+        "query_used": "industrial area Solan",
+        "fetched_at": "2026-04-01T15:43:56.462163"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.79136,
+          30.95783
+        ]
+      },
+      "properties": {
+        "name": "Solan 12 A HPSIDC Industrial Estate",
+        "place_id": "ola-platform:5000195120206",
+        "address": "Solan 12 A HPSIDC Industrial Estate, Davni, Baddi, Himachal Pradesh, 173205, India",
+        "district": "Solan",
+        "state": "Himachal Pradesh",
+        "types": [],
+        "query_used": "industrial estate Solan Himachal Pradesh",
+        "fetched_at": "2026-04-01T15:43:56.489801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.78528,
+          30.98266
+        ]
+      },
+      "properties": {
+        "name": "Plot No 98, HPSIDC Industrial Estate Davni",
+        "place_id": "ola-platform:5000197477098",
+        "address": "Plot No 98, HPSIDC Industrial Estate Davni, Baddi, Himachal Pradesh, 174101, India",
+        "district": "Solan",
+        "state": "Himachal Pradesh",
+        "types": [],
+        "query_used": "industrial estate Solan Himachal Pradesh",
+        "fetched_at": "2026-04-01T15:43:56.516495"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.78606,
+          30.98316
+        ]
+      },
+      "properties": {
+        "name": "Plot No 108, HPSIDC Industrial Estate Davni",
+        "place_id": "ola-platform:5000189449540",
+        "address": "Plot No 108, HPSIDC Industrial Estate Davni, Baddi, Himachal Pradesh, 174101, India",
+        "district": "Solan",
+        "state": "Himachal Pradesh",
+        "types": [],
+        "query_used": "industrial estate Solan Himachal Pradesh",
+        "fetched_at": "2026-04-01T15:43:56.540736"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.34408,
+          31.39115
+        ]
+      },
+      "properties": {
+        "name": "105, Mehatpur - Una Rd",
+        "place_id": "ola-platform:5000198268748",
+        "address": "105, Mehatpur - Una Rd, Industrial Area, Mehatpur, Bhabhaur, Himachal Pradesh, 140126, India",
+        "district": "Una",
+        "state": "Himachal Pradesh",
+        "types": [],
+        "query_used": "industrial area Una",
+        "fetched_at": "2026-04-01T15:43:58.992546"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3458,
+          31.4109
+        ]
+      },
+      "properties": {
+        "name": "Broad Injectables Una | Third Party Pharma Manufacturers In Una Himachal Pradesh",
+        "place_id": "ola-platform:5000221468638",
+        "address": "Broad Injectables Una | Third Party Pharma Manufacturers In Una Himachal Pradesh, Plot No 5152, Industrial Area, Tahliwal, Mehatpur, Himachal Pradesh 174315, India",
+        "district": "Una",
+        "state": "Himachal Pradesh",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial area Una",
+        "fetched_at": "2026-04-01T15:43:59.034176"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.34409,
+          31.4073
+        ]
+      },
+      "properties": {
+        "name": "Railneer Plant Una",
+        "place_id": "ola-platform:5000059689002",
+        "address": "Railneer Plant Una, Industrial Area, Mehatpur, Himachal Pradesh, 174315, India",
+        "district": "Una",
+        "state": "Himachal Pradesh",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial area Una",
+        "fetched_at": "2026-04-01T15:43:59.066023"
+      }
+    }
+  ]
+}

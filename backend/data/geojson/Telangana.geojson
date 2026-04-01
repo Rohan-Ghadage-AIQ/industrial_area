@@ -1,0 +1,2380 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.526979,
+          19.654385
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:5000057500253",
+        "address": "Industrial Estate, Adilabad, Telangana, 504002, India",
+        "district": "Adilabad",
+        "state": "Telangana",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Adilabad Telangana",
+        "fetched_at": "2026-04-01T16:01:28.592346"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.899,
+          17.6718
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area (Mini) Anganwadi Center",
+        "place_id": "ola-platform:5000041909246",
+        "address": "Industrial Area (Mini) Anganwadi Center, Adarsa Nager Colony, Industrial Area Road, Bhadrachalam, Bhadradri Kothagudem, Telangana, 507111, India",
+        "district": "Bhadradri Kothagudem",
+        "state": "Telangana",
+        "types": [
+          "school"
+        ],
+        "query_used": "industrial area Bhadradri Kothagudem",
+        "fetched_at": "2026-04-01T16:01:31.197076"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.60645,
+          17.5451
+        ]
+      },
+      "properties": {
+        "name": "E-8, Industrial Estate",
+        "place_id": "ola-platform:5000198440439",
+        "address": "E-8, Industrial Estate, Near Ramanjaneya Colony, Sri Ramanjaneya Nagar Colony, Kothagudem, Telangana, 507118, India",
+        "district": "Bhadradri Kothagudem",
+        "state": "Telangana",
+        "types": [],
+        "query_used": "industrial estate Bhadradri Kothagudem Telangana",
+        "fetched_at": "2026-04-01T16:01:31.243331"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3949,
+          17.5268
+        ]
+      },
+      "properties": {
+        "name": "RamRaj Cotton - ALEAP Industrial Area, Hyderabad (RamRaj Cotton - Pragathi Nagar)",
+        "place_id": "ola-platform:5000051681486",
+        "address": "RamRaj Cotton - ALEAP Industrial Area, Hyderabad (RamRaj Cotton - Pragathi Nagar), RamRaj Cotton - Pragathi Nagar, No, 1989, RVR Pride, Lahari Estates, Opp. Vijetha Super Market, ALEAP Industrial Area, Pragathi Nagar, Hyderabad, Telangana, 500090, India",
+        "district": "Hyderabad",
+        "state": "Telangana",
+        "types": [
+          "clothing_store"
+        ],
+        "query_used": "industrial area Hyderabad",
+        "fetched_at": "2026-04-01T16:01:33.451374"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.586386,
+          17.439408
+        ]
+      },
+      "properties": {
+        "name": "Mallapur Industrial Area",
+        "place_id": "ola-platform:1058873",
+        "address": "Mallapur Industrial Area, Hyderabad, Telangana, India",
+        "district": "Hyderabad",
+        "state": "Telangana",
+        "types": [
+          "borough"
+        ],
+        "query_used": "industrial area Hyderabad",
+        "fetched_at": "2026-04-01T16:01:33.474698"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3514,
+          17.5432
+        ]
+      },
+      "properties": {
+        "name": "Bollaram Industrial Area",
+        "place_id": "ola-platform:5000186362363",
+        "address": "Bollaram Industrial Area, Hyderabad, Telangana, 500090, India",
+        "district": "Hyderabad",
+        "state": "Telangana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Hyderabad",
+        "fetched_at": "2026-04-01T16:01:33.507322"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4407,
+          17.4919
+        ]
+      },
+      "properties": {
+        "name": "Gandhi Nagar Industrial Area",
+        "place_id": "ola-platform:5000184015066",
+        "address": "Gandhi Nagar Industrial Area, Nanda Nagar, Balanagar, Hyderabad, Telangana, 500037, India",
+        "district": "Hyderabad",
+        "state": "Telangana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Hyderabad",
+        "fetched_at": "2026-04-01T16:01:33.533423"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4457,
+          17.4638
+        ]
+      },
+      "properties": {
+        "name": "ICICI Lombard Network Garage Hyderabad, Telangana (7 Th Gear Automotive Llp)",
+        "place_id": "ola-platform:5000062816761",
+        "address": "ICICI Lombard Network Garage Hyderabad, Telangana (7 Th Gear Automotive Llp), C21, Industrial Estate, CoOperative Industrial Estate, Sanath Nagar, Hyderabad, Telangana, 500037, India",
+        "district": "Hyderabad",
+        "state": "Telangana",
+        "types": [
+          "parking"
+        ],
+        "query_used": "industrial estate Hyderabad Telangana",
+        "fetched_at": "2026-04-01T16:01:33.544786"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4396,
+          17.4733
+        ]
+      },
+      "properties": {
+        "name": "Kukatpally Industrial Estate",
+        "place_id": "ola-platform:5000198085258",
+        "address": "Kukatpally Industrial Estate, Balanagar, Hyderabad, Telangana, 500037, India",
+        "district": "Hyderabad",
+        "state": "Telangana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Hyderabad Telangana",
+        "fetched_at": "2026-04-01T16:01:33.556394"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3974,
+          17.5292
+        ]
+      },
+      "properties": {
+        "name": "ALEAP Industrial Estate Office",
+        "place_id": "ola-platform:5000043582391",
+        "address": "ALEAP Industrial Estate Office, ALEAP Industrial Area, Gajularamaram, ALEAP Industrial Area, Gajularamaram, Hyderabad, Telangana, 500090, India",
+        "district": "Hyderabad",
+        "state": "Telangana",
+        "types": [
+          "real_estate_agency"
+        ],
+        "query_used": "industrial estate Hyderabad Telangana",
+        "fetched_at": "2026-04-01T16:01:33.567972"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4683,
+          17.5071
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:5000200767931",
+        "address": "Industrial Estate, Quthbullapur, Hyderabad, Telangana, 500055, India",
+        "district": "Hyderabad",
+        "state": "Telangana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Hyderabad Telangana",
+        "fetched_at": "2026-04-01T16:01:33.578577"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4427,
+          17.4691
+        ]
+      },
+      "properties": {
+        "name": "Shaster S3, Kukatpally Industrial Estate",
+        "place_id": "ola-platform:5000198958732",
+        "address": "Shaster S3, Kukatpally Industrial Estate, Balanagar, Hyderabad, Telangana, 500037, India",
+        "district": "Hyderabad",
+        "state": "Telangana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Hyderabad Telangana",
+        "fetched_at": "2026-04-01T16:01:33.587194"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4263,
+          17.4856
+        ]
+      },
+      "properties": {
+        "name": "Dream Modular Factory",
+        "place_id": "ola-platform:5000176785402",
+        "address": "Dream Modular Factory, Premier Interior Designer & Manufacturer In Hyderabad, Industrial Area, Mythri Nagar, Kukatpally, Hyderabad, Telangana, 500037, India",
+        "district": "Hyderabad",
+        "state": "Telangana",
+        "types": [
+          "general_contractor"
+        ],
+        "query_used": "factory area Hyderabad",
+        "fetched_at": "2026-04-01T16:01:33.605113"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3291,
+          17.5664
+        ]
+      },
+      "properties": {
+        "name": "SRA Techno Craft Pvt Ltd (Manufacturing Hub Unit 1)",
+        "place_id": "ola-platform:5000040321498",
+        "address": "SRA Techno Craft Pvt Ltd (Manufacturing Hub Unit 1), Near, Near By Deccan Glainz, Hyderabad, Telangana, 502319, India",
+        "district": "Hyderabad",
+        "state": "Telangana",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Hyderabad",
+        "fetched_at": "2026-04-01T16:01:33.640254"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3746,
+          17.4321
+        ]
+      },
+      "properties": {
+        "name": "Knock Knock - Door Manufacturing Hyderabad | Ready Made Doors Hyderabad",
+        "place_id": "ola-platform:5000176920182",
+        "address": "Knock Knock - Door Manufacturing Hyderabad | Ready Made Doors Hyderabad, Yezdi Bike Showroom, 4th Floor, Plot No : 74, Opp: My Home, Silpa Gram Craft Village The Sky View 20, IKEA Road, Next To Damro Furniture Store, Lumbini Avenue, Gachibowli, Hyderabad, Telangana, 500081, India",
+        "district": "Hyderabad",
+        "state": "Telangana",
+        "types": [
+          "store"
+        ],
+        "query_used": "manufacturing hub Hyderabad",
+        "fetched_at": "2026-04-01T16:01:33.649071"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.91401,
+          18.78831
+        ]
+      },
+      "properties": {
+        "name": "Bharath Charcoal Manufacturing&trading",
+        "place_id": "ola-platform:5000051930410",
+        "address": "Bharath Charcoal Manufacturing&trading, Bharath Petrolium Fuel Station, Yawar Road, Jagtial, Jagtial Mandal, Jagtial, Telangana, 505327, India",
+        "district": "Jagtial",
+        "state": "Telangana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "manufacturing hub Jagtial",
+        "fetched_at": "2026-04-01T16:01:35.968996"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.9099,
+          18.7818
+        ]
+      },
+      "properties": {
+        "name": "Ganesh Idols Manufacturing",
+        "place_id": "ola-platform:5000060928065",
+        "address": "Ganesh Idols Manufacturing, 4-2-129, Camp Rd, Tulasinagar, APHB Colony, Vani Nagar, Jagtial, Telangana, 505327, India",
+        "district": "Jagtial",
+        "state": "Telangana",
+        "types": [
+          "point_of_interest"
+        ],
+        "query_used": "manufacturing hub Jagtial",
+        "fetched_at": "2026-04-01T16:01:35.978034"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.17511,
+          17.7252
+        ]
+      },
+      "properties": {
+        "name": "TSIIC Phase 2 Industrial Area",
+        "place_id": "ola-platform:5000197426784",
+        "address": "TSIIC Phase 2 Industrial Area, Jangaon Industrail Area, Jangaon, Telangana, 506167, India",
+        "district": "Jangaon",
+        "state": "Telangana",
+        "types": [],
+        "query_used": "industrial area Jangaon",
+        "fetched_at": "2026-04-01T16:01:38.123466"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.17503,
+          17.72529
+        ]
+      },
+      "properties": {
+        "name": "TSIIC, Phase 2 Industrial Area",
+        "place_id": "ola-platform:5000191343179",
+        "address": "TSIIC, Phase 2 Industrial Area, Jangaon Industrail Area, Jangaon, Telangana, 506167, India",
+        "district": "Jangaon",
+        "state": "Telangana",
+        "types": [],
+        "query_used": "industrial area Jangaon",
+        "fetched_at": "2026-04-01T16:01:38.151330"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.174982,
+          17.72587
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:5000035690415",
+        "address": "Industrial Estate, Jangaon, Jangoan Mandal, Jangaon, Telangana, 506167, India",
+        "district": "Jangaon",
+        "state": "Telangana",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Jangaon Telangana",
+        "fetched_at": "2026-04-01T16:01:38.169565"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.86014,
+          18.44387
+        ]
+      },
+      "properties": {
+        "name": "9-68, Gandhi Nagar Industrial Area",
+        "place_id": "ola-platform:5000193528123",
+        "address": "9-68, Gandhi Nagar Industrial Area, Subash Colony, Bhupalpally, Telangana, 506169, India",
+        "district": "Jayashankar Bhupalpally",
+        "state": "Telangana",
+        "types": [],
+        "query_used": "industrial area Jayashankar Bhupalpally",
+        "fetched_at": "2026-04-01T16:01:40.739771"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.318444,
+          18.338629
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Kamareddy",
+        "place_id": "ola-platform:5000067331862",
+        "address": "Industrial Area Kamareddy, Kamareddy, Kamareddy Mandal, Kamareddy, Telangana, 503112, India",
+        "district": "Kamareddy",
+        "state": "Telangana",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Kamareddy",
+        "fetched_at": "2026-04-01T16:01:45.391167"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3428,
+          18.3259
+        ]
+      },
+      "properties": {
+        "name": "9-10, Gandhi Nagar Industrial Area",
+        "place_id": "ola-platform:5000192150320",
+        "address": "9-10, Gandhi Nagar Industrial Area, Balanagar, Kamareddy, Telangana, 503111, India",
+        "district": "Kamareddy",
+        "state": "Telangana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Kamareddy",
+        "fetched_at": "2026-04-01T16:01:45.407986"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3282,
+          18.3281
+        ]
+      },
+      "properties": {
+        "name": "KVK Group Manufacturing & Printing",
+        "place_id": "ola-platform:5000220783303",
+        "address": "KVK Group Manufacturing & Printing, Ngos Colony, Kamareddy, Telangana 503111, India",
+        "district": "Kamareddy",
+        "state": "Telangana",
+        "types": [
+          "clothing_store"
+        ],
+        "query_used": "manufacturing hub Kamareddy",
+        "fetched_at": "2026-04-01T16:01:45.582250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10018,
+          18.4412
+        ]
+      },
+      "properties": {
+        "name": "5-67, Industrial Area",
+        "place_id": "ola-platform:5000192250135",
+        "address": "5-67, Industrial Area, RamNagar, Karimnagar, Telangana, 505001, India",
+        "district": "Karimnagar",
+        "state": "Telangana",
+        "types": [],
+        "query_used": "industrial area Karimnagar",
+        "fetched_at": "2026-04-01T16:01:48.071240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1031,
+          18.4382
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000184344399",
+        "address": "Industrial Area, RamNagar, Karimnagar, Telangana, 505001, India",
+        "district": "Karimnagar",
+        "state": "Telangana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Karimnagar",
+        "fetched_at": "2026-04-01T16:01:48.093681"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10168,
+          18.44051
+        ]
+      },
+      "properties": {
+        "name": "9-8-129/1, Industrial Area",
+        "place_id": "ola-platform:5000191117425",
+        "address": "9-8-129/1, Industrial Area, RamNagar, Karimnagar, Telangana, 505001, India",
+        "district": "Karimnagar",
+        "state": "Telangana",
+        "types": [],
+        "query_used": "industrial area Karimnagar",
+        "fetched_at": "2026-04-01T16:01:48.108503"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.09985,
+          18.43857
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000188598271",
+        "address": "Industrial Area, RamNagar, Chinthakunta, Karimnagar, Telangana, 505001, India",
+        "district": "Karimnagar",
+        "state": "Telangana",
+        "types": [],
+        "query_used": "industrial area Karimnagar",
+        "fetched_at": "2026-04-01T16:01:48.122203"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1042,
+          18.4397
+        ]
+      },
+      "properties": {
+        "name": "RamNagar Industrial Area",
+        "place_id": "ola-platform:5000069030879",
+        "address": "RamNagar Industrial Area, Industrial Area, RamNagar, Karimnagar, Telangana, 505001, India",
+        "district": "Karimnagar",
+        "state": "Telangana",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Karimnagar",
+        "fetched_at": "2026-04-01T16:01:48.132135"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13657,
+          18.43451
+        ]
+      },
+      "properties": {
+        "name": "65/375, Near Limra Ice Factory",
+        "place_id": "ola-platform:5000188421711",
+        "address": "65/375, Near Limra Ice Factory, Ahmed Pura, Ashoknagar, Karimnagar, Telangana, 505002, India",
+        "district": "Karimnagar",
+        "state": "Telangana",
+        "types": [],
+        "query_used": "factory area Karimnagar",
+        "fetched_at": "2026-04-01T16:01:48.213577"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5792,
+          17.6279
+        ]
+      },
+      "properties": {
+        "name": "HBL Power Systems Limited, Shamirpet Factory",
+        "place_id": "ola-platform:5000054588264",
+        "address": "HBL Power Systems Limited, Shamirpet Factory, Hyderabad - Karimnagar Hwy, Cross Roads, Near Majeedpur, Shamirpet, Lalgadi Malakpet, Telangana, 500101, India",
+        "district": "Karimnagar",
+        "state": "Telangana",
+        "types": [
+          "premise"
+        ],
+        "query_used": "factory area Karimnagar",
+        "fetched_at": "2026-04-01T16:01:48.223076"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5517,
+          17.5619
+        ]
+      },
+      "properties": {
+        "name": "HBL Power Systems Ltd, Thumukunta Factory (Engineering Group)",
+        "place_id": "ola-platform:5000052225585",
+        "address": "HBL Power Systems Ltd, Thumukunta Factory (Engineering Group), Survey No. 351, Thumkunta Village, Shameerpet Mandal On Hyderabad - Karimnagar Road, Sh1, Thumukunta, Secunderabad, Telangana, 500078, India",
+        "district": "Karimnagar",
+        "state": "Telangana",
+        "types": [
+          "general_contractor"
+        ],
+        "query_used": "factory area Karimnagar",
+        "fetched_at": "2026-04-01T16:01:48.234101"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13637,
+          18.41562
+        ]
+      },
+      "properties": {
+        "name": "Kakatiya Pipes Manufacturing",
+        "place_id": "ola-platform:5000054147883",
+        "address": "Kakatiya Pipes Manufacturing, Karimnagar, Karimnagar Mandal, Karimnagar, Telangana, 505001, India",
+        "district": "Karimnagar",
+        "state": "Telangana",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Karimnagar",
+        "fetched_at": "2026-04-01T16:01:48.253929"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.167016,
+          17.256979
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area - III",
+        "place_id": "ola-platform:5000041711127",
+        "address": "Industrial Area - III, Khammam ByPass, Indira Nagar, Khammam, Khammam Urban Mandal, Khammam, Telangana, 507002, India",
+        "district": "Khammam",
+        "state": "Telangana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Khammam",
+        "fetched_at": "2026-04-01T16:01:50.357859"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.160089,
+          17.263312
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000048774661",
+        "address": "Industrial Area, Khammam ByPass, Raparthi Nagar, Khammam, Khammam Urban Mandal, Khammam, Telangana, 507002, India",
+        "district": "Khammam",
+        "state": "Telangana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Khammam",
+        "fetched_at": "2026-04-01T16:01:50.372892"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.15591,
+          17.271316
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area - V",
+        "place_id": "ola-platform:5000044328395",
+        "address": "Industrial Area - V, Khammam ByPass, Raparthi Nagar, Khammam, Khammam Urban Mandal, Khammam, Telangana, 507002, India",
+        "district": "Khammam",
+        "state": "Telangana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Khammam",
+        "fetched_at": "2026-04-01T16:01:50.383469"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1559,
+          17.2713
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area - V Anganwadi Center",
+        "place_id": "ola-platform:5000050879962",
+        "address": "Industrial Area - V Anganwadi Center, Industrial Area - V, Khammam ByPass, Raparthi Nagar, Khammam, Khammam Urban Mandal, Khammam, Telangana, 507002, India",
+        "district": "Khammam",
+        "state": "Telangana",
+        "types": [
+          "school"
+        ],
+        "query_used": "industrial area Khammam",
+        "fetched_at": "2026-04-01T16:01:50.393340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1679,
+          17.2644
+        ]
+      },
+      "properties": {
+        "name": "Khanapuram Industrial Area",
+        "place_id": "ola-platform:5000184399679",
+        "address": "Khanapuram Industrial Area, Khanapuram, Khammam, Telangana, 507002, India",
+        "district": "Khammam",
+        "state": "Telangana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Khammam",
+        "fetched_at": "2026-04-01T16:01:50.402969"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1644,
+          17.2464
+        ]
+      },
+      "properties": {
+        "name": "Milkshake Factory Khammam",
+        "place_id": "ola-platform:5000060406222",
+        "address": "Milkshake Factory Khammam, Milkshake Factory, Mamata Road, Dwaraka Nagar, Jalagam Nagar, Khammam, Telangana, 507002, India",
+        "district": "Khammam",
+        "state": "Telangana",
+        "types": [
+          "restaurant",
+          "meal_takeaway",
+          "meal_delivery"
+        ],
+        "query_used": "factory area Khammam",
+        "fetched_at": "2026-04-01T16:01:50.497989"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1452,
+          17.2642
+        ]
+      },
+      "properties": {
+        "name": "Factory FootWear Khamam",
+        "place_id": "ola-platform:5000055478509",
+        "address": "Factory FootWear Khamam, Khammam ByPass Rd, Krishnapushpam, Raparthi Nagar, Bhuranpuram, Khammam, Telangana, 507001, India",
+        "district": "Khammam",
+        "state": "Telangana",
+        "types": [
+          "shoe_store"
+        ],
+        "query_used": "factory area Khammam",
+        "fetched_at": "2026-04-01T16:01:50.518211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1558,
+          17.2508
+        ]
+      },
+      "properties": {
+        "name": "Fashion Factory",
+        "place_id": "ola-platform:5000059151832",
+        "address": "Fashion Factory, VVC Complex, Wyra Rd, Beside Thanisq Show Room, Vdo's Colony, Khammam, Telangana, 507002, India",
+        "district": "Khammam",
+        "state": "Telangana",
+        "types": [
+          "clothing_store"
+        ],
+        "query_used": "factory area Khammam",
+        "fetched_at": "2026-04-01T16:01:50.529476"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.14061,
+          17.23327
+        ]
+      },
+      "properties": {
+        "name": "Opposit Of Vengamamba Bricks Factory",
+        "place_id": "ola-platform:5000197102333",
+        "address": "Opposit Of Vengamamba Bricks Factory, 4-2-151/29/3/3, Tummalgadda, SriNivas Nagar, Khammam, Telangana, 507003, India",
+        "district": "Khammam",
+        "state": "Telangana",
+        "types": [],
+        "query_used": "factory area Khammam",
+        "fetched_at": "2026-04-01T16:01:50.540515"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.473819,
+          19.353521
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area NDTSO Post Office",
+        "place_id": "ola-platform:5000059398810",
+        "address": "Industrial Area NDTSO Post Office, Kaghaznagar, Kagaznagar Mandal, Kumuram Bheem Asifabad, Telangana, 504296, India",
+        "district": "Kumuram Bheem Asifabad",
+        "state": "Telangana",
+        "types": [
+          "post_office"
+        ],
+        "query_used": "industrial area Kumuram Bheem Asifabad",
+        "fetched_at": "2026-04-01T16:01:52.845917"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.47434,
+          19.35274
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Hno.229/3",
+        "place_id": "ola-platform:5000201053210",
+        "address": "Industrial Area Hno.229/3, Kagaznagar, Boregaon, Telangana, 504296, India",
+        "district": "Kumuram Bheem Asifabad",
+        "state": "Telangana",
+        "types": [],
+        "query_used": "industrial area Kumuram Bheem Asifabad",
+        "fetched_at": "2026-04-01T16:01:52.875062"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1316,
+          16.7763
+        ]
+      },
+      "properties": {
+        "name": "Jadcherla Industrial Area",
+        "place_id": "ola-platform:5000063186430",
+        "address": "Jadcherla Industrial Area, Hyderabad - Bangalore Hwy, Jadcherla, Telangana, 509302, India",
+        "district": "Mahabubnagar",
+        "state": "Telangana",
+        "types": [
+          "restaurant",
+          "meal_takeaway",
+          "meal_delivery"
+        ],
+        "query_used": "industrial area Mahabubnagar",
+        "fetched_at": "2026-04-01T16:01:58.175142"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1614,
+          16.8636
+        ]
+      },
+      "properties": {
+        "name": "Rajapur Industrial Area",
+        "place_id": "ola-platform:5000058202478",
+        "address": "Rajapur Industrial Area, Rajapur Rd, Rajapur, Telangana, 509202, India",
+        "district": "Mahabubnagar",
+        "state": "Telangana",
+        "types": [
+          "store"
+        ],
+        "query_used": "industrial area Mahabubnagar",
+        "fetched_at": "2026-04-01T16:01:58.185721"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.9523,
+          16.745
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000052960947",
+        "address": "Industrial Area, Mahbubnagar, Telangana, 509001, India",
+        "district": "Mahabubnagar",
+        "state": "Telangana",
+        "types": [
+          "park"
+        ],
+        "query_used": "industrial area Mahabubnagar",
+        "fetched_at": "2026-04-01T16:01:58.198075"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0111,
+          16.7527
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate Post Office (Industrial Estate Sub Post Office Mettugadda)",
+        "place_id": "ola-platform:5000213948979",
+        "address": "Industrial Estate Post Office (Industrial Estate Sub Post Office Mettugadda), Mettugadda, Mahbubnagar, Telangana, 509002, India",
+        "district": "Mahabubnagar",
+        "state": "Telangana",
+        "types": [
+          "post_office"
+        ],
+        "query_used": "industrial estate Mahabubnagar Telangana",
+        "fetched_at": "2026-04-01T16:01:58.222104"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0109,
+          16.7528
+        ]
+      },
+      "properties": {
+        "name": "1b, Industrial Estate",
+        "place_id": "ola-platform:5000201071590",
+        "address": "1b, Industrial Estate, Mettugadda, Mahbubnagar, Telangana, 509002, India",
+        "district": "Mahabubnagar",
+        "state": "Telangana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Mahabubnagar Telangana",
+        "fetched_at": "2026-04-01T16:01:58.235318"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0096,
+          16.7538
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:5000199294019",
+        "address": "Industrial Estate, Parimalagiri Gutta, Mahbubnagar, Telangana, 509002, India",
+        "district": "Mahabubnagar",
+        "state": "Telangana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Mahabubnagar Telangana",
+        "fetched_at": "2026-04-01T16:01:58.246627"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4468,
+          17.7318
+        ]
+      },
+      "properties": {
+        "name": "Kucharam TSIIC Industrial Area",
+        "place_id": "ola-platform:5000057795049",
+        "address": "Kucharam TSIIC Industrial Area, Unnamed Road, Kucharam, Telangana, 502336, India",
+        "district": "Medak",
+        "state": "Telangana",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Medak",
+        "fetched_at": "2026-04-01T16:02:02.789389"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.134,
+          17.5063
+        ]
+      },
+      "properties": {
+        "name": "Ordnance Factory Medak Office",
+        "place_id": "ola-platform:5000222255631",
+        "address": "Ordnance Factory Medak Office, 18u, Yeddumailaram, Medak, Telangana 502205, India",
+        "district": "Medak",
+        "state": "Telangana",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "factory area Medak",
+        "fetched_at": "2026-04-01T16:02:02.927023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.471,
+          17.7504
+        ]
+      },
+      "properties": {
+        "name": "ITC Limited - Integrated Consumer Goods Manufacturing And Logistics",
+        "place_id": "ola-platform:5000048863880",
+        "address": "ITC Limited - Integrated Consumer Goods Manufacturing And Logistics, Medak, Telangana, 502336, India",
+        "district": "Medak",
+        "state": "Telangana",
+        "types": [
+          "storage"
+        ],
+        "query_used": "manufacturing hub Medak",
+        "fetched_at": "2026-04-01T16:02:02.994775"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.9215,
+          17.6452
+        ]
+      },
+      "properties": {
+        "name": "Pennar Industries Ltd. (Pebs Unit) Manufacturing Facility",
+        "place_id": "ola-platform:5000068494154",
+        "address": "Pennar Industries Ltd. (Pebs Unit) Manufacturing Facility, Medak, Telangana, 502291, India",
+        "district": "Medak",
+        "state": "Telangana",
+        "types": [
+          "storage"
+        ],
+        "query_used": "manufacturing hub Medak",
+        "fetched_at": "2026-04-01T16:02:03.007859"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.442,
+          17.4717
+        ]
+      },
+      "properties": {
+        "name": "27, Kukatpally Industrial Estate",
+        "place_id": "ola-platform:5000189156388",
+        "address": "27, Kukatpally Industrial Estate, Balanagar, Hyderabad, Telangana, 500037, India",
+        "district": "Medchal-Malkajgiri",
+        "state": "Telangana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Medchal-Malkajgiri Telangana",
+        "fetched_at": "2026-04-01T16:02:05.846414"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.482071,
+          17.508826
+        ]
+      },
+      "properties": {
+        "name": "The ThickShake Factory, Medchal Road, Hyderabad",
+        "place_id": "ola-platform:5000177747936",
+        "address": "The ThickShake Factory, Medchal Road, Hyderabad, Sri Sai Enclave, Spring Fields Colony, Jeedimetl, Medchal Road, Hyderabad, 500015, India",
+        "district": "Medchal-Malkajgiri",
+        "state": "Telangana",
+        "types": [
+          "restaurant",
+          "meal_takeaway",
+          "meal_delivery"
+        ],
+        "query_used": "factory area Medchal-Malkajgiri",
+        "fetched_at": "2026-04-01T16:02:05.857169"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4804,
+          17.6323
+        ]
+      },
+      "properties": {
+        "name": "Bailley Water Factory Madchal",
+        "place_id": "ola-platform:5000063848538",
+        "address": "Bailley Water Factory Madchal, Medchal, Secunderabad, Telangana, 501401, India",
+        "district": "Medchal-Malkajgiri",
+        "state": "Telangana",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Medchal-Malkajgiri",
+        "fetched_at": "2026-04-01T16:02:05.869946"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.39484,
+          17.553415
+        ]
+      },
+      "properties": {
+        "name": "Pallets Hub - Wooden Pallets Manufacturing Company",
+        "place_id": "ola-platform:5000051922943",
+        "address": "Pallets Hub - Wooden Pallets Manufacturing Company, Simhapuri Colony, Bowrampet, Dundigal Mandal, Medchalã¢ââmalkajgiri, Telangana, 500090, India",
+        "district": "Medchal-Malkajgiri",
+        "state": "Telangana",
+        "types": [
+          "hardware_store"
+        ],
+        "query_used": "manufacturing hub Medchal-Malkajgiri",
+        "fetched_at": "2026-04-01T16:02:05.944617"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.586,
+          17.9987
+        ]
+      },
+      "properties": {
+        "name": "Duroflex - Mattress, Industrial Estate",
+        "place_id": "ola-platform:5000037756716",
+        "address": "Duroflex - Mattress, Industrial Estate, Sandeep Retails, No 15/1, Shop No 3, SVP Road, 138/2, Mulugu Road, Beside Bajaj Showroom, Nizampura, Warangal, Telangana, 506007, India",
+        "district": "Mulugu",
+        "state": "Telangana",
+        "types": [
+          "furniture_store"
+        ],
+        "query_used": "industrial estate Mulugu Telangana",
+        "fetched_at": "2026-04-01T16:02:08.256117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.257001,
+          17.088423
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:1058897",
+        "address": "Industrial Area, Nalgonda, Telangana, India",
+        "district": "Nalgonda",
+        "state": "Telangana",
+        "types": [
+          "borough"
+        ],
+        "query_used": "industrial area Nalgonda",
+        "fetched_at": "2026-04-01T16:02:13.729095"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.2619,
+          17.0868
+        ]
+      },
+      "properties": {
+        "name": "Gandhi Rd, Industrial Area",
+        "place_id": "ola-platform:5000188568086",
+        "address": "Gandhi Rd, Industrial Area, Nalgonda, Telangana, 508001, India",
+        "district": "Nalgonda",
+        "state": "Telangana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Nalgonda",
+        "fetched_at": "2026-04-01T16:02:13.740406"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.2588,
+          17.0871
+        ]
+      },
+      "properties": {
+        "name": "DRB Rd, Industrial Area",
+        "place_id": "ola-platform:5000194121437",
+        "address": "DRB Rd, Industrial Area, Nalgonda, Telangana, 508001, India",
+        "district": "Nalgonda",
+        "state": "Telangana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Nalgonda",
+        "fetched_at": "2026-04-01T16:02:13.751891"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.26347,
+          17.08535
+        ]
+      },
+      "properties": {
+        "name": "3-90, Industrial Area",
+        "place_id": "ola-platform:5000195170858",
+        "address": "3-90, Industrial Area, Arjalabhavi, Nalgonda, Telangana, 508001, India",
+        "district": "Nalgonda",
+        "state": "Telangana",
+        "types": [],
+        "query_used": "industrial area Nalgonda",
+        "fetched_at": "2026-04-01T16:02:13.763714"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.25777,
+          17.08559
+        ]
+      },
+      "properties": {
+        "name": "APIIC Industrial Area",
+        "place_id": "ola-platform:5000047819170",
+        "address": "APIIC Industrial Area, Nalgonda Mandal, Nalgonda, Telangana, 508001, India",
+        "district": "Nalgonda",
+        "state": "Telangana",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Nalgonda",
+        "fetched_at": "2026-04-01T16:02:13.775033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1046,
+          17.2626
+        ]
+      },
+      "properties": {
+        "name": "SSR Views Manufacturing Unit",
+        "place_id": "ola-platform:5000046450156",
+        "address": "SSR Views Manufacturing Unit, Bhuvanagiri-Nalgonda Rd, Telangana, 508113, India",
+        "district": "Nalgonda",
+        "state": "Telangana",
+        "types": [
+          "point_of_interest"
+        ],
+        "query_used": "manufacturing hub Nalgonda",
+        "fetched_at": "2026-04-01T16:02:13.956118"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0402,
+          18.7009
+        ]
+      },
+      "properties": {
+        "name": "Sarangapur Industrial Area",
+        "place_id": "ola-platform:5000199091717",
+        "address": "Sarangapur Industrial Area, Nizamabad, Telangana, 503186, India",
+        "district": "Nizamabad",
+        "state": "Telangana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Nizamabad",
+        "fetched_at": "2026-04-01T16:02:22.275549"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1285,
+          18.7072
+        ]
+      },
+      "properties": {
+        "name": "Desai Brothers Ltd Beedi Manufacturing",
+        "place_id": "ola-platform:5000220458755",
+        "address": "Desai Brothers Ltd Beedi Manufacturing, Mubaraknagar, Nizamabad, Telangana 503003, India",
+        "district": "Nizamabad",
+        "state": "Telangana",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Nizamabad",
+        "fetched_at": "2026-04-01T16:02:22.444056"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3488,
+          17.5516
+        ]
+      },
+      "properties": {
+        "name": "166/2B, Rangareddy",
+        "place_id": "ola-platform:5000198275710",
+        "address": "166/2B, Rangareddy, Industrial Development Area Bollaram, Mallampet, Jinnaram, Hyderabad, Telangana, 502325, India",
+        "district": "Rangareddy",
+        "state": "Telangana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Rangareddy",
+        "fetched_at": "2026-04-01T16:02:29.593752"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4122,
+          17.5311
+        ]
+      },
+      "properties": {
+        "name": "Sri Radha Krishna Temple Kumawat Samaj Rangareddy",
+        "place_id": "ola-platform:5000219890784",
+        "address": "Sri Radha Krishna Temple Kumawat Samaj Rangareddy, Kumawat Samaj, Sri Radhe Krishna Temple, Unnamed Road, ALEAP Industrial Area, Gajularamaram, Hyderabad, Telangana 500055, India",
+        "district": "Rangareddy",
+        "state": "Telangana",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial area Rangareddy",
+        "fetched_at": "2026-04-01T16:02:29.608019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4407,
+          17.4924
+        ]
+      },
+      "properties": {
+        "name": "Rangareddy X Roads",
+        "place_id": "ola-platform:5000064025383",
+        "address": "Rangareddy X Roads, Plot No 85/5, Rangareddy Nagar, Xroad, Industrial Development Area, GandhiNagar, Road, Gandhi Nagar Industrial Area, Sanjay Gandhi Nagar, Balanagar, Hyderabad, Telangana, 500037, India",
+        "district": "Rangareddy",
+        "state": "Telangana",
+        "types": [
+          "point_of_interest"
+        ],
+        "query_used": "industrial area Rangareddy",
+        "fetched_at": "2026-04-01T16:02:29.621670"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4714,
+          17.1702
+        ]
+      },
+      "properties": {
+        "name": "Nagarjuna RMC - Rangareddy Dist",
+        "place_id": "ola-platform:5000045648051",
+        "address": "Nagarjuna RMC - Rangareddy Dist, Mankhal Industrial Development Area, Malikdanguda, Telangana, 501359, India",
+        "district": "Rangareddy",
+        "state": "Telangana",
+        "types": [
+          "point_of_interest"
+        ],
+        "query_used": "industrial area Rangareddy",
+        "fetched_at": "2026-04-01T16:02:29.634853"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3683,
+          17.4708
+        ]
+      },
+      "properties": {
+        "name": "State Bank Of India Industrial Estate Kukatpally",
+        "place_id": "ola-platform:5000046556440",
+        "address": "State Bank Of India Industrial Estate Kukatpally, VC Plaza, 12-6-2/273/1 To 12, Kukatpally Hyderabad, Rangareddy, Hanuman Nagar, Silpa Park, Kondapur, Telangana 500084, India",
+        "district": "Rangareddy",
+        "state": "Telangana",
+        "types": [
+          "bank"
+        ],
+        "query_used": "industrial estate Rangareddy Telangana",
+        "fetched_at": "2026-04-01T16:02:29.675641"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.442532,
+          17.492859
+        ]
+      },
+      "properties": {
+        "name": "MM Industrial Estate",
+        "place_id": "ola-platform:5000206702033",
+        "address": "MM Industrial Estate, Giri Nagar, Ward 127 Rangareddy Nagar, Greater Hyderabad Municipal Corporation North Zone, Hyderabad, Quthbullapur Mandal, Medchal–malkajgiri, Telangana, 500037, India",
+        "district": "Rangareddy",
+        "state": "Telangana",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Rangareddy Telangana",
+        "fetched_at": "2026-04-01T16:02:29.690189"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.394399,
+          17.408617
+        ]
+      },
+      "properties": {
+        "name": "The ThickShake Factory",
+        "place_id": "ola-platform:5000214137516",
+        "address": "The ThickShake Factory, 8-1-284/OU/223, Faiz Manzil, OU Colony, Rangareddy, Manikonda, Hyderabad, 500008, India",
+        "district": "Rangareddy",
+        "state": "Telangana",
+        "types": [
+          "restaurant",
+          "meal_takeaway",
+          "meal_delivery"
+        ],
+        "query_used": "factory area Rangareddy",
+        "fetched_at": "2026-04-01T16:02:29.769983"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.386333,
+          17.403679
+        ]
+      },
+      "properties": {
+        "name": "Laasya Food Manufacturing Private Limited",
+        "place_id": "ola-platform:5000064108104",
+        "address": "Laasya Food Manufacturing Private Limited, Plot No 36, Ist Floor, Of Deevi Building LIC Colony, Manikonda, Jagir, Rajendranagr, Rangareddy, 500008, India",
+        "district": "Rangareddy",
+        "state": "Telangana",
+        "types": [
+          "restaurant",
+          "meal_takeaway",
+          "meal_delivery"
+        ],
+        "query_used": "manufacturing hub Rangareddy",
+        "fetched_at": "2026-04-01T16:02:29.824285"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.441445,
+          17.494193
+        ]
+      },
+      "properties": {
+        "name": "Dhruva EnterPrises Ovens And Powder Coating Booths Manufacturing",
+        "place_id": "ola-platform:5000044877907",
+        "address": "Dhruva EnterPrises Ovens And Powder Coating Booths Manufacturing, Giri Nagar, Ward 127 Rangareddy Nagar, Greater Hyderabad Municipal Corporation North Zone, Hyderabad, Quthbullapur Mandal, Medchalã¢ââmalkajgiri, Telangana, 500037, India",
+        "district": "Rangareddy",
+        "state": "Telangana",
+        "types": [
+          "general_contractor"
+        ],
+        "query_used": "manufacturing hub Rangareddy",
+        "fetched_at": "2026-04-01T16:02:29.838596"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.449456,
+          17.485009
+        ]
+      },
+      "properties": {
+        "name": "Dhruva EnterPrises Manufacturing Ovens And Powder Coating Booths",
+        "place_id": "ola-platform:5000040639989",
+        "address": "Dhruva EnterPrises Manufacturing Ovens And Powder Coating Booths, Sowbhagya Nagar, Ward 127 Rangareddy Nagar, Greater Hyderabad Municipal Corporation North Zone, Hyderabad, Quthbullapur Mandal, Medchalã¢ââmalkajgiri, Telangana, 500037, India",
+        "district": "Rangareddy",
+        "state": "Telangana",
+        "types": [
+          "general_contractor"
+        ],
+        "query_used": "manufacturing hub Rangareddy",
+        "fetched_at": "2026-04-01T16:02:29.852423"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.35014,
+          17.55008
+        ]
+      },
+      "properties": {
+        "name": "SVRS Polymers LLP IDA Bollaram Road SY No 142/AA Sangareddy",
+        "place_id": "ola-platform:5000201065731",
+        "address": "SVRS Polymers LLP IDA Bollaram Road SY No 142/AA Sangareddy, Dist, Bollaram Industrial Area, Hyderabad, Telangana, 502325, India",
+        "district": "Sangareddy",
+        "state": "Telangana",
+        "types": [],
+        "query_used": "industrial area Sangareddy",
+        "fetched_at": "2026-04-01T16:02:32.167944"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.34388,
+          17.55851
+        ]
+      },
+      "properties": {
+        "name": "9-492/4 YSR Colany IDA Bollaram Bollaram Jinnaram Sangareddy 9-492/4.KBR Colony",
+        "place_id": "ola-platform:5000193182355",
+        "address": "9-492/4 YSR Colany IDA Bollaram Bollaram Jinnaram Sangareddy 9-492/4.KBR Colony, Industrial Development Area Bollaram, Bollaram, Hyderabad, Telangana, 502325, India",
+        "district": "Sangareddy",
+        "state": "Telangana",
+        "types": [],
+        "query_used": "industrial area Sangareddy",
+        "fetched_at": "2026-04-01T16:02:32.183219"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.14707,
+          17.49342
+        ]
+      },
+      "properties": {
+        "name": "Qtr No.: 3439, Ordnance Factory Estate Eddumailaram",
+        "place_id": "ola-platform:5000184466662",
+        "address": "Qtr No.: 3439, Ordnance Factory Estate Eddumailaram, Sangareddy, Yeddumailaram, Telangana, 502205, India",
+        "district": "Sangareddy",
+        "state": "Telangana",
+        "types": [],
+        "query_used": "factory area Sangareddy",
+        "fetched_at": "2026-04-01T16:02:32.314674"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.06712,
+          17.59628
+        ]
+      },
+      "properties": {
+        "name": "Ordinance Factory",
+        "place_id": "ola-platform:5000187951405",
+        "address": "Ordinance Factory, 124, Officers Colony, Hyderabad, Sangareddy, Telangana, 502295, India",
+        "district": "Sangareddy",
+        "state": "Telangana",
+        "types": [],
+        "query_used": "factory area Sangareddy",
+        "fetched_at": "2026-04-01T16:02:32.343173"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.06608,
+          17.59655
+        ]
+      },
+      "properties": {
+        "name": "Ordinance Factory",
+        "place_id": "ola-platform:5000185310545",
+        "address": "Ordinance Factory, 125, Officers Colony, Hyderabad, Sangareddy, Telangana, 502295, India",
+        "district": "Sangareddy",
+        "state": "Telangana",
+        "types": [],
+        "query_used": "factory area Sangareddy",
+        "fetched_at": "2026-04-01T16:02:32.357404"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1719,
+          17.5234
+        ]
+      },
+      "properties": {
+        "name": "Nexon Paints Pvt.Ltd. (Factory)",
+        "place_id": "ola-platform:5000058137765",
+        "address": "Nexon Paints Pvt.Ltd. (Factory), Nexon Paints Pvt.Ltd, # Plot No.75 & 76 (P), EPIP, Pashamylaram Patancheru Mandal, Sangaredy (District, Sangareddy, Pashamylaram, Telangana, 502307, India",
+        "district": "Sangareddy",
+        "state": "Telangana",
+        "types": [
+          "premise"
+        ],
+        "query_used": "factory area Sangareddy",
+        "fetched_at": "2026-04-01T16:02:32.370510"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.9245,
+          17.6452
+        ]
+      },
+      "properties": {
+        "name": "Pennar Industries Ltd - PV Manufacturing Unit",
+        "place_id": "ola-platform:5000065999956",
+        "address": "Pennar Industries Ltd - PV Manufacturing Unit, SY Mo. 144 & 145, Chandpur Village, Sadasivpet, Sangareddy, Telangana, 502291, India",
+        "district": "Sangareddy",
+        "state": "Telangana",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Sangareddy",
+        "fetched_at": "2026-04-01T16:02:32.401552"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3201,
+          17.5729
+        ]
+      },
+      "properties": {
+        "name": "Fabience Living Manufacturing Unit And Experience Centre",
+        "place_id": "ola-platform:5000063730432",
+        "address": "Fabience Living Manufacturing Unit And Experience Centre, M43 & M44, Medical Devices Park (TSIIC), Sultanpur Village, Ameenpur Mandal, Sangareddy, Dist, Hyderabad, Telangana, 502319, India",
+        "district": "Sangareddy",
+        "state": "Telangana",
+        "types": [
+          "furniture_store"
+        ],
+        "query_used": "manufacturing hub Sangareddy",
+        "fetched_at": "2026-04-01T16:02:32.416130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.909454,
+          17.629082
+        ]
+      },
+      "properties": {
+        "name": "MRF Tyres Manufacturing Plant Ankenpally",
+        "place_id": "ola-platform:5000062523404",
+        "address": "MRF Tyres Manufacturing Plant Ankenpally, Suraram, Sadasivpet Mandal, Sangareddy, Telangana, 502291, India",
+        "district": "Sangareddy",
+        "state": "Telangana",
+        "types": [
+          "car_repair"
+        ],
+        "query_used": "manufacturing hub Sangareddy",
+        "fetched_at": "2026-04-01T16:02:32.429146"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.246118,
+          17.509197
+        ]
+      },
+      "properties": {
+        "name": "Colour Proof Manufacturing Of PEB Products",
+        "place_id": "ola-platform:5000050845121",
+        "address": "Colour Proof Manufacturing Of PEB Products, Pati, Patancheruvu Mandal, Sangareddy, Telangana, 502324, India",
+        "district": "Sangareddy",
+        "state": "Telangana",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "manufacturing hub Sangareddy",
+        "fetched_at": "2026-04-01T16:02:32.443495"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6531,
+          17.7539
+        ]
+      },
+      "properties": {
+        "name": "Mars International Factory",
+        "place_id": "ola-platform:5000042635797",
+        "address": "Mars International Factory, Survey No. 2099 - 2103, Village Wargal, Siddipet Highway Siddipet Road, Distt, Thanedharpally, Telangana, 502279, India",
+        "district": "Siddipet",
+        "state": "Telangana",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Siddipet",
+        "fetched_at": "2026-04-01T16:02:34.799059"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7292,
+          17.6825
+        ]
+      },
+      "properties": {
+        "name": "Globion India Private Limited - Factory",
+        "place_id": "ola-platform:5000050027644",
+        "address": "Globion India Private Limited - Factory, D.No. 4-3, Survey No. 321, BioTech Park Phase - III, Karkapatla Village, Markook Mandal, Siddipet, Dist, Karkapatla, Telangana, 502279, India",
+        "district": "Siddipet",
+        "state": "Telangana",
+        "types": [
+          "drugstore",
+          "pharmacy"
+        ],
+        "query_used": "factory area Siddipet",
+        "fetched_at": "2026-04-01T16:02:34.812609"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.00853,
+          16.9877
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000185713976",
+        "address": "Industrial Area, 116/D, Kodad, Telangana, 508206, India",
+        "district": "Suryapet",
+        "state": "Telangana",
+        "types": [],
+        "query_used": "industrial area Suryapet",
+        "fetched_at": "2026-04-01T16:02:37.253895"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.639734,
+          17.127415
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate Suryapet Post Office",
+        "place_id": "ola-platform:5000040356478",
+        "address": "Industrial Estate Suryapet Post Office, Suryapet, Suryapet Mandal, Suryapet, Telangana, 508214, India",
+        "district": "Suryapet",
+        "state": "Telangana",
+        "types": [
+          "post_office"
+        ],
+        "query_used": "industrial estate Suryapet Telangana",
+        "fetched_at": "2026-04-01T16:02:37.300883"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.46736,
+          17.50693
+        ]
+      },
+      "properties": {
+        "name": "07, Industrial Estate",
+        "place_id": "ola-platform:5000196432670",
+        "address": "07, Industrial Estate, Quthbullapur, Suryapet, Hyderabad, Telangana, 500055, India",
+        "district": "Suryapet",
+        "state": "Telangana",
+        "types": [],
+        "query_used": "industrial estate Suryapet Telangana",
+        "fetched_at": "2026-04-01T16:02:37.360685"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9129,
+          16.7972
+        ]
+      },
+      "properties": {
+        "name": "Suvarna Cement Factory",
+        "place_id": "ola-platform:5000187603171",
+        "address": "Suvarna Cement Factory, Suryapet, Telangana, 508246, India",
+        "district": "Suryapet",
+        "state": "Telangana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Suryapet",
+        "fetched_at": "2026-04-01T16:02:37.431083"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.64825,
+          17.13139
+        ]
+      },
+      "properties": {
+        "name": "Sudhakar PVC Manufacturing Company Limited",
+        "place_id": "ola-platform:5000053462704",
+        "address": "Sudhakar PVC Manufacturing Company Limited, Police Station Rd, Balaram Thanda, Suryapet, Telangana, 508214, India",
+        "district": "Suryapet",
+        "state": "Telangana",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Suryapet",
+        "fetched_at": "2026-04-01T16:02:37.506178"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.9632,
+          17.2405
+        ]
+      },
+      "properties": {
+        "name": "MN Copper Strips Pvt Ltd, Rakamcharla, Industrial Area",
+        "place_id": "ola-platform:5000037646780",
+        "address": "MN Copper Strips Pvt Ltd, Rakamcharla, Industrial Area, Rakamchrla, Vikarabad -DT, Telangana, 501501, India",
+        "district": "Vikarabad",
+        "state": "Telangana",
+        "types": [
+          "storage"
+        ],
+        "query_used": "industrial area Vikarabad",
+        "fetched_at": "2026-04-01T16:02:39.737610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.9594,
+          17.2474
+        ]
+      },
+      "properties": {
+        "name": "Rakamcharla Industrial Area",
+        "place_id": "ola-platform:5000041232948",
+        "address": "Rakamcharla Industrial Area, Rakamcherla, Telangana, 501501, India",
+        "district": "Vikarabad",
+        "state": "Telangana",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Vikarabad",
+        "fetched_at": "2026-04-01T16:02:39.780021"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.476,
+          17.3847
+        ]
+      },
+      "properties": {
+        "name": "Ghouse Arms And Ammunition Factory",
+        "place_id": "ola-platform:5000061302655",
+        "address": "Ghouse Arms And Ammunition Factory, Shop No. 3, Batchelor's Building, Jn Road, Opposite Moazan Jahi Market, Wanaparthi Colony, Troop Bazaar, Koti, Hyderabad, Telangana, 500001, India",
+        "district": "Wanaparthy",
+        "state": "Telangana",
+        "types": [
+          "store"
+        ],
+        "query_used": "factory area Wanaparthy",
+        "fetched_at": "2026-04-01T16:02:42.454439"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.58635,
+          18.00193
+        ]
+      },
+      "properties": {
+        "name": "15/B, Industrial Area",
+        "place_id": "ola-platform:5000198529863",
+        "address": "15/B, Industrial Area, Warangal, Telangana, 506007, India",
+        "district": "Warangal",
+        "state": "Telangana",
+        "types": [],
+        "query_used": "industrial area Warangal",
+        "fetched_at": "2026-04-01T16:02:44.672738"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.595864,
+          17.996808
+        ]
+      },
+      "properties": {
+        "name": "Telengana State Industrial Area Local Authority",
+        "place_id": "ola-platform:5000038729241",
+        "address": "Telengana State Industrial Area Local Authority, Warangal, Warangal Mandal, Warangal, Telangana, 506002, India",
+        "district": "Warangal",
+        "state": "Telangana",
+        "types": [
+          "local_government_office"
+        ],
+        "query_used": "industrial area Warangal",
+        "fetched_at": "2026-04-01T16:02:44.700111"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.462007,
+          17.947387
+        ]
+      },
+      "properties": {
+        "name": "Warangal Industrial Area",
+        "place_id": "ola-platform:14521",
+        "address": "Warangal Industrial Area, Telangana, India",
+        "district": "Warangal",
+        "state": "Telangana",
+        "types": [
+          "locality"
+        ],
+        "query_used": "industrial area Warangal",
+        "fetched_at": "2026-04-01T16:02:44.715391"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.618109,
+          17.973517
+        ]
+      },
+      "properties": {
+        "name": "Bank Of India Pragathi Industrial Estate Branch",
+        "place_id": "ola-platform:5000059335945",
+        "address": "Bank Of India Pragathi Industrial Estate Branch, Narsampet Rd-Warangal Rd, Khila Warangal Mandal, Warangal, Telangana, 506013, India",
+        "district": "Warangal",
+        "state": "Telangana",
+        "types": [
+          "bank"
+        ],
+        "query_used": "industrial estate Warangal Telangana",
+        "fetched_at": "2026-04-01T16:02:44.774267"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.50934,
+          18.00694
+        ]
+      },
+      "properties": {
+        "name": "31-2-175/2 Colour Factory",
+        "place_id": "ola-platform:5000192705882",
+        "address": "31-2-175/2 Colour Factory, Komatpally Area, Fealterbed Waddepally Ganesh Nagar Road.No 1, Warangal, Telangana, 506370, India",
+        "district": "Warangal",
+        "state": "Telangana",
+        "types": [],
+        "query_used": "factory area Warangal",
+        "fetched_at": "2026-04-01T16:02:44.819650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.465,
+          17.404
+        ]
+      },
+      "properties": {
+        "name": "The ThickShake Factory",
+        "place_id": "ola-platform:5000062812271",
+        "address": "The ThickShake Factory, H.No.6, No.17, 1-70, Hyderabad - Warangal Railway Line, Near Ashok Hotel, Ambedkar Colony, Lakdikapul, Hyderabad, Telangana, 500004, India",
+        "district": "Warangal",
+        "state": "Telangana",
+        "types": [
+          "cafe",
+          "restaurant"
+        ],
+        "query_used": "factory area Warangal",
+        "fetched_at": "2026-04-01T16:02:44.835160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.6069,
+          17.9817
+        ]
+      },
+      "properties": {
+        "name": "A1 Foods Cake Factory",
+        "place_id": "ola-platform:5000051353156",
+        "address": "A1 Foods Cake Factory, 11-22-503, Tilak Road, Kashibugga, LB Nagar, Warangal, Telangana, 506002, India",
+        "district": "Warangal",
+        "state": "Telangana",
+        "types": [
+          "bakery"
+        ],
+        "query_used": "factory area Warangal",
+        "fetched_at": "2026-04-01T16:02:44.849528"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.6045,
+          17.9824
+        ]
+      },
+      "properties": {
+        "name": "Dosth Beedi Factory",
+        "place_id": "ola-platform:5000040957931",
+        "address": "Dosth Beedi Factory, 14-8-211, Narsampet Rd, Krishna Nagar, Girmajipet, Warangal, Telangana, 506002, India",
+        "district": "Warangal",
+        "state": "Telangana",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Warangal",
+        "fetched_at": "2026-04-01T16:02:44.865433"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.6047,
+          17.98277
+        ]
+      },
+      "properties": {
+        "name": "Dosth Beedi Manufacturing Company",
+        "place_id": "ola-platform:5000037973865",
+        "address": "Dosth Beedi Manufacturing Company, Blue Bells High School, Narsampet Rd, Girmajipet, Warangal, Warangal Mandal, Warangal, Telangana, 506002, India",
+        "district": "Warangal",
+        "state": "Telangana",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Warangal",
+        "fetched_at": "2026-04-01T16:02:44.880190"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.8599,
+          17.5059
+        ]
+      },
+      "properties": {
+        "name": "Bhuvana Giri Industrial Area",
+        "place_id": "ola-platform:5000038785908",
+        "address": "Bhuvana Giri Industrial Area, IDA Bhuvanagiri Rd, Telangana, 508117, India",
+        "district": "Yadadri Bhuvanagiri",
+        "state": "Telangana",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Yadadri Bhuvanagiri",
+        "fetched_at": "2026-04-01T16:02:47.484047"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.8234,
+          17.483793
+        ]
+      },
+      "properties": {
+        "name": "Bibi Nagar Industrial Area",
+        "place_id": "ola-platform:5000051141776",
+        "address": "Bibi Nagar Industrial Area, Gudur, Bibinagar Mandal, Yadadri Bhuvanagiri, Telangana, 508126, India",
+        "district": "Yadadri Bhuvanagiri",
+        "state": "Telangana",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Yadadri Bhuvanagiri",
+        "fetched_at": "2026-04-01T16:02:47.503609"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.462605,
+          17.935953
+        ]
+      },
+      "properties": {
+        "name": "Sri Sai Venkata Krupa Bakery And Manufacturing",
+        "place_id": "ola-platform:5000046826614",
+        "address": "Sri Sai Venkata Krupa Bakery And Manufacturing, Khaazipet Mandal, Hanumakonda, Telangana, 506151, India",
+        "district": "Hanumakonda",
+        "state": "Telangana",
+        "types": [
+          "bakery",
+          "restaurant"
+        ],
+        "query_used": "manufacturing hub Hanumakonda",
+        "fetched_at": "2026-04-01T16:02:50.307784"
+      }
+    }
+  ]
+}

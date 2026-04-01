@@ -1,0 +1,5112 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1032,
+          11.1448
+        ]
+      },
+      "properties": {
+        "name": "TamilNadu Cement Corporation Ariyalur Factory (Ariyalur Cement Factory)",
+        "place_id": "ola-platform:5000176628440",
+        "address": "TamilNadu Cement Corporation Ariyalur Factory (Ariyalur Cement Factory), Ariyalur Cement Factory, Ammenabath, Tamil Nadu, 621729, India",
+        "district": "Ariyalur",
+        "state": "Tamil Nadu",
+        "types": [
+          "hardware_store"
+        ],
+        "query_used": "factory area Ariyalur",
+        "fetched_at": "2026-04-01T15:59:46.556944"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0389,
+          12.7898
+        ]
+      },
+      "properties": {
+        "name": "CMDA Industrial Area",
+        "place_id": "ola-platform:5000198025254",
+        "address": "CMDA Industrial Area, Plot No 16, Nagavalli Amman Koil St, Maraimalai Nagar, Tamil Nadu, 603209, India",
+        "district": "Chengalpattu",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Chengalpattu",
+        "fetched_at": "2026-04-01T15:59:49.175153"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0384,
+          12.7904
+        ]
+      },
+      "properties": {
+        "name": "Home Industrial Area",
+        "place_id": "ola-platform:5000055354491",
+        "address": "Home Industrial Area, Maraimalai Nagar, Tamil Nadu, 603209, India",
+        "district": "Chengalpattu",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise",
+          "subpremise"
+        ],
+        "query_used": "industrial area Chengalpattu",
+        "fetched_at": "2026-04-01T15:59:49.208520"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.245,
+          12.95899
+        ]
+      },
+      "properties": {
+        "name": "12/2A, Industrial Area",
+        "place_id": "ola-platform:5000196145064",
+        "address": "12/2A, Industrial Area, Perungudi, Chennai, Tamil Nadu, 600096, India",
+        "district": "Chengalpattu",
+        "state": "Tamil Nadu",
+        "types": [],
+        "query_used": "industrial area Chengalpattu",
+        "fetched_at": "2026-04-01T15:59:49.222416"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.18897,
+          12.95173
+        ]
+      },
+      "properties": {
+        "name": "386, Semi Industrial Area",
+        "place_id": "ola-platform:5000190219621",
+        "address": "386, Semi Industrial Area, Boopathy Nagar, Keelkattalai, Chennai, Tamil Nadu, 600117, India",
+        "district": "Chengalpattu",
+        "state": "Tamil Nadu",
+        "types": [],
+        "query_used": "industrial area Chengalpattu",
+        "fetched_at": "2026-04-01T15:59:49.236163"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9676,
+          12.6613
+        ]
+      },
+      "properties": {
+        "name": "Govt Industrial Training Institute, Chengalpattu",
+        "place_id": "ola-platform:5000048105367",
+        "address": "Govt Industrial Training Institute, Chengalpattu, Venbakkam, Tamil Nadu, 603111, India",
+        "district": "Chengalpattu",
+        "state": "Tamil Nadu",
+        "types": [
+          "university"
+        ],
+        "query_used": "industrial area Chengalpattu",
+        "fetched_at": "2026-04-01T15:59:49.251383"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2456,
+          12.9586
+        ]
+      },
+      "properties": {
+        "name": "Perungudi Industrial Estate Manufactures Association",
+        "place_id": "ola-platform:5000063667229",
+        "address": "Perungudi Industrial Estate Manufactures Association, Industrial Estate, Perungudi, Chennai, Tamil Nadu, 600096, India",
+        "district": "Chengalpattu",
+        "state": "Tamil Nadu",
+        "types": [
+          "real_estate_agency"
+        ],
+        "query_used": "industrial estate Chengalpattu Tamil Nadu",
+        "fetched_at": "2026-04-01T15:59:49.282128"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2384,
+          12.9569
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:5000058245091",
+        "address": "Industrial Estate, The 600096, Indian Public School, Industrial Estate, Perungudi, Doshi Appartments, Thirumalai Nagar Annexe, Perungudi, Chennai, Tamil Nadu",
+        "district": "Chengalpattu",
+        "state": "Tamil Nadu",
+        "types": [
+          "school",
+          "premise",
+          "primary_school"
+        ],
+        "query_used": "industrial estate Chengalpattu Tamil Nadu",
+        "fetched_at": "2026-04-01T15:59:49.294053"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2445,
+          12.958
+        ]
+      },
+      "properties": {
+        "name": "Maruti Suzuki Arena Khivraj Motors Chennai Perungudi (Maruti Suzuki Arena (Khivraj Motors, Chennai, Perungudi))",
+        "place_id": "ola-platform:5000058599356",
+        "address": "Maruti Suzuki Arena Khivraj Motors Chennai Perungudi (Maruti Suzuki Arena (Khivraj Motors, Chennai, Perungudi)), Maruti Suzuki Arena (Khivraj Motors, Chennai, Perungudi), Plot No 6, Developed E&e, Industrial Estate, Perungudi, Chennai, Tamil Nadu, 600096, India",
+        "district": "Chengalpattu",
+        "state": "Tamil Nadu",
+        "types": [
+          "car_dealer"
+        ],
+        "query_used": "industrial estate Chengalpattu Tamil Nadu",
+        "fetched_at": "2026-04-01T15:59:49.304417"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9521,
+          12.6543
+        ]
+      },
+      "properties": {
+        "name": "Beer Factory",
+        "place_id": "ola-platform:5000198851999",
+        "address": "Beer Factory, Chengalpattu, Tamil Nadu, 603111, India",
+        "district": "Chengalpattu",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Chengalpattu",
+        "fetched_at": "2026-04-01T15:59:49.333582"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0158,
+          12.7261
+        ]
+      },
+      "properties": {
+        "name": "Ravel Electronics Pvt. Ltd. - MWC Factory",
+        "place_id": "ola-platform:5000056536352",
+        "address": "Ravel Electronics Pvt. Ltd. - MWC Factory, P-38/3, Central Ave, Mahindra World City, Chengalpattu, Tamil Nadu, 603004, India",
+        "district": "Chengalpattu",
+        "state": "Tamil Nadu",
+        "types": [
+          "electronics_store"
+        ],
+        "query_used": "factory area Chengalpattu",
+        "fetched_at": "2026-04-01T15:59:49.342297"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0721,
+          12.8604
+        ]
+      },
+      "properties": {
+        "name": "Allen Solly Factory Outlet",
+        "place_id": "ola-platform:5000039146754",
+        "address": "Allen Solly Factory Outlet, 9a, Grand Southern Trunk Rd, Abnirami Nagar, Urapakkam, Chengalpattu, Chennai, Tamil Nadu, 603210, India",
+        "district": "Chengalpattu",
+        "state": "Tamil Nadu",
+        "types": [
+          "clothing_store"
+        ],
+        "query_used": "factory area Chengalpattu",
+        "fetched_at": "2026-04-01T15:59:49.352639"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9784,
+          12.69221
+        ]
+      },
+      "properties": {
+        "name": "Speaker Box Manufacturing",
+        "place_id": "ola-platform:5000037751479",
+        "address": "Speaker Box Manufacturing, 17, VOC St, Opp Kulidiamman Koil, J C K Nagar, Chengalpattu, Tamil Nadu, 603002, India",
+        "district": "Chengalpattu",
+        "state": "Tamil Nadu",
+        "types": [
+          "point_of_interest"
+        ],
+        "query_used": "manufacturing hub Chengalpattu",
+        "fetched_at": "2026-04-01T15:59:49.371987"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.080076,
+          12.880595
+        ]
+      },
+      "properties": {
+        "name": "Titanium Equipment And Anode Manufacturing Company Ltd",
+        "place_id": "ola-platform:5000035647670",
+        "address": "Titanium Equipment And Anode Manufacturing Company Ltd, Vandalur, Chengalpattu, Tamil Nadu, 600048, India",
+        "district": "Chengalpattu",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Chengalpattu",
+        "fetched_at": "2026-04-01T15:59:49.402364"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.079897,
+          12.880527
+        ]
+      },
+      "properties": {
+        "name": "Titanium Equipment & Anode Manufacturing Co Limited",
+        "place_id": "ola-platform:5000038002377",
+        "address": "Titanium Equipment & Anode Manufacturing Co Limited, Vandalur, Chengalpattu, Tamil Nadu, 600048, India",
+        "district": "Chengalpattu",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Chengalpattu",
+        "fetched_at": "2026-04-01T15:59:49.411796"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1721,
+          13.0991
+        ]
+      },
+      "properties": {
+        "name": "Mi Service Center Ambattur Chennai Tamil Nadu Radiant (Mi Service Center, Ambattur, Chennai, Tamil Nadu (Radiant))",
+        "place_id": "ola-platform:5000058254063",
+        "address": "Mi Service Center Ambattur Chennai Tamil Nadu Radiant (Mi Service Center, Ambattur, Chennai, Tamil Nadu (Radiant)), Mi Service Center, Ambattur, Chennai, Tamil Nadu (Radiant), Sree Anantha Lakshmi Estate, 87/10, Madras Thiruvallur High Rd, New Tiny Sector, Mannurpet, Ambattur Industrial Estate, Chennai, Tamil Nadu, 600058, India",
+        "district": "Chennai",
+        "state": "Tamil Nadu",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial estate Chennai Tamil Nadu",
+        "fetched_at": "2026-04-01T15:59:51.572988"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1655,
+          13.1003
+        ]
+      },
+      "properties": {
+        "name": "CHRYSO India Pvt Ltd, Chennai, Tamil Nadu",
+        "place_id": "ola-platform:5000041195382",
+        "address": "CHRYSO India Pvt Ltd, Chennai, Tamil Nadu, 7/10, Ambattur Industrial Estate, MTH Road, Sai Nagar, Ambattur Industrial Estate, Chennai, Tamil Nadu, 600058, India",
+        "district": "Chennai",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Chennai Tamil Nadu",
+        "fetched_at": "2026-04-01T15:59:51.582651"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2439,
+          12.9565
+        ]
+      },
+      "properties": {
+        "name": "IT Expressway Ltd, No:1, Elcot Road, Rajivgandhi Salai, Perungudi, Chennai, Tamil Nadu.",
+        "place_id": "ola-platform:5000059583911",
+        "address": "IT Expressway Ltd, No:1, Elcot Road, Rajivgandhi Salai, Perungudi, Chennai, Tamil Nadu, IT Expressway Ltd, No:1, Elcot Road, Rajivgandhi Salai, Perungudi, Chennai, Tamil Nadu, IT Expressway Ltd, No:1, Elcot Road, Rajivgandhi Salai, Perungudi, Chennai, Tamil Nadu, IT Expressway Ltd, No:1, Elcot Road, Rajivgandhi Salai, Perungudi, Chennai, Tamil Nadu, No:1, Industrial Estate Road, SH 49A, Industrial Estate, Perungudi, Chennai, Tamil Nadu, 600096, India",
+        "district": "Chennai",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Chennai Tamil Nadu",
+        "fetched_at": "2026-04-01T15:59:51.591168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2458,
+          12.957
+        ]
+      },
+      "properties": {
+        "name": "ICICI Lombard Network Garage Chennai, Tamil Nadu (Ki Mobility Solutions Private Limited)",
+        "place_id": "ola-platform:5000040372692",
+        "address": "ICICI Lombard Network Garage Chennai, Tamil Nadu (Ki Mobility Solutions Private Limited), Plot No 62 & 63, Bethel Nagar, Street, Tollgate, Near Perungudi, Industrial Estate, Perungudi, Chennai, Tamil Nadu, 600096, India",
+        "district": "Chennai",
+        "state": "Tamil Nadu",
+        "types": [
+          "parking"
+        ],
+        "query_used": "industrial estate Chennai Tamil Nadu",
+        "fetched_at": "2026-04-01T15:59:51.601458"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2463,
+          12.9609
+        ]
+      },
+      "properties": {
+        "name": "Star Health & Allied Insurance, Perungudi, Chennai, Tamil Nadu",
+        "place_id": "ola-platform:5000221724285",
+        "address": "Star Health & Allied Insurance, Perungudi, Chennai, Tamil Nadu, 129 Burma Colony 1st Street, 1st Main Rd, Burma Colony, Industrial Estate, Perungudi, Chennai, Tamil Nadu 600096, India",
+        "district": "Chennai",
+        "state": "Tamil Nadu",
+        "types": [
+          "insurance_agency"
+        ],
+        "query_used": "industrial estate Chennai Tamil Nadu",
+        "fetched_at": "2026-04-01T15:59:51.611701"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2188,
+          13.1065
+        ]
+      },
+      "properties": {
+        "name": "Integral Coach Factory Area",
+        "place_id": "ola-platform:5000191744042",
+        "address": "Integral Coach Factory Area, ICF North Colony, Konnur, Chennai, Tamil Nadu, 600023, India",
+        "district": "Chennai",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Chennai",
+        "fetched_at": "2026-04-01T15:59:51.620586"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2198,
+          13.1064
+        ]
+      },
+      "properties": {
+        "name": "Integral Coach Factory Area",
+        "place_id": "ola-platform:5000040038211",
+        "address": "Integral Coach Factory Area, ICF North Colony, Konnur, Chennai, Tamil Nadu, 600023, India",
+        "district": "Chennai",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Chennai",
+        "fetched_at": "2026-04-01T15:59:51.630704"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2191,
+          13.1053
+        ]
+      },
+      "properties": {
+        "name": "39, Integral Coach Factory Area",
+        "place_id": "ola-platform:5000195851687",
+        "address": "39, Integral Coach Factory Area, ICF North Colony, Konnur, Chennai, Tamil Nadu, 600023, India",
+        "district": "Chennai",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Chennai",
+        "fetched_at": "2026-04-01T15:59:51.639751"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2194,
+          13.1058
+        ]
+      },
+      "properties": {
+        "name": "37, Integral Coach Factory Area",
+        "place_id": "ola-platform:5000194868592",
+        "address": "37, Integral Coach Factory Area, ICF North Colony, Konnur, Chennai, Tamil Nadu, 600023, India",
+        "district": "Chennai",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Chennai",
+        "fetched_at": "2026-04-01T15:59:51.648707"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2199,
+          13.1057
+        ]
+      },
+      "properties": {
+        "name": "43, Integral Coach Factory Area",
+        "place_id": "ola-platform:5000199677174",
+        "address": "43, Integral Coach Factory Area, ICF North Colony, Konnur, Chennai, Tamil Nadu, 600023, India",
+        "district": "Chennai",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Chennai",
+        "fetched_at": "2026-04-01T15:59:51.658553"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0066,
+          12.726
+        ]
+      },
+      "properties": {
+        "name": "BMW India Manufacturing Plant Chennai (BMW Group Plant, Chennai)",
+        "place_id": "ola-platform:5000061118080",
+        "address": "BMW India Manufacturing Plant Chennai (BMW Group Plant, Chennai), BMW Group Plant, Chennai, Mahindra World City, Kachadimangalam, Tamil Nadu, 603004, India",
+        "district": "Chennai",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "manufacturing hub Chennai",
+        "fetched_at": "2026-04-01T15:59:51.668714"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0195,
+          12.716
+        ]
+      },
+      "properties": {
+        "name": "Aam Driveline | Chennai Manufacturing Facility",
+        "place_id": "ola-platform:5000063248723",
+        "address": "Aam Driveline | Chennai Manufacturing Facility, Plot 62, Eight Avenue, First Cross Road, Mahindra World City, Chengalpattu, Kancheepuram District, Chennai, Tamil Nadu, 603004, India",
+        "district": "Chennai",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Chennai",
+        "fetched_at": "2026-04-01T15:59:51.677534"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1823,
+          13.0893
+        ]
+      },
+      "properties": {
+        "name": "Hexagon Manufacturing Intelligence | Chennai",
+        "place_id": "ola-platform:5000065304901",
+        "address": "Hexagon Manufacturing Intelligence | Chennai, R-44/2-3, West End Colony Anna Nagar, West Extn, Olympic Nagar, Padi, Chennai, Tamil Nadu, 600050, India",
+        "district": "Chennai",
+        "state": "Tamil Nadu",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "manufacturing hub Chennai",
+        "fetched_at": "2026-04-01T15:59:51.696661"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2367,
+          13.168
+        ]
+      },
+      "properties": {
+        "name": "Vibrant Spaces - Manufacturing Unit In Chennai",
+        "place_id": "ola-platform:5000048451381",
+        "address": "Vibrant Spaces - Manufacturing Unit In Chennai, 1/121A, Kamarajar Salai Mathur, Madhavaram, Near Gokulam Street, Manali Kosappur Rd, Gopalsamy Nagar, Junction, Chennai, Tamil Nadu, 600051, India",
+        "district": "Chennai",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Chennai",
+        "fetched_at": "2026-04-01T15:59:51.705437"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9723,
+          10.9223
+        ]
+      },
+      "properties": {
+        "name": "Nu Brown Furniture Coimbatore# Service Warranty Furniture",
+        "place_id": "ola-platform:5000036026303",
+        "address": "Nu Brown Furniture Coimbatore# Service Warranty Furniture, SF No.690/2A, P.O, 691/1A, Madukkarai Market Road, S & P Industrial Area, Sidco Private Industrial Estate, Coimbatore, Madukkarai, Tamil Nadu, 641021, India",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu",
+        "types": [
+          "general_contractor"
+        ],
+        "query_used": "industrial area Coimbatore",
+        "fetched_at": "2026-04-01T15:59:53.982679"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0091,
+          11.0384
+        ]
+      },
+      "properties": {
+        "name": "Cynthesis EnterPrises - Face Mask In Coimbatore. All Kinds Of Face Mask And Protective Care Equipment Manufacturer In Coimbatore/kerala/tamil Nadu",
+        "place_id": "ola-platform:5000042369756",
+        "address": "Cynthesis EnterPrises - Face Mask In Coimbatore. All Kinds Of Face Mask And Protective Care Equipment Manufacturer In Coimbatore/kerala/tamil Nadu, 27/1, VK Road, Peelamedu Industrial Estate, Gauthama Puri Nagar, Coimbatore, Tamil Nadu, 641004, India",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu",
+        "types": [
+          "hardware_store"
+        ],
+        "query_used": "industrial estate Coimbatore Tamil Nadu",
+        "fetched_at": "2026-04-01T15:59:54.003514"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.985,
+          11.1929
+        ]
+      },
+      "properties": {
+        "name": "Vaishnavi 's Comsia Industrial Estate, Coimbatore",
+        "place_id": "ola-platform:5000037158839",
+        "address": "Vaishnavi 's Comsia Industrial Estate, Coimbatore, Kalipalayam Rd, Bilichi, Tamil Nadu, 641110, India",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu",
+        "types": [
+          "storage"
+        ],
+        "query_used": "industrial estate Coimbatore Tamil Nadu",
+        "fetched_at": "2026-04-01T15:59:54.013665"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.972,
+          10.9412
+        ]
+      },
+      "properties": {
+        "name": "Coimbatore Industrial Estate Post Office",
+        "place_id": "ola-platform:5000050818808",
+        "address": "Coimbatore Industrial Estate Post Office, Madukkarai Main Rd, Srinivasa Nagar, Sidco, Kurichi, Coimbatore, Tamil Nadu, 641021, India",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu",
+        "types": [
+          "post_office"
+        ],
+        "query_used": "industrial estate Coimbatore Tamil Nadu",
+        "fetched_at": "2026-04-01T15:59:54.024258"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9772,
+          10.9438
+        ]
+      },
+      "properties": {
+        "name": "Sidco Private Industrial Estate",
+        "place_id": "ola-platform:5000189807311",
+        "address": "Sidco Private Industrial Estate, Kurichi, Coimbatore, Tamil Nadu, 641021, India",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Coimbatore Tamil Nadu",
+        "fetched_at": "2026-04-01T15:59:54.033366"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.985,
+          11.1929
+        ]
+      },
+      "properties": {
+        "name": "Comsia Industrial Estate, Coimbatore",
+        "place_id": "ola-platform:5000220355224",
+        "address": "Comsia Industrial Estate, Coimbatore, Kalipalayam Rd, Bilichi, Tamil Nadu 641110, India",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial estate Coimbatore Tamil Nadu",
+        "fetched_at": "2026-04-01T15:59:54.044066"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9906,
+          11.0246
+        ]
+      },
+      "properties": {
+        "name": "Advance Machinery Corporation (Factory)",
+        "place_id": "ola-platform:5000047855986",
+        "address": "Advance Machinery Corporation (Factory), Coimbatore, 1/11 Venkatasamy Naidu Industrial Estate, 3rd St, Peelamedu, Coimbatore, Tamil Nadu, 641006, India",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "factory area Coimbatore",
+        "fetched_at": "2026-04-01T15:59:54.063753"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0023,
+          10.9965
+        ]
+      },
+      "properties": {
+        "name": "RamRaj Cotton Factory Outlet- Coimbatore (RamRaj Cotton Factory Outlet - Ramanathapuram Coimbatore)",
+        "place_id": "ola-platform:5000039762821",
+        "address": "RamRaj Cotton Factory Outlet- Coimbatore (RamRaj Cotton Factory Outlet - Ramanathapuram Coimbatore), RamRaj Cotton Factory Outlet - Ramanathapuram Coimbatore, No 74/1, Opp Alvernia School, Kongu Nagar, East, Ramanathapuram, Tamil Nadu, 641045, India",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu",
+        "types": [
+          "clothing_store"
+        ],
+        "query_used": "factory area Coimbatore",
+        "fetched_at": "2026-04-01T15:59:54.074186"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9596,
+          10.8935
+        ]
+      },
+      "properties": {
+        "name": "Madhujayanti Coimbatore Factory",
+        "place_id": "ola-platform:5000067111871",
+        "address": "Madhujayanti Coimbatore Factory, Jaypackco, Coimbatore, Tamil Nadu, 641105, India",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Coimbatore",
+        "fetched_at": "2026-04-01T15:59:54.084962"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0715,
+          11.0579
+        ]
+      },
+      "properties": {
+        "name": "Peter England Factory Outlet, Avinasi Road, Coimbatore (Peter England Factory Outlet, Avinasi Road, Coimbatore)",
+        "place_id": "ola-platform:5000042773685",
+        "address": "Peter England Factory Outlet, Avinasi Road, Coimbatore (Peter England Factory Outlet, Avinasi Road, Coimbatore), Peter England Factory Outlet, Avinasi Road, Coimbatore, Avinashi Rd, Near Gokulam Park, Chinniyampalayam, Neelambur, Tamil Nadu, 641062, India",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu",
+        "types": [
+          "clothing_store"
+        ],
+        "query_used": "factory area Coimbatore",
+        "fetched_at": "2026-04-01T15:59:54.095532"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9166,
+          10.9713
+        ]
+      },
+      "properties": {
+        "name": "Ok Chips Factory Coimbatore",
+        "place_id": "ola-platform:5000066349487",
+        "address": "Ok Chips Factory Coimbatore, No 10 Karadivavei Gounder Thottam, Perur Chettipalayam, Perur, Coimbatore, Tamil Nadu, 641010, India",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu",
+        "types": [
+          "bakery"
+        ],
+        "query_used": "factory area Coimbatore",
+        "fetched_at": "2026-04-01T15:59:54.104726"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9533,
+          11.0596
+        ]
+      },
+      "properties": {
+        "name": "Sigma Hydraulics - Best Hydraulics Cylinder Manufacturing Services Company In Coimbatore (Sigma Hydraulics - Best Hydraulic Cylinder Manufacturers In Coimbatore)",
+        "place_id": "ola-platform:5000055572579",
+        "address": "Sigma Hydraulics - Best Hydraulics Cylinder Manufacturing Services Company In Coimbatore (Sigma Hydraulics - Best Hydraulic Cylinder Manufacturers In Coimbatore), Sigma Hydraulics - Best Hydraulic Cylinder Manufacturers In Coimbatore, No 148/2, Sasthiri Nagar, Urumandampalayam, G.N.Mills Post, Urumandampalayam, Coimbatore, Tamil Nadu, 641006, India",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu",
+        "types": [
+          "hardware_store"
+        ],
+        "query_used": "manufacturing hub Coimbatore",
+        "fetched_at": "2026-04-01T15:59:54.115135"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0378,
+          11.0338
+        ]
+      },
+      "properties": {
+        "name": "Hexagon Manufacturing Intelligence | Coimbatore",
+        "place_id": "ola-platform:5000041793890",
+        "address": "Hexagon Manufacturing Intelligence | Coimbatore, Sri Sri Building 51 Paris Nagar, Peelamedu, Civil Aerodrome Post, Coimbatore, Tamil Nadu, 641014, India",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu",
+        "types": [
+          "point_of_interest"
+        ],
+        "query_used": "manufacturing hub Coimbatore",
+        "fetched_at": "2026-04-01T15:59:54.126207"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0132,
+          11.0358
+        ]
+      },
+      "properties": {
+        "name": "Maniraj Machinery Manufacturing Company Coimbatore",
+        "place_id": "ola-platform:5000043061943",
+        "address": "Maniraj Machinery Manufacturing Company Coimbatore, 15, Venkatasamy Nagar Thanneer Pandal 3rd Cross, VK Rd, Peelamedu, Maheshwari Nagar, Coimbatore, Tamil Nadu, 641004, India",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Coimbatore",
+        "fetched_at": "2026-04-01T15:59:54.137049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.002204,
+          10.931676
+        ]
+      },
+      "properties": {
+        "name": "Coolova Cold Chain And Container Manufacturing In Coimbatore",
+        "place_id": "ola-platform:5000206260659",
+        "address": "Coolova Cold Chain And Container Manufacturing In Coimbatore, Coimbatore South, Coimbatore, Tamil Nadu, 641021, India",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu",
+        "types": [
+          "storage"
+        ],
+        "query_used": "manufacturing hub Coimbatore",
+        "fetched_at": "2026-04-01T15:59:54.148499"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0215,
+          11.0238
+        ]
+      },
+      "properties": {
+        "name": "Coimbatore - ERP Software For Manufacturing Business",
+        "place_id": "ola-platform:5000045820651",
+        "address": "Coimbatore - ERP Software For Manufacturing Business, Freedom Software Solutions, Coimbatore - ERP Software For Manufacturing Business, 438-A, Kamarajar Rd, Peelamedu, Chitra Nagar, Lakshmipuram, Coimbatore, Tamil Nadu, 641015, India",
+        "district": "Coimbatore",
+        "state": "Tamil Nadu",
+        "types": [
+          "electronics_store"
+        ],
+        "query_used": "manufacturing hub Coimbatore",
+        "fetched_at": "2026-04-01T15:59:54.158254"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3295,
+          11.5285
+        ]
+      },
+      "properties": {
+        "name": "Ceramic Industrial Area",
+        "place_id": "ola-platform:5000053519194",
+        "address": "Ceramic Industrial Area, M R K Nagar, Virudhachalam, Tamil Nadu, 606001, India",
+        "district": "Cuddalore",
+        "state": "Tamil Nadu",
+        "types": [
+          "home_goods_store"
+        ],
+        "query_used": "industrial area Cuddalore",
+        "fetched_at": "2026-04-01T15:59:56.679529"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.756836,
+          11.682525
+        ]
+      },
+      "properties": {
+        "name": "Sipcot Industrial Estate, Cuddalore",
+        "place_id": "ola-platform:5000048698444",
+        "address": "Sipcot Industrial Estate, Cuddalore, Karaikkadu, Cuddalore, Tamil Nadu, 607003, India",
+        "district": "Cuddalore",
+        "state": "Tamil Nadu",
+        "types": [
+          "travel_agency"
+        ],
+        "query_used": "industrial estate Cuddalore Tamil Nadu",
+        "fetched_at": "2026-04-01T15:59:56.724934"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2133,
+          13.0151
+        ]
+      },
+      "properties": {
+        "name": "Thiru Vi Ka Industrial Estate",
+        "place_id": "ola-platform:5000198079556",
+        "address": "Thiru Vi Ka Industrial Estate, Sidco Industrial Estate, Guindy, Chennai, Tamil Nadu, 600032, India",
+        "district": "Cuddalore",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Cuddalore Tamil Nadu",
+        "fetched_at": "2026-04-01T15:59:56.740042"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.744895,
+          11.76636
+        ]
+      },
+      "properties": {
+        "name": "Sidco Industrial Estate",
+        "place_id": "ola-platform:5000068467658",
+        "address": "Sidco Industrial Estate, Sh9, Cuddalore - Chittoor Road, Friends Nagar, Semmandalam, Cuddalore, Tamil Nadu, 607006, India",
+        "district": "Cuddalore",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Cuddalore Tamil Nadu",
+        "fetched_at": "2026-04-01T15:59:56.756110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2091,
+          13.0235
+        ]
+      },
+      "properties": {
+        "name": "Thiru Vi Ka Industrial Estate",
+        "place_id": "ola-platform:5000184798252",
+        "address": "Thiru Vi Ka Industrial Estate, Saidapet, Chennai, Tamil Nadu, 600032, India",
+        "district": "Cuddalore",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Cuddalore Tamil Nadu",
+        "fetched_at": "2026-04-01T15:59:56.794808"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.770561,
+          11.720769
+        ]
+      },
+      "properties": {
+        "name": "Sri Vinayaka Metal And Manufacturing",
+        "place_id": "ola-platform:5000064727888",
+        "address": "Sri Vinayaka Metal And Manufacturing, Cuddalore Old Town Harbour, Cuddalore Old Town, Cuddalore, Tamil Nadu, 607003, India",
+        "district": "Cuddalore",
+        "state": "Tamil Nadu",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "manufacturing hub Cuddalore",
+        "fetched_at": "2026-04-01T15:59:56.929453"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.76391,
+          11.73277
+        ]
+      },
+      "properties": {
+        "name": "Iniyan Fishnet Manufacturing Unit",
+        "place_id": "ola-platform:5000042048450",
+        "address": "Iniyan Fishnet Manufacturing Unit, Cuddalore Chidambaram Hwy, Sellankuppam, Tamil Nadu, 607004, India",
+        "district": "Cuddalore",
+        "state": "Tamil Nadu",
+        "types": [
+          "point_of_interest"
+        ],
+        "query_used": "manufacturing hub Cuddalore",
+        "fetched_at": "2026-04-01T15:59:56.943081"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.133743,
+          12.09213
+        ]
+      },
+      "properties": {
+        "name": "Dharmapuri Tholimaiyam Sipcot Industrial Area",
+        "place_id": "ola-platform:5000061204665",
+        "address": "Dharmapuri Tholimaiyam Sipcot Industrial Area, Nallampalli, Dharmapuri, Tamil Nadu, 636704, India",
+        "district": "Dharmapuri",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Dharmapuri",
+        "fetched_at": "2026-04-01T15:59:59.495009"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4705,
+          12.0515
+        ]
+      },
+      "properties": {
+        "name": "Parvathy Arunachala Areca Plate Manufacturing Pvt Ltd",
+        "place_id": "ola-platform:5000037758820",
+        "address": "Parvathy Arunachala Areca Plate Manufacturing Pvt Ltd, Dharmapuri, Tamil Nadu, 636902, India",
+        "district": "Dharmapuri",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Dharmapuri",
+        "fetched_at": "2026-04-01T15:59:59.743363"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.108025,
+          12.051286
+        ]
+      },
+      "properties": {
+        "name": "Ford Manufacturing Company",
+        "place_id": "ola-platform:5000052116276",
+        "address": "Ford Manufacturing Company, Nallampalli, Dharmapuri, Tamil Nadu, 636807, India",
+        "district": "Dharmapuri",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Dharmapuri",
+        "fetched_at": "2026-04-01T15:59:59.756810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.9441,
+          10.3526
+        ]
+      },
+      "properties": {
+        "name": "Parimar Industrial Area",
+        "place_id": "ola-platform:5000052841282",
+        "address": "Parimar Industrial Area, Begambur, Tamil Nadu, 624002, India",
+        "district": "Dindigul",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Dindigul",
+        "fetched_at": "2026-04-01T16:00:03.341012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.9874,
+          10.3515
+        ]
+      },
+      "properties": {
+        "name": "Sidco Industrial Estate",
+        "place_id": "ola-platform:5000183480486",
+        "address": "Sidco Industrial Estate, Dindigul, Tamil Nadu, 624003, India",
+        "district": "Dindigul",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Dindigul Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:03.397950"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.9869,
+          10.3505
+        ]
+      },
+      "properties": {
+        "name": "14/237, Industrial Estate Rd",
+        "place_id": "ola-platform:5000197896925",
+        "address": "14/237, Industrial Estate Rd, Marinathapuram, Dindigul, Tamil Nadu, 624003, India",
+        "district": "Dindigul",
+        "state": "Tamil Nadu",
+        "types": [],
+        "query_used": "industrial estate Dindigul Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:03.408160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.9866,
+          10.34983
+        ]
+      },
+      "properties": {
+        "name": "58/3B, Industrial Estate Rd",
+        "place_id": "ola-platform:5000185386105",
+        "address": "58/3B, Industrial Estate Rd, Marinathapuram, Dindigul, Tamil Nadu, 624003, India",
+        "district": "Dindigul",
+        "state": "Tamil Nadu",
+        "types": [],
+        "query_used": "industrial estate Dindigul Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:03.417916"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.98719,
+          10.34975
+        ]
+      },
+      "properties": {
+        "name": "212, Industrial Estate Rd",
+        "place_id": "ola-platform:5000194522974",
+        "address": "212, Industrial Estate Rd, Marinathapuram, Dindigul, Tamil Nadu, 624003, India",
+        "district": "Dindigul",
+        "state": "Tamil Nadu",
+        "types": [],
+        "query_used": "industrial estate Dindigul Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:03.429888"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.98898,
+          10.3543
+        ]
+      },
+      "properties": {
+        "name": "66, Industrial Estate Rd",
+        "place_id": "ola-platform:5000197807417",
+        "address": "66, Industrial Estate Rd, Marinathapuram, Dindigul, Tamil Nadu, 624003, India",
+        "district": "Dindigul",
+        "state": "Tamil Nadu",
+        "types": [],
+        "query_used": "industrial estate Dindigul Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:03.440963"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.442232,
+          10.503195
+        ]
+      },
+      "properties": {
+        "name": "Gaura Electric Vehicles Manufacturing Pvt Ltd",
+        "place_id": "ola-platform:5000048903879",
+        "address": "Gaura Electric Vehicles Manufacturing Pvt Ltd, Udumalpet-Palani Rd, Kalaiyamputtur, Palani, Dindigul, Tamil Nadu, 624618, India",
+        "district": "Dindigul",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Dindigul",
+        "fetched_at": "2026-04-01T16:00:03.522386"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6867,
+          11.4067
+        ]
+      },
+      "properties": {
+        "name": "Mayapuram Industrial Areas",
+        "place_id": "ola-platform:5000057389559",
+        "address": "Mayapuram Industrial Areas, Bhavani Main Road, Erode, Tamil Nadu, 638005, India",
+        "district": "Erode",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial area Erode",
+        "fetched_at": "2026-04-01T16:00:05.769058"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5427,
+          11.2529
+        ]
+      },
+      "properties": {
+        "name": "Sidco Industrial Area 2",
+        "place_id": "ola-platform:5000035573744",
+        "address": "Sidco Industrial Area 2, Unnamed Road, Tamil Nadu, 638052, India",
+        "district": "Erode",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Erode",
+        "fetched_at": "2026-04-01T16:00:05.779752"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5564,
+          11.2318
+        ]
+      },
+      "properties": {
+        "name": "Sipcot Industrial Estate",
+        "place_id": "ola-platform:5000199839560",
+        "address": "Sipcot Industrial Estate, Perundurai, Meerjapur, Tamil Nadu, 638052, India",
+        "district": "Erode",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Erode Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:05.791304"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7173,
+          11.3269
+        ]
+      },
+      "properties": {
+        "name": "Sidco Industrial Estate",
+        "place_id": "ola-platform:5000193338455",
+        "address": "Sidco Industrial Estate, Jaganathapuram Colony, Erode, Tamil Nadu, 638009, India",
+        "district": "Erode",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Erode Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:05.802274"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7142,
+          11.32403
+        ]
+      },
+      "properties": {
+        "name": "Sidco Industrial Estate",
+        "place_id": "ola-platform:5000064142633",
+        "address": "Sidco Industrial Estate, Surampatti, Erode, Tamil Nadu, 638009, India",
+        "district": "Erode",
+        "state": "Tamil Nadu",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "industrial estate Erode Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:05.817158"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.70999,
+          11.31995
+        ]
+      },
+      "properties": {
+        "name": "Sidco Industrial Estate",
+        "place_id": "ola-platform:5000061046902",
+        "address": "Sidco Industrial Estate, Surampatti Valasu, Erode, Tamil Nadu, 638011, India",
+        "district": "Erode",
+        "state": "Tamil Nadu",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "industrial estate Erode Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:05.827734"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7755,
+          11.2651
+        ]
+      },
+      "properties": {
+        "name": "SKM Porna Oil Factory, Nanjai Uthukuli, Erode",
+        "place_id": "ola-platform:5000056754321",
+        "address": "SKM Porna Oil Factory, Nanjai Uthukuli, Erode, Nanjaiuthukuli, Tamil Nadu, 638104, India",
+        "district": "Erode",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Erode",
+        "fetched_at": "2026-04-01T16:00:05.860648"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.705864,
+          11.333955
+        ]
+      },
+      "properties": {
+        "name": "Madurai Jigarthanda Factory",
+        "place_id": "ola-platform:5000213972592",
+        "address": "Madurai Jigarthanda Factory, 68, Ground Floor, Veera Vega, Perundurai Road Erode, Palayapalayam, Erode, 638011, India",
+        "district": "Erode",
+        "state": "Tamil Nadu",
+        "types": [
+          "restaurant",
+          "meal_takeaway",
+          "meal_delivery"
+        ],
+        "query_used": "factory area Erode",
+        "fetched_at": "2026-04-01T16:00:05.871355"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8403,
+          11.2158
+        ]
+      },
+      "properties": {
+        "name": "SKM Egg Products Export (India) Limited- Factory",
+        "place_id": "ola-platform:5000057966519",
+        "address": "SKM Egg Products Export (India) Limited- Factory, Erode - Karur Rd, Kilampadi, Tamil Nadu, 638104, India",
+        "district": "Erode",
+        "state": "Tamil Nadu",
+        "types": [
+          "food"
+        ],
+        "query_used": "factory area Erode",
+        "fetched_at": "2026-04-01T16:00:05.883386"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.177143,
+          11.363511
+        ]
+      },
+      "properties": {
+        "name": "Yarn Manufacturing Mill",
+        "place_id": "ola-platform:5000050603344",
+        "address": "Yarn Manufacturing Mill, Thabovanam Rd, Sathyamangalam, Erode, Tamil Nadu, 638459, India",
+        "district": "Erode",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Erode",
+        "fetched_at": "2026-04-01T16:00:05.933270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.15566,
+          11.445087
+        ]
+      },
+      "properties": {
+        "name": "Senthil Plastics - Egg Tray Manufacturing Industry",
+        "place_id": "ola-platform:5000048932655",
+        "address": "Senthil Plastics - Egg Tray Manufacturing Industry, Mallikkarai - Rasipuram - Thiruchengode - Erode Road, Kurukkapuram, Rasipuram, Namakkal, Tamil Nadu, 637401, India",
+        "district": "Erode",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Erode",
+        "fetched_at": "2026-04-01T16:00:05.977849"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.186971,
+          11.614548
+        ]
+      },
+      "properties": {
+        "name": "Sidco Industrial Area Asanur",
+        "place_id": "ola-platform:5000046054038",
+        "address": "Sidco Industrial Area Asanur, IOCL Asanur, Asanur, Ulundurpettai, Kallakurichi, Tamil Nadu, 606305, India",
+        "district": "Kallakurichi",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Kallakurichi",
+        "fetched_at": "2026-04-01T16:00:08.768290"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.262443,
+          11.74738
+        ]
+      },
+      "properties": {
+        "name": "Zetford Manufacturing And Technologies Private Limited",
+        "place_id": "ola-platform:5000065642523",
+        "address": "Zetford Manufacturing And Technologies Private Limited, Rishivandhiyam - Eraiyur - Nemili Road, Ulundurpettai, Kallakurichi, Tamil Nadu, 606107, India",
+        "district": "Kallakurichi",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Kallakurichi",
+        "fetched_at": "2026-04-01T16:00:08.926525"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8991,
+          12.9169
+        ]
+      },
+      "properties": {
+        "name": "Sipcot Industrial Area Sungvachatram",
+        "place_id": "ola-platform:5000041175098",
+        "address": "Sipcot Industrial Area Sungvachatram, Sipcot Main Rd, Sriperumbudur, Tamil Nadu, 602105, India",
+        "district": "Kancheepuram",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Kancheepuram",
+        "fetched_at": "2026-04-01T16:00:11.479409"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9238,
+          12.8413
+        ]
+      },
+      "properties": {
+        "name": "Kandigai, Vandalur Walajabad Highway, Sriperumbudur, Kancheepuram District, Oragadam Industrial Area",
+        "place_id": "ola-platform:5000222304120",
+        "address": "Kandigai, Vandalur Walajabad Highway, Sriperumbudur, Kancheepuram District, Oragadam Industrial Area, Kandigai, Kushwaha Nagar, Tamil Nadu 631604, India",
+        "district": "Kancheepuram",
+        "state": "Tamil Nadu",
+        "types": [
+          "car_repair"
+        ],
+        "query_used": "industrial area Kancheepuram",
+        "fetched_at": "2026-04-01T16:00:11.501238"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0996,
+          12.9737
+        ]
+      },
+      "properties": {
+        "name": "VLC Mini Industrial Area",
+        "place_id": "ola-platform:5000042135940",
+        "address": "VLC Mini Industrial Area, Irandankattalai, Tamil Nadu, 600069, India",
+        "district": "Kancheepuram",
+        "state": "Tamil Nadu",
+        "types": [
+          "storage"
+        ],
+        "query_used": "industrial area Kancheepuram",
+        "fetched_at": "2026-04-01T16:00:11.513498"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9098,
+          12.8999
+        ]
+      },
+      "properties": {
+        "name": "Sipcot Industrial Area",
+        "place_id": "ola-platform:5000055793603",
+        "address": "Sipcot Industrial Area, Unnamed Road, Panruti, Tamil Nadu, 602105, India",
+        "district": "Kancheepuram",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Kancheepuram",
+        "fetched_at": "2026-04-01T16:00:11.525415"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9371,
+          12.9482
+        ]
+      },
+      "properties": {
+        "name": "Central Kitchen (Salcomp Industrial Area)",
+        "place_id": "ola-platform:5000042245879",
+        "address": "Central Kitchen (Salcomp Industrial Area), Nokia, V.R.P. Chatram, Sriperumbudur, Tamil Nadu, 602105, India",
+        "district": "Kancheepuram",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Kancheepuram",
+        "fetched_at": "2026-04-01T16:00:11.538401"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2106,
+          13.0093
+        ]
+      },
+      "properties": {
+        "name": "Guindy Police Station",
+        "place_id": "ola-platform:5000053148122",
+        "address": "Guindy Police Station, Alandur Rd, Guindy Industrial Estate, Sidco Industrial Estate, Guindy, Chennai, Tamil Nadu, 600032, India",
+        "district": "Kancheepuram",
+        "state": "Tamil Nadu",
+        "types": [
+          "police"
+        ],
+        "query_used": "industrial estate Kancheepuram Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:11.551488"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2112,
+          13.0089
+        ]
+      },
+      "properties": {
+        "name": "Bus Stop For Pondicherry",
+        "place_id": "ola-platform:5000063333909",
+        "address": "Bus Stop For Pondicherry, Guindy Industrial Estate, Guindy Institutional Area, Sidco Industrial Estate, Guindy, Chennai, Tamil Nadu, 600032, India",
+        "district": "Kancheepuram",
+        "state": "Tamil Nadu",
+        "types": [
+          "bus_station",
+          "transit_station"
+        ],
+        "query_used": "industrial estate Kancheepuram Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:11.563571"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2108,
+          13.0094
+        ]
+      },
+      "properties": {
+        "name": "J3 Police Station, Gundy",
+        "place_id": "ola-platform:5000053148059",
+        "address": "J3 Police Station, Gundy, Gundy Bus Stand, Guindy Industrial Estate, Sidco Industrial Estate, Guindy, Chennai, Tamil Nadu, 600032, India",
+        "district": "Kancheepuram",
+        "state": "Tamil Nadu",
+        "types": [
+          "police"
+        ],
+        "query_used": "industrial estate Kancheepuram Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:11.575390"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1628,
+          13.1061
+        ]
+      },
+      "properties": {
+        "name": "PSB Conventions",
+        "place_id": "ola-platform:5000048798734",
+        "address": "PSB Conventions, 21 F, 3rd Main Rd, Tass Industrial Estate, Sidco Industrial Estate, Ambattur, Chennai, Tamil Nadu, 600053, India",
+        "district": "Kancheepuram",
+        "state": "Tamil Nadu",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial estate Kancheepuram Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:11.587816"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1617,
+          13.1016
+        ]
+      },
+      "properties": {
+        "name": "Ambattur Estate Telephone Exchange",
+        "place_id": "ola-platform:5000065870967",
+        "address": "Ambattur Estate Telephone Exchange, National Highway 205, Mahathma Gandhi Nagar, Tass Industrial Estate, Sidco Industrial Estate, Anna Nagar, Chennai, Tamil Nadu, 600053, India",
+        "district": "Kancheepuram",
+        "state": "Tamil Nadu",
+        "types": [
+          "local_government_office"
+        ],
+        "query_used": "industrial estate Kancheepuram Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:11.599894"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.6037,
+          12.8812
+        ]
+      },
+      "properties": {
+        "name": "Teemage Factory Kanchipuram",
+        "place_id": "ola-platform:5000051714126",
+        "address": "Teemage Factory Kanchipuram, Survey No. 674, Damal Colony, Damal, Tamil Nadu, 631551, India",
+        "district": "Kancheepuram",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Kancheepuram",
+        "fetched_at": "2026-04-01T16:00:11.625128"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.807,
+          12.9045
+        ]
+      },
+      "properties": {
+        "name": "Twcc Factory Kanchipuram",
+        "place_id": "ola-platform:5000047341488",
+        "address": "Twcc Factory Kanchipuram, Keeranallur, Tamil Nadu, 631561, India",
+        "district": "Kancheepuram",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Kancheepuram",
+        "fetched_at": "2026-04-01T16:00:11.642377"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9102,
+          12.8528
+        ]
+      },
+      "properties": {
+        "name": "Amuse 3D Factory (Amuse 3D - Factory)",
+        "place_id": "ola-platform:5000065811226",
+        "address": "Amuse 3D Factory (Amuse 3D - Factory), Amuse 3D - Factory, SF No.139/ A, Plot No. 3&4, Panrutti Village, Sriperumpudur Taluk, Kancheepuram Dist, Tamil Nadu, 631604, India",
+        "district": "Kancheepuram",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Kancheepuram",
+        "fetched_at": "2026-04-01T16:00:11.659320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.136874,
+          12.838871
+        ]
+      },
+      "properties": {
+        "name": "IIITDM Kancheepuram (Indian Institute Of Information Technology Design And Manufacturing Kancheepuram)",
+        "place_id": "ola-platform:5000048935015",
+        "address": "IIITDM Kancheepuram (Indian Institute Of Information Technology Design And Manufacturing Kancheepuram), Academic Block, Vandalur - Mambakkam - Kelambakkam Road, Kolapakkam, Tiruporur, Chengalpattu, Tamil Nadu, 600127, India",
+        "district": "Kancheepuram",
+        "state": "Tamil Nadu",
+        "types": [
+          "university"
+        ],
+        "query_used": "manufacturing hub Kancheepuram",
+        "fetched_at": "2026-04-01T16:00:11.695209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1373,
+          12.8379
+        ]
+      },
+      "properties": {
+        "name": "Indian Institute Of Information Technology Design And Manufacturing Kancheepuram (Indian Institute Of Information Technology, Design And Manufacturing, Kancheepuram)",
+        "place_id": "ola-platform:5000055646097",
+        "address": "Indian Institute Of Information Technology Design And Manufacturing Kancheepuram (Indian Institute Of Information Technology, Design And Manufacturing, Kancheepuram), 600127, Indian Institute Of Information Technology, Design And Manufacturing, Kancheepuram, Melakottaiyur, Nellikuppam Rd, Near Kandigai, Off Vandalur-Kelambakkam Road, Chennai, Vengadamangalam, Tamil Nadu",
+        "district": "Kancheepuram",
+        "state": "Tamil Nadu",
+        "types": [
+          "university"
+        ],
+        "query_used": "manufacturing hub Kancheepuram",
+        "fetched_at": "2026-04-01T16:00:11.713308"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1374,
+          12.8394
+        ]
+      },
+      "properties": {
+        "name": "Indian Institute Of Information Technology, Design And Manufacturing, Kancheepuram",
+        "place_id": "ola-platform:5000220057077",
+        "address": "Indian Institute Of Information Technology, Design And Manufacturing, Kancheepuram, Melakottaiyur, Off Kelambakkam - Vandalur Road, Kandigai, Nellikuppam, Tamil Nadu 600127, India",
+        "district": "Kancheepuram",
+        "state": "Tamil Nadu",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "manufacturing hub Kancheepuram",
+        "fetched_at": "2026-04-01T16:00:11.738894"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.136565,
+          12.839068
+        ]
+      },
+      "properties": {
+        "name": "Indian Institute Of Information Technology Design And Manufacturing Kancheepuram Parking",
+        "place_id": "ola-platform:5000043529860",
+        "address": "Indian Institute Of Information Technology Design And Manufacturing Kancheepuram Parking, Academic Block, Vandalur - Mambakkam - Kelambakkam Road, Kolapakkam, Tiruporur, Chengalpattu, Tamil Nadu, 600127, India",
+        "district": "Kancheepuram",
+        "state": "Tamil Nadu",
+        "types": [
+          "parking"
+        ],
+        "query_used": "manufacturing hub Kancheepuram",
+        "fetched_at": "2026-04-01T16:00:11.773090"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.66753,
+          8.865879
+        ]
+      },
+      "properties": {
+        "name": "Kerala State Beverages (manufacturing&marketing) Corporation Limited [ A Gov Of Kerala Undertaking] (Kerala State Beverages (manufacturingandmarketing) Corporation Limited [ A Gov Of Kerala Undertaking])",
+        "place_id": "ola-platform:5000038003364",
+        "address": "Kerala State Beverages (manufacturing&marketing) Corporation Limited [ A Gov Of Kerala Undertaking] (Kerala State Beverages (manufacturingandmarketing) Corporation Limited [ A Gov Of Kerala Undertaking]), Sumayya Auditorium, Salem - Kochi - Kanyakumari Road, Mevaram, Kottiyam, Kollam, Kerala, 691589, India",
+        "district": "Kanyakumari",
+        "state": "Tamil Nadu",
+        "types": [
+          "liquor_store"
+        ],
+        "query_used": "manufacturing hub Kanyakumari",
+        "fetched_at": "2026-04-01T16:00:15.035097"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.102898,
+          10.95613
+        ]
+      },
+      "properties": {
+        "name": "Maple Bear International PreSchool Karur Tamil Nadu (Maple Bear International Pre School Karur)",
+        "place_id": "ola-platform:5000053312571",
+        "address": "Maple Bear International PreSchool Karur Tamil Nadu (Maple Bear International Pre School Karur), Sipcot Industrial Estate, Karur, Tamil Nadu, 639007, India",
+        "district": "Karur",
+        "state": "Tamil Nadu",
+        "types": [
+          "primary_school"
+        ],
+        "query_used": "industrial estate Karur Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:17.503150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0672,
+          11.0014
+        ]
+      },
+      "properties": {
+        "name": "Sidco New Industrial Estate",
+        "place_id": "ola-platform:5000049994769",
+        "address": "Sidco New Industrial Estate, Karur, Tamil Nadu, 639008, India",
+        "district": "Karur",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Karur Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:17.520339"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.11189,
+          10.95775
+        ]
+      },
+      "properties": {
+        "name": "Enoch 28, Industrial Estate",
+        "place_id": "ola-platform:5000194103079",
+        "address": "Enoch 28, Industrial Estate, S.Vellalapatty Post, Senapiratti, Karur, Tamil Nadu, 639004, India",
+        "district": "Karur",
+        "state": "Tamil Nadu",
+        "types": [],
+        "query_used": "industrial estate Karur Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:17.535917"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.064501,
+          11.000557
+        ]
+      },
+      "properties": {
+        "name": "Aattur Industrial Estate",
+        "place_id": "ola-platform:5000064975394",
+        "address": "Aattur Industrial Estate, Chinnavadugapatti, Periyavadugapatti, Karur, Tamil Nadu, 639008, India",
+        "district": "Karur",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Karur Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:17.554124"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.01488,
+          11.06888
+        ]
+      },
+      "properties": {
+        "name": "Pugalur Sugar Factory Post",
+        "place_id": "ola-platform:5000197925755",
+        "address": "Pugalur Sugar Factory Post, 37, Ram Nagar North, Karur, Tamil Nadu, 639113, India",
+        "district": "Karur",
+        "state": "Tamil Nadu",
+        "types": [],
+        "query_used": "factory area Karur",
+        "fetched_at": "2026-04-01T16:00:17.626363"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.825314,
+          12.7368
+        ]
+      },
+      "properties": {
+        "name": "Electrical And Electronics Industrial Area",
+        "place_id": "ola-platform:5000056151151",
+        "address": "Electrical And Electronics Industrial Area, Hosur, Krishnagiri, Tamil Nadu, 635109, India",
+        "district": "Krishnagiri",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Krishnagiri",
+        "fetched_at": "2026-04-01T16:00:20.119947"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1219,
+          12.6031
+        ]
+      },
+      "properties": {
+        "name": "Sipcot Industrial Area, Kurubarapalli",
+        "place_id": "ola-platform:5000056307042",
+        "address": "Sipcot Industrial Area, Kurubarapalli, Ah45, Puliyancheri, Tamil Nadu, 635122, India",
+        "district": "Krishnagiri",
+        "state": "Tamil Nadu",
+        "types": [
+          "real_estate_agency"
+        ],
+        "query_used": "industrial area Krishnagiri",
+        "fetched_at": "2026-04-01T16:00:20.133668"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8264,
+          12.7389
+        ]
+      },
+      "properties": {
+        "name": "New Sidco Industrial Area",
+        "place_id": "ola-platform:5000202147275",
+        "address": "New Sidco Industrial Area, Avalapalli Hudco, Tamil Nadu, 635109, India",
+        "district": "Krishnagiri",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Krishnagiri",
+        "fetched_at": "2026-04-01T16:00:20.145617"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7977,
+          12.7601
+        ]
+      },
+      "properties": {
+        "name": "Sipcot Industrial Area",
+        "place_id": "ola-platform:5000184136154",
+        "address": "Sipcot Industrial Area, 66-A, Opposite To ESI, Phase-1, Sipcot Ph. I, Mookondapalli, Hosur, Tamil Nadu, 635126, India",
+        "district": "Krishnagiri",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Krishnagiri",
+        "fetched_at": "2026-04-01T16:00:20.159519"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7835,
+          12.7056
+        ]
+      },
+      "properties": {
+        "name": "KIADB Industrial Area",
+        "place_id": "ola-platform:5000039518556",
+        "address": "KIADB Industrial Area, Veerapura, Tamil Nadu, 635110, India",
+        "district": "Krishnagiri",
+        "state": "Tamil Nadu",
+        "types": [
+          "lodging"
+        ],
+        "query_used": "industrial area Krishnagiri",
+        "fetched_at": "2026-04-01T16:00:20.172307"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.2095,
+          12.5288
+        ]
+      },
+      "properties": {
+        "name": "Industrial Post Office",
+        "place_id": "ola-platform:5000045485242",
+        "address": "Industrial Post Office, Industrial Estate, Londenpet, Krishnagiri, Tamil Nadu, 635122, India",
+        "district": "Krishnagiri",
+        "state": "Tamil Nadu",
+        "types": [
+          "post_office"
+        ],
+        "query_used": "industrial estate Krishnagiri Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:20.185437"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7984,
+          12.7703
+        ]
+      },
+      "properties": {
+        "name": "Sidco Industrial Estate",
+        "place_id": "ola-platform:5000184757525",
+        "address": "Sidco Industrial Estate, Sipcot Ph. I, Hosur, Tamil Nadu, 635126, India",
+        "district": "Krishnagiri",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Krishnagiri Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:20.198108"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.9866,
+          12.6808
+        ]
+      },
+      "properties": {
+        "name": "Sipcot Industrial Estate Shoolagiri",
+        "place_id": "ola-platform:5000056342714",
+        "address": "Sipcot Industrial Estate Shoolagiri, Schaeffler India Limited, Hosur New Plant, Plot No 29, Sipcot Industrial Estate Shoolagiri, Krishnagiri, Schaeffler 635117, India Limited, Hosur New Plant, Plot No 29, Sipcot Industrial Estate Shoolagiri, Krishnagiri, Plot No 29, Sipcot Industrial Estate, Shoolagiri, Hosur, Tamil Nadu",
+        "district": "Krishnagiri",
+        "state": "Tamil Nadu",
+        "types": [
+          "storage"
+        ],
+        "query_used": "industrial estate Krishnagiri Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:20.209594"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.2073,
+          12.5282
+        ]
+      },
+      "properties": {
+        "name": "Subway To Industrial Estate",
+        "place_id": "ola-platform:5000189658199",
+        "address": "Subway To Industrial Estate, Londenpet, Krishnagiri, Tamil Nadu, 635122, India",
+        "district": "Krishnagiri",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Krishnagiri Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:20.222360"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.20962,
+          12.52789
+        ]
+      },
+      "properties": {
+        "name": "K1, Industrial Estate",
+        "place_id": "ola-platform:5000191627371",
+        "address": "K1, Industrial Estate, Londenpet, Krishnagiri, Tamil Nadu, 635122, India",
+        "district": "Krishnagiri",
+        "state": "Tamil Nadu",
+        "types": [],
+        "query_used": "industrial estate Krishnagiri Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:20.236526"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.419,
+          12.3132
+        ]
+      },
+      "properties": {
+        "name": "Ola Scooter Factory 2nd Unit",
+        "place_id": "ola-platform:5000035174860",
+        "address": "Ola Scooter Factory 2nd Unit, Krishnagiri, Tamil Nadu, 635203, India",
+        "district": "Krishnagiri",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Krishnagiri",
+        "fetched_at": "2026-04-01T16:00:20.260999"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0867,
+          12.6099
+        ]
+      },
+      "properties": {
+        "name": "Simple Energy Factory | Simple Vision 1.0 (Simple Vision 1.0 - Manufacturing Plant)",
+        "place_id": "ola-platform:5000062529310",
+        "address": "Simple Energy Factory | Simple Vision 1.0 (Simple Vision 1.0 - Manufacturing Plant), Simple Vision 1.0 - Manufacturing Plant, Survey No.74/4, Shoolagiri, Block - 2, Taluk, Melumalai, Krishnagiri, Tamil Nadu, 635117, India",
+        "district": "Krishnagiri",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Krishnagiri",
+        "fetched_at": "2026-04-01T16:00:20.274020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.22716,
+          12.512403
+        ]
+      },
+      "properties": {
+        "name": "SS Automotive Manufacturing",
+        "place_id": "ola-platform:5000067980496",
+        "address": "SS Automotive Manufacturing, Krishnagiri, Tamil Nadu, 635001, India",
+        "district": "Krishnagiri",
+        "state": "Tamil Nadu",
+        "types": [
+          "car_repair"
+        ],
+        "query_used": "manufacturing hub Krishnagiri",
+        "fetched_at": "2026-04-01T16:00:20.313834"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.840732,
+          12.719861
+        ]
+      },
+      "properties": {
+        "name": "Sri Sathya Sai EnterPrises, Knitted Gloves Manufacturing",
+        "place_id": "ola-platform:5000048089192",
+        "address": "Sri Sathya Sai EnterPrises, Knitted Gloves Manufacturing, Hosur, Krishnagiri, Tamil Nadu, 635109, India",
+        "district": "Krishnagiri",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Krishnagiri",
+        "fetched_at": "2026-04-01T16:00:20.325811"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.866351,
+          12.726624
+        ]
+      },
+      "properties": {
+        "name": "Viyoma Computer Aided Manufacturing Pvt Ltd",
+        "place_id": "ola-platform:5000038732467",
+        "address": "Viyoma Computer Aided Manufacturing Pvt Ltd, Hosur, Krishnagiri, Tamil Nadu, 635109, India",
+        "district": "Krishnagiri",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Krishnagiri",
+        "fetched_at": "2026-04-01T16:00:20.342970"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.791689,
+          12.762238
+        ]
+      },
+      "properties": {
+        "name": "MRT Manufacturing Corporation Ltd",
+        "place_id": "ola-platform:5000053010894",
+        "address": "MRT Manufacturing Corporation Ltd, Zuzuvadi, Hosur, Krishnagiri, Tamil Nadu, 635126, India",
+        "district": "Krishnagiri",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Krishnagiri",
+        "fetched_at": "2026-04-01T16:00:20.358016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.151205,
+          9.944
+        ]
+      },
+      "properties": {
+        "name": "Sidco Industrial Area",
+        "place_id": "ola-platform:5000036099368",
+        "address": "Sidco Industrial Area, Madurai, Madurai North, Madurai, Tamil Nadu, 625007, India",
+        "district": "Madurai",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Madurai",
+        "fetched_at": "2026-04-01T16:00:22.827067"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8985,
+          9.8995
+        ]
+      },
+      "properties": {
+        "name": "Okhla Phase1 Okhla Industrial Areaa",
+        "place_id": "ola-platform:5000042839567",
+        "address": "Okhla Phase1 Okhla Industrial Areaa, P. Vagaikulam, Tamil Nadu, 625706, India",
+        "district": "Madurai",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial area Madurai",
+        "fetched_at": "2026-04-01T16:00:22.840546"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1442,
+          9.9428
+        ]
+      },
+      "properties": {
+        "name": "Tamil Nadu Electricity Board TNEB Madurai",
+        "place_id": "ola-platform:5000063097088",
+        "address": "Tamil Nadu Electricity Board TNEB Madurai, Race Course Rd, Mellur, Industrial Estate, K.Pudur, Tamil Nadu, 625002, India",
+        "district": "Madurai",
+        "state": "Tamil Nadu",
+        "types": [
+          "local_government_office"
+        ],
+        "query_used": "industrial estate Madurai Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:22.882491"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0216,
+          9.8632
+        ]
+      },
+      "properties": {
+        "name": "Sidco Industrial Estate, Kappalur, Thirumangalam, Madurai -625 008",
+        "place_id": "ola-platform:5000061740438",
+        "address": "Sidco Industrial Estate, Kappalur, Thirumangalam, Madurai -625 008, Uchapatti, Tamil Nadu, 625008, India",
+        "district": "Madurai",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Madurai Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:22.898526"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1359,
+          9.8959
+        ]
+      },
+      "properties": {
+        "name": "Madurai Pandian Appalam Factory",
+        "place_id": "ola-platform:5000066195482",
+        "address": "Madurai Pandian Appalam Factory, Chinthamani, Tamil Nadu, 625009, India",
+        "district": "Madurai",
+        "state": "Tamil Nadu",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "factory area Madurai",
+        "fetched_at": "2026-04-01T16:00:22.954368"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1176,
+          9.877
+        ]
+      },
+      "properties": {
+        "name": "Yuvraj Pyro Mart",
+        "place_id": "ola-platform:5000059813913",
+        "address": "Yuvraj Pyro Mart, | Yuvraj Fireworks Industries | Fireworks Crackers Shop Madurai | Factory Outlet Shop, Avaniapuram ByPass, Road, Airport Rd, Madurai, Tamil Nadu, 625012, India",
+        "district": "Madurai",
+        "state": "Tamil Nadu",
+        "types": [
+          "store"
+        ],
+        "query_used": "factory area Madurai",
+        "fetched_at": "2026-04-01T16:00:22.967904"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.12132,
+          9.93682
+        ]
+      },
+      "properties": {
+        "name": "Madurai Bag Manufacturing Mdbags",
+        "place_id": "ola-platform:5000062961904",
+        "address": "Madurai Bag Manufacturing Mdbags, 55 Ahimshaburam West Street Masjid (opp, Thiyagi Balu, Sellur, Madurai, Tamil Nadu, 625002, India",
+        "district": "Madurai",
+        "state": "Tamil Nadu",
+        "types": [
+          "point_of_interest"
+        ],
+        "query_used": "manufacturing hub Madurai",
+        "fetched_at": "2026-04-01T16:00:22.983083"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.15584,
+          9.889481
+        ]
+      },
+      "properties": {
+        "name": "Madurai Meenakshi Appalam / Meenas Appalam (Anakamus Manufacturing)",
+        "place_id": "ola-platform:5000066966501",
+        "address": "Madurai Meenakshi Appalam / Meenas Appalam (Anakamus Manufacturing), Madurai Ring Road, Viraganur, Madurai South, Madurai, Tamil Nadu, 625009, India",
+        "district": "Madurai",
+        "state": "Tamil Nadu",
+        "types": [
+          "store"
+        ],
+        "query_used": "manufacturing hub Madurai",
+        "fetched_at": "2026-04-01T16:00:22.996328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0997,
+          9.9323
+        ]
+      },
+      "properties": {
+        "name": "Madurai Taluka Venaivelai Material Manufacturing Society",
+        "place_id": "ola-platform:5000058113295",
+        "address": "Madurai Taluka Venaivelai Material Manufacturing Society, 31, Visuvasapuri 3rd St, Pethaniapuram 2, Gnanaolipuram, Madurai, Tamil Nadu, 625016, India",
+        "district": "Madurai",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise",
+          "subpremise"
+        ],
+        "query_used": "manufacturing hub Madurai",
+        "fetched_at": "2026-04-01T16:00:23.010950"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.15762,
+          11.46601
+        ]
+      },
+      "properties": {
+        "name": "Namakkal 33/1, Sri Vaari Sago Factory",
+        "place_id": "ola-platform:5000188653505",
+        "address": "Namakkal 33/1, Sri Vaari Sago Factory, Muthukalipatti, Rasipuram, Tamil Nadu, 637401, India",
+        "district": "Namakkal",
+        "state": "Tamil Nadu",
+        "types": [],
+        "query_used": "factory area Namakkal",
+        "fetched_at": "2026-04-01T16:00:30.907028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1399,
+          11.6266
+        ]
+      },
+      "properties": {
+        "name": "Allen Solly Factory Outlet",
+        "place_id": "ola-platform:5000060886707",
+        "address": "Allen Solly Factory Outlet, Allen Solly, No. 57, Salem-Bangalore Highway, Salem - Namakkal Rd, Seelanaickenpatti, Salem, Tamil Nadu, 636201, India",
+        "district": "Namakkal",
+        "state": "Tamil Nadu",
+        "types": [
+          "clothing_store"
+        ],
+        "query_used": "factory area Namakkal",
+        "fetched_at": "2026-04-01T16:00:30.936962"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.712784,
+          11.437758
+        ]
+      },
+      "properties": {
+        "name": "Power Tex Manufacturing",
+        "place_id": "ola-platform:5000050512800",
+        "address": "Power Tex Manufacturing, Kottamedu, Kumarapalayam, Namakkal, Tamil Nadu, 638183, India",
+        "district": "Namakkal",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Namakkal",
+        "fetched_at": "2026-04-01T16:00:30.982066"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1536,
+          11.2492
+        ]
+      },
+      "properties": {
+        "name": "Rithvig Roofing (A Manufacturing Unit)",
+        "place_id": "ola-platform:5000051648012",
+        "address": "Rithvig Roofing (A Manufacturing Unit), 190/2, ByPass Road, Mudalaipatti (Post), Nallipalayam, Via, Swamy Nagar, Namakkal, Tamil Nadu, 637001, India",
+        "district": "Namakkal",
+        "state": "Tamil Nadu",
+        "types": [
+          "roofing_contractor",
+          "store"
+        ],
+        "query_used": "manufacturing hub Namakkal",
+        "fetched_at": "2026-04-01T16:00:31.009837"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.801561,
+          11.344285
+        ]
+      },
+      "properties": {
+        "name": "Nilga Apparel Manufacturing Company",
+        "place_id": "ola-platform:5000056362938",
+        "address": "Nilga Apparel Manufacturing Company, Nilgiri's, Figure Of Eight Road, Bedford, Coonoor, Nilgiris, Tamil Nadu, 643101, India",
+        "district": "Nilgiris",
+        "state": "Tamil Nadu",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "manufacturing hub Nilgiris",
+        "fetched_at": "2026-04-01T16:00:34.017801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.86313,
+          11.165083
+        ]
+      },
+      "properties": {
+        "name": "MRF Tyres Manufacturing Plant Trichy Unit 1",
+        "place_id": "ola-platform:5000064358598",
+        "address": "MRF Tyres Manufacturing Plant Trichy Unit 1, Grand Southern Trunk Road, Siruvachur, Perambalur, Tamil Nadu, 621220, India",
+        "district": "Perambalur",
+        "state": "Tamil Nadu",
+        "types": [
+          "car_repair"
+        ],
+        "query_used": "manufacturing hub Perambalur",
+        "fetched_at": "2026-04-01T16:00:36.635315"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7348,
+          10.6784
+        ]
+      },
+      "properties": {
+        "name": "Mathur Sidco Industrial Area",
+        "place_id": "ola-platform:5000035720292",
+        "address": "Mathur Sidco Industrial Area, Ramanathapuram Rd, Mathur, Tamil Nadu, 622515, India",
+        "district": "Pudukkottai",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Pudukkottai",
+        "fetched_at": "2026-04-01T16:00:39.067583"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7427,
+          10.6846
+        ]
+      },
+      "properties": {
+        "name": "Ezabella Apartment Sidco Industrial Area",
+        "place_id": "ola-platform:5000053078005",
+        "address": "Ezabella Apartment Sidco Industrial Area, Mandaiyur, Tamil Nadu, 622515, India",
+        "district": "Pudukkottai",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Pudukkottai",
+        "fetched_at": "2026-04-01T16:00:39.083429"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.823901,
+          10.387106
+        ]
+      },
+      "properties": {
+        "name": "Pudukkottai Industrial Estate Post Office",
+        "place_id": "ola-platform:5000055714657",
+        "address": "Pudukkottai Industrial Estate Post Office, Kamarajapuram, Pudukkottai, Pudukkottai Taluk, Pudukkottai, Tamil Nadu, 622001, India",
+        "district": "Pudukkottai",
+        "state": "Tamil Nadu",
+        "types": [
+          "post_office"
+        ],
+        "query_used": "industrial estate Pudukkottai Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:39.134606"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7856,
+          10.4173
+        ]
+      },
+      "properties": {
+        "name": "Pudukottai Sipcot Industrial Estate",
+        "place_id": "ola-platform:5000063936934",
+        "address": "Pudukottai Sipcot Industrial Estate, Sipcot Complex, Nathampannai, Tamil Nadu, 622004, India",
+        "district": "Pudukkottai",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Pudukkottai Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:39.150722"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.834444,
+          10.401096
+        ]
+      },
+      "properties": {
+        "name": "Sidco Industrial Estate",
+        "place_id": "ola-platform:5000059739221",
+        "address": "Sidco Industrial Estate, Machuvadi, Pudukkottai (North), Pudukkottai Taluk, Pudukkottai, Tamil Nadu, 622004, India",
+        "district": "Pudukkottai",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Pudukkottai Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:39.169004"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.835434,
+          10.403159
+        ]
+      },
+      "properties": {
+        "name": "Sidco Industrial Estate",
+        "place_id": "ola-platform:5000048469028",
+        "address": "Sidco Industrial Estate, Thanjavur - Manamadurai Road (Old Nh226), Brindavan, Subashnagar, Pudukkottai, Pudukkottai Taluk, Pudukkottai, Tamil Nadu, 622004, India",
+        "district": "Pudukkottai",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Pudukkottai Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:39.184643"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.8358,
+          10.40177
+        ]
+      },
+      "properties": {
+        "name": "Sidco Industrial Estate",
+        "place_id": "ola-platform:5000191273094",
+        "address": "Sidco Industrial Estate, Pudukkottai, Pudukkottai R.F, Tamil Nadu, 622004, India",
+        "district": "Pudukkottai",
+        "state": "Tamil Nadu",
+        "types": [],
+        "query_used": "industrial estate Pudukkottai Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:39.201282"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.30429,
+          12.95683
+        ]
+      },
+      "properties": {
+        "name": "Ranipet Industrial Estate Sub Post Office",
+        "place_id": "ola-platform:5000036612032",
+        "address": "Ranipet Industrial Estate Sub Post Office, Sipcot Police Station, NH 4, Madras Bangalore Trunk Road, BharathI Nagar, Karai, Ranipet, Wallajah, Ranipet, Tamil Nadu, 632403, India",
+        "district": "Ranipet",
+        "state": "Tamil Nadu",
+        "types": [
+          "post_office"
+        ],
+        "query_used": "industrial estate Ranipet Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:45.019778"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.6661,
+          13.0751
+        ]
+      },
+      "properties": {
+        "name": "Sidco Industrial Estate - Ammanur Village (Sidco Industrial Estate - Arakkonam)",
+        "place_id": "ola-platform:5000047867919",
+        "address": "Sidco Industrial Estate - Ammanur Village (Sidco Industrial Estate - Arakkonam), Sidco Industrial Estate - Arakkonam, Combined Court Building, Winterpet, Arakkonam, Tamil Nadu, 631005, India",
+        "district": "Ranipet",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Ranipet Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:45.034355"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.30172,
+          12.96415
+        ]
+      },
+      "properties": {
+        "name": "34, Sidco Industrial Estate",
+        "place_id": "ola-platform:5000199155098",
+        "address": "34, Sidco Industrial Estate, Ranipet Sipcot, Ranipet, Tamil Nadu, 632403, India",
+        "district": "Ranipet",
+        "state": "Tamil Nadu",
+        "types": [],
+        "query_used": "industrial estate Ranipet Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:45.052294"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.3277,
+          12.9275
+        ]
+      },
+      "properties": {
+        "name": "Roca Bathroom Products Private Limited (sanitary Ware Factory)",
+        "place_id": "ola-platform:5000060145831",
+        "address": "Roca Bathroom Products Private Limited (sanitary Ware Factory), Gandhi Rd, Ranipet, Tamil Nadu, 632401, India",
+        "district": "Ranipet",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "factory area Ranipet",
+        "fetched_at": "2026-04-01T16:00:45.284346"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.315368,
+          12.952235
+        ]
+      },
+      "properties": {
+        "name": "Chemidye Manufacturing",
+        "place_id": "ola-platform:5000036075816",
+        "address": "Chemidye Manufacturing, Ultramarine & Pigments Limited, 25B, Madras Bangalore Trunk Road, BharathI Nagar, Karai, Ranipet, Wallajah, Ranipet, Tamil Nadu, 632403, India",
+        "district": "Ranipet",
+        "state": "Tamil Nadu",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "manufacturing hub Ranipet",
+        "fetched_at": "2026-04-01T16:00:45.363880"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.419694,
+          13.113222
+        ]
+      },
+      "properties": {
+        "name": "Om TV Manufacturing Pvt Ltd",
+        "place_id": "ola-platform:5000067160700",
+        "address": "Om TV Manufacturing Pvt Ltd, Melvanniyar Harijan Colony, Sholinghur, Wallajah, Ranipet, Tamil Nadu, 631102, India",
+        "district": "Ranipet",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Ranipet",
+        "fetched_at": "2026-04-01T16:00:45.377190"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.066996,
+          11.589241
+        ]
+      },
+      "properties": {
+        "name": "Sidco Industrial Estate Veerapandi Salem",
+        "place_id": "ola-platform:17631",
+        "address": "Sidco Industrial Estate Veerapandi Salem, Tamil Nadu, India",
+        "district": "Salem",
+        "state": "Tamil Nadu",
+        "types": [
+          "locality"
+        ],
+        "query_used": "industrial estate Salem Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:47.458143"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.134012,
+          11.678542
+        ]
+      },
+      "properties": {
+        "name": "Sidco Industrial Estate",
+        "place_id": "ola-platform:5000038299905",
+        "address": "Sidco Industrial Estate, Industrial Estate, Meyyanur, Salem West, Salem, Tamil Nadu, 636016, India",
+        "district": "Salem",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Salem Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:47.475492"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.13305,
+          11.6776
+        ]
+      },
+      "properties": {
+        "name": "No-15, Sidco Industrial Estate",
+        "place_id": "ola-platform:5000188611176",
+        "address": "No-15, Sidco Industrial Estate, Five Rode, Salem -636016, Sidco Industrial Estate, Salem, Tamil Nadu",
+        "district": "Salem",
+        "state": "Tamil Nadu",
+        "types": [],
+        "query_used": "industrial estate Salem Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:47.492320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1343,
+          11.6777
+        ]
+      },
+      "properties": {
+        "name": "Sidco Industrial Estate",
+        "place_id": "ola-platform:5000191501123",
+        "address": "Sidco Industrial Estate, Narasothipatti, Salem, Tamil Nadu, 636016, India",
+        "district": "Salem",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Salem Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:47.509226"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1375,
+          11.6273
+        ]
+      },
+      "properties": {
+        "name": "Jockey Factory Outlet Salem",
+        "place_id": "ola-platform:5000051816881",
+        "address": "Jockey Factory Outlet Salem, Salem - Bangalore Highway, Amanikondalampatti ByPass Road, Nattamangalam, P M P Nagar, Kondalampatti, Salem, Tamil Nadu, 636010, India",
+        "district": "Salem",
+        "state": "Tamil Nadu",
+        "types": [
+          "clothing_store"
+        ],
+        "query_used": "factory area Salem",
+        "fetched_at": "2026-04-01T16:00:47.573118"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.17,
+          11.6369
+        ]
+      },
+      "properties": {
+        "name": "Arthanari Loom Center Textile Private Limited (Factory Salem)",
+        "place_id": "ola-platform:5000040049677",
+        "address": "Arthanari Loom Center Textile Private Limited (Factory Salem), No.78, Kanaga Sabapathi St, Venkadathas Kadu, Vaarkaran Kuttai, Kalarampatti, Erumapalayam, Salem, Tamil Nadu, 636015, India",
+        "district": "Salem",
+        "state": "Tamil Nadu",
+        "types": [
+          "clothing_store"
+        ],
+        "query_used": "factory area Salem",
+        "fetched_at": "2026-04-01T16:00:47.593904"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.146353,
+          11.675402
+        ]
+      },
+      "properties": {
+        "name": "F2 Food Factory, Alagapuram Pudur, Salem",
+        "place_id": "ola-platform:5000177253568",
+        "address": "F2 Food Factory, Alagapuram Pudur, Salem, Old 38, Kamakodi Street, Near Fairlands, Murugan Kovil, Alagapuram Pudur, Salem, 636016, India",
+        "district": "Salem",
+        "state": "Tamil Nadu",
+        "types": [
+          "restaurant",
+          "meal_takeaway",
+          "meal_delivery"
+        ],
+        "query_used": "factory area Salem",
+        "fetched_at": "2026-04-01T16:00:47.611271"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1981,
+          11.66
+        ]
+      },
+      "properties": {
+        "name": "Le Roma - Sofas, Recliners & Wooden Furniture Manufacturing Factory In Salem",
+        "place_id": "ola-platform:5000052042976",
+        "address": "Le Roma - Sofas, Recliners & Wooden Furniture Manufacturing Factory In Salem, 5/145, Old Society Building, Kamaraj Nagar Colony, Ammapet, Salem, Tamil Nadu, 636014, India",
+        "district": "Salem",
+        "state": "Tamil Nadu",
+        "types": [
+          "furniture_store"
+        ],
+        "query_used": "manufacturing hub Salem",
+        "fetched_at": "2026-04-01T16:00:47.644724"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1521,
+          11.6884
+        ]
+      },
+      "properties": {
+        "name": "Salem Cage Making/manufacturing(weld Mesh) & Birds Breeder",
+        "place_id": "ola-platform:5000053273944",
+        "address": "Salem Cage Making/manufacturing(weld Mesh) & Birds Breeder, C97, A.T.C. Nagar, Alagapuram Periyaputhur, Salem, Tamil Nadu, 636016, India",
+        "district": "Salem",
+        "state": "Tamil Nadu",
+        "types": [
+          "pet_store"
+        ],
+        "query_used": "manufacturing hub Salem",
+        "fetched_at": "2026-04-01T16:00:47.667034"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.45488,
+          10.05009
+        ]
+      },
+      "properties": {
+        "name": "MM Bricks & Blocks Industrial Area 1",
+        "place_id": "ola-platform:5000201494436",
+        "address": "MM Bricks & Blocks Industrial Area 1, Behind Jeyankondanilai, Jeyankondanilai, Tamil Nadu, 630566, India",
+        "district": "Sivaganga",
+        "state": "Tamil Nadu",
+        "types": [],
+        "query_used": "industrial area Sivaganga",
+        "fetched_at": "2026-04-01T16:00:49.908060"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4032,
+          9.7334
+        ]
+      },
+      "properties": {
+        "name": "Muthanendhal Sidco Industrial Estate",
+        "place_id": "ola-platform:5000056930162",
+        "address": "Muthanendhal Sidco Industrial Estate, Muthanendhal, Manamadurai, Tamil Nadu, 630602, India",
+        "district": "Sivaganga",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Sivaganga Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:50.039196"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.76202,
+          10.03133
+        ]
+      },
+      "properties": {
+        "name": "DP 72 73, Sidco Industrial Estate",
+        "place_id": "ola-platform:5000191332136",
+        "address": "DP 72 73, Sidco Industrial Estate, Devakottai Rasthaa, Tamil Nadu, 630001, India",
+        "district": "Sivaganga",
+        "state": "Tamil Nadu",
+        "types": [],
+        "query_used": "industrial estate Sivaganga Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:50.058191"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.40368,
+          9.73372
+        ]
+      },
+      "properties": {
+        "name": "No.5, Sidco Industrial Estate Kirungakottai",
+        "place_id": "ola-platform:5000193719806",
+        "address": "No.5, Sidco Industrial Estate Kirungakottai, No.5, Sidco Industrial Estate Kirungakottai, Manamadurai, Tamil Nadu, 630602, India",
+        "district": "Sivaganga",
+        "state": "Tamil Nadu",
+        "types": [],
+        "query_used": "industrial estate Sivaganga Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:50.084319"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.2282,
+          9.9137
+        ]
+      },
+      "properties": {
+        "name": "Mahia Industrial Estate",
+        "place_id": "ola-platform:5000192822518",
+        "address": "Mahia Industrial Estate, 110, Madurai-Sivaganga Rd, Ovalur, Tamil Nadu, 625020, India",
+        "district": "Sivaganga",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Sivaganga Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:50.107308"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.772444,
+          10.061389
+        ]
+      },
+      "properties": {
+        "name": "Lion Gold Vermicelli Manufacturing Unit",
+        "place_id": "ola-platform:5000060599417",
+        "address": "Lion Gold Vermicelli Manufacturing Unit, நாயக்கர் தெரு, Kallukatti, Karaikudi, Karaikkudi, Sivagangai, Tamil Nadu, 630001, India",
+        "district": "Sivaganga",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Sivaganga",
+        "fetched_at": "2026-04-01T16:00:50.271345"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.63428,
+          9.13664
+        ]
+      },
+      "properties": {
+        "name": "450, Behind Match Factory",
+        "place_id": "ola-platform:5000200107711",
+        "address": "450, Behind Match Factory, Main Road, West Alagunatchiapuram Alagunatchiapuram Post, Pazhankottai Thiruvengadam Taluk, Tenkasi, District, South Azhakunatchiapuram, Azhakunatchiapuram, Tamil Nadu, 627754, India",
+        "district": "Tenkasi",
+        "state": "Tamil Nadu",
+        "types": [],
+        "query_used": "factory area Tenkasi",
+        "fetched_at": "2026-04-01T16:00:52.502638"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1381,
+          10.7403
+        ]
+      },
+      "properties": {
+        "name": "Sidco Industrial Estate Nanjikottai",
+        "place_id": "ola-platform:5000043262938",
+        "address": "Sidco Industrial Estate Nanjikottai, S41, Sidco Industrial Estate, NK Rd, Teachers Colony, Nanjikottai, Thanjavur, Tamil Nadu, 613005, India",
+        "district": "Thanjavur",
+        "state": "Tamil Nadu",
+        "types": [
+          "real_estate_agency"
+        ],
+        "query_used": "industrial estate Thanjavur Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:55.322408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13674,
+          10.73733
+        ]
+      },
+      "properties": {
+        "name": "83, Sidco Industrial Estate",
+        "place_id": "ola-platform:5000194440348",
+        "address": "83, Sidco Industrial Estate, Nanjikottai, Thanjavur, Tamil Nadu, 613005, India",
+        "district": "Thanjavur",
+        "state": "Tamil Nadu",
+        "types": [],
+        "query_used": "industrial estate Thanjavur Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:55.339468"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4291,
+          10.9878
+        ]
+      },
+      "properties": {
+        "name": "Sidco Industrial Estate",
+        "place_id": "ola-platform:5000043169781",
+        "address": "Sidco Industrial Estate, Thirubuvanam, Tamil Nadu, 612103, India",
+        "district": "Thanjavur",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Thanjavur Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:55.355614"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.9819,
+          10.6839
+        ]
+      },
+      "properties": {
+        "name": "Palayapatti Sidco Industrial Estate",
+        "place_id": "ola-platform:5000041919519",
+        "address": "Palayapatti Sidco Industrial Estate, Palaiyapatti Therkkusethi, Tamil Nadu, 613402, India",
+        "district": "Thanjavur",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Thanjavur Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:55.371434"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13838,
+          10.76549
+        ]
+      },
+      "properties": {
+        "name": "No. 2 Sidco Quatres(cycle Factory Industrial Estate",
+        "place_id": "ola-platform:5000192578749",
+        "address": "No. 2 Sidco Quatres(cycle Factory Industrial Estate, Parisutham Nagar, Thanjavur, Tamil Nadu, 613007, India",
+        "district": "Thanjavur",
+        "state": "Tamil Nadu",
+        "types": [],
+        "query_used": "factory area Thanjavur",
+        "fetched_at": "2026-04-01T16:00:55.402863"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1329,
+          10.7724
+        ]
+      },
+      "properties": {
+        "name": "Veenai Manufacturing Thanjavur",
+        "place_id": "ola-platform:5000041174387",
+        "address": "Veenai Manufacturing Thanjavur, No.202, Jubilee Tower Complex, Opposite Ramanadhan Hospital, Parisutham Nagar, Thanjavur, Tamil Nadu, 613007, India",
+        "district": "Thanjavur",
+        "state": "Tamil Nadu",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "manufacturing hub Thanjavur",
+        "fetched_at": "2026-04-01T16:00:55.465724"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.929099,
+          10.725044
+        ]
+      },
+      "properties": {
+        "name": "Windmill Manufacturing Company",
+        "place_id": "ola-platform:5000064408698",
+        "address": "Windmill Manufacturing Company, Trichy Tanjore Road, Pudukudi Main Road, Valambakkudi, Thanjavur, Tamil Nadu, 613402, India",
+        "district": "Thanjavur",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Thanjavur",
+        "fetched_at": "2026-04-01T16:00:55.486231"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.492485,
+          10.005122
+        ]
+      },
+      "properties": {
+        "name": "Duroflex - Mattress, Sidco Industrial Estate",
+        "place_id": "ola-platform:5000048514989",
+        "address": "Duroflex - Mattress, Sidco Industrial Estate, Madurai Salai, Allinagaram, Theni, Tamil Nadu, 625531, India",
+        "district": "Theni",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Theni Tamil Nadu",
+        "fetched_at": "2026-04-01T16:00:57.636667"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.47835,
+          10.01426
+        ]
+      },
+      "properties": {
+        "name": "VVG Factory St",
+        "place_id": "ola-platform:5000188781993",
+        "address": "VVG Factory St, Bathra Kaliyamman, Konduraja Line, Theni, Tamil Nadu, 625531, India",
+        "district": "Theni",
+        "state": "Tamil Nadu",
+        "types": [],
+        "query_used": "factory area Theni",
+        "fetched_at": "2026-04-01T16:00:57.732133"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0957,
+          8.8063
+        ]
+      },
+      "properties": {
+        "name": "N.C. John & Sons Sisal Factory, Sipcot Industrial Area, Madathur, Tuticorin",
+        "place_id": "ola-platform:5000221318165",
+        "address": "N.C. John & Sons Sisal Factory, Sipcot Industrial Area, Madathur, Tuticorin, John, N.C, Udumalapetai, Madathur, Thoothukudi, Tamil Nadu 628008, India",
+        "district": "Thoothukudi",
+        "state": "Tamil Nadu",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial area Thoothukudi",
+        "fetched_at": "2026-04-01T16:00:59.946496"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.86378,
+          9.179741
+        ]
+      },
+      "properties": {
+        "name": "Sri Ayyappa Industrial Estate",
+        "place_id": "ola-platform:5000054387909",
+        "address": "Sri Ayyappa Industrial Estate, Kovilpatti, Thoothukudi, Tamil Nadu, 628501, India",
+        "district": "Thoothukudi",
+        "state": "Tamil Nadu",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "industrial estate Thoothukudi Tamil Nadu",
+        "fetched_at": "2026-04-01T16:01:00.014729"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.886321,
+          9.176354
+        ]
+      },
+      "properties": {
+        "name": "Kovilpatti Industrial Estate Post Office",
+        "place_id": "ola-platform:5000059206458",
+        "address": "Kovilpatti Industrial Estate Post Office, Kovilpatti, Thoothukudi, Tamil Nadu, 628501, India",
+        "district": "Thoothukudi",
+        "state": "Tamil Nadu",
+        "types": [
+          "post_office"
+        ],
+        "query_used": "industrial estate Thoothukudi Tamil Nadu",
+        "fetched_at": "2026-04-01T16:01:00.032278"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1439,
+          8.8037
+        ]
+      },
+      "properties": {
+        "name": "Milan Mehandi Artist Thoothukudi Velavan Hyper Market Gin Factory Road Thoothukudi",
+        "place_id": "ola-platform:5000051551397",
+        "address": "Milan Mehandi Artist Thoothukudi Velavan Hyper Market Gin Factory Road Thoothukudi, Velavan Hyper Market, Thoothukudi, Tamil Nadu, 628003, India",
+        "district": "Thoothukudi",
+        "state": "Tamil Nadu",
+        "types": [
+          "atm"
+        ],
+        "query_used": "factory area Thoothukudi",
+        "fetched_at": "2026-04-01T16:01:00.143984"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.14364,
+          8.80326
+        ]
+      },
+      "properties": {
+        "name": "5D, Gin Factory Rd",
+        "place_id": "ola-platform:5000201518640",
+        "address": "5D, Gin Factory Rd, Opp. To Thoothukudi, Thoothukudi, Tamil Nadu, 628003, India",
+        "district": "Thoothukudi",
+        "state": "Tamil Nadu",
+        "types": [],
+        "query_used": "factory area Thoothukudi",
+        "fetched_at": "2026-04-01T16:01:00.160239"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.14341,
+          8.80292
+        ]
+      },
+      "properties": {
+        "name": "25, Gin Factory Rd",
+        "place_id": "ola-platform:5000189373376",
+        "address": "25, Gin Factory Rd, Shanmugapuram, Thoothukudi, Tamil Nadu, 628003, India",
+        "district": "Thoothukudi",
+        "state": "Tamil Nadu",
+        "types": [],
+        "query_used": "factory area Thoothukudi",
+        "fetched_at": "2026-04-01T16:01:00.193053"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.161215,
+          8.818377
+        ]
+      },
+      "properties": {
+        "name": "Gandhi Irvin Salt Manufacturing Association",
+        "place_id": "ola-platform:5000050058444",
+        "address": "Gandhi Irvin Salt Manufacturing Association, Alagesapuram Road, Thoothukudi, Thoothukkudi, Thoothukudi, Tamil Nadu, 628001, India",
+        "district": "Thoothukudi",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "manufacturing hub Thoothukudi",
+        "fetched_at": "2026-04-01T16:01:00.209504"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0912,
+          8.8287
+        ]
+      },
+      "properties": {
+        "name": "Vinfast EV Car Manufacturing Plant Road",
+        "place_id": "ola-platform:5000219995695",
+        "address": "Vinfast EV Car Manufacturing Plant Road, Sterlite Industries India Ltd, Sankaraperi, Thoothukudi, Tamil Nadu 628002, India",
+        "district": "Thoothukudi",
+        "state": "Tamil Nadu",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "manufacturing hub Thoothukudi",
+        "fetched_at": "2026-04-01T16:01:00.224940"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1441,
+          8.8152
+        ]
+      },
+      "properties": {
+        "name": "Sree Sakthi Engineering Workshop Iceplant Manufacturing",
+        "place_id": "ola-platform:5000065039496",
+        "address": "Sree Sakthi Engineering Workshop Iceplant Manufacturing, Polepettai, Om Shanti Nagar, State Bank Colony, Ezhil Nagar, Thoothukudi, Tamil Nadu, 628002, India",
+        "district": "Thoothukudi",
+        "state": "Tamil Nadu",
+        "types": [
+          "electronics_store"
+        ],
+        "query_used": "manufacturing hub Thoothukudi",
+        "fetched_at": "2026-04-01T16:01:00.242189"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0912,
+          8.8287
+        ]
+      },
+      "properties": {
+        "name": "Vinfast EV Car Manufacturing Plant Entry Gate",
+        "place_id": "ola-platform:5000220670571",
+        "address": "Vinfast EV Car Manufacturing Plant Entry Gate, Vinfast EV Car Manufacturing, Sterlite Industries India Ltd, Thoothukudi, Tamil Nadu 628002, India",
+        "district": "Thoothukudi",
+        "state": "Tamil Nadu",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "manufacturing hub Thoothukudi",
+        "fetched_at": "2026-04-01T16:01:00.257895"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.455,
+          10.6438
+        ]
+      },
+      "properties": {
+        "name": "Sipcot Industrial Area Entrance",
+        "place_id": "ola-platform:5000219797515",
+        "address": "Sipcot Industrial Area Entrance, Kannudayanpatti, Tamil Nadu 621306, India",
+        "district": "Tiruchirappalli",
+        "state": "Tamil Nadu",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial area Tiruchirappalli",
+        "fetched_at": "2026-04-01T16:01:02.891422"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.8078,
+          10.7559
+        ]
+      },
+      "properties": {
+        "name": "Sidco Industrial Estate, Thuvakudi",
+        "place_id": "ola-platform:5000037978775",
+        "address": "Sidco Industrial Estate, Thuvakudi, Tamil Nadu, 620022, India",
+        "district": "Tiruchirappalli",
+        "state": "Tamil Nadu",
+        "types": [
+          "real_estate_agency"
+        ],
+        "query_used": "industrial estate Tiruchirappalli Tamil Nadu",
+        "fetched_at": "2026-04-01T16:01:02.907176"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7869,
+          10.7243
+        ]
+      },
+      "properties": {
+        "name": "Ordnance Factory Tiruchirappalli",
+        "place_id": "ola-platform:5000058124504",
+        "address": "Ordnance Factory Tiruchirappalli, Ordnance Estate, PO, Thuppaki Nagar, Navalpattu, Tamil Nadu, 620016, India",
+        "district": "Tiruchirappalli",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Tiruchirappalli",
+        "fetched_at": "2026-04-01T16:01:02.924408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7236,
+          10.7166
+        ]
+      },
+      "properties": {
+        "name": "Ordnance Factory Tiruchirapalli (OFT) Arch",
+        "place_id": "ola-platform:5000039395151",
+        "address": "Ordnance Factory Tiruchirapalli (OFT) Arch, Mathur, Tamil Nadu, 620007, India",
+        "district": "Tiruchirappalli",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Tiruchirappalli",
+        "fetched_at": "2026-04-01T16:01:02.941961"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7872,
+          10.7635
+        ]
+      },
+      "properties": {
+        "name": "Bhel Main Factory Gate",
+        "place_id": "ola-platform:5000039143943",
+        "address": "Bhel Main Factory Gate, Bhel Tiruchirappali Complex Area, Thiruverumbur, Tamil Nadu, 620014, India",
+        "district": "Tiruchirappalli",
+        "state": "Tamil Nadu",
+        "types": [
+          "bus_station"
+        ],
+        "query_used": "factory area Tiruchirappalli",
+        "fetched_at": "2026-04-01T16:01:02.977054"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6356,
+          10.7642
+        ]
+      },
+      "properties": {
+        "name": "BG Naidu Sweets - Factory & Kitchen Unit (BG Naidu Sweets - Production, Kitchen Unit)",
+        "place_id": "ola-platform:5000046092096",
+        "address": "BG Naidu Sweets - Factory & Kitchen Unit (BG Naidu Sweets - Production, Kitchen Unit), BG Naidu Sweets - Production, Kitchen Unit, No: 2/771, Kallikudy, Ramjeenagar, Tiruchirappalli, Tamil Nadu, 620102, India",
+        "district": "Tiruchirappalli",
+        "state": "Tamil Nadu",
+        "types": [
+          "food",
+          "restaurant"
+        ],
+        "query_used": "factory area Tiruchirappalli",
+        "fetched_at": "2026-04-01T16:01:02.995960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.65372,
+          8.72289
+        ]
+      },
+      "properties": {
+        "name": "16, Sidco Industrial Estate",
+        "place_id": "ola-platform:5000193007445",
+        "address": "16, Sidco Industrial Estate, Pettai, Tamil Nadu, 627004, India",
+        "district": "Tirunelveli",
+        "state": "Tamil Nadu",
+        "types": [],
+        "query_used": "industrial estate Tirunelveli Tamil Nadu",
+        "fetched_at": "2026-04-01T16:01:05.373987"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.65252,
+          8.72255
+        ]
+      },
+      "properties": {
+        "name": "24, Sidco Industrial Estate",
+        "place_id": "ola-platform:5000184286633",
+        "address": "24, Sidco Industrial Estate, Pettai, Tamil Nadu, 627004, India",
+        "district": "Tirunelveli",
+        "state": "Tamil Nadu",
+        "types": [],
+        "query_used": "industrial estate Tirunelveli Tamil Nadu",
+        "fetched_at": "2026-04-01T16:01:05.390677"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.65262,
+          8.72219
+        ]
+      },
+      "properties": {
+        "name": "1/5A, Sidco Industrial Estate",
+        "place_id": "ola-platform:5000183586548",
+        "address": "1/5A, Sidco Industrial Estate, Pettai, Tamil Nadu, 627004, India",
+        "district": "Tirunelveli",
+        "state": "Tamil Nadu",
+        "types": [],
+        "query_used": "industrial estate Tirunelveli Tamil Nadu",
+        "fetched_at": "2026-04-01T16:01:05.407967"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.72167,
+          8.70144
+        ]
+      },
+      "properties": {
+        "name": "Matha Sweets Factory Rd",
+        "place_id": "ola-platform:5000195616711",
+        "address": "Matha Sweets Factory Rd, Raja Nagar, Melapalayam, Tirunelveli, Tamil Nadu, 627005, India",
+        "district": "Tirunelveli",
+        "state": "Tamil Nadu",
+        "types": [],
+        "query_used": "factory area Tirunelveli",
+        "fetched_at": "2026-04-01T16:01:05.441680"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7215,
+          8.7001
+        ]
+      },
+      "properties": {
+        "name": "Matha Sweets Factory Rd",
+        "place_id": "ola-platform:5000188618478",
+        "address": "Matha Sweets Factory Rd, Xavier Colony, Raja Nagar, Tirunelveli, Tamil Nadu, 627005, India",
+        "district": "Tirunelveli",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Tirunelveli",
+        "fetched_at": "2026-04-01T16:01:05.458115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7026,
+          8.7277
+        ]
+      },
+      "properties": {
+        "name": "Krishna Mines - Limestone Manufacturing",
+        "place_id": "ola-platform:5000058821633",
+        "address": "Krishna Mines - Limestone Manufacturing, Krishna Mines, Sripuram Rd, Gandhi Nagar, Thirunagar, Tirunelveli Town, Tirunelveli, Tamil Nadu, 627001, India",
+        "district": "Tirunelveli",
+        "state": "Tamil Nadu",
+        "types": [
+          "store"
+        ],
+        "query_used": "manufacturing hub Tirunelveli",
+        "fetched_at": "2026-04-01T16:01:05.508972"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7196,
+          8.6854
+        ]
+      },
+      "properties": {
+        "name": "PTC Furniture Manufacturing & Trading",
+        "place_id": "ola-platform:5000065050617",
+        "address": "PTC Furniture Manufacturing & Trading, 22, Melapalayam, Tirunelveli, Tamil Nadu, 627005, India",
+        "district": "Tirunelveli",
+        "state": "Tamil Nadu",
+        "types": [
+          "furniture_store"
+        ],
+        "query_used": "manufacturing hub Tirunelveli",
+        "fetched_at": "2026-04-01T16:01:05.526169"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4724,
+          8.2155
+        ]
+      },
+      "properties": {
+        "name": "Krivi Craft Marine (marine Diesel Engines Manufacturing)",
+        "place_id": "ola-platform:5000046275229",
+        "address": "Krivi Craft Marine (marine Diesel Engines Manufacturing), Tirunelveli Main Road Thovalai, Nagercoil, Tamil Nadu, 629901, India",
+        "district": "Tirunelveli",
+        "state": "Tamil Nadu",
+        "types": [
+          "store"
+        ],
+        "query_used": "manufacturing hub Tirunelveli",
+        "fetched_at": "2026-04-01T16:01:05.550941"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7404,
+          8.6834
+        ]
+      },
+      "properties": {
+        "name": "Royal DJ Fashion T Shirt Manufacturing",
+        "place_id": "ola-platform:5000055514965",
+        "address": "Royal DJ Fashion T Shirt Manufacturing, M/68, Thiru Nagar, Tirunelveli, Tamil Nadu, 627007, India",
+        "district": "Tirunelveli",
+        "state": "Tamil Nadu",
+        "types": [
+          "clothing_store"
+        ],
+        "query_used": "manufacturing hub Tirunelveli",
+        "fetched_at": "2026-04-01T16:01:05.567389"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7033,
+          8.7511
+        ]
+      },
+      "properties": {
+        "name": "PTC Furnitue Manufacturing &Trading",
+        "place_id": "ola-platform:5000220472389",
+        "address": "PTC Furnitue Manufacturing &Trading, Good Shephard Nagar, Tirunelveli, Tamil Nadu 627001, India",
+        "district": "Tirunelveli",
+        "state": "Tamil Nadu",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "manufacturing hub Tirunelveli",
+        "fetched_at": "2026-04-01T16:01:05.583890"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5601,
+          12.4917
+        ]
+      },
+      "properties": {
+        "name": "Love One Cool Drink Factory",
+        "place_id": "ola-platform:5000200528534",
+        "address": "Love One Cool Drink Factory, Tirupathur, Tamil Nadu, 635601, India",
+        "district": "Tirupathur",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Tirupathur",
+        "fetched_at": "2026-04-01T16:01:08.006839"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.34921,
+          11.18413
+        ]
+      },
+      "properties": {
+        "name": "22, Sidco Industrial Estate",
+        "place_id": "ola-platform:5000189971953",
+        "address": "22, Sidco Industrial Estate, Kanakkam Palayam Pirivu, Tamil Nadu, 641666, India",
+        "district": "Tiruppur",
+        "state": "Tamil Nadu",
+        "types": [],
+        "query_used": "industrial estate Tiruppur Tamil Nadu",
+        "fetched_at": "2026-04-01T16:01:10.480604"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3081,
+          11.0077
+        ]
+      },
+      "properties": {
+        "name": "Sidco Industrial Estate",
+        "place_id": "ola-platform:5000050237781",
+        "address": "Sidco Industrial Estate, Unnamed Road, Goundampalayam, Tamil Nadu, 641664, India",
+        "district": "Tiruppur",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Tiruppur Tamil Nadu",
+        "fetched_at": "2026-04-01T16:01:10.516812"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.30879,
+          11.006
+        ]
+      },
+      "properties": {
+        "name": "8-9, Sidco Industrial Estate",
+        "place_id": "ola-platform:5000197728127",
+        "address": "8-9, Sidco Industrial Estate, Koundampalayam, Palladam, Goundampalayam, Tamil Nadu, 641664, India",
+        "district": "Tiruppur",
+        "state": "Tamil Nadu",
+        "types": [],
+        "query_used": "industrial estate Tiruppur Tamil Nadu",
+        "fetched_at": "2026-04-01T16:01:10.532480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3347,
+          11.0947
+        ]
+      },
+      "properties": {
+        "name": "RamRaj Factory Outlet (RamRaj Cotton Factory Outlet - Mangalam Road Tiruppur)",
+        "place_id": "ola-platform:5000066494616",
+        "address": "RamRaj Factory Outlet (RamRaj Cotton Factory Outlet - Mangalam Road Tiruppur), RamRaj Cotton Factory Outlet - Mangalam Road Tiruppur, Karuvampalayam, Tiruppur, Tamil Nadu, 641604, India",
+        "district": "Tiruppur",
+        "state": "Tamil Nadu",
+        "types": [
+          "clothing_store"
+        ],
+        "query_used": "factory area Tiruppur",
+        "fetched_at": "2026-04-01T16:01:10.584252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3285,
+          11.096
+        ]
+      },
+      "properties": {
+        "name": "Tripur Factory Gen X",
+        "place_id": "ola-platform:5000054566591",
+        "address": "Tripur Factory Gen X, Tirupur - Vijayamangalam Rd, Vadkuthottam, Parapalayam, Karuvampalayam, Tiruppur, Tamil Nadu, 641687, India",
+        "district": "Tiruppur",
+        "state": "Tamil Nadu",
+        "types": [
+          "clothing_store"
+        ],
+        "query_used": "factory area Tiruppur",
+        "fetched_at": "2026-04-01T16:01:10.619676"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3388,
+          11.1109
+        ]
+      },
+      "properties": {
+        "name": "AITUC Baniyan Factory Labour Union",
+        "place_id": "ola-platform:5000042765331",
+        "address": "AITUC Baniyan Factory Labour Union, Avinashi - Tiruppur Rd, Ram Nagar, Tiruppur, Tamil Nadu, 641602, India",
+        "district": "Tiruppur",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Tiruppur",
+        "fetched_at": "2026-04-01T16:01:10.638106"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3221,
+          11.196
+        ]
+      },
+      "properties": {
+        "name": "Ashwath Factory",
+        "place_id": "ola-platform:5000058323581",
+        "address": "Ashwath Factory, Tiruppur, Tamil Nadu, 641652, India",
+        "district": "Tiruppur",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Tiruppur",
+        "fetched_at": "2026-04-01T16:01:10.656257"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3426,
+          11.1484
+        ]
+      },
+      "properties": {
+        "name": "Little Beads -Tshirts Manufacturers In Tiruppur (Little Beads | Custom T Shirt Manufacturing Tirupur)",
+        "place_id": "ola-platform:5000051139494",
+        "address": "Little Beads -Tshirts Manufacturers In Tiruppur (Little Beads | Custom T Shirt Manufacturing Tirupur), Little Beads | Custom T Shirt Manufacturing Tirupur, 1198, Kingsway Garden Ganganagar MainRoad, Vengamedu, Poyampalayam, Tiruppur, Tamil Nadu, 641603, India",
+        "district": "Tiruppur",
+        "state": "Tamil Nadu",
+        "types": [
+          "clothing_store"
+        ],
+        "query_used": "manufacturing hub Tiruppur",
+        "fetched_at": "2026-04-01T16:01:10.674762"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3246,
+          11.1335
+        ]
+      },
+      "properties": {
+        "name": "Manufacturing Unit Tirupur",
+        "place_id": "ola-platform:5000047511962",
+        "address": "Manufacturing Unit Tirupur, 82/62, Avinashi - Tiruppur Rd, AB Nagar, A B Nagar, Velampalayam, Tiruppur, Tamil Nadu, 641603, India",
+        "district": "Tiruppur",
+        "state": "Tamil Nadu",
+        "types": [
+          "storage"
+        ],
+        "query_used": "manufacturing hub Tiruppur",
+        "fetched_at": "2026-04-01T16:01:10.693777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3405,
+          11.1191
+        ]
+      },
+      "properties": {
+        "name": "Srito Hosiery Undergarments Manufacturing",
+        "place_id": "ola-platform:5000052007873",
+        "address": "Srito Hosiery Undergarments Manufacturing, PN Rd, Laxmi Nagar, Tiruppur, Tamil Nadu, 641603, India",
+        "district": "Tiruppur",
+        "state": "Tamil Nadu",
+        "types": [
+          "clothing_store"
+        ],
+        "query_used": "manufacturing hub Tiruppur",
+        "fetched_at": "2026-04-01T16:01:10.747075"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.06216,
+          13.11741
+        ]
+      },
+      "properties": {
+        "name": "Tiruvallur T350, Sidco Women Industrial Estate",
+        "place_id": "ola-platform:5000196026869",
+        "address": "Tiruvallur T350, Sidco Women Industrial Estate, Thirumullaivoyal Pammathukulam, Tamil Nadu 600072, Pattabiram, Avadi, Tamil Nadu",
+        "district": "Tiruvallur",
+        "state": "Tamil Nadu",
+        "types": [],
+        "query_used": "industrial estate Tiruvallur Tamil Nadu",
+        "fetched_at": "2026-04-01T16:01:12.997156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.13323,
+          13.17987
+        ]
+      },
+      "properties": {
+        "name": "Tiruvallur T350, Sidco Women Industrial Estate",
+        "place_id": "ola-platform:5000190235627",
+        "address": "Tiruvallur T350, Sidco Women Industrial Estate, Thirumullaivoyal, Pammathukulam, Tamil Nadu, 600062, India",
+        "district": "Tiruvallur",
+        "state": "Tamil Nadu",
+        "types": [],
+        "query_used": "industrial estate Tiruvallur Tamil Nadu",
+        "fetched_at": "2026-04-01T16:01:13.016443"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1703,
+          13.0976
+        ]
+      },
+      "properties": {
+        "name": "State Bank Of India Ambattur Industrial Estate Branch",
+        "place_id": "ola-platform:5000048807122",
+        "address": "State Bank Of India Ambattur Industrial Estate Branch, State Bank Of 600058, India, 86 AB, 2nd Main Road, Ambattur Industrial Estate, Tiruvallur District, Ambattur Industrial Estate, Chennai, Tamil Nadu",
+        "district": "Tiruvallur",
+        "state": "Tamil Nadu",
+        "types": [
+          "bank"
+        ],
+        "query_used": "industrial estate Tiruvallur Tamil Nadu",
+        "fetched_at": "2026-04-01T16:01:13.035243"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1252,
+          13.1821
+        ]
+      },
+      "properties": {
+        "name": "Jaiganesh Industrial Estate",
+        "place_id": "ola-platform:5000039980589",
+        "address": "Jaiganesh Industrial Estate, Tiruvallur, Tamil Nadu, 600062, India",
+        "district": "Tiruvallur",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Tiruvallur Tamil Nadu",
+        "fetched_at": "2026-04-01T16:01:13.057547"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9615,
+          13.1055
+        ]
+      },
+      "properties": {
+        "name": "Kingfisher Beer Factory",
+        "place_id": "ola-platform:5000185378667",
+        "address": "Kingfisher Beer Factory, Chennai Tiruvallur High Rd, Tirur, Tamil Nadu, 602025, India",
+        "district": "Tiruvallur",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Tiruvallur",
+        "fetched_at": "2026-04-01T16:01:13.122714"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0271,
+          13.0758
+        ]
+      },
+      "properties": {
+        "name": "Sri Krishna Sweets Factory",
+        "place_id": "ola-platform:5000188597456",
+        "address": "Sri Krishna Sweets Factory, Chennai Tiruvallur High Rd, Nemam, Andersonpet, Tamil Nadu, 600124, India",
+        "district": "Tiruvallur",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Tiruvallur",
+        "fetched_at": "2026-04-01T16:01:13.142259"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.908714,
+          13.146018
+        ]
+      },
+      "properties": {
+        "name": "Zuari Manufacturing Factory",
+        "place_id": "ola-platform:5000064349523",
+        "address": "Zuari Manufacturing Factory, Tiruvallur, Thiruvallur, Tamil Nadu, 602001, India",
+        "district": "Tiruvallur",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Tiruvallur",
+        "fetched_at": "2026-04-01T16:01:13.203549"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3129,
+          13.1848
+        ]
+      },
+      "properties": {
+        "name": "To Cheung Lee Stationery Manufacturing Co Private Limited",
+        "place_id": "ola-platform:5000061070950",
+        "address": "To Cheung Lee Stationery Manufacturing Co Private Limited, Tiruvallur-Sriperumbudur High Road, Pollivakkam Village, Tiruvalluvar Tiruvalluvar, Bharath Nagar, Neidhal Nagar, Chennai, Tamil Nadu, 600057, India",
+        "district": "Tiruvallur",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Tiruvallur",
+        "fetched_at": "2026-04-01T16:01:13.222365"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.6486,
+          12.7214
+        ]
+      },
+      "properties": {
+        "name": "Schwing's Global Manufacturing Hub",
+        "place_id": "ola-platform:5000050268223",
+        "address": "Schwing's Global Manufacturing Hub, A8, Sipcot Industrial Park, Cheyyar - Kanchipuram Rd, Cholavaram, Tamil Nadu, 631701, India",
+        "district": "Tiruvannamalai",
+        "state": "Tamil Nadu",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "manufacturing hub Tiruvannamalai",
+        "fetched_at": "2026-04-01T16:01:15.646469"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.637821,
+          10.77289
+        ]
+      },
+      "properties": {
+        "name": "Mud Product Manufacturing",
+        "place_id": "ola-platform:5000045183762",
+        "address": "Mud Product Manufacturing, Thiruvarur, Tamil Nadu, 610001, India",
+        "district": "Tiruvarur",
+        "state": "Tamil Nadu",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "manufacturing hub Tiruvarur",
+        "fetched_at": "2026-04-01T16:01:18.255650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1493,
+          12.9529
+        ]
+      },
+      "properties": {
+        "name": "Sidco Industrial Area",
+        "place_id": "ola-platform:5000061351064",
+        "address": "Sidco Industrial Area, 66, Kangayanellore Rd, Sidco Industrial Estate, Vaibhav Nagar, Katpadi, Vellore, Tamil Nadu, 632006, India",
+        "district": "Vellore",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Vellore",
+        "fetched_at": "2026-04-01T16:01:20.653264"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1495,
+          12.9539
+        ]
+      },
+      "properties": {
+        "name": "Sidco Industrial Estate",
+        "place_id": "ola-platform:5000197598129",
+        "address": "Sidco Industrial Estate, Kangeyanallur, Vellore, Tamil Nadu, 632006, India",
+        "district": "Vellore",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Vellore Tamil Nadu",
+        "fetched_at": "2026-04-01T16:01:20.697804"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15057,
+          12.95397
+        ]
+      },
+      "properties": {
+        "name": "Sidco Industrial Estate",
+        "place_id": "ola-platform:5000184369663",
+        "address": "Sidco Industrial Estate, Kangeyanallur, Vellore, Tamil Nadu, 632006, India",
+        "district": "Vellore",
+        "state": "Tamil Nadu",
+        "types": [],
+        "query_used": "industrial estate Vellore Tamil Nadu",
+        "fetched_at": "2026-04-01T16:01:20.715939"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14998,
+          12.95373
+        ]
+      },
+      "properties": {
+        "name": "1, Sidco Industrial Estate",
+        "place_id": "ola-platform:5000191219592",
+        "address": "1, Sidco Industrial Estate, Kangeyanallur, Vellore, Tamil Nadu, 632006, India",
+        "district": "Vellore",
+        "state": "Tamil Nadu",
+        "types": [],
+        "query_used": "industrial estate Vellore Tamil Nadu",
+        "fetched_at": "2026-04-01T16:01:20.735628"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14985,
+          12.95453
+        ]
+      },
+      "properties": {
+        "name": "7, Sidco Industrial Estate",
+        "place_id": "ola-platform:5000188710891",
+        "address": "7, Sidco Industrial Estate, Kangeyanallur, Vellore, Tamil Nadu, 632006, India",
+        "district": "Vellore",
+        "state": "Tamil Nadu",
+        "types": [],
+        "query_used": "industrial estate Vellore Tamil Nadu",
+        "fetched_at": "2026-04-01T16:01:20.754749"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14822,
+          12.95366
+        ]
+      },
+      "properties": {
+        "name": "11, Sidco Industrial Estate",
+        "place_id": "ola-platform:5000186574773",
+        "address": "11, Sidco Industrial Estate, Gandhi Nagar, Vellore, Tamil Nadu, 632006, India",
+        "district": "Vellore",
+        "state": "Tamil Nadu",
+        "types": [],
+        "query_used": "industrial estate Vellore Tamil Nadu",
+        "fetched_at": "2026-04-01T16:01:20.773361"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1371,
+          12.9625
+        ]
+      },
+      "properties": {
+        "name": "Fashion Factory Vellore",
+        "place_id": "ola-platform:5000047693557",
+        "address": "Fashion Factory Vellore, Sai Balaji, 477/1, Katpadi Rd, Opposite To Old NTTF, Near Ujjivan, Suthanthira Ponvizha Nagar, Dharapadavedu, Vellore, Tamil Nadu, 632006, India",
+        "district": "Vellore",
+        "state": "Tamil Nadu",
+        "types": [
+          "clothing_store"
+        ],
+        "query_used": "factory area Vellore",
+        "fetched_at": "2026-04-01T16:01:20.809495"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1319,
+          12.9406
+        ]
+      },
+      "properties": {
+        "name": "K.A.K Ice Factory",
+        "place_id": "ola-platform:5000035153942",
+        "address": "K.A.K Ice Factory, TK Rd, Church Colony, Viruthampattu, Vellore, Tamil Nadu, 632006, India",
+        "district": "Vellore",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Vellore",
+        "fetched_at": "2026-04-01T16:01:20.846429"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1379,
+          13.059
+        ]
+      },
+      "properties": {
+        "name": "Sri Radha Krishna Granites (S.R.K.G) / Granite Factory / Granite Manufacturing",
+        "place_id": "ola-platform:5000220286615",
+        "address": "Sri Radha Krishna Granites (S.R.K.G) / Granite Factory / Granite Manufacturing, AP NH Vellore - Chitoor, Village, Panatoor, Bomma Samudram, Andhra Pradesh 517132, India",
+        "district": "Vellore",
+        "state": "Tamil Nadu",
+        "types": [
+          "home_goods_store"
+        ],
+        "query_used": "manufacturing hub Vellore",
+        "fetched_at": "2026-04-01T16:01:20.899350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1576,
+          12.8435
+        ]
+      },
+      "properties": {
+        "name": "VIT-Sedaxis CoE For Additive Manufacturing",
+        "place_id": "ola-platform:5000064868749",
+        "address": "VIT-Sedaxis CoE For Additive Manufacturing, Vellore Institute Of Technology - VIT Chennai, Kelambakkam - Vandalur Rd, Chennai, Tamil Nadu, 600127, India",
+        "district": "Vellore",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Vellore",
+        "fetched_at": "2026-04-01T16:01:20.937135"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1256,
+          12.9067
+        ]
+      },
+      "properties": {
+        "name": "Arabian Ice Creams Manufacturing",
+        "place_id": "ola-platform:5000065871268",
+        "address": "Arabian Ice Creams Manufacturing, MC Rd, Kaspa, Vellore, Tamil Nadu, 632001, India",
+        "district": "Vellore",
+        "state": "Tamil Nadu",
+        "types": [
+          "store"
+        ],
+        "query_used": "manufacturing hub Vellore",
+        "fetched_at": "2026-04-01T16:01:20.974035"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.621394,
+          12.260491
+        ]
+      },
+      "properties": {
+        "name": "Sidco Industrial Area Venmaniathur",
+        "place_id": "ola-platform:5000065615508",
+        "address": "Sidco Industrial Area Venmaniathur, Tindivanam, Viluppuram, Tamil Nadu, 604207, India",
+        "district": "Viluppuram",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Viluppuram",
+        "fetched_at": "2026-04-01T16:01:23.154149"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.73091,
+          11.902874
+        ]
+      },
+      "properties": {
+        "name": "RKN Industrial Area",
+        "place_id": "ola-platform:5000040237120",
+        "address": "RKN Industrial Area, Villupuram - Puducherry Saalai, Villianur, Villianur Taluk, Puducherry, 605110, India",
+        "district": "Viluppuram",
+        "state": "Tamil Nadu",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "industrial area Viluppuram",
+        "fetched_at": "2026-04-01T16:01:23.178881"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.78091,
+          11.96549
+        ]
+      },
+      "properties": {
+        "name": "Pipdic Industrial Estate",
+        "place_id": "ola-platform:5000185624888",
+        "address": "Pipdic Industrial Estate, Mettupalayam, Mortandi, Puducherry, Tamil Nadu, 605111, India",
+        "district": "Viluppuram",
+        "state": "Tamil Nadu",
+        "types": [],
+        "query_used": "industrial estate Viluppuram Tamil Nadu",
+        "fetched_at": "2026-04-01T16:01:23.237200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.78065,
+          11.95837
+        ]
+      },
+      "properties": {
+        "name": "Pipdic Industrial Estate",
+        "place_id": "ola-platform:5000196748007",
+        "address": "Pipdic Industrial Estate, Mettupalayam, Marie Oulgaret, Tamil Nadu, 605111, India",
+        "district": "Viluppuram",
+        "state": "Tamil Nadu",
+        "types": [],
+        "query_used": "industrial estate Viluppuram Tamil Nadu",
+        "fetched_at": "2026-04-01T16:01:23.259004"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.78677,
+          11.96159
+        ]
+      },
+      "properties": {
+        "name": "Pipdic Industrial Estate",
+        "place_id": "ola-platform:5000184180989",
+        "address": "Pipdic Industrial Estate, Mettupalayam, Marie Oulgaret, Pattanur, Tamil Nadu, 605111, India",
+        "district": "Viluppuram",
+        "state": "Tamil Nadu",
+        "types": [],
+        "query_used": "industrial estate Viluppuram Tamil Nadu",
+        "fetched_at": "2026-04-01T16:01:23.282364"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.9594,
+          9.5936
+        ]
+      },
+      "properties": {
+        "name": "TTK LIG Virudhunagar Factory",
+        "place_id": "ola-platform:5000201024814",
+        "address": "TTK LIG Virudhunagar Factory, Muthal Nagar, MGR Nagar, Ganesh Nagar, Pandian Nagar, Virudhunagar, Tamil Nadu, 626001, India",
+        "district": "Virudhunagar",
+        "state": "Tamil Nadu",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Virudhunagar",
+        "fetched_at": "2026-04-01T16:01:26.246536"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.95361,
+          9.42786
+        ]
+      },
+      "properties": {
+        "name": "Virudhunagar 31 Near Ramco Cement Factory",
+        "place_id": "ola-platform:5000193042847",
+        "address": "Virudhunagar 31 Near Ramco Cement Factory, Santhaiyur, Village, Tulukkapatti, Tamil Nadu, 626202, India",
+        "district": "Virudhunagar",
+        "state": "Tamil Nadu",
+        "types": [],
+        "query_used": "factory area Virudhunagar",
+        "fetched_at": "2026-04-01T16:01:26.265402"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.94877,
+          9.60357
+        ]
+      },
+      "properties": {
+        "name": "6 585 A7, Near Kuchi Factory",
+        "place_id": "ola-platform:5000193588467",
+        "address": "6 585 A7, Near Kuchi Factory, Lakshmi Nagar, GT Nagar, Virudhunagar, Tamil Nadu, 626001, India",
+        "district": "Virudhunagar",
+        "state": "Tamil Nadu",
+        "types": [],
+        "query_used": "factory area Virudhunagar",
+        "fetched_at": "2026-04-01T16:01:26.283848"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.640294,
+          9.501305
+        ]
+      },
+      "properties": {
+        "name": "Sarvodaya Sangam Manufacturing Unit",
+        "place_id": "ola-platform:5000060526211",
+        "address": "Sarvodaya Sangam Manufacturing Unit, Railway Feeder Road, Srivilliputhur Municipality, Thiruvilliputtur State Assembly Constituency, Srivilliputhur, Virudhunagar, Tamil Nadu, 626135, India",
+        "district": "Virudhunagar",
+        "state": "Tamil Nadu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Virudhunagar",
+        "fetched_at": "2026-04-01T16:01:26.338182"
+      }
+    }
+  ]
+}

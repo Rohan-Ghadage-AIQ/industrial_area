@@ -1,0 +1,153 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.69764,
+          25.90764
+        ]
+      },
+      "properties": {
+        "name": "Thong Valley H.No 64 Industrial Village D.C Court Area",
+        "place_id": "ola-platform:5000191141620",
+        "address": "Thong Valley H.No 64 Industrial Village D.C Court Area, Hill View Colony, Dimapur, Nagaland, 797113, India",
+        "district": "Dimapur",
+        "state": "Nagaland",
+        "types": [],
+        "query_used": "industrial area Dimapur",
+        "fetched_at": "2026-04-01T15:53:37.753735"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6963,
+          25.9005
+        ]
+      },
+      "properties": {
+        "name": "Nagaland Tool-Room & Training Centre",
+        "place_id": "ola-platform:5000047381954",
+        "address": "Nagaland Tool-Room & Training Centre, New Industrial Estate, Sub-Jail Junction, NH-36 Road, Oriental Colony, Dimapur, Nagaland, 797113, India",
+        "district": "Dimapur",
+        "state": "Nagaland",
+        "types": [
+          "police"
+        ],
+        "query_used": "industrial estate Dimapur Nagaland",
+        "fetched_at": "2026-04-01T15:53:37.844524"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.696875,
+          25.900243
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:5000042531745",
+        "address": "Industrial Estate, Dimapur, Dimapur Sadar, Dimapur, Nagaland, 797113, India",
+        "district": "Dimapur",
+        "state": "Nagaland",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Dimapur Nagaland",
+        "fetched_at": "2026-04-01T15:53:37.875680"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.69483,
+          25.90199
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate Colony Dimapur Near Sub-Jail Junction (2 Minutes From",
+        "place_id": "ola-platform:5000186220155",
+        "address": "Industrial Estate Colony Dimapur Near Sub-Jail Junction (2 Minutes From, Govt. College, Hill View Colony, Dimapur, Nagaland, 797113, India",
+        "district": "Dimapur",
+        "state": "Nagaland",
+        "types": [],
+        "query_used": "industrial estate Dimapur Nagaland",
+        "fetched_at": "2026-04-01T15:53:37.901232"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.69648,
+          25.90173
+        ]
+      },
+      "properties": {
+        "name": "Ah2, Industrial Estate Colony",
+        "place_id": "ola-platform:5000188999376",
+        "address": "Ah2, Industrial Estate Colony, Dimapur, Nagaland, 797113, India",
+        "district": "Dimapur",
+        "state": "Nagaland",
+        "types": [],
+        "query_used": "industrial estate Dimapur Nagaland",
+        "fetched_at": "2026-04-01T15:53:37.930015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.6959,
+          25.8991
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate Colony",
+        "place_id": "ola-platform:5000189058196",
+        "address": "Industrial Estate Colony, Dimapur, Nagaland, 797113, India",
+        "district": "Dimapur",
+        "state": "Nagaland",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Dimapur Nagaland",
+        "fetched_at": "2026-04-01T15:53:37.957569"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7312,
+          25.922
+        ]
+      },
+      "properties": {
+        "name": "Aluminium Factory",
+        "place_id": "ola-platform:5000201884497",
+        "address": "Aluminium Factory, Lahorijan, Dimapur, Nagaland, 797113, India",
+        "district": "Dimapur",
+        "state": "Nagaland",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Dimapur",
+        "fetched_at": "2026-04-01T15:53:38.014545"
+      }
+    }
+  ]
+}

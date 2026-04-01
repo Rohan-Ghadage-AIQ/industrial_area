@@ -1,0 +1,679 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.12583,
+          33.66122
+        ]
+      },
+      "properties": {
+        "name": "48, Industrial Estate",
+        "place_id": "ola-platform:5000199882086",
+        "address": "48, Industrial Estate, Vessu, Anantnag, 192221, India",
+        "district": "Anantnag",
+        "state": "Jammu and Kashmir",
+        "types": [],
+        "query_used": "industrial estate Anantnag Jammu and Kashmir",
+        "fetched_at": "2026-04-01T16:08:29.103976"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.365351,
+          34.206885
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:5000051345374",
+        "address": "Industrial Estate, Baramulla, Jammu And Kashmir, 193101, India",
+        "district": "Baramulla",
+        "state": "Jammu and Kashmir",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Baramulla Jammu and Kashmir",
+        "fetched_at": "2026-04-01T16:08:33.962614"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3672,
+          34.2098
+        ]
+      },
+      "properties": {
+        "name": "Matches Factory",
+        "place_id": "ola-platform:5000198535353",
+        "address": "Matches Factory, Kanth Bagh, Baramulla, 193101, India",
+        "district": "Baramulla",
+        "state": "Jammu and Kashmir",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Baramulla",
+        "fetched_at": "2026-04-01T16:08:34.014842"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.7909,
+          33.9962
+        ]
+      },
+      "properties": {
+        "name": "National Institute Of Electronics And Information Technology Rangrate Central Industrial Area Srinagar (National Institute Of Electronics And Information Technology || Rangrate Central Industrial Area || Srinagar)",
+        "place_id": "ola-platform:5000066662770",
+        "address": "National Institute Of Electronics And Information Technology Rangrate Central Industrial Area Srinagar (National Institute Of Electronics And Information Technology || Rangrate Central Industrial Area || Srinagar), National Institute Of Electronics And Information Technology || Rangrate Central Industrial Area || Srinagar, Srinagar, Badgam, 191132, India",
+        "district": "Budgam",
+        "state": "Jammu and Kashmir",
+        "types": [
+          "university"
+        ],
+        "query_used": "industrial area Budgam",
+        "fetched_at": "2026-04-01T16:08:36.120684"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.750325,
+          34.109022
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000048617161",
+        "address": "Industrial Area, Govt. Unani Hospital, Nh1, Shalteng, Srīnagar, Srinagar, Jammu And Kashmir, 190012, India",
+        "district": "Budgam",
+        "state": "Jammu and Kashmir",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Budgam",
+        "fetched_at": "2026-04-01T16:08:36.133507"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.79191,
+          33.998688
+        ]
+      },
+      "properties": {
+        "name": "Rahim Motors-Sidgo Industrial Area-Maruti Suzuki",
+        "place_id": "ola-platform:5000048563277",
+        "address": "Rahim Motors-Sidgo Industrial Area-Maruti Suzuki, Golden Sweets/namkeen, 75, Rangreth Old Airport Road, Rangreth, Badgam Tehsil, Budgam, Jammu And Kashmir, 191132, India",
+        "district": "Budgam",
+        "state": "Jammu and Kashmir",
+        "types": [
+          "car_repair"
+        ],
+        "query_used": "industrial area Budgam",
+        "fetched_at": "2026-04-01T16:08:36.146549"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.808589,
+          34.120834
+        ]
+      },
+      "properties": {
+        "name": "Government Of Jammu And Kashmir Industrial Estate Baghi Ali Mardan Khan Srinagar",
+        "place_id": "ola-platform:5000038085338",
+        "address": "Government Of Jammu And Kashmir Industrial Estate Baghi Ali Mardan Khan Srinagar, Omer Colony Lane, Lal Bazar, Zoonimar, Srīnagar, Srinagar, Jammu And Kashmir, 190011, India",
+        "district": "Budgam",
+        "state": "Jammu and Kashmir",
+        "types": [
+          "local_government_office"
+        ],
+        "query_used": "industrial estate Budgam Jammu and Kashmir",
+        "fetched_at": "2026-04-01T16:08:36.173422"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.802,
+          34.1389
+        ]
+      },
+      "properties": {
+        "name": "State Bank Of India Industrial Estate Barzulla",
+        "place_id": "ola-platform:5000054218179",
+        "address": "State Bank Of India Industrial Estate Barzulla, Baghat, Barzulla, Chowk, Srinagar, Jammu And Kashmir, 190011, India",
+        "district": "Budgam",
+        "state": "Jammu and Kashmir",
+        "types": [
+          "bank"
+        ],
+        "query_used": "industrial estate Budgam Jammu and Kashmir",
+        "fetched_at": "2026-04-01T16:08:36.184883"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.73735,
+          34.099848
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate Receiving Station",
+        "place_id": "ola-platform:5000062352935",
+        "address": "Industrial Estate Receiving Station, Umrabad, Srīnagar, Srinagar, Jammu And Kashmir, 190012, India",
+        "district": "Budgam",
+        "state": "Jammu and Kashmir",
+        "types": [
+          "city_hall"
+        ],
+        "query_used": "industrial estate Budgam Jammu and Kashmir",
+        "fetched_at": "2026-04-01T16:08:36.193280"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.82471,
+          34.1657
+        ]
+      },
+      "properties": {
+        "name": "Zakoora Industrial Estate",
+        "place_id": "ola-platform:5000063841550",
+        "address": "Zakoora Industrial Estate, Mustafa-Abad, Gulab Bagh, Srinagar (North), Srinagar, Jammu And Kashmir, 190024, India",
+        "district": "Budgam",
+        "state": "Jammu and Kashmir",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Budgam Jammu and Kashmir",
+        "fetched_at": "2026-04-01T16:08:36.201623"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.7365,
+          34.0996
+        ]
+      },
+      "properties": {
+        "name": "Khushi Pora HMT Industrial Estate",
+        "place_id": "ola-platform:5000220727151",
+        "address": "Khushi Pora HMT Industrial Estate, HMT Rd, Mustafabad, Srinagar, 190012",
+        "district": "Budgam",
+        "state": "Jammu and Kashmir",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial estate Budgam Jammu and Kashmir",
+        "fetched_at": "2026-04-01T16:08:36.210637"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.770895,
+          34.21792
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:5000036967190",
+        "address": "Industrial Estate, Warpora, Lar, Ganderbal, Jammu And Kashmir, 190020, India",
+        "district": "Ganderbal",
+        "state": "Jammu and Kashmir",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Ganderbal Jammu and Kashmir",
+        "fetched_at": "2026-04-01T16:08:40.608845"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.94226,
+          32.63751
+        ]
+      },
+      "properties": {
+        "name": "4, Industrial Area",
+        "place_id": "ola-platform:5000189556133",
+        "address": "4, Industrial Area, Meen Sarkar, Samba, Jammu, 181133, India",
+        "district": "Jammu",
+        "state": "Jammu and Kashmir",
+        "types": [],
+        "query_used": "industrial area Jammu",
+        "fetched_at": "2026-04-01T16:08:42.859294"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.87513,
+          32.67654
+        ]
+      },
+      "properties": {
+        "name": "119, Industrial Area",
+        "place_id": "ola-platform:5000197484026",
+        "address": "119, Industrial Area, Phase 2, Gangayal, Jammu, 180020, India",
+        "district": "Jammu",
+        "state": "Jammu and Kashmir",
+        "types": [],
+        "query_used": "industrial area Jammu",
+        "fetched_at": "2026-04-01T16:08:42.873666"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.880421,
+          32.678437
+        ]
+      },
+      "properties": {
+        "name": "Water Tank Gangyal Industrial Area",
+        "place_id": "ola-platform:5000060444125",
+        "address": "Water Tank Gangyal Industrial Area, Narwal, Jammu, Jammu And Kashmir, 180020, India",
+        "district": "Jammu",
+        "state": "Jammu and Kashmir",
+        "types": [
+          "storage"
+        ],
+        "query_used": "industrial area Jammu",
+        "fetched_at": "2026-04-01T16:08:42.892256"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.494,
+          32.4233
+        ]
+      },
+      "properties": {
+        "name": "Logate Industrial Area",
+        "place_id": "ola-platform:5000037810070",
+        "address": "Logate Industrial Area, Logate, 184104, India",
+        "district": "Kathua",
+        "state": "Jammu and Kashmir",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Kathua",
+        "fetched_at": "2026-04-01T16:08:45.667203"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.4325,
+          32.4632
+        ]
+      },
+      "properties": {
+        "name": "Ghatti Industrial Estate Sidco Kathua",
+        "place_id": "ola-platform:5000042782475",
+        "address": "Ghatti Industrial Estate Sidco Kathua, Unnamed Road, 184143, India",
+        "district": "Kathua",
+        "state": "Jammu and Kashmir",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Kathua Jammu and Kashmir",
+        "fetched_at": "2026-04-01T16:08:45.723512"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5157,
+          32.3246
+        ]
+      },
+      "properties": {
+        "name": "Bhagthali Kathua Industrial Estate Phase 4",
+        "place_id": "ola-platform:5000067299484",
+        "address": "Bhagthali Kathua Industrial Estate Phase 4, Keerian, 184104, India",
+        "district": "Kathua",
+        "state": "Jammu and Kashmir",
+        "types": [
+          "storage"
+        ],
+        "query_used": "industrial estate Kathua Jammu and Kashmir",
+        "fetched_at": "2026-04-01T16:08:45.738462"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.070605,
+          33.668661
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:5000038294458",
+        "address": "Industrial Estate, Kulgam, Jammu And Kashmir, 182146, India",
+        "district": "Kulgam",
+        "state": "Jammu and Kashmir",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Kulgam Jammu and Kashmir",
+        "fetched_at": "2026-04-01T16:08:50.409055"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.9417,
+          34.055
+        ]
+      },
+      "properties": {
+        "name": "Khonmoh Industrial Area",
+        "place_id": "ola-platform:5000044444889",
+        "address": "Khonmoh Industrial Area, Khanmo, 192122, India",
+        "district": "Pulwama",
+        "state": "Jammu and Kashmir",
+        "types": [
+          "real_estate_agency"
+        ],
+        "query_used": "industrial area Pulwama",
+        "fetched_at": "2026-04-01T16:08:57.198328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.942314,
+          34.054762
+        ]
+      },
+      "properties": {
+        "name": "Water Pump Sidco Industrial Area",
+        "place_id": "ola-platform:5000061786591",
+        "address": "Water Pump Sidco Industrial Area, Srinagar, Srīnagar, Srinagar, Jammu And Kashmir, 192122, India",
+        "district": "Pulwama",
+        "state": "Jammu and Kashmir",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Pulwama",
+        "fetched_at": "2026-04-01T16:08:57.213599"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.87977,
+          33.949623
+        ]
+      },
+      "properties": {
+        "name": "Hamid Trunk Factory Industrial Estate Chatapora Pulwama",
+        "place_id": "ola-platform:5000053898931",
+        "address": "Hamid Trunk Factory Industrial Estate Chatapora Pulwama, Nh444, Pulwama Tehsil, Pulwama, Jammu And Kashmir, 192301, India",
+        "district": "Pulwama",
+        "state": "Jammu and Kashmir",
+        "types": [
+          "furniture_store"
+        ],
+        "query_used": "industrial estate Pulwama Jammu and Kashmir",
+        "fetched_at": "2026-04-01T16:08:57.243473"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.94519,
+          34.06717
+        ]
+      },
+      "properties": {
+        "name": "190/A, Phase 3rd Industrial Estate",
+        "place_id": "ola-platform:5000186497811",
+        "address": "190/A, Phase 3rd Industrial Estate, Khunmoh, Srinagar, 192122, India",
+        "district": "Pulwama",
+        "state": "Jammu and Kashmir",
+        "types": [],
+        "query_used": "industrial estate Pulwama Jammu and Kashmir",
+        "fetched_at": "2026-04-01T16:08:57.254365"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.09571,
+          32.56216
+        ]
+      },
+      "properties": {
+        "name": "VRV LN, Sidco Industrial Area Samba",
+        "place_id": "ola-platform:5000197928121",
+        "address": "VRV LN, Sidco Industrial Area Samba, Balour, Samba, 181123, India",
+        "district": "Samba",
+        "state": "Jammu and Kashmir",
+        "types": [],
+        "query_used": "industrial area Samba",
+        "fetched_at": "2026-04-01T16:09:07.727051"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.9285,
+          32.6406
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate Bari Brahmana Post Office (Post Office Bari Brahmana)",
+        "place_id": "ola-platform:5000056202463",
+        "address": "Industrial Estate Bari Brahmana Post Office (Post Office Bari Brahmana), Post Office Bari Brahmana, Sidco Complex, Kartholi, Jammu, 181133, India",
+        "district": "Samba",
+        "state": "Jammu and Kashmir",
+        "types": [
+          "post_office"
+        ],
+        "query_used": "industrial estate Samba Jammu and Kashmir",
+        "fetched_at": "2026-04-01T16:09:07.766575"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.765953,
+          34.007814
+        ]
+      },
+      "properties": {
+        "name": "Jammu & Kashmir Bank Ltd",
+        "place_id": "ola-platform:5000176951286",
+        "address": "Jammu & Kashmir Bank Ltd, Industrial Estate Sidco Rangrethold Air Field Road, Rangreth, 1, Srinagar, Jammu & Kashmir, 190007",
+        "district": "Srinagar",
+        "state": "Jammu and Kashmir",
+        "types": [
+          "bank"
+        ],
+        "query_used": "industrial estate Srinagar Jammu and Kashmir",
+        "fetched_at": "2026-04-01T16:09:13.074744"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.792519,
+          34.000924
+        ]
+      },
+      "properties": {
+        "name": "Jammu & Kashmir Bank Ltd",
+        "place_id": "ola-platform:5000036122434",
+        "address": "Jammu & Kashmir Bank Ltd, Industrial Estate Sidco Rangrethold Air Field Road, Rangreth, 1, Srinagar, Jammu & Kashmir, 191132",
+        "district": "Srinagar",
+        "state": "Jammu and Kashmir",
+        "types": [
+          "bank"
+        ],
+        "query_used": "industrial estate Srinagar Jammu and Kashmir",
+        "fetched_at": "2026-04-01T16:09:13.088434"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.7363,
+          34.0996
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate Zainakote Srinagar",
+        "place_id": "ola-platform:5000062872437",
+        "address": "Industrial Estate Zainakote Srinagar, Mustafabad, Srinagar, 190012, India",
+        "district": "Srinagar",
+        "state": "Jammu and Kashmir",
+        "types": [
+          "real_estate_agency"
+        ],
+        "query_used": "industrial estate Srinagar Jammu and Kashmir",
+        "fetched_at": "2026-04-01T16:09:13.100432"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8117,
+          34.0655
+        ]
+      },
+      "properties": {
+        "name": "Jawarhar Nagar- Slik Factory Road",
+        "place_id": "ola-platform:5000184225821",
+        "address": "Jawarhar Nagar- Slik Factory Road, Jawarhar Nagar- Slik Factory Rd, Srinagar, 190008, India",
+        "district": "Srinagar",
+        "state": "Jammu and Kashmir",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Srinagar",
+        "fetched_at": "2026-04-01T16:09:13.187386"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1346,
+          32.9066
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate, Udhampur",
+        "place_id": "ola-platform:5000050128757",
+        "address": "Industrial Estate, Udhampur, Garian Talab, Omala, Udhampur, 182121, India",
+        "district": "Udhampur",
+        "state": "Jammu and Kashmir",
+        "types": [
+          "store"
+        ],
+        "query_used": "industrial estate Udhampur Jammu and Kashmir",
+        "fetched_at": "2026-04-01T16:09:16.450543"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1268,
+          32.9233
+        ]
+      },
+      "properties": {
+        "name": "The Tea Factory Udhampur",
+        "place_id": "ola-platform:5000045125320",
+        "address": "The Tea Factory Udhampur, Opposite Dakbanglow Near Govt Degree College Raghunathpura, Shiv Nagar, Udhampur, 182104, India",
+        "district": "Udhampur",
+        "state": "Jammu and Kashmir",
+        "types": [
+          "cafe",
+          "restaurant"
+        ],
+        "query_used": "factory area Udhampur",
+        "fetched_at": "2026-04-01T16:09:16.521763"
+      }
+    }
+  ]
+}

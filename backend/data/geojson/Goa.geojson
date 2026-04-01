@@ -1,0 +1,387 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.83026,
+          15.639708
+        ]
+      },
+      "properties": {
+        "name": "Crompton Greaves Pvt Ltd, Goa",
+        "place_id": "ola-platform:5000051696133",
+        "address": "Crompton Greaves Pvt Ltd, Goa, Colvale Industrial Area, Colvale, Bardez, North Goa, Goa, 403513, India",
+        "district": "North Goa",
+        "state": "Goa",
+        "types": [
+          "general_contractor"
+        ],
+        "query_used": "industrial area North Goa",
+        "fetched_at": "2026-04-01T15:40:36.909736"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.829898,
+          15.635942
+        ]
+      },
+      "properties": {
+        "name": "Goa Fibre Glass Industries Ltd",
+        "place_id": "ola-platform:5000039287466",
+        "address": "Goa Fibre Glass Industries Ltd, Colvale Industrial Area, Colvale, Chikhli, Bardez, North Goa, Goa, 403513, India",
+        "district": "North Goa",
+        "state": "Goa",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area North Goa",
+        "fetched_at": "2026-04-01T15:40:36.926586"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.827193,
+          15.631929
+        ]
+      },
+      "properties": {
+        "name": "Happy Da Punjab, Bardez, Goa",
+        "place_id": "ola-platform:5000177957748",
+        "address": "Happy Da Punjab, Bardez, Goa, Colvale Industrial Area, Colvale, Chikhli, Bardez, North Goa, Goa, 403513, India",
+        "district": "North Goa",
+        "state": "Goa",
+        "types": [
+          "restaurant",
+          "meal_takeaway",
+          "meal_delivery"
+        ],
+        "query_used": "industrial area North Goa",
+        "fetched_at": "2026-04-01T15:40:36.947196"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.795934,
+          15.682995
+        ]
+      },
+      "properties": {
+        "name": "Tivam Industrial Area",
+        "place_id": "ola-platform:5000044952591",
+        "address": "Tivam Industrial Area, Tuem Industrial Estate, Pernem, North Goa, Goa, 403512, India",
+        "district": "North Goa",
+        "state": "Goa",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area North Goa",
+        "fetched_at": "2026-04-01T15:40:36.963838"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.793204,
+          15.687049
+        ]
+      },
+      "properties": {
+        "name": "Goaplast Pvt Ltd",
+        "place_id": "ola-platform:5000063229651",
+        "address": "Goaplast Pvt Ltd, Tuem Industrial Estate, Pernem, North Goa, Goa, 403512, India",
+        "district": "North Goa",
+        "state": "Goa",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate North Goa Goa",
+        "fetched_at": "2026-04-01T15:40:36.997318"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.795654,
+          15.524327
+        ]
+      },
+      "properties": {
+        "name": "Mello, Nerul, Goa",
+        "place_id": "ola-platform:5000053396345",
+        "address": "Mello, Nerul, Goa, Pilerne Industrial Estate, Bardez, North Goa, Goa, 403114, India",
+        "district": "North Goa",
+        "state": "Goa",
+        "types": [
+          "restaurant",
+          "meal_takeaway",
+          "meal_delivery"
+        ],
+        "query_used": "industrial estate North Goa Goa",
+        "fetched_at": "2026-04-01T15:40:37.016117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.808546,
+          15.532162
+        ]
+      },
+      "properties": {
+        "name": "Chef Peters Kitchen, Penha De Franca, Goa",
+        "place_id": "ola-platform:5000206379112",
+        "address": "Chef Peters Kitchen, Penha De Franca, Goa, Pilerne Industrial Estate, Bardez, North Goa, Goa, 403114, India",
+        "district": "North Goa",
+        "state": "Goa",
+        "types": [
+          "restaurant",
+          "meal_takeaway",
+          "meal_delivery"
+        ],
+        "query_used": "industrial estate North Goa Goa",
+        "fetched_at": "2026-04-01T15:40:37.033720"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.781102,
+          15.54319
+        ]
+      },
+      "properties": {
+        "name": "Cafe De Saligao, Saligao, Goa",
+        "place_id": "ola-platform:5000059055060",
+        "address": "Cafe De Saligao, Saligao, Goa, Pilerne Industrial Estate, Saligao, Bardez, North Goa, Goa, 403516, India",
+        "district": "North Goa",
+        "state": "Goa",
+        "types": [
+          "restaurant",
+          "meal_takeaway",
+          "meal_delivery"
+        ],
+        "query_used": "industrial estate North Goa Goa",
+        "fetched_at": "2026-04-01T15:40:37.053254"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.79578,
+          15.532606
+        ]
+      },
+      "properties": {
+        "name": "Goa Environment",
+        "place_id": "ola-platform:5000045837821",
+        "address": "Goa Environment, Pilerne Industrial Estate, Marra, Bardez, North Goa, Goa, 403114, India",
+        "district": "North Goa",
+        "state": "Goa",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate North Goa Goa",
+        "fetched_at": "2026-04-01T15:40:37.069496"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.937,
+          15.3735
+        ]
+      },
+      "properties": {
+        "name": "Wibro Construction Pvt Ltd Verna Industrial Area Goa",
+        "place_id": "ola-platform:5000059534421",
+        "address": "Wibro Construction Pvt Ltd Verna Industrial Area Goa, Near Volkswagen Autocorp, Industrial Area, Verna, Goa, 403710, India",
+        "district": "South Goa",
+        "state": "Goa",
+        "types": [
+          "store"
+        ],
+        "query_used": "industrial area South Goa",
+        "fetched_at": "2026-04-01T15:40:39.813803"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0137,
+          15.2551
+        ]
+      },
+      "properties": {
+        "name": "Margao Industrial Area",
+        "place_id": "ola-platform:5000041854617",
+        "address": "Margao Industrial Area, Dicarpale, San Jose De Areal, Margao, Sao Jose De Areal, Goa, 403709, India",
+        "district": "South Goa",
+        "state": "Goa",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area South Goa",
+        "fetched_at": "2026-04-01T15:40:39.837122"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9537,
+          15.3465
+        ]
+      },
+      "properties": {
+        "name": "Franstek Belts Pvt. Ltd, Plot No. U-05/03, Phase-IV, Verna Industrial Area",
+        "place_id": "ola-platform:5000060271416",
+        "address": "Franstek Belts Pvt. Ltd, Plot No. U-05/03, Phase-IV, Verna Industrial Area, Plot No. U-05, 03, Salcette, Phase-IV, Verna Industrial Estate, Verna, Goa, 403722, India",
+        "district": "South Goa",
+        "state": "Goa",
+        "types": [
+          "storage"
+        ],
+        "query_used": "industrial area South Goa",
+        "fetched_at": "2026-04-01T15:40:39.861649"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9771,
+          15.4874
+        ]
+      },
+      "properties": {
+        "name": "Kundiam Near Industrial Area",
+        "place_id": "ola-platform:5000221212699",
+        "address": "Kundiam Near Industrial Area, Kundaim Industrial Estate, Hadkon, Goa 403107, India",
+        "district": "South Goa",
+        "state": "Goa",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial area South Goa",
+        "fetched_at": "2026-04-01T15:40:39.885025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.92924,
+          15.37206
+        ]
+      },
+      "properties": {
+        "name": "South Goa Plot No S12",
+        "place_id": "ola-platform:5000183193804",
+        "address": "South Goa Plot No S12, S14, Verna Industrial Estate, Verna, Kesarvale, Goa, 403710, India",
+        "district": "South Goa",
+        "state": "Goa",
+        "types": [],
+        "query_used": "industrial estate South Goa Goa",
+        "fetched_at": "2026-04-01T15:40:39.932158"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9468,
+          15.3673
+        ]
+      },
+      "properties": {
+        "name": "Sauth Goa",
+        "place_id": "ola-platform:5000055547658",
+        "address": "Sauth Goa, Verna Industrial Estate, Verna, Goa, 403718, India",
+        "district": "South Goa",
+        "state": "Goa",
+        "types": [
+          "university"
+        ],
+        "query_used": "industrial estate South Goa Goa",
+        "fetched_at": "2026-04-01T15:40:39.952503"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.947,
+          15.3664
+        ]
+      },
+      "properties": {
+        "name": "Goa Verna Industrial Estate",
+        "place_id": "ola-platform:5000041846207",
+        "address": "Goa Verna Industrial Estate, Verna Industrial Estate, Verna, Goa, 403718, India",
+        "district": "South Goa",
+        "state": "Goa",
+        "types": [
+          "point_of_interest"
+        ],
+        "query_used": "industrial estate South Goa Goa",
+        "fetched_at": "2026-04-01T15:40:39.973243"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.0273,
+          15.3913
+        ]
+      },
+      "properties": {
+        "name": "Goa Bethora Industrial Estate",
+        "place_id": "ola-platform:5000047329801",
+        "address": "Goa Bethora Industrial Estate, Bethora Industrial Estate, Betora, Ponda, Goa, 403409, India",
+        "district": "South Goa",
+        "state": "Goa",
+        "types": [
+          "restaurant",
+          "meal_takeaway",
+          "meal_delivery"
+        ],
+        "query_used": "industrial estate South Goa Goa",
+        "fetched_at": "2026-04-01T15:40:39.993183"
+      }
+    }
+  ]
+}

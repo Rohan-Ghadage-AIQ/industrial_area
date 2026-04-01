@@ -1,0 +1,402 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.73804,
+          11.90359
+        ]
+      },
+      "properties": {
+        "name": "9-3, Industrial Area",
+        "place_id": "ola-platform:5000197096306",
+        "address": "9-3, Industrial Area, Mangalam, Villianur, Puducherry, 605110, India",
+        "district": "Puducherry",
+        "state": "Puducherry",
+        "types": [],
+        "query_used": "industrial area Puducherry",
+        "fetched_at": "2026-04-01T16:09:22.982157"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.73091,
+          11.902874
+        ]
+      },
+      "properties": {
+        "name": "RKN Industrial Area",
+        "place_id": "ola-platform:5000040237120",
+        "address": "RKN Industrial Area, Villupuram - Puducherry Saalai, Villianur, Villianur Taluk, Puducherry, 605110, India",
+        "district": "Puducherry",
+        "state": "Puducherry",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "industrial area Puducherry",
+        "fetched_at": "2026-04-01T16:09:22.993548"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8044,
+          11.9432
+        ]
+      },
+      "properties": {
+        "name": "Pepsi Company Industrial Area",
+        "place_id": "ola-platform:5000068991037",
+        "address": "Pepsi Company Industrial Area, 86, Kamaraja Salai, Na, VVP Nagar, Vedapureeswarar Varadaraja Perumal Nagar, Puducherry, 605009, India",
+        "district": "Puducherry",
+        "state": "Puducherry",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Puducherry",
+        "fetched_at": "2026-04-01T16:09:23.004970"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.78351,
+          11.93398
+        ]
+      },
+      "properties": {
+        "name": "No : 23 Gundu Salai Marie Oulgart Puducherry 605 010",
+        "place_id": "ola-platform:5000202323638",
+        "address": "No : 23 Gundu Salai Marie Oulgart Puducherry 605 010, Vanooli Nagar, Pipdic Industrial Estate, Mettupalayam, Marie Oulgaret, Puducherry, 605009, India",
+        "district": "Puducherry",
+        "state": "Puducherry",
+        "types": [],
+        "query_used": "industrial estate Puducherry Puducherry",
+        "fetched_at": "2026-04-01T16:09:23.017213"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8044,
+          11.9448
+        ]
+      },
+      "properties": {
+        "name": "DAMS Puducherry (Delhi Academy Of Medical Science)",
+        "place_id": "ola-platform:5000063328556",
+        "address": "DAMS Puducherry (Delhi Academy Of Medical Science), Delhi Academy Of Medical Science, Industrial Estate, Anandapuram, Thattanchavady, Puducherry, 605009, India",
+        "district": "Puducherry",
+        "state": "Puducherry",
+        "types": [
+          "school",
+          "premise",
+          "primary_school"
+        ],
+        "query_used": "industrial estate Puducherry Puducherry",
+        "fetched_at": "2026-04-01T16:09:23.025837"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.803531,
+          11.946038
+        ]
+      },
+      "properties": {
+        "name": "Grand Home Foods, GandhiNagar, Puducherry",
+        "place_id": "ola-platform:5000176706646",
+        "address": "Grand Home Foods, GandhiNagar, Puducherry, Pondicherry CoOperative Book Society, C-21, 1st Lane, Industrial Estate, Thattanchavady, Thattanchavady Industrial Estate, Thilaspet, Ozhukarai, Ozhukarai Taluk, Puducherry, 605009, India",
+        "district": "Puducherry",
+        "state": "Puducherry",
+        "types": [
+          "restaurant",
+          "meal_takeaway",
+          "meal_delivery"
+        ],
+        "query_used": "industrial estate Puducherry Puducherry",
+        "fetched_at": "2026-04-01T16:09:23.036829"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8046,
+          11.9436
+        ]
+      },
+      "properties": {
+        "name": "Govt Of Puducherry District Industries Centre",
+        "place_id": "ola-platform:5000038306490",
+        "address": "Govt Of Puducherry District Industries Centre, Industrial Estate, Thattanchavady, Puducherry, 605009, India",
+        "district": "Puducherry",
+        "state": "Puducherry",
+        "types": [
+          "local_government_office"
+        ],
+        "query_used": "industrial estate Puducherry Puducherry",
+        "fetched_at": "2026-04-01T16:09:23.044881"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.80667,
+          11.94576
+        ]
+      },
+      "properties": {
+        "name": "Puducherry Building And Labour Welfare Association",
+        "place_id": "ola-platform:5000065169418",
+        "address": "Puducherry Building And Labour Welfare Association, Industrial Estate, Thattanchavady, Puducherry, 605009, India",
+        "district": "Puducherry",
+        "state": "Puducherry",
+        "types": [
+          "local_government_office"
+        ],
+        "query_used": "industrial estate Puducherry Puducherry",
+        "fetched_at": "2026-04-01T16:09:23.056540"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.647,
+          11.874
+        ]
+      },
+      "properties": {
+        "name": "MRF Tyre Factory, Puducherry Plant",
+        "place_id": "ola-platform:5000061826339",
+        "address": "MRF Tyre Factory, Puducherry Plant, Eripakkam, Puducherry, 605106, India",
+        "district": "Puducherry",
+        "state": "Puducherry",
+        "types": [
+          "car_repair"
+        ],
+        "query_used": "factory area Puducherry",
+        "fetched_at": "2026-04-01T16:09:23.066406"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8652,
+          12.0287
+        ]
+      },
+      "properties": {
+        "name": "Kalapet Ice Factory Road",
+        "place_id": "ola-platform:5000194788113",
+        "address": "Kalapet Ice Factory Road, Kalapet, Puducherry, 605014, India",
+        "district": "Puducherry",
+        "state": "Puducherry",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Puducherry",
+        "fetched_at": "2026-04-01T16:09:23.085462"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.0769,
+          12.8558
+        ]
+      },
+      "properties": {
+        "name": "Choudary Leather Factory",
+        "place_id": "ola-platform:5000199119134",
+        "address": "Choudary Leather Factory, S.I.S Marakesh, Karanai Puducherry Rd, Bharani Dharan Boss, Urapakkam, Tamil Nadu, 603210, India",
+        "district": "Puducherry",
+        "state": "Puducherry",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Puducherry",
+        "fetched_at": "2026-04-01T16:09:23.092404"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.732,
+          11.9024
+        ]
+      },
+      "properties": {
+        "name": "Hindustan Unilever Limited, HPC Factory, Vadamangalam",
+        "place_id": "ola-platform:5000058160815",
+        "address": "Hindustan Unilever Limited, HPC Factory, Vadamangalam, Puducherry, 605110, India",
+        "district": "Puducherry",
+        "state": "Puducherry",
+        "types": [
+          "storage"
+        ],
+        "query_used": "factory area Puducherry",
+        "fetched_at": "2026-04-01T16:09:23.101985"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.7846,
+          11.9459
+        ]
+      },
+      "properties": {
+        "name": "Nikita Containers - Tin Manufacturing Company In Puducherry",
+        "place_id": "ola-platform:5000044647509",
+        "address": "Nikita Containers - Tin Manufacturing Company In Puducherry, B - 43, Pipdic Industrial Estate, Mettupalayam, Marie Oulgaret, Puducherry, 605009, India",
+        "district": "Puducherry",
+        "state": "Puducherry",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Puducherry",
+        "fetched_at": "2026-04-01T16:09:23.108999"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.7526,
+          11.9977
+        ]
+      },
+      "properties": {
+        "name": "Emox Manufacturing Pvt. Ltd.",
+        "place_id": "ola-platform:5000052164907",
+        "address": "Emox Manufacturing Pvt. Ltd, Sedarapet, Puducherry 605111, Puducherry, Sedarapet, Puducherry",
+        "district": "Puducherry",
+        "state": "Puducherry",
+        "types": [
+          "general_contractor"
+        ],
+        "query_used": "manufacturing hub Puducherry",
+        "fetched_at": "2026-04-01T16:09:23.118259"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.6481,
+          12.7223
+        ]
+      },
+      "properties": {
+        "name": "Global Manufacturing Hub - Schwing Setter India (Global Manufacturing Hub - Schwing Stetter India)",
+        "place_id": "ola-platform:5000039523297",
+        "address": "Global Manufacturing Hub - Schwing Setter India (Global Manufacturing Hub - Schwing Stetter India), Global Manufacturing Hub - Schwing Stetter 631701, India, A8 Sipcot Industrial Park, Cheyyar - Kanchipuram Rd, Cholavaram, Tamil Nadu",
+        "district": "Puducherry",
+        "state": "Puducherry",
+        "types": [
+          "point_of_interest"
+        ],
+        "query_used": "manufacturing hub Puducherry",
+        "fetched_at": "2026-04-01T16:09:23.125509"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.663,
+          11.9281
+        ]
+      },
+      "properties": {
+        "name": "DXN Manufacturing",
+        "place_id": "ola-platform:5000066161301",
+        "address": "DXN Manufacturing, Thiruvandarkoil, Puducherry, 605102, India",
+        "district": "Puducherry",
+        "state": "Puducherry",
+        "types": [
+          "point_of_interest"
+        ],
+        "query_used": "manufacturing hub Puducherry",
+        "fetched_at": "2026-04-01T16:09:23.141984"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.8295,
+          10.8563
+        ]
+      },
+      "properties": {
+        "name": "Pipdic Industrial Estate",
+        "place_id": "ola-platform:5000046046966",
+        "address": "Pipdic Industrial Estate, Polagam, Tirumalairayan Pattinam, Puducherry, 609606, India",
+        "district": "Karaikal",
+        "state": "Puducherry",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Karaikal Puducherry",
+        "fetched_at": "2026-04-01T16:09:25.470544"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.826025,
+          10.958705
+        ]
+      },
+      "properties": {
+        "name": "Aksara UPVC Manufacturing",
+        "place_id": "ola-platform:5000061135973",
+        "address": "Aksara UPVC Manufacturing, Karaikal Taluk, Karaikal, Puducherry, 609609, India",
+        "district": "Karaikal",
+        "state": "Puducherry",
+        "types": [
+          "real_estate_agency"
+        ],
+        "query_used": "manufacturing hub Karaikal",
+        "fetched_at": "2026-04-01T16:09:25.594884"
+      }
+    }
+  ]
+}

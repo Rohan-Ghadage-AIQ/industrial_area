@@ -1,0 +1,5154 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.667249,
+          26.408942
+        ]
+      },
+      "properties": {
+        "name": "Makhupura Industrial Area",
+        "place_id": "ola-platform:1054685",
+        "address": "Makhupura Industrial Area, Ajmer, Rajasthan, India",
+        "district": "Ajmer",
+        "state": "Rajasthan",
+        "types": [
+          "borough"
+        ],
+        "query_used": "industrial area Ajmer",
+        "fetched_at": "2026-04-01T15:57:16.180488"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.6646,
+          26.412
+        ]
+      },
+      "properties": {
+        "name": "Nh58, Makhupura Industrial Area",
+        "place_id": "ola-platform:5000188169127",
+        "address": "Nh58, Makhupura Industrial Area, Ajmer, Rajasthan, 305002, India",
+        "district": "Ajmer",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Ajmer",
+        "fetched_at": "2026-04-01T15:57:16.237022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.6623,
+          26.4097
+        ]
+      },
+      "properties": {
+        "name": "Nh448, Makhupura Industrial Area",
+        "place_id": "ola-platform:5000188399733",
+        "address": "Nh448, Makhupura Industrial Area, Ajmer, Rajasthan, 305002, India",
+        "district": "Ajmer",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Ajmer",
+        "fetched_at": "2026-04-01T15:57:16.264649"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.66672,
+          26.41354
+        ]
+      },
+      "properties": {
+        "name": "30502, Makhupura Industrial Area",
+        "place_id": "ola-platform:5000197172156",
+        "address": "30502, Makhupura Industrial Area, Ajmer, Rajasthan, 305002, India",
+        "district": "Ajmer",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Ajmer",
+        "fetched_at": "2026-04-01T15:57:16.299640"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.65836,
+          26.41068
+        ]
+      },
+      "properties": {
+        "name": "25, Makhupura Industrial Area",
+        "place_id": "ola-platform:5000197714493",
+        "address": "25, Makhupura Industrial Area, Ajmer, Rajasthan, 305002, India",
+        "district": "Ajmer",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Ajmer",
+        "fetched_at": "2026-04-01T15:57:16.328310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.655,
+          26.4102
+        ]
+      },
+      "properties": {
+        "name": "State Bank Of India Makhupura Industrial Estate Ajmer Branch",
+        "place_id": "ola-platform:5000054585750",
+        "address": "State Bank Of India Makhupura Industrial Estate Ajmer Branch, Parbatpura, Ajmer, Rajasthan, 305002, India",
+        "district": "Ajmer",
+        "state": "Rajasthan",
+        "types": [
+          "bank"
+        ],
+        "query_used": "industrial estate Ajmer Rajasthan",
+        "fetched_at": "2026-04-01T15:57:16.344423"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.65842,
+          26.41123
+        ]
+      },
+      "properties": {
+        "name": "25-26-27 Makhupura Industrial Estate",
+        "place_id": "ola-platform:5000185581811",
+        "address": "25-26-27 Makhupura Industrial Estate, Parbatpura, Ajmer, Rajasthan, 305002, India",
+        "district": "Ajmer",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial estate Ajmer Rajasthan",
+        "fetched_at": "2026-04-01T15:57:16.365469"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.6557,
+          26.4103
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate Makhupura Post Office",
+        "place_id": "ola-platform:5000042702726",
+        "address": "Industrial Estate Makhupura Post Office, Nasirabad Road Opp Ramesh Sweets Industrial Area, Makhupura, Ajmer, Rajasthan, 305002, India",
+        "district": "Ajmer",
+        "state": "Rajasthan",
+        "types": [
+          "post_office"
+        ],
+        "query_used": "industrial estate Ajmer Rajasthan",
+        "fetched_at": "2026-04-01T15:57:16.390140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.64874,
+          26.45118
+        ]
+      },
+      "properties": {
+        "name": "Srinagar Road Ajmer 260/46 Near Dayal Bidi Factory Pal Beechla",
+        "place_id": "ola-platform:5000185317315",
+        "address": "Srinagar Road Ajmer 260/46 Near Dayal Bidi Factory Pal Beechla, Vinay Nagar, Pal Bhichala, Ajmer, Rajasthan, 305001, India",
+        "district": "Ajmer",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "factory area Ajmer",
+        "fetched_at": "2026-04-01T15:57:16.472244"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.6679,
+          26.4159
+        ]
+      },
+      "properties": {
+        "name": "Parle Factory",
+        "place_id": "ola-platform:5000046476158",
+        "address": "Parle Factory, Makhupura Industrial Area, Ajmer, Rajasthan, 305002, India",
+        "district": "Ajmer",
+        "state": "Rajasthan",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Ajmer",
+        "fetched_at": "2026-04-01T15:57:16.532451"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.63571,
+          26.46234
+        ]
+      },
+      "properties": {
+        "name": "196, Near Old Ice Factory",
+        "place_id": "ola-platform:5000190845232",
+        "address": "196, Near Old Ice Factory, Hathi Bhata, Ajmer, Rajasthan, 305001, India",
+        "district": "Ajmer",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "factory area Ajmer",
+        "fetched_at": "2026-04-01T15:57:16.547172"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8045,
+          28.1245
+        ]
+      },
+      "properties": {
+        "name": "496, Alwar - Bhiwadi Rd",
+        "place_id": "ola-platform:5000194869677",
+        "address": "496, Alwar - Bhiwadi Rd, RIICO Industrial Area, Rajasthan, 301018, India",
+        "district": "Alwar",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Alwar",
+        "fetched_at": "2026-04-01T15:57:18.872048"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.68484,
+          27.51511
+        ]
+      },
+      "properties": {
+        "name": "Alwar G1-470, M.I.A",
+        "place_id": "ola-platform:5000198769249",
+        "address": "Alwar G1-470, M.I.A, Matsya Industrial Area, Alwar, Naharpur, Rajasthan, 301030, India",
+        "district": "Alwar",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Alwar",
+        "fetched_at": "2026-04-01T15:57:18.891005"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.46171,
+          28.00499
+        ]
+      },
+      "properties": {
+        "name": "Alwar B-36, RIICO Industrial Area",
+        "place_id": "ola-platform:5000202355995",
+        "address": "Alwar B-36, RIICO Industrial Area, Shahjahanpur, Chaubara, Rajasthan, 301706, India",
+        "district": "Alwar",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Alwar",
+        "fetched_at": "2026-04-01T15:57:18.910374"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.70734,
+          27.52972
+        ]
+      },
+      "properties": {
+        "name": "NH 242 Alwar Dehli Road",
+        "place_id": "ola-platform:5000191243307",
+        "address": "NH 242 Alwar Dehli Road, Baghodiya, Nagar, Matsya Industrial Area, Kesroli, Kamalpur, Rajasthan, 301030, India",
+        "district": "Alwar",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Alwar",
+        "fetched_at": "2026-04-01T15:57:18.928877"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.68292,
+          27.51235
+        ]
+      },
+      "properties": {
+        "name": "F 105 Mia Alwar",
+        "place_id": "ola-platform:5000185812221",
+        "address": "F 105 Mia Alwar, Matsya Industrial Area, Naharpur, Alwar, Rajasthan, 301030, India",
+        "district": "Alwar",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Alwar",
+        "fetched_at": "2026-04-01T15:57:18.943152"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7642,
+          26.9456
+        ]
+      },
+      "properties": {
+        "name": "Alvar Chappal And Hoisery Store",
+        "place_id": "ola-platform:5000067665802",
+        "address": "Alvar Chappal And Hoisery Store, Shop No. 43, Factory Area Road, Jhotwara, Madina Colony, Pulia, Jaipur, Rajasthan, 302012, India",
+        "district": "Alwar",
+        "state": "Rajasthan",
+        "types": [
+          "food",
+          "restaurant"
+        ],
+        "query_used": "factory area Alwar",
+        "fetched_at": "2026-04-01T15:57:19.093292"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.701457,
+          27.507368
+        ]
+      },
+      "properties": {
+        "name": "Ashok Leyland Ltd Alwar Manufacturing Plant",
+        "place_id": "ola-platform:5000052633337",
+        "address": "Ashok Leyland Ltd Alwar Manufacturing Plant, Ramgarh Tehsil, Alwar, Rajasthan, 301030, India",
+        "district": "Alwar",
+        "state": "Rajasthan",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Alwar",
+        "fetched_at": "2026-04-01T15:57:19.142275"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.429549,
+          23.524949
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Banswara",
+        "place_id": "ola-platform:1054678",
+        "address": "Industrial Area Banswara, Banswara, Rajasthan, India",
+        "district": "Banswara",
+        "state": "Rajasthan",
+        "types": [
+          "borough"
+        ],
+        "query_used": "industrial area Banswara",
+        "fetched_at": "2026-04-01T15:57:21.266445"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4276,
+          23.5236
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000198753211",
+        "address": "Industrial Area, Banswara, Rajasthan, 327001, India",
+        "district": "Banswara",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Banswara",
+        "fetched_at": "2026-04-01T15:57:21.278785"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.42987,
+          23.52509
+        ]
+      },
+      "properties": {
+        "name": "51-A, Industrial Area",
+        "place_id": "ola-platform:5000189466197",
+        "address": "51-A, Industrial Area, Banswara, Rajasthan, 327001, India",
+        "district": "Banswara",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Banswara",
+        "fetched_at": "2026-04-01T15:57:21.289851"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.41934,
+          23.52542
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000188147367",
+        "address": "Industrial Area, Thikaria, Banswara, Rajasthan, 327001, India",
+        "district": "Banswara",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Banswara",
+        "fetched_at": "2026-04-01T15:57:21.300557"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.42411,
+          23.52712
+        ]
+      },
+      "properties": {
+        "name": "15, Industrial Area",
+        "place_id": "ola-platform:5000201359267",
+        "address": "15, Industrial Area, Thikaria, Banswara, Rajasthan, 327001, India",
+        "district": "Banswara",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Banswara",
+        "fetched_at": "2026-04-01T15:57:21.312160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.41745,
+          25.75081
+        ]
+      },
+      "properties": {
+        "name": "234/3, RIICO Industrial Area",
+        "place_id": "ola-platform:5000199813783",
+        "address": "234/3, RIICO Industrial Area, Ram Nagar, Barmer, Rajasthan, 344001, India",
+        "district": "Barmer",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Barmer",
+        "fetched_at": "2026-04-01T15:57:25.620017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.41768,
+          25.75173
+        ]
+      },
+      "properties": {
+        "name": "48/3, RIICO Industrial Area",
+        "place_id": "ola-platform:5000197341740",
+        "address": "48/3, RIICO Industrial Area, Ram Nagar, Barmer, Rajasthan, 344001, India",
+        "district": "Barmer",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Barmer",
+        "fetched_at": "2026-04-01T15:57:25.635023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.41925,
+          25.74919
+        ]
+      },
+      "properties": {
+        "name": "256/3, RIICO Industrial Area",
+        "place_id": "ola-platform:5000187985943",
+        "address": "256/3, RIICO Industrial Area, Ram Nagar, Barmer, Rajasthan, 344001, India",
+        "district": "Barmer",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Barmer",
+        "fetched_at": "2026-04-01T15:57:25.647304"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.41781,
+          25.75109
+        ]
+      },
+      "properties": {
+        "name": "241/3, RIICO Industrial Area",
+        "place_id": "ola-platform:5000194260261",
+        "address": "241/3, RIICO Industrial Area, Ram Nagar, Barmer, Rajasthan, 344001, India",
+        "district": "Barmer",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Barmer",
+        "fetched_at": "2026-04-01T15:57:25.660435"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.41801,
+          25.75024
+        ]
+      },
+      "properties": {
+        "name": "232/3, RIICO Industrial Area",
+        "place_id": "ola-platform:5000200694202",
+        "address": "232/3, RIICO Industrial Area, Ram Nagar, Barmer, Rajasthan, 344001, India",
+        "district": "Barmer",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Barmer",
+        "fetched_at": "2026-04-01T15:57:25.671670"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.498777,
+          27.242344
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:1052310",
+        "address": "Industrial Area, Bharatpur, Rajasthan, India",
+        "district": "Bharatpur",
+        "state": "Rajasthan",
+        "types": [
+          "borough"
+        ],
+        "query_used": "industrial area Bharatpur",
+        "fetched_at": "2026-04-01T15:57:27.990592"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5074,
+          27.2363
+        ]
+      },
+      "properties": {
+        "name": "RIICO Industrial Area",
+        "place_id": "ola-platform:5000198239380",
+        "address": "RIICO Industrial Area, Bharatpur, Rajasthan, 321001, India",
+        "district": "Bharatpur",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Bharatpur",
+        "fetched_at": "2026-04-01T15:57:28.011025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.50589,
+          27.22364
+        ]
+      },
+      "properties": {
+        "name": "15, RIICO Industrial Area",
+        "place_id": "ola-platform:5000183569155",
+        "address": "15, RIICO Industrial Area, Bharatpur, Rajasthan, 321001, India",
+        "district": "Bharatpur",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Bharatpur",
+        "fetched_at": "2026-04-01T15:57:28.026529"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.51254,
+          27.23094
+        ]
+      },
+      "properties": {
+        "name": "38/39, RIICO Industrial Area",
+        "place_id": "ola-platform:5000194773881",
+        "address": "38/39, RIICO Industrial Area, Bharatpur, Rajasthan, 321001, India",
+        "district": "Bharatpur",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Bharatpur",
+        "fetched_at": "2026-04-01T15:57:28.042267"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.494,
+          27.2454
+        ]
+      },
+      "properties": {
+        "name": "01, Industrial Area",
+        "place_id": "ola-platform:5000194199636",
+        "address": "01, Industrial Area, Bharatpur, Rajasthan, 321001, India",
+        "district": "Bharatpur",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Bharatpur",
+        "fetched_at": "2026-04-01T15:57:28.058907"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2929,
+          28.5193
+        ]
+      },
+      "properties": {
+        "name": "Block B, Mohan CoOperative Industrial Estate",
+        "place_id": "ola-platform:5000198435611",
+        "address": "Block B, Mohan CoOperative Industrial Estate, Badarpur, New Delhi, Delhi, 110076, India",
+        "district": "Bharatpur",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Bharatpur Rajasthan",
+        "fetched_at": "2026-04-01T15:57:28.089706"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2947,
+          28.5159
+        ]
+      },
+      "properties": {
+        "name": "Bolck B-1, Mohan CoOperative Industrial Estate",
+        "place_id": "ola-platform:5000199222348",
+        "address": "Bolck B-1, Mohan CoOperative Industrial Estate, Badarpur, New Delhi, Delhi, 110076, India",
+        "district": "Bharatpur",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Bharatpur Rajasthan",
+        "fetched_at": "2026-04-01T15:57:28.134644"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5053,
+          27.2354
+        ]
+      },
+      "properties": {
+        "name": "Cimmco Wagon Factory",
+        "place_id": "ola-platform:5000188896363",
+        "address": "Cimmco Wagon Factory, RIICO Industrial Area, Bharatpur, Rajasthan, 321001, India",
+        "district": "Bharatpur",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Bharatpur",
+        "fetched_at": "2026-04-01T15:57:28.157987"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.470862,
+          27.224307
+        ]
+      },
+      "properties": {
+        "name": "Trolly Manufacturing",
+        "place_id": "ola-platform:5000037180942",
+        "address": "Trolly Manufacturing, Deeg Road, Achalpura, Subhash Nagar, Bharatpur, Bharatpur Tehsil, Bharatpur, Rajasthan, 321001, India",
+        "district": "Bharatpur",
+        "state": "Rajasthan",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "manufacturing hub Bharatpur",
+        "fetched_at": "2026-04-01T15:57:28.238377"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5858,
+          25.3224
+        ]
+      },
+      "properties": {
+        "name": "RIICO Industrial Area",
+        "place_id": "ola-platform:5000200606853",
+        "address": "RIICO Industrial Area, Bhilwara, Rajasthan, 311001, India",
+        "district": "Bhilwara",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Bhilwara",
+        "fetched_at": "2026-04-01T15:57:32.721409"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.58215,
+          25.32299
+        ]
+      },
+      "properties": {
+        "name": "RIICO Industrial Area",
+        "place_id": "ola-platform:5000189569049",
+        "address": "RIICO Industrial Area, Bhilwara, Salampura, Rajasthan, 311001, India",
+        "district": "Bhilwara",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Bhilwara",
+        "fetched_at": "2026-04-01T15:57:32.734434"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.58296,
+          25.32555
+        ]
+      },
+      "properties": {
+        "name": "2, RIICO Industrial Area",
+        "place_id": "ola-platform:5000186882423",
+        "address": "2, RIICO Industrial Area, Bhilwara, Rajasthan, 311001, India",
+        "district": "Bhilwara",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Bhilwara",
+        "fetched_at": "2026-04-01T15:57:32.747100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.58704,
+          25.32139
+        ]
+      },
+      "properties": {
+        "name": "25, RIICO Industrial Area",
+        "place_id": "ola-platform:5000192805904",
+        "address": "25, RIICO Industrial Area, Bhilwara, Rajasthan, 311001, India",
+        "district": "Bhilwara",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Bhilwara",
+        "fetched_at": "2026-04-01T15:57:32.758946"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.58587,
+          25.32247
+        ]
+      },
+      "properties": {
+        "name": "4, RIICO Industrial Area",
+        "place_id": "ola-platform:5000197500318",
+        "address": "4, RIICO Industrial Area, Bhilwara, Rajasthan, 311001, India",
+        "district": "Bhilwara",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Bhilwara",
+        "fetched_at": "2026-04-01T15:57:32.772575"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.585046,
+          25.323608
+        ]
+      },
+      "properties": {
+        "name": "State Bank Of India Industrial Estate Bhilwara Branch",
+        "place_id": "ola-platform:5000053941132",
+        "address": "State Bank Of India Industrial Estate Bhilwara Branch, Shop No. 10, Plot No. CP-1 RIICO Ind. Area, Near SBI Bank Biliya, Bhilwarashop No. 10, Plot No. CP-1 RIICO Ind. Area, Near SBI Bank Biliya, Bhilwara, 1, Bhilwara, Rajasthan, 311001",
+        "district": "Bhilwara",
+        "state": "Rajasthan",
+        "types": [
+          "bank"
+        ],
+        "query_used": "industrial estate Bhilwara Rajasthan",
+        "fetched_at": "2026-04-01T15:57:32.785600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.6367,
+          25.2808
+        ]
+      },
+      "properties": {
+        "name": "Branded Factory Sale",
+        "place_id": "ola-platform:5000176882276",
+        "address": "Branded Factory Sale, 703, Chittorgarh Rd, Opposite Zee School, Gathila Kheda, Bhilwara, Rajasthan, 311001, India",
+        "district": "Bhilwara",
+        "state": "Rajasthan",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "factory area Bhilwara",
+        "fetched_at": "2026-04-01T15:57:32.850504"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.62945,
+          25.35826
+        ]
+      },
+      "properties": {
+        "name": "Hitkar Factory",
+        "place_id": "ola-platform:5000183659364",
+        "address": "Hitkar Factory, RJ SH 12, R K Colony, Bhilwara, Rajasthan, 311001, India",
+        "district": "Bhilwara",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "factory area Bhilwara",
+        "fetched_at": "2026-04-01T15:57:32.861954"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.6432,
+          25.3339
+        ]
+      },
+      "properties": {
+        "name": "Bartan Factory",
+        "place_id": "ola-platform:5000198377924",
+        "address": "Bartan Factory, NeelKanth MahaDev Colony, Shastri Nagar, Bhilwara, Rajasthan, 311001, India",
+        "district": "Bhilwara",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Bhilwara",
+        "fetched_at": "2026-04-01T15:57:32.873237"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.6285,
+          25.3311
+        ]
+      },
+      "properties": {
+        "name": "Brandwala India- The Discount Factory",
+        "place_id": "ola-platform:5000053854630",
+        "address": "Brandwala India- The Discount Factory, S-12, Near Central Academy School, Behind Ramdham Road, Transport Nagar, Azad Nagar, Bhilwara, Rajasthan, 311001, India",
+        "district": "Bhilwara",
+        "state": "Rajasthan",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Bhilwara",
+        "fetched_at": "2026-04-01T15:57:32.884051"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.62229,
+          25.34239
+        ]
+      },
+      "properties": {
+        "name": "Promatech Manufacturing & Trading Co.(P) Ltd",
+        "place_id": "ola-platform:5000050606890",
+        "address": "Promatech Manufacturing & Trading Co.(P) Ltd, Bhilwara, Bhilwara Tehsil, Bhilwara, Rajasthan, 311001, India",
+        "district": "Bhilwara",
+        "state": "Rajasthan",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Bhilwara",
+        "fetched_at": "2026-04-01T15:57:32.897234"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.600432,
+          25.334386
+        ]
+      },
+      "properties": {
+        "name": "Promatech Manufacturing And Trading Company",
+        "place_id": "ola-platform:5000040406717",
+        "address": "Promatech Manufacturing And Trading Company, Bhilwara, Bhilwara Tehsil, Bhilwara, Rajasthan, 311001, India",
+        "district": "Bhilwara",
+        "state": "Rajasthan",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "manufacturing hub Bhilwara",
+        "fetched_at": "2026-04-01T15:57:32.910920"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.65757,
+          25.34459
+        ]
+      },
+      "properties": {
+        "name": "RK Steel Rolling Shutter Manufacturing",
+        "place_id": "ola-platform:5000048796120",
+        "address": "RK Steel Rolling Shutter Manufacturing, Nehru Vihar Yojana, Bhilwara, Bhilwara Tehsil, Bhilwara, Rajasthan, 311001, India",
+        "district": "Bhilwara",
+        "state": "Rajasthan",
+        "types": [
+          "hardware_store"
+        ],
+        "query_used": "manufacturing hub Bhilwara",
+        "fetched_at": "2026-04-01T15:57:32.923842"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.70455,
+          27.22057
+        ]
+      },
+      "properties": {
+        "name": "83/985, Bikaner Rd",
+        "place_id": "ola-platform:5000190599128",
+        "address": "83/985, Bikaner Rd, Near RIICO Industrial Area, Ricco Industrial Area, Nagaur, Rajasthan, 341001, India",
+        "district": "Bikaner",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Bikaner",
+        "fetched_at": "2026-04-01T15:57:35.223353"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3298,
+          27.9902
+        ]
+      },
+      "properties": {
+        "name": "Bikaner Institute Of Technical Studies",
+        "place_id": "ola-platform:5000051644757",
+        "address": "Bikaner Institute Of Technical Studies, 149, Industrial Area Rd, Near Roshal Chawla Wool Factory, Industrial Area, Rani Bazar, Bikaner, Rajasthan, 334401, India",
+        "district": "Bikaner",
+        "state": "Rajasthan",
+        "types": [
+          "university"
+        ],
+        "query_used": "factory area Bikaner",
+        "fetched_at": "2026-04-01T15:57:35.524017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.294348,
+          28.026119
+        ]
+      },
+      "properties": {
+        "name": "Humera Manufacturing",
+        "place_id": "ola-platform:5000044574065",
+        "address": "Humera Manufacturing, Bikaner, Bikaner Tehsil, Bikaner, Rajasthan, 334004, India",
+        "district": "Bikaner",
+        "state": "Rajasthan",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Bikaner",
+        "fetched_at": "2026-04-01T15:57:35.616572"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5905,
+          25.4074
+        ]
+      },
+      "properties": {
+        "name": "Shri Ram Articles Ricco Industrial Area Hattipura",
+        "place_id": "ola-platform:5000039255842",
+        "address": "Shri Ram Articles Ricco Industrial Area Hattipura, Unnamed Road, Hattipura, Rajasthan, 323001, India",
+        "district": "Bundi",
+        "state": "Rajasthan",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Bundi",
+        "fetched_at": "2026-04-01T15:57:37.807903"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5882,
+          25.4084
+        ]
+      },
+      "properties": {
+        "name": "Hattipura Industrial Area",
+        "place_id": "ola-platform:5000048374463",
+        "address": "Hattipura Industrial Area, Unnamed Road, Hattipura, Rajasthan 323001, India",
+        "district": "Bundi",
+        "state": "Rajasthan",
+        "types": [
+          "electronics_store"
+        ],
+        "query_used": "industrial area Bundi",
+        "fetched_at": "2026-04-01T15:57:37.822158"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.4667,
+          25.5372
+        ]
+      },
+      "properties": {
+        "name": "RIICO Industrial Area (Deroli)",
+        "place_id": "ola-platform:5000052762401",
+        "address": "RIICO Industrial Area (Deroli), Sahaspuriya, Rajasthan, 323023, India",
+        "district": "Bundi",
+        "state": "Rajasthan",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Bundi",
+        "fetched_at": "2026-04-01T15:57:37.837127"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.6254,
+          24.912
+        ]
+      },
+      "properties": {
+        "name": "RIICO Industrial Area",
+        "place_id": "ola-platform:5000185160932",
+        "address": "RIICO Industrial Area, Chittorgarh, Rajasthan, 312001, India",
+        "district": "Chittorgarh",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Chittorgarh",
+        "fetched_at": "2026-04-01T15:57:40.194340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.62522,
+          24.9129
+        ]
+      },
+      "properties": {
+        "name": "F-18, RIICO Industrial Area",
+        "place_id": "ola-platform:5000184669711",
+        "address": "F-18, RIICO Industrial Area, Chittorgarh, Rajasthan, 312001, India",
+        "district": "Chittorgarh",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Chittorgarh",
+        "fetched_at": "2026-04-01T15:57:40.231942"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.62749,
+          24.91537
+        ]
+      },
+      "properties": {
+        "name": "F-113, RIICO Industrial Area",
+        "place_id": "ola-platform:5000186759506",
+        "address": "F-113, RIICO Industrial Area, Chittorgarh, Rajasthan, 312001, India",
+        "district": "Chittorgarh",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Chittorgarh",
+        "fetched_at": "2026-04-01T15:57:40.246959"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.62544,
+          24.91206
+        ]
+      },
+      "properties": {
+        "name": "100-B, RIICO Industrial Area",
+        "place_id": "ola-platform:5000199477430",
+        "address": "100-B, RIICO Industrial Area, Chittorgarh, Rajasthan, 312001, India",
+        "district": "Chittorgarh",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Chittorgarh",
+        "fetched_at": "2026-04-01T15:57:40.260959"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.64899,
+          24.97845
+        ]
+      },
+      "properties": {
+        "name": "07, RIICO Industrial Area",
+        "place_id": "ola-platform:5000183874531",
+        "address": "07, RIICO Industrial Area, Chittorgarh, Ajolion Ka Khera, Rajasthan, 312901, India",
+        "district": "Chittorgarh",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Chittorgarh",
+        "fetched_at": "2026-04-01T15:57:40.278634"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.62797,
+          24.8924
+        ]
+      },
+      "properties": {
+        "name": "201, Behind Old Cotton Factory",
+        "place_id": "ola-platform:5000188994795",
+        "address": "201, Behind Old Cotton Factory, Shivlok Colony, Chittorgarh, Rajasthan, 312001, India",
+        "district": "Chittorgarh",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "factory area Chittorgarh",
+        "fetched_at": "2026-04-01T15:57:40.425645"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.94781,
+          28.30485
+        ]
+      },
+      "properties": {
+        "name": "Taranagar - Churu Rd",
+        "place_id": "ola-platform:5000194446125",
+        "address": "Taranagar - Churu Rd, Industrial Area, Churu, Rajasthan, 331001, India",
+        "district": "Churu",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Churu",
+        "fetched_at": "2026-04-01T15:57:43.169639"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.948332,
+          28.309849
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:1054665",
+        "address": "Industrial Area, Churu, Rajasthan, India",
+        "district": "Churu",
+        "state": "Rajasthan",
+        "types": [
+          "borough"
+        ],
+        "query_used": "industrial area Churu",
+        "fetched_at": "2026-04-01T15:57:43.184064"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.9529,
+          28.3144
+        ]
+      },
+      "properties": {
+        "name": "C N B Studiyo Churu",
+        "place_id": "ola-platform:5000049186432",
+        "address": "C N B Studiyo Churu, Churu, Rajasthan, 331001, India",
+        "district": "Churu",
+        "state": "Rajasthan",
+        "types": [
+          "storage"
+        ],
+        "query_used": "industrial area Churu",
+        "fetched_at": "2026-04-01T15:57:43.196545"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.9528,
+          28.3121
+        ]
+      },
+      "properties": {
+        "name": "Government ITI Churu",
+        "place_id": "ola-platform:5000037781833",
+        "address": "Government ITI Churu, Road No. 5 RIICO Ind. Area Road, Industrial Area, Bhaleri, Rajasthan, 331001, India",
+        "district": "Churu",
+        "state": "Rajasthan",
+        "types": [
+          "university"
+        ],
+        "query_used": "industrial area Churu",
+        "fetched_at": "2026-04-01T15:57:43.210095"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2813,
+          26.9918
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Bapi Dausa Raj",
+        "place_id": "ola-platform:5000065811073",
+        "address": "Industrial Area Bapi Dausa Raj, Bapi, Rajasthan, 303507, India",
+        "district": "Dausa",
+        "state": "Rajasthan",
+        "types": [
+          "general_contractor"
+        ],
+        "query_used": "industrial area Dausa",
+        "fetched_at": "2026-04-01T15:57:45.707176"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.355213,
+          26.905232
+        ]
+      },
+      "properties": {
+        "name": "BSNL RIICO Industrial Area",
+        "place_id": "ola-platform:5000045436704",
+        "address": "BSNL RIICO Industrial Area, Sh78, Dausa, Dausa Tehsil, Dausa, Rajasthan, 303303, India",
+        "district": "Dausa",
+        "state": "Rajasthan",
+        "types": [
+          "local_government_office"
+        ],
+        "query_used": "industrial area Dausa",
+        "fetched_at": "2026-04-01T15:57:45.721321"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.35635,
+          26.90616
+        ]
+      },
+      "properties": {
+        "name": "RIICO Industrial Area",
+        "place_id": "ola-platform:5000185759544",
+        "address": "RIICO Industrial Area, Dausa, Dausa Khurd Rural, Rajasthan, 303303, India",
+        "district": "Dausa",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Dausa",
+        "fetched_at": "2026-04-01T15:57:45.736643"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.35898,
+          26.90454
+        ]
+      },
+      "properties": {
+        "name": "59-60, RIICO Industrial Area",
+        "place_id": "ola-platform:5000195414540",
+        "address": "59-60, RIICO Industrial Area, Dausa, Dausa Khurd Rural, Rajasthan, 303303, India",
+        "district": "Dausa",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Dausa",
+        "fetched_at": "2026-04-01T15:57:45.752539"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3586,
+          26.9051
+        ]
+      },
+      "properties": {
+        "name": "RIICO Industrial Area",
+        "place_id": "ola-platform:5000184687843",
+        "address": "RIICO Industrial Area, Dausa, Rajasthan, 303303, India",
+        "district": "Dausa",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Dausa",
+        "fetched_at": "2026-04-01T15:57:45.767600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.36954,
+          26.91817
+        ]
+      },
+      "properties": {
+        "name": "Pol Factory",
+        "place_id": "ola-platform:5000190112307",
+        "address": "Pol Factory, Dausa, Mahansara Khurd Rural, Dausa, Rajasthan, 303303, India",
+        "district": "Dausa",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "factory area Dausa",
+        "fetched_at": "2026-04-01T15:57:45.878520"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.88347,
+          26.72358
+        ]
+      },
+      "properties": {
+        "name": "Rico Industrial Area",
+        "place_id": "ola-platform:5000044184122",
+        "address": "Rico Industrial Area, Dholpur, Rajasthan, 328001, India",
+        "district": "Dholpur",
+        "state": "Rajasthan",
+        "types": [
+          "general_contractor"
+        ],
+        "query_used": "industrial area Dholpur",
+        "fetched_at": "2026-04-01T15:57:48.349370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.88401,
+          26.71848
+        ]
+      },
+      "properties": {
+        "name": "Ondela Rd, Rico Industrial Area",
+        "place_id": "ola-platform:5000184906627",
+        "address": "Ondela Rd, Rico Industrial Area, Dholpur, Rajasthan, 328001, India",
+        "district": "Dholpur",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Dholpur",
+        "fetched_at": "2026-04-01T15:57:48.367645"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.87641,
+          26.72894
+        ]
+      },
+      "properties": {
+        "name": "116, Rico Industrial Area",
+        "place_id": "ola-platform:5000194274723",
+        "address": "116, Rico Industrial Area, Dholpur, Firozpur, Rajasthan, 328001, India",
+        "district": "Dholpur",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Dholpur",
+        "fetched_at": "2026-04-01T15:57:48.383724"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.88488,
+          26.71765
+        ]
+      },
+      "properties": {
+        "name": "Ondela Rd, Rico Industrial Area",
+        "place_id": "ola-platform:5000192926210",
+        "address": "Ondela Rd, Rico Industrial Area, Dholpur, Ondela, Rajasthan, 328001, India",
+        "district": "Dholpur",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Dholpur",
+        "fetched_at": "2026-04-01T15:57:48.398337"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.88053,
+          26.72712
+        ]
+      },
+      "properties": {
+        "name": "Rico Industrial Area",
+        "place_id": "ola-platform:5000185712266",
+        "address": "Rico Industrial Area, Dholpur, Firozpur, Rajasthan, 328001, India",
+        "district": "Dholpur",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Dholpur",
+        "fetched_at": "2026-04-01T15:57:48.413560"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7286,
+          23.8495
+        ]
+      },
+      "properties": {
+        "name": "Rico Industrial Area",
+        "place_id": "ola-platform:5000187813707",
+        "address": "Rico Industrial Area, Dungarpur, Rajasthan, 314001, India",
+        "district": "Dungarpur",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Dungarpur",
+        "fetched_at": "2026-04-01T15:57:50.737623"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7312,
+          23.848
+        ]
+      },
+      "properties": {
+        "name": "Bildi, Rico Industrial Area",
+        "place_id": "ola-platform:5000197093360",
+        "address": "Bildi, Rico Industrial Area, Dungarpur, Rajasthan, 314001, India",
+        "district": "Dungarpur",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Dungarpur",
+        "fetched_at": "2026-04-01T15:57:50.752400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.72756,
+          23.85062
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Nalanda Bunglows B13",
+        "place_id": "ola-platform:5000202271929",
+        "address": "Industrial Area Nalanda Bunglows B13, Rico Industrial Area, Dungarpur, Rajasthan, 314001, India",
+        "district": "Dungarpur",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Dungarpur",
+        "fetched_at": "2026-04-01T15:57:50.768016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.72749,
+          23.85234
+        ]
+      },
+      "properties": {
+        "name": "65, Rico Industrial Area",
+        "place_id": "ola-platform:5000199857375",
+        "address": "65, Rico Industrial Area, Dungarpur, Rajasthan, 314001, India",
+        "district": "Dungarpur",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Dungarpur",
+        "fetched_at": "2026-04-01T15:57:50.782830"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.72578,
+          23.85322
+        ]
+      },
+      "properties": {
+        "name": "9, Rico Industrial Area",
+        "place_id": "ola-platform:5000183087579",
+        "address": "9, Rico Industrial Area, Dungarpur, Rajasthan, 314001, India",
+        "district": "Dungarpur",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Dungarpur",
+        "fetched_at": "2026-04-01T15:57:50.798147"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.26942,
+          29.62372
+        ]
+      },
+      "properties": {
+        "name": "RIICO Industrial Area",
+        "place_id": "ola-platform:5000187064413",
+        "address": "RIICO Industrial Area, Phase I, C -37, Hanumangarh ByPass Rd, Industrial Area, Hanumangarh, Rajasthan, 335513, India",
+        "district": "Hanumangarh",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Hanumangarh",
+        "fetched_at": "2026-04-01T15:57:53.512377"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.277471,
+          29.632599
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:1052694",
+        "address": "Industrial Area, Hanumangarh, Rajasthan, India",
+        "district": "Hanumangarh",
+        "state": "Rajasthan",
+        "types": [
+          "borough"
+        ],
+        "query_used": "industrial area Hanumangarh",
+        "fetched_at": "2026-04-01T15:57:53.533241"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.26581,
+          29.62029
+        ]
+      },
+      "properties": {
+        "name": "RJ SH 36, Industrial Area",
+        "place_id": "ola-platform:5000184434946",
+        "address": "RJ SH 36, Industrial Area, Hanumangarh, Rajasthan, 335513, India",
+        "district": "Hanumangarh",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Hanumangarh",
+        "fetched_at": "2026-04-01T15:57:53.556557"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.26904,
+          29.6242
+        ]
+      },
+      "properties": {
+        "name": "NH 54, Industrial Area",
+        "place_id": "ola-platform:5000188457186",
+        "address": "NH 54, Industrial Area, Hanumangarh, Rajasthan, 335513, India",
+        "district": "Hanumangarh",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Hanumangarh",
+        "fetched_at": "2026-04-01T15:57:53.575825"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.278,
+          29.636
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area II",
+        "place_id": "ola-platform:5000197404157",
+        "address": "Industrial Area II, Hanumangarh, Rajasthan, 335513, India",
+        "district": "Hanumangarh",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Hanumangarh",
+        "fetched_at": "2026-04-01T15:57:53.595430"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3044,
+          29.0911
+        ]
+      },
+      "properties": {
+        "name": "Manufacturing Plant 2",
+        "place_id": "ola-platform:5000041710187",
+        "address": "Manufacturing Plant 2, Hanumangarh - Sardarshahar Rd, Rajasthan, 335524, India",
+        "district": "Hanumangarh",
+        "state": "Rajasthan",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "manufacturing hub Hanumangarh",
+        "fetched_at": "2026-04-01T15:57:53.798325"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.788202,
+          26.968268
+        ]
+      },
+      "properties": {
+        "name": "Manjeet Children Hospital ( DMICC ), Jaipur",
+        "place_id": "ola-platform:5000328386467",
+        "address": "Manjeet Children Hospital ( DMICC ), Jaipur, Institutional Block, Plot 14, Near RTO, Sector 10, VishwaKarma Industrial Area, Vidyadhar Nagar, Jaipur, Rajasthan 302023",
+        "district": "Jaipur",
+        "state": "Rajasthan",
+        "types": [
+          "hospital"
+        ],
+        "query_used": "industrial area Jaipur",
+        "fetched_at": "2026-04-01T15:57:55.936408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.83952,
+          26.77405
+        ]
+      },
+      "properties": {
+        "name": "J299, Ricco Indastrial Area Sitapura Jaipur Rajasthan J299",
+        "place_id": "ola-platform:5000194881728",
+        "address": "J299, Ricco Indastrial Area Sitapura Jaipur Rajasthan J299, Ricco Indastrial Area, Sitapura Industrial Area, Sitapura, Jaipur, Rajasthan, 302022, India",
+        "district": "Jaipur",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Jaipur",
+        "fetched_at": "2026-04-01T15:57:55.954097"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8434,
+          26.7762
+        ]
+      },
+      "properties": {
+        "name": "Sogani Fashions Jaipur LLP",
+        "place_id": "ola-platform:5000193092577",
+        "address": "Sogani Fashions Jaipur LLP, Plot No G 557, Sogani Fashions Jaipur LLP, 557, Chatrala Circle, Ricco Industrial Area, Sitapura Industrial Area, Sitapura, Jaipur, Rajasthan, 302022, India",
+        "district": "Jaipur",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Jaipur",
+        "fetched_at": "2026-04-01T15:57:55.970539"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.9535,
+          27.1753
+        ]
+      },
+      "properties": {
+        "name": "Amity University Jaipur",
+        "place_id": "ola-platform:5000190223687",
+        "address": "Amity University Jaipur, Nh11c, RIICO Industrial Area, Jaipur, Rajasthan, 303002, India",
+        "district": "Jaipur",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Jaipur",
+        "fetched_at": "2026-04-01T15:57:55.988190"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1718,
+          27.5909
+        ]
+      },
+      "properties": {
+        "name": "14, Sikar-Jaipur Rd",
+        "place_id": "ola-platform:5000184400572",
+        "address": "14, Sikar-Jaipur Rd, Industrial Area, Sikar, Rajasthan, 332001, India",
+        "district": "Jaipur",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Jaipur",
+        "fetched_at": "2026-04-01T15:57:56.004821"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7534,
+          26.9485
+        ]
+      },
+      "properties": {
+        "name": "Makka Masjid Factory Area Rd",
+        "place_id": "ola-platform:5000068273723",
+        "address": "Makka Masjid Factory Area Rd, Barkat Colony, 1, Krishna Colony, Jhotwara, Jaipur, Rajasthan, 302012, India",
+        "district": "Jaipur",
+        "state": "Rajasthan",
+        "types": [
+          "place_of_worship",
+          "mosque"
+        ],
+        "query_used": "factory area Jaipur",
+        "fetched_at": "2026-04-01T15:57:56.102889"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7635,
+          26.9465
+        ]
+      },
+      "properties": {
+        "name": "42, Factory Area Rd",
+        "place_id": "ola-platform:5000191539844",
+        "address": "42, Factory Area Rd, Gulabbadi, Madina Colony, Jhotwara, Jaipur, Rajasthan, 302012, India",
+        "district": "Jaipur",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Jaipur",
+        "fetched_at": "2026-04-01T15:57:56.118748"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7634,
+          26.947
+        ]
+      },
+      "properties": {
+        "name": "Factory Area Road",
+        "place_id": "ola-platform:5000183329294",
+        "address": "Factory Area Road, Factory Area Rd, Gulabbadi, Madina Colony, Jhotwara, Jaipur, Rajasthan, 302012, India",
+        "district": "Jaipur",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Jaipur",
+        "fetched_at": "2026-04-01T15:57:56.134580"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7628,
+          26.947
+        ]
+      },
+      "properties": {
+        "name": "5, Factory Area Rd",
+        "place_id": "ola-platform:5000195952732",
+        "address": "5, Factory Area Rd, Gulabbadi, Madina Colony, Jhotwara, Jaipur, Rajasthan, 302012, India",
+        "district": "Jaipur",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Jaipur",
+        "fetched_at": "2026-04-01T15:57:56.150154"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7628,
+          26.947
+        ]
+      },
+      "properties": {
+        "name": "8, Factory Area Rd",
+        "place_id": "ola-platform:5000184648865",
+        "address": "8, Factory Area Rd, Gulabbadi, Madina Colony, Jhotwara, Jaipur, Rajasthan, 302012, India",
+        "district": "Jaipur",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Jaipur",
+        "fetched_at": "2026-04-01T15:57:56.166357"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7701,
+          26.8417
+        ]
+      },
+      "properties": {
+        "name": "18 Threads - Clothing Manufacturing Company",
+        "place_id": "ola-platform:5000036954001",
+        "address": "18 Threads - Clothing Manufacturing Company, 124/496, Thadi Market, Agarwal Farm, Sector 12, Mansarovar, Jaipur, Rajasthan, 302020, India",
+        "district": "Jaipur",
+        "state": "Rajasthan",
+        "types": [
+          "clothing_store"
+        ],
+        "query_used": "manufacturing hub Jaipur",
+        "fetched_at": "2026-04-01T15:57:56.183529"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.927,
+          26.923378
+        ]
+      },
+      "properties": {
+        "name": "Johnson Bathrooms Crest Store - Chanchal Ceramics, RIICO Industrial Area",
+        "place_id": "ola-platform:5000058056824",
+        "address": "Johnson Bathrooms Crest Store - Chanchal Ceramics, RIICO Industrial Area, Jaisalmer, Jaisalmer Tehsil, Jaisalmer, Rajasthan, 345001, India",
+        "district": "Jaisalmer",
+        "state": "Rajasthan",
+        "types": [
+          "store"
+        ],
+        "query_used": "industrial area Jaisalmer",
+        "fetched_at": "2026-04-01T15:57:58.567463"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.94158,
+          26.92595
+        ]
+      },
+      "properties": {
+        "name": "243, Industrial Area",
+        "place_id": "ola-platform:5000194178460",
+        "address": "243, Industrial Area, Shilpgram, Jaisalmer, Rajasthan, 345002, India",
+        "district": "Jaisalmer",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Jaisalmer",
+        "fetched_at": "2026-04-01T15:57:58.585623"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.94026,
+          26.91936
+        ]
+      },
+      "properties": {
+        "name": "512, Industrial Area",
+        "place_id": "ola-platform:5000186662181",
+        "address": "512, Industrial Area, Indira Colony, Jaisalmer, Rajasthan, 345002, India",
+        "district": "Jaisalmer",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Jaisalmer",
+        "fetched_at": "2026-04-01T15:57:58.600369"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.9338,
+          26.9231
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000200870279",
+        "address": "Industrial Area, Gandhi Nagar, Jaisalmer, Rajasthan, 345001, India",
+        "district": "Jaisalmer",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Jaisalmer",
+        "fetched_at": "2026-04-01T15:57:58.618884"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.94766,
+          26.91945
+        ]
+      },
+      "properties": {
+        "name": "NH 11, Industrial Area",
+        "place_id": "ola-platform:5000186258718",
+        "address": "NH 11, Industrial Area, Indira Colony, Jaisalmer, Rajasthan, 345002, India",
+        "district": "Jaisalmer",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Jaisalmer",
+        "fetched_at": "2026-04-01T15:57:58.634059"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6343,
+          25.3143
+        ]
+      },
+      "properties": {
+        "name": "RJ SH 31, Industrial Area",
+        "place_id": "ola-platform:5000189663123",
+        "address": "RJ SH 31, Industrial Area, Jalore, Rajasthan, 343002, India",
+        "district": "Jalore",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Jalore",
+        "fetched_at": "2026-04-01T15:58:01.033479"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.63432,
+          25.31491
+        ]
+      },
+      "properties": {
+        "name": "RJ SH 38, Industrial Area",
+        "place_id": "ola-platform:5000202313025",
+        "address": "RJ SH 38, Industrial Area, Jalore, Rajasthan, 343002, India",
+        "district": "Jalore",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Jalore",
+        "fetched_at": "2026-04-01T15:58:01.091163"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6346,
+          25.3227
+        ]
+      },
+      "properties": {
+        "name": "SH 31, Industrial Area",
+        "place_id": "ola-platform:5000194468715",
+        "address": "SH 31, Industrial Area, Jalore, Rajasthan, 343002, India",
+        "district": "Jalore",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Jalore",
+        "fetched_at": "2026-04-01T15:58:01.112366"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.60774,
+          25.35947
+        ]
+      },
+      "properties": {
+        "name": "2, Industrial Area Phase I",
+        "place_id": "ola-platform:5000188138776",
+        "address": "2, Industrial Area Phase I, Jalore, Rajasthan, 343001, India",
+        "district": "Jalore",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Jalore",
+        "fetched_at": "2026-04-01T15:58:01.129841"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6372,
+          25.3138
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000194175310",
+        "address": "Industrial Area, Jalore, Rajasthan, 343002, India",
+        "district": "Jalore",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Jalore",
+        "fetched_at": "2026-04-01T15:58:01.158357"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.150897,
+          24.598427
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:1112498",
+        "address": "Industrial Area, Jhalawar, Rajasthan, India",
+        "district": "Jhalawar",
+        "state": "Rajasthan",
+        "types": [
+          "borough"
+        ],
+        "query_used": "industrial area Jhalawar",
+        "fetched_at": "2026-04-01T15:58:03.751321"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1505,
+          24.5927
+        ]
+      },
+      "properties": {
+        "name": "Kota Rd, Industrial Area",
+        "place_id": "ola-platform:5000188906810",
+        "address": "Kota Rd, Industrial Area, Jhalawar, Rajasthan, 326001, India",
+        "district": "Jhalawar",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Jhalawar",
+        "fetched_at": "2026-04-01T15:58:03.785693"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.15379,
+          24.59512
+        ]
+      },
+      "properties": {
+        "name": "F-16, Industrial Area Phase I",
+        "place_id": "ola-platform:5000196200944",
+        "address": "F-16, Industrial Area Phase I, Jhalawar, Rajasthan, 326001, India",
+        "district": "Jhalawar",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Jhalawar",
+        "fetched_at": "2026-04-01T15:58:03.809063"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1534,
+          24.5925
+        ]
+      },
+      "properties": {
+        "name": "Garden, Industrial Area",
+        "place_id": "ola-platform:5000197442947",
+        "address": "Garden, Industrial Area, Jhalawar, Rajasthan, 326001, India",
+        "district": "Jhalawar",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Jhalawar",
+        "fetched_at": "2026-04-01T15:58:03.852057"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.15031,
+          24.59256
+        ]
+      },
+      "properties": {
+        "name": "NH 148N, Industrial Area",
+        "place_id": "ola-platform:5000196982043",
+        "address": "NH 148N, Industrial Area, Jhalawar, Rajasthan, 326001, India",
+        "district": "Jhalawar",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Jhalawar",
+        "fetched_at": "2026-04-01T15:58:03.886525"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7315,
+          27.1187
+        ]
+      },
+      "properties": {
+        "name": "Jaipur - Jhunjhunu ByPass Rd",
+        "place_id": "ola-platform:5000201748481",
+        "address": "Jaipur - Jhunjhunu ByPass Rd, Jaitpura Industrial Area, Jaitpura, Rajasthan, 303701, India",
+        "district": "Jhunjhunu",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Jhunjhunu",
+        "fetched_at": "2026-04-01T15:58:06.612794"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7701,
+          27.0076
+        ]
+      },
+      "properties": {
+        "name": "Jaipur - Jhunjhunu ByPass Rd",
+        "place_id": "ola-platform:5000199928535",
+        "address": "Jaipur - Jhunjhunu ByPass Rd, VishwaKarma Industrial Area, Jaipur, Rajasthan, 302032, India",
+        "district": "Jhunjhunu",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Jhunjhunu",
+        "fetched_at": "2026-04-01T15:58:06.638620"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7704,
+          26.9982
+        ]
+      },
+      "properties": {
+        "name": "14, Jaipur - Jhunjhunu ByPass Rd",
+        "place_id": "ola-platform:5000191339878",
+        "address": "14, Jaipur - Jhunjhunu ByPass Rd, VishwaKarma Industrial Area, Harmada, Jaipur, Rajasthan, 302032, India",
+        "district": "Jhunjhunu",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Jhunjhunu",
+        "fetched_at": "2026-04-01T15:58:06.656320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.76917,
+          26.99476
+        ]
+      },
+      "properties": {
+        "name": "Jhunjhunu Wala Marg",
+        "place_id": "ola-platform:5000192676435",
+        "address": "Jhunjhunu Wala Marg, VishwaKarma Industrial Area, Murlipura, Jaipur, Rajasthan, 302013, India",
+        "district": "Jhunjhunu",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Jhunjhunu",
+        "fetched_at": "2026-04-01T15:58:06.673213"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7704,
+          26.9982
+        ]
+      },
+      "properties": {
+        "name": "1, Jaipur - Jhunjhunu ByPass Rd",
+        "place_id": "ola-platform:5000190921146",
+        "address": "1, Jaipur - Jhunjhunu ByPass Rd, VishwaKarma Industrial Area, Harmada, Jaipur, Rajasthan, 302032, India",
+        "district": "Jhunjhunu",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Jhunjhunu",
+        "fetched_at": "2026-04-01T15:58:06.688285"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.4139,
+          28.1235
+        ]
+      },
+      "properties": {
+        "name": "Loading Vehicle Body Bulding And Wire Nail Manufacturing",
+        "place_id": "ola-platform:5000059830135",
+        "address": "Loading Vehicle Body Bulding And Wire Nail Manufacturing, Rd Number 3, Near Harbal Ayurvedic Hospital, Railway Quaters, Jhunjhunu, Rajasthan, 333001, India",
+        "district": "Jhunjhunu",
+        "state": "Rajasthan",
+        "types": [
+          "beauty_salon",
+          "hair_care"
+        ],
+        "query_used": "manufacturing hub Jhunjhunu",
+        "fetched_at": "2026-04-01T15:58:06.859960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.007409,
+          26.23896
+        ]
+      },
+      "properties": {
+        "name": "All India Institute Of Medical Sciences, Jodhpur",
+        "place_id": "ola-platform:5000328388699",
+        "address": "All India Institute Of Medical Sciences, Jodhpur, Marudhar Industrial Area, 2nd Phase, M.I.A. 1st Phase, Basni, Jodhpur, Rajasthan 342005",
+        "district": "Jodhpur",
+        "state": "Rajasthan",
+        "types": [
+          "hospital"
+        ],
+        "query_used": "industrial area Jodhpur",
+        "fetched_at": "2026-04-01T15:58:09.153175"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.01089,
+          26.26299
+        ]
+      },
+      "properties": {
+        "name": "B-36, Industrial Estate",
+        "place_id": "ola-platform:5000191514178",
+        "address": "B-36, Industrial Estate, New Power House Rd, Sector-H, Shastri Nagar, Jodhpur, Rajasthan, 342003, India",
+        "district": "Jodhpur",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial estate Jodhpur Rajasthan",
+        "fetched_at": "2026-04-01T15:58:09.228092"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.012271,
+          26.260676
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:5000036127102",
+        "address": "Industrial Estate, Jodhpur, Jodhpur Tehsil, Jodhpur, Rajasthan, 342003, India",
+        "district": "Jodhpur",
+        "state": "Rajasthan",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Jodhpur Rajasthan",
+        "fetched_at": "2026-04-01T15:58:09.243037"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0092,
+          26.2575
+        ]
+      },
+      "properties": {
+        "name": "State Bank Of India Industrial Estate Branch (State Bank Of India Jodhpur Ind. Estate)",
+        "place_id": "ola-platform:5000054934428",
+        "address": "State Bank Of India Industrial Estate Branch (State Bank Of India Jodhpur Ind. Estate), Industrial Estate Jodhpur, Distt, Sector-H, Shastri Nagar, Jodhpur, Rajasthan, 342003, India",
+        "district": "Jodhpur",
+        "state": "Rajasthan",
+        "types": [
+          "bank"
+        ],
+        "query_used": "industrial estate Jodhpur Rajasthan",
+        "fetched_at": "2026-04-01T15:58:09.256266"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9782,
+          26.2505
+        ]
+      },
+      "properties": {
+        "name": "Belgian Waffle Factory Jodhpur",
+        "place_id": "ola-platform:5000061845177",
+        "address": "Belgian Waffle Factory Jodhpur, 22-S-17 Samrat Ashok Udhyan, Main, Pal Rd, Near Manchhapurn Balaji, Chopasni Housing Board, Jodhpur, Rajasthan, 342008, India",
+        "district": "Jodhpur",
+        "state": "Rajasthan",
+        "types": [
+          "restaurant",
+          "meal_takeaway",
+          "meal_delivery"
+        ],
+        "query_used": "factory area Jodhpur",
+        "fetched_at": "2026-04-01T15:58:09.270941"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9425,
+          26.1694
+        ]
+      },
+      "properties": {
+        "name": "Jodhpur Boranada Pepsi Factory Ke Paas Bhavani Restaurant",
+        "place_id": "ola-platform:5000039974783",
+        "address": "Jodhpur Boranada Pepsi Factory Ke Paas Bhavani Restaurant, Pepsi Factory Ke Paas, Bhavani Restaurant, Boranada, Rajasthan, 342012, India",
+        "district": "Jodhpur",
+        "state": "Rajasthan",
+        "types": [
+          "lodging"
+        ],
+        "query_used": "factory area Jodhpur",
+        "fetched_at": "2026-04-01T15:58:09.284273"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0218,
+          26.1907
+        ]
+      },
+      "properties": {
+        "name": "Raj UPVC Manufacturing Khidki And Darwaja Jodhpur",
+        "place_id": "ola-platform:5000221517265",
+        "address": "Raj UPVC Manufacturing Khidki And Darwaja Jodhpur, Sangriya D'Mart Back Side, Vivek Vihar Road, Sangriya, Jodhpur, Sangariya, Rajasthan 342013, India",
+        "district": "Jodhpur",
+        "state": "Rajasthan",
+        "types": [
+          "point_of_interest"
+        ],
+        "query_used": "manufacturing hub Jodhpur",
+        "fetched_at": "2026-04-01T15:58:09.342083"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.033163,
+          26.759382
+        ]
+      },
+      "properties": {
+        "name": "Punjab National Bank Hindaun Industrial Area Branch",
+        "place_id": "ola-platform:5000063157848",
+        "address": "Punjab National Bank Hindaun Industrial Area Branch, Hindaun, Hindaun Tehsil, Karauli, Rajasthan, 322230, India",
+        "district": "Karauli",
+        "state": "Rajasthan",
+        "types": [
+          "bank"
+        ],
+        "query_used": "industrial area Karauli",
+        "fetched_at": "2026-04-01T15:58:11.482113"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.030803,
+          26.758354
+        ]
+      },
+      "properties": {
+        "name": "Office Of Deputy Manager RIICO Industrial Area",
+        "place_id": "ola-platform:5000058009360",
+        "address": "Office Of Deputy Manager RIICO Industrial Area, Sh22, Hindaun, Hindaun Tehsil, Karauli, Rajasthan, 322230, India",
+        "district": "Karauli",
+        "state": "Rajasthan",
+        "types": [
+          "local_government_office"
+        ],
+        "query_used": "industrial area Karauli",
+        "fetched_at": "2026-04-01T15:58:11.502044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8675,
+          25.1558
+        ]
+      },
+      "properties": {
+        "name": "G+9 Kota Industrial Area",
+        "place_id": "ola-platform:5000042179596",
+        "address": "G+9 Kota Industrial Area, G+9, Multimetals, Kota Industrial Area, Kota, Rajasthan, 324003, India",
+        "district": "Kota",
+        "state": "Rajasthan",
+        "types": [
+          "point_of_interest"
+        ],
+        "query_used": "industrial area Kota",
+        "fetched_at": "2026-04-01T15:58:13.758036"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8811,
+          25.1423
+        ]
+      },
+      "properties": {
+        "name": "DCM Kota Industrial Area",
+        "place_id": "ola-platform:5000035569588",
+        "address": "DCM Kota Industrial Area, DCM, Prem Nagar, Kota Industrial Area, Kota, Rajasthan, 324004, India",
+        "district": "Kota",
+        "state": "Rajasthan",
+        "types": [
+          "school",
+          "premise",
+          "primary_school"
+        ],
+        "query_used": "industrial area Kota",
+        "fetched_at": "2026-04-01T15:58:13.773896"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8797,
+          25.1374
+        ]
+      },
+      "properties": {
+        "name": "Prem Nagar 3, Kota Industrial Area, Kota",
+        "place_id": "ola-platform:5000052124090",
+        "address": "Prem Nagar 3, Kota Industrial Area, Kota, Padam Avenue, Kota Industrial Area, Kota, Rajasthan, 324004, India",
+        "district": "Kota",
+        "state": "Rajasthan",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Kota",
+        "fetched_at": "2026-04-01T15:58:13.790502"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.881441,
+          25.138373
+        ]
+      },
+      "properties": {
+        "name": "Kota Industrial Area",
+        "place_id": "ola-platform:1106885",
+        "address": "Kota Industrial Area, Kota, Rajasthan, India",
+        "district": "Kota",
+        "state": "Rajasthan",
+        "types": [
+          "borough"
+        ],
+        "query_used": "industrial area Kota",
+        "fetched_at": "2026-04-01T15:58:13.804683"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.864934,
+          25.127135
+        ]
+      },
+      "properties": {
+        "name": "Indraprasth Industrial Area (Indiraprastha Industrial Area)",
+        "place_id": "ola-platform:1053003",
+        "address": "Indraprasth Industrial Area (Indiraprastha Industrial Area), Kota, Rajasthan, India",
+        "district": "Kota",
+        "state": "Rajasthan",
+        "types": [
+          "borough"
+        ],
+        "query_used": "industrial area Kota",
+        "fetched_at": "2026-04-01T15:58:13.820236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8602,
+          25.1638
+        ]
+      },
+      "properties": {
+        "name": "SBI KOTAH Industrial Estate",
+        "place_id": "ola-platform:5000220824553",
+        "address": "SBI KOTAH Industrial Estate, Distt, Ramchandrapura, Industrial Estate, Kota, Rajasthan 324007, India",
+        "district": "Kota",
+        "state": "Rajasthan",
+        "types": [
+          "bank"
+        ],
+        "query_used": "industrial estate Kota Rajasthan",
+        "fetched_at": "2026-04-01T15:58:13.834846"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.84658,
+          25.167477
+        ]
+      },
+      "properties": {
+        "name": "Maruti Suzuki Arena (Bhatia And Company, Kota, Industrial Estate Kota)",
+        "place_id": "ola-platform:5000059338443",
+        "address": "Maruti Suzuki Arena (Bhatia And Company, Kota, Industrial Estate Kota), Rawatbhata Road, Kota, Ladpura Tehsil, Kota, Rajasthan, 324007, India",
+        "district": "Kota",
+        "state": "Rajasthan",
+        "types": [
+          "car_dealer"
+        ],
+        "query_used": "industrial estate Kota Rajasthan",
+        "fetched_at": "2026-04-01T15:58:13.851168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8804,
+          25.1457
+        ]
+      },
+      "properties": {
+        "name": "Kansuwa Gatta Factory Rod",
+        "place_id": "ola-platform:5000176901401",
+        "address": "Kansuwa Gatta Factory Rod, Gatta Rd, Kansuwa, Kota Industrial Area, Kota, Rajasthan, 324004, India",
+        "district": "Kota",
+        "state": "Rajasthan",
+        "types": [
+          "food",
+          "restaurant"
+        ],
+        "query_used": "factory area Kota",
+        "fetched_at": "2026-04-01T15:58:13.969415"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.867,
+          25.1523
+        ]
+      },
+      "properties": {
+        "name": "Paliwal Steels Pipe Factory",
+        "place_id": "ola-platform:5000185289720",
+        "address": "Paliwal Steels Pipe Factory, Kota Industrial Area, Kota, Rajasthan, 324003, India",
+        "district": "Kota",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Kota",
+        "fetched_at": "2026-04-01T15:58:14.003328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8518,
+          25.1307
+        ]
+      },
+      "properties": {
+        "name": "T-Shirt Manufacturing & Printing Solution Hub",
+        "place_id": "ola-platform:5000063020777",
+        "address": "T-Shirt Manufacturing & Printing Solution Hub, VishwaKarma Nagar, Mahaveer Nagar-I, Transport Nagar, Mahaveer Nagar, Kota, Rajasthan, 324005, India",
+        "district": "Kota",
+        "state": "Rajasthan",
+        "types": [
+          "clothing_store"
+        ],
+        "query_used": "manufacturing hub Kota",
+        "fetched_at": "2026-04-01T15:58:14.036130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.309324,
+          25.768538
+        ]
+      },
+      "properties": {
+        "name": "Punayata Industrial Area",
+        "place_id": "ola-platform:1052100",
+        "address": "Punayata Industrial Area, Pali, Rajasthan, India",
+        "district": "Pali",
+        "state": "Rajasthan",
+        "types": [
+          "borough"
+        ],
+        "query_used": "industrial area Pali",
+        "fetched_at": "2026-04-01T15:58:19.186608"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.30253,
+          25.772097
+        ]
+      },
+      "properties": {
+        "name": "State Bank Of India-Punayata Industrial Area",
+        "place_id": "ola-platform:5000066333743",
+        "address": "State Bank Of India-Punayata Industrial Area, Sh64a, Pali, Pali Tehsil, Pali, Rajasthan, 306401, India",
+        "district": "Pali",
+        "state": "Rajasthan",
+        "types": [
+          "finance"
+        ],
+        "query_used": "industrial area Pali",
+        "fetched_at": "2026-04-01T15:58:19.205476"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.326189,
+          25.796337
+        ]
+      },
+      "properties": {
+        "name": "Pali Industrial Estate Post Office",
+        "place_id": "ola-platform:5000055510776",
+        "address": "Pali Industrial Estate Post Office, Pali, Pali Tehsil, Pali, Rajasthan, 306401, India",
+        "district": "Pali",
+        "state": "Rajasthan",
+        "types": [
+          "post_office"
+        ],
+        "query_used": "industrial estate Pali Rajasthan",
+        "fetched_at": "2026-04-01T15:58:19.280971"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3465,
+          26.0138
+        ]
+      },
+      "properties": {
+        "name": "Kherda Industrial Area",
+        "place_id": "ola-platform:5000048694594",
+        "address": "Kherda Industrial Area, Kherda, Sawai Madhopur, Rajasthan, 322021, India",
+        "district": "Sawai Madhopur",
+        "state": "Rajasthan",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Sawai Madhopur",
+        "fetched_at": "2026-04-01T15:58:27.405875"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.34091,
+          26.02028
+        ]
+      },
+      "properties": {
+        "name": "H 118 Kherda Industrial Area",
+        "place_id": "ola-platform:5000191530898",
+        "address": "H 118 Kherda Industrial Area, Nearby Tiger City School, Kherda, Sawai Madhopur, Bambori Rural, Rajasthan, 322001, India",
+        "district": "Sawai Madhopur",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Sawai Madhopur",
+        "fetched_at": "2026-04-01T15:58:27.437683"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.36661,
+          26.03934
+        ]
+      },
+      "properties": {
+        "name": "Q.No.147/184, Cement Factory",
+        "place_id": "ola-platform:5000202324697",
+        "address": "Q.No.147/184, Cement Factory, Sahu Nagar, Sawai Madhopur, Pachipalya, Rajasthan, 322027, India",
+        "district": "Sawai Madhopur",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "factory area Sawai Madhopur",
+        "fetched_at": "2026-04-01T15:58:27.589804"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.36735,
+          26.03271
+        ]
+      },
+      "properties": {
+        "name": "Cement Factory",
+        "place_id": "ola-platform:5000188361979",
+        "address": "Cement Factory, Q.No.147/184, Sahu Nagar, Sawai Madhopur, Pachipalya, Rajasthan, 322027, India",
+        "district": "Sawai Madhopur",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "factory area Sawai Madhopur",
+        "fetched_at": "2026-04-01T15:58:27.605672"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1632,
+          27.5963
+        ]
+      },
+      "properties": {
+        "name": "Ola Showroom Sikar",
+        "place_id": "ola-platform:5000055536397",
+        "address": "Ola Showroom Sikar, Industrial Area, Sikar, Rajasthan, 332001, India",
+        "district": "Sikar",
+        "state": "Rajasthan",
+        "types": [
+          "car_repair"
+        ],
+        "query_used": "industrial area Sikar",
+        "fetched_at": "2026-04-01T15:58:29.775757"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7699,
+          26.9991
+        ]
+      },
+      "properties": {
+        "name": "02, Sikar Rd",
+        "place_id": "ola-platform:5000202595331",
+        "address": "02, Sikar Rd, VishwaKarma Industrial Area, Industrial Area, Jaipur, Rajasthan, 302032, India",
+        "district": "Sikar",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Sikar",
+        "fetched_at": "2026-04-01T15:58:29.793195"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.163925,
+          27.595848
+        ]
+      },
+      "properties": {
+        "name": "Sniper Shooting Academy Sikar",
+        "place_id": "ola-platform:5000064381674",
+        "address": "Sniper Shooting Academy Sikar, SBI Industrial Area Branch, Jaipur Sikar Highway, Krshi Upaj Mandi Sikar, Bajarang Kanta, Sikar, Rajasthan, 332001, India",
+        "district": "Sikar",
+        "state": "Rajasthan",
+        "types": [
+          "gym",
+          "stadium"
+        ],
+        "query_used": "industrial area Sikar",
+        "fetched_at": "2026-04-01T15:58:29.809604"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1621,
+          27.58542
+        ]
+      },
+      "properties": {
+        "name": "RIICO Industrial Area Near Emmanuel School Sikar Rajasthan 332001 In",
+        "place_id": "ola-platform:5000188786601",
+        "address": "RIICO Industrial Area Near Emmanuel School Sikar Rajasthan 332001 In, Industrial Area, Sikar, Rajasthan, 332001, India",
+        "district": "Sikar",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Sikar",
+        "fetched_at": "2026-04-01T15:58:29.827627"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7734,
+          26.974
+        ]
+      },
+      "properties": {
+        "name": "14, Sikar Rd",
+        "place_id": "ola-platform:5000190698446",
+        "address": "14, Sikar Rd, VishwaKarma Industrial Area, Murlipura, Jaipur, Rajasthan, 302039, India",
+        "district": "Sikar",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Sikar",
+        "fetched_at": "2026-04-01T15:58:29.843949"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1632,
+          27.5963
+        ]
+      },
+      "properties": {
+        "name": "Ola Electric Store - Electric Scooter Showroom In Sikar",
+        "place_id": "ola-platform:5000222073811",
+        "address": "Ola Electric Store - Electric Scooter Showroom In Sikar, Khasara No. 124, Main, Jaipur - Sikar Road, Opposite Aas Pass Factory, Industrial Area, Sikar, Rajasthan 332001, India",
+        "district": "Sikar",
+        "state": "Rajasthan",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "factory area Sikar",
+        "fetched_at": "2026-04-01T15:58:29.998243"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.87575,
+          29.92972
+        ]
+      },
+      "properties": {
+        "name": "4-Industrial Area, Ganesh Talkies Rd",
+        "place_id": "ola-platform:5000186001286",
+        "address": "4-Industrial Area, Ganesh Talkies Rd, Near ICICI Bank, Ganganagar Industries Area, Sri Ganganagar, Rajasthan, 335001, India",
+        "district": "Sri Ganganagar",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Sri Ganganagar",
+        "fetched_at": "2026-04-01T15:58:35.679734"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9271,
+          29.8678
+        ]
+      },
+      "properties": {
+        "name": "RIICO Industrial Area",
+        "place_id": "ola-platform:5000186554976",
+        "address": "RIICO Industrial Area, 17Ml, Rajasthan, 335001, India",
+        "district": "Sri Ganganagar",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Sri Ganganagar",
+        "fetched_at": "2026-04-01T15:58:35.711354"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.86538,
+          29.91363
+        ]
+      },
+      "properties": {
+        "name": "118, Aggasen Industrial Area",
+        "place_id": "ola-platform:5000188703025",
+        "address": "118, Aggasen Industrial Area, Sri Ganganagar, 3 A, Rajasthan, 335001, India",
+        "district": "Sri Ganganagar",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Sri Ganganagar",
+        "fetched_at": "2026-04-01T15:58:35.729848"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.89149,
+          29.91052
+        ]
+      },
+      "properties": {
+        "name": "157-B, Industrial Area",
+        "place_id": "ola-platform:5000192219557",
+        "address": "157-B, Industrial Area, Aggarsain Nagar, Sri Ganganagar, 1 A, Rajasthan, 335001, India",
+        "district": "Sri Ganganagar",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Sri Ganganagar",
+        "fetched_at": "2026-04-01T15:58:35.747430"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.620291,
+          29.712707
+        ]
+      },
+      "properties": {
+        "name": "RIICO Industrial Area",
+        "place_id": "ola-platform:5000052398773",
+        "address": "RIICO Industrial Area, Padampur, Padampur Tehsil, Sri Ganganagar, Rajasthan, 335041, India",
+        "district": "Sri Ganganagar",
+        "state": "Rajasthan",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Sri Ganganagar",
+        "fetched_at": "2026-04-01T15:58:35.766466"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.87685,
+          29.93495
+        ]
+      },
+      "properties": {
+        "name": "19b, Industrial Estate",
+        "place_id": "ola-platform:5000201992017",
+        "address": "19b, Industrial Estate, Sri Ganganagar, 1 B, Rajasthan, 335001, India",
+        "district": "Sri Ganganagar",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial estate Sri Ganganagar Rajasthan",
+        "fetched_at": "2026-04-01T15:58:35.824181"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8868,
+          26.7343
+        ]
+      },
+      "properties": {
+        "name": "RIICO Industrial Area Prahladpura",
+        "place_id": "ola-platform:5000042842231",
+        "address": "RIICO Industrial Area Prahladpura, Tonk Rd, Beelwa, Prahladpura, Rajasthan, 303905, India",
+        "district": "Tonk",
+        "state": "Rajasthan",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Tonk",
+        "fetched_at": "2026-04-01T15:58:38.223331"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.82016,
+          26.18476
+        ]
+      },
+      "properties": {
+        "name": "RIICO Industrial Area 304001 F83-84 Tonk(rajasthan",
+        "place_id": "ola-platform:5000199844477",
+        "address": "RIICO Industrial Area 304001 F83-84 Tonk(rajasthan, Khandelwal, Tonk, Rajasthan, 304001, India",
+        "district": "Tonk",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Tonk",
+        "fetched_at": "2026-04-01T15:58:38.254363"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8561,
+          26.7722
+        ]
+      },
+      "properties": {
+        "name": "RIICO Industrial Area Opp Chokhi Dhani, Tonk Road, NH 12, Sitapura, Jaipur, Rajasthan",
+        "place_id": "ola-platform:5000048992669",
+        "address": "RIICO Industrial Area Opp Chokhi Dhani, Tonk Road, NH 12, Sitapura, Jaipur, Rajasthan, Yagyavalkya Institute Of Technology, YIT Lane, RIICO Industrial Area Opp Chokhi Dhani, Tonk Road, NH 12, Ricco Industrial Area, Sitapura Industrial Area, Sitapura, Jaipur, Rajasthan, 302022, India",
+        "district": "Tonk",
+        "state": "Rajasthan",
+        "types": [
+          "university"
+        ],
+        "query_used": "industrial area Tonk",
+        "fetched_at": "2026-04-01T15:58:38.274678"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.78856,
+          26.89108
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000187181924",
+        "address": "Industrial Area, Kartarpura Phatak, Imli Phatak, Tonk Phatak, Jaipur, Rajasthan, 302006, India",
+        "district": "Tonk",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Tonk",
+        "fetched_at": "2026-04-01T15:58:38.296314"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.81483,
+          26.18111
+        ]
+      },
+      "properties": {
+        "name": "F 97, Road No. 1 Industrial Area",
+        "place_id": "ola-platform:5000185880893",
+        "address": "F 97, Road No. 1 Industrial Area, Khandelwal, Tonk, Rajasthan, 304001, India",
+        "district": "Tonk",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Tonk",
+        "fetched_at": "2026-04-01T15:58:38.319625"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7943,
+          26.871
+        ]
+      },
+      "properties": {
+        "name": "Sigma Diagnostic Distributors- 44, Sudama Nagar, Opp.Glass Factory, Tonk Road, Jaipur (Sigma Diagnostic Distributors- 44, Sudama Nagar, Opp.Glass Factory, Tonk Road, Jaipur)",
+        "place_id": "ola-platform:5000045031303",
+        "address": "Sigma Diagnostic Distributors- 44, Sudama Nagar, Opp.Glass Factory, Tonk Road, Jaipur (Sigma Diagnostic Distributors- 44, Sudama Nagar, Opp.Glass Factory, Tonk Road, Jaipur), Sigma Diagnostic Distributors- 44, Sudama Nagar, Opp.Glass Factory, Tonk Road, Jaipur, 44, Tonk Rd, Opp. Glass Factory, Netaji Subhash Nagar 2, Sudama Nagar, Shiv Colony, Tonk Phatak, Jaipur, Rajasthan, 302015, India",
+        "district": "Tonk",
+        "state": "Rajasthan",
+        "types": [
+          "health"
+        ],
+        "query_used": "factory area Tonk",
+        "fetched_at": "2026-04-01T15:58:38.475523"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.79584,
+          26.86974
+        ]
+      },
+      "properties": {
+        "name": "76 76 Regar Basti, Oppsite Glass Factory",
+        "place_id": "ola-platform:5000188361945",
+        "address": "76 76 Regar Basti, Oppsite Glass Factory, Tonk Rd, Ram Nagar Colony, Mansingh Pura, Tonk Phatak, Jaipur, Rajasthan, 302015, India",
+        "district": "Tonk",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "factory area Tonk",
+        "fetched_at": "2026-04-01T15:58:38.513914"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.756,
+          26.8696
+        ]
+      },
+      "properties": {
+        "name": "Desi Bonkers A T-Shirt Manufacturing & Printing Solution Hub: Vinyl (Desi Bonkers (DTF Printing Service))",
+        "place_id": "ola-platform:5000046990265",
+        "address": "Desi Bonkers A T-Shirt Manufacturing & Printing Solution Hub: Vinyl (Desi Bonkers (DTF Printing Service)), 30/20/5 First Floor, Madhyam Marg, Mansarovar Sector 31, Mansarovar Sector 3, Mansarovar, Jaipur, Rajasthan, 302020, India",
+        "district": "Tonk",
+        "state": "Rajasthan",
+        "types": [
+          "clothing_store"
+        ],
+        "query_used": "manufacturing hub Tonk",
+        "fetched_at": "2026-04-01T15:58:38.569539"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7447,
+          24.571
+        ]
+      },
+      "properties": {
+        "name": "Madri Industrial Area",
+        "place_id": "ola-platform:5000196947651",
+        "address": "Madri Industrial Area, Udaipur, Rajasthan, 313003, India",
+        "district": "Udaipur",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Udaipur",
+        "fetched_at": "2026-04-01T15:58:41.007832"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7489,
+          24.56596
+        ]
+      },
+      "properties": {
+        "name": "273, Industrial Area Madri",
+        "place_id": "ola-platform:5000190003038",
+        "address": "273, Industrial Area Madri, Udaipur, Rajasthan, 313003, India",
+        "district": "Udaipur",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Udaipur",
+        "fetched_at": "2026-04-01T15:58:41.025620"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.70862,
+          24.63315
+        ]
+      },
+      "properties": {
+        "name": "2, Industrial Area Phase I",
+        "place_id": "ola-platform:5000196098315",
+        "address": "2, Industrial Area Phase I, Sukher, Udaipur, Rajasthan, 313001, India",
+        "district": "Udaipur",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Udaipur",
+        "fetched_at": "2026-04-01T15:58:41.042009"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7541,
+          24.51342
+        ]
+      },
+      "properties": {
+        "name": "76, RIICO Industrial Area",
+        "place_id": "ola-platform:5000195700821",
+        "address": "76, RIICO Industrial Area, Udaipur, Biliya, Rajasthan, 313001, India",
+        "district": "Udaipur",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Udaipur",
+        "fetched_at": "2026-04-01T15:58:41.061301"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7444,
+          24.5827
+        ]
+      },
+      "properties": {
+        "name": "A10 Industrial Estate Pratapnagar",
+        "place_id": "ola-platform:5000199985217",
+        "address": "A10 Industrial Estate Pratapnagar, JRD Metal Industries Limited, Khempura, Udaipur, Rajasthan, 313003, India",
+        "district": "Udaipur",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Udaipur Rajasthan",
+        "fetched_at": "2026-04-01T15:58:41.098137"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.752,
+          24.5788
+        ]
+      },
+      "properties": {
+        "name": "Sudarshan Minerals & Industries (Factory), Udaipur",
+        "place_id": "ola-platform:5000067222736",
+        "address": "Sudarshan Minerals & Industries (Factory), Udaipur, F235.236, Madri Industrial Area, Transport Nagar, Udaipur, Rajasthan, 313003, India",
+        "district": "Udaipur",
+        "state": "Rajasthan",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Udaipur",
+        "fetched_at": "2026-04-01T15:58:41.154437"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.696,
+          24.5751
+        ]
+      },
+      "properties": {
+        "name": "Udaipur Ice Factory",
+        "place_id": "ola-platform:5000068825330",
+        "address": "Udaipur Ice Factory, No. 13, Khanjipeer Main Rd, Jawahar Nagar, Brahmpuri, Udaipur, Rajasthan, 313001, India",
+        "district": "Udaipur",
+        "state": "Rajasthan",
+        "types": [
+          "food",
+          "restaurant"
+        ],
+        "query_used": "factory area Udaipur",
+        "fetched_at": "2026-04-01T15:58:41.173376"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7383,
+          24.5864
+        ]
+      },
+      "properties": {
+        "name": "Udaipur Glass Factory",
+        "place_id": "ola-platform:5000198183432",
+        "address": "Udaipur Glass Factory, Udaipur, Rajasthan, 313003, India",
+        "district": "Udaipur",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Udaipur",
+        "fetched_at": "2026-04-01T15:58:41.193406"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7384,
+          24.5888
+        ]
+      },
+      "properties": {
+        "name": "Udaipur Ice Factory",
+        "place_id": "ola-platform:5000185863193",
+        "address": "Udaipur Ice Factory, Bohra Ganesh Rd, Sundarwas, Pratap Nagar, Udaipur, Rajasthan, 313001, India",
+        "district": "Udaipur",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Udaipur",
+        "fetched_at": "2026-04-01T15:58:41.211150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7093,
+          24.6056
+        ]
+      },
+      "properties": {
+        "name": "Sofa In Udaipur - Furniture Manufacturing",
+        "place_id": "ola-platform:5000042190544",
+        "address": "Sofa In Udaipur - Furniture Manufacturing, 287 RTO Office Near DPS School, Rajasthan, Roop Nagar, Shobhagpura, Udaipur, Rajasthan, 313001, India",
+        "district": "Udaipur",
+        "state": "Rajasthan",
+        "types": [
+          "furniture_store"
+        ],
+        "query_used": "manufacturing hub Udaipur",
+        "fetched_at": "2026-04-01T15:58:41.247601"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.210304,
+          29.1827
+        ]
+      },
+      "properties": {
+        "name": "Rico Industrial Area",
+        "place_id": "ola-platform:5000065941630",
+        "address": "Rico Industrial Area, Anupgarh, Anupgarh Tehsil, Anupgarh, Rajasthan, 335701, India",
+        "district": "Anupgarh",
+        "state": "Rajasthan",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Anupgarh",
+        "fetched_at": "2026-04-01T15:58:43.408116"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.21405,
+          29.18342
+        ]
+      },
+      "properties": {
+        "name": "BSNL RIICO Industrial Area",
+        "place_id": "ola-platform:5000045153419",
+        "address": "BSNL RIICO Industrial Area, Nh911, Anupgarh, Anupgarh Tehsil, Anupgarh, Rajasthan, 335701, India",
+        "district": "Anupgarh",
+        "state": "Rajasthan",
+        "types": [
+          "local_government_office"
+        ],
+        "query_used": "industrial area Anupgarh",
+        "fetched_at": "2026-04-01T15:58:43.440418"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.21086,
+          29.18071
+        ]
+      },
+      "properties": {
+        "name": "NH 911, RIICO Industrial Area",
+        "place_id": "ola-platform:5000199895833",
+        "address": "NH 911, RIICO Industrial Area, Anupgarh, Rajasthan, 335701, India",
+        "district": "Anupgarh",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Anupgarh",
+        "fetched_at": "2026-04-01T15:58:43.469628"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2212,
+          29.1943
+        ]
+      },
+      "properties": {
+        "name": "RIICO Industrial Area Phase-1",
+        "place_id": "ola-platform:5000197237815",
+        "address": "RIICO Industrial Area Phase-1, Anupgarh, Rajasthan, 335701, India",
+        "district": "Anupgarh",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Anupgarh",
+        "fetched_at": "2026-04-01T15:58:43.487488"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.21753,
+          29.18114
+        ]
+      },
+      "properties": {
+        "name": "Jail Rd, RIICO Industrial Area",
+        "place_id": "ola-platform:5000196369836",
+        "address": "Jail Rd, RIICO Industrial Area, Anupgarh, Rajasthan, 335701, India",
+        "district": "Anupgarh",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Anupgarh",
+        "fetched_at": "2026-04-01T15:58:43.506348"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.23316,
+          25.84228
+        ]
+      },
+      "properties": {
+        "name": "E32, 1st Phase Industrial Area",
+        "place_id": "ola-platform:5000201268073",
+        "address": "E32, 1st Phase Industrial Area, Balotra Rural, Balotra, Rajasthan, 344022, India",
+        "district": "Balotra",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Balotra",
+        "fetched_at": "2026-04-01T15:58:45.866181"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.22699,
+          25.84891
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Balotra",
+        "place_id": "ola-platform:5000057105261",
+        "address": "Industrial Area Balotra, Industrial Area, Balotra, Pachpadra Tehsil, Balotra, Rajasthan, 344022, India",
+        "district": "Balotra",
+        "state": "Rajasthan",
+        "types": [
+          "park"
+        ],
+        "query_used": "industrial area Balotra",
+        "fetched_at": "2026-04-01T15:58:45.886354"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.22728,
+          25.85583
+        ]
+      },
+      "properties": {
+        "name": "D-351 B-1 Fourth Phase Industrial Area-Balotra Pin.Code -344022 D-351 B-1 Fourth Phase Industrial Area- Balotra Pin Code -344022",
+        "place_id": "ola-platform:5000199947167",
+        "address": "D-351 B-1 Fourth Phase Industrial Area-Balotra Pin.Code -344022 D-351 B-1 Fourth Phase Industrial Area- Balotra Pin Code -344022, Near Fourth Phase Circal, Jerla, Balotra, Rajasthan, 344022, India",
+        "district": "Balotra",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Balotra",
+        "fetched_at": "2026-04-01T15:58:45.904824"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.2364,
+          25.8376
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area 1st Phase",
+        "place_id": "ola-platform:5000187221956",
+        "address": "Industrial Area 1st Phase, Balotra, Rajasthan, 344022, India",
+        "district": "Balotra",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Balotra",
+        "fetched_at": "2026-04-01T15:58:45.922605"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.2264,
+          25.8452
+        ]
+      },
+      "properties": {
+        "name": "3rd Phase Industrial Area",
+        "place_id": "ola-platform:5000195972340",
+        "address": "3rd Phase Industrial Area, Balotra, Rajasthan, 344022, India",
+        "district": "Balotra",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Balotra",
+        "fetched_at": "2026-04-01T15:58:45.940906"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.2375,
+          25.8441
+        ]
+      },
+      "properties": {
+        "name": "RajLaxmi Nighty Manufacturing",
+        "place_id": "ola-platform:5000056988418",
+        "address": "RajLaxmi Nighty Manufacturing, Corporate House No 12 Bapu Nagar Jerla, Road, Balotra, Rajasthan, 344022, India",
+        "district": "Balotra",
+        "state": "Rajasthan",
+        "types": [
+          "point_of_interest"
+        ],
+        "query_used": "manufacturing hub Balotra",
+        "fetched_at": "2026-04-01T15:58:46.203899"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.3396,
+          26.1286
+        ]
+      },
+      "properties": {
+        "name": "RIICO Industrial Area",
+        "place_id": "ola-platform:5000047656208",
+        "address": "RIICO Industrial Area, Hans Nagar, Beawar, Mediya, Rajasthan, 305901, India",
+        "district": "Beawar",
+        "state": "Rajasthan",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Beawar",
+        "fetched_at": "2026-04-01T15:58:48.406131"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.2964,
+          26.0432
+        ]
+      },
+      "properties": {
+        "name": "RIICO Industrial Area",
+        "place_id": "ola-platform:5000038075525",
+        "address": "RIICO Industrial Area, Narbad Khera, Rajasthan, 305901, India",
+        "district": "Beawar",
+        "state": "Rajasthan",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Beawar",
+        "fetched_at": "2026-04-01T15:58:48.425608"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.30125,
+          26.09437
+        ]
+      },
+      "properties": {
+        "name": "Ganesh Steel Industries 1-B JLN Industrial Area",
+        "place_id": "ola-platform:5000187122734",
+        "address": "Ganesh Steel Industries 1-B JLN Industrial Area, Link Road, Bapu Nagar, Beawar, Rajasthan, 305901, India",
+        "district": "Beawar",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Beawar",
+        "fetched_at": "2026-04-01T15:58:48.443874"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.64679,
+          25.93796
+        ]
+      },
+      "properties": {
+        "name": "Sp3 RIICO Industrial Area",
+        "place_id": "ola-platform:5000200235996",
+        "address": "Sp3 RIICO Industrial Area, Brothers Fine Garments Pvt Ltd, Bijainagar, Chosla At Dulhe Nagar, Rajasthan, 305624, India",
+        "district": "Beawar",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Beawar",
+        "fetched_at": "2026-04-01T15:58:48.463884"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.64811,
+          25.94074
+        ]
+      },
+      "properties": {
+        "name": "A/49, Near Industrial Area",
+        "place_id": "ola-platform:5000196429841",
+        "address": "A/49, Near Industrial Area, Gandhi Nagar Colony, Bijainagar, Chosla At Dulhe Nagar, Rajasthan, 305624, India",
+        "district": "Beawar",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Beawar",
+        "fetched_at": "2026-04-01T15:58:48.482486"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3086,
+          27.4675
+        ]
+      },
+      "properties": {
+        "name": "Raj Industries, RIICO Industrial Area, Deeg",
+        "place_id": "ola-platform:5000057536403",
+        "address": "Raj Industries, RIICO Industrial Area, Deeg, RIICO Industrial Area, Banda Colony, Deeg, Rajasthan, 321203, India",
+        "district": "Deeg",
+        "state": "Rajasthan",
+        "types": [
+          "electronics_store"
+        ],
+        "query_used": "industrial area Deeg",
+        "fetched_at": "2026-04-01T15:58:51.007163"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.6138,
+          27.4206
+        ]
+      },
+      "properties": {
+        "name": "Ricco Industrial Area, Didwana",
+        "place_id": "ola-platform:5000055959665",
+        "address": "Ricco Industrial Area, Didwana, MDR 24, Didwana, Rajasthan, 341303, India",
+        "district": "Didwana-Kuchaman",
+        "state": "Rajasthan",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Didwana-Kuchaman",
+        "fetched_at": "2026-04-01T15:58:54.079955"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.759711,
+          26.887851
+        ]
+      },
+      "properties": {
+        "name": "Fort RIICO Industrial Area",
+        "place_id": "ola-platform:5000067086848",
+        "address": "Fort RIICO Industrial Area, Parbatsar, Parbatsar Tehsil, Didwalna-Kuchaman, Rajasthan, 341512, India",
+        "district": "Didwana-Kuchaman",
+        "state": "Rajasthan",
+        "types": [
+          "point_of_interest"
+        ],
+        "query_used": "industrial area Didwana-Kuchaman",
+        "fetched_at": "2026-04-01T15:58:54.104098"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.757219,
+          26.883823
+        ]
+      },
+      "properties": {
+        "name": "Lake RIICO Industrial Area",
+        "place_id": "ola-platform:5000059502817",
+        "address": "Lake RIICO Industrial Area, Parbatsar, Parbatsar Tehsil, Didwalna-Kuchaman, Rajasthan, 341512, India",
+        "district": "Didwana-Kuchaman",
+        "state": "Rajasthan",
+        "types": [
+          "natural_feature"
+        ],
+        "query_used": "industrial area Didwana-Kuchaman",
+        "fetched_at": "2026-04-01T15:58:54.124558"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8513,
+          27.1166
+        ]
+      },
+      "properties": {
+        "name": "RIICO Industrial Area",
+        "place_id": "ola-platform:5000035705730",
+        "address": "RIICO Industrial Area, Sakahmbhari Nagar, Panwari, Rajasthan, 341508, India",
+        "district": "Didwana-Kuchaman",
+        "state": "Rajasthan",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Didwana-Kuchaman",
+        "fetched_at": "2026-04-01T15:58:54.144426"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.6953,
+          27.0342
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000049677870",
+        "address": "Industrial Area, Makrana Rd, Borawar, Makrana, Rajasthan, 341512, India",
+        "district": "Didwana-Kuchaman",
+        "state": "Rajasthan",
+        "types": [
+          "school",
+          "premise",
+          "primary_school"
+        ],
+        "query_used": "industrial area Didwana-Kuchaman",
+        "fetched_at": "2026-04-01T15:58:54.166347"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2341,
+          26.6877
+        ]
+      },
+      "properties": {
+        "name": "Swastik MultiSpeciality Hospital Dudu",
+        "place_id": "ola-platform:5000046737489",
+        "address": "Swastik MultiSpeciality Hospital Dudu, CP-1, Naraina Rd, RIICO Industrial Area, Dudu, Rajasthan, 303008, India",
+        "district": "Dudu",
+        "state": "Rajasthan",
+        "types": [
+          "street_address",
+          "hospital"
+        ],
+        "query_used": "industrial area Dudu",
+        "fetched_at": "2026-04-01T15:58:56.619581"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.739382,
+          26.48266
+        ]
+      },
+      "properties": {
+        "name": "Saloda Industrial Area",
+        "place_id": "ola-platform:1054362",
+        "address": "Saloda Industrial Area, Gangapur City, Rajasthan, India",
+        "district": "Gangapur City",
+        "state": "Rajasthan",
+        "types": [
+          "borough"
+        ],
+        "query_used": "industrial area Gangapur City",
+        "fetched_at": "2026-04-01T15:58:59.266352"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.737789,
+          26.485326
+        ]
+      },
+      "properties": {
+        "name": "IFB Saloda Industrial Area",
+        "place_id": "ola-platform:5000060085677",
+        "address": "IFB Saloda Industrial Area, Temple, One Way, Gangapur City, Gangapur Tehsil, Gangapur City, Rajasthan, 322201, India",
+        "district": "Gangapur City",
+        "state": "Rajasthan",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "industrial area Gangapur City",
+        "fetched_at": "2026-04-01T15:58:59.292238"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7627,
+          26.8504
+        ]
+      },
+      "properties": {
+        "name": "Santsarobar Near D S Science Institute Reco Industrial Area Gangapur City",
+        "place_id": "ola-platform:5000053758279",
+        "address": "Santsarobar Near D S Science Institute Reco Industrial Area Gangapur City, D. S. Science Academy, 27, 302020, India",
+        "district": "Gangapur City",
+        "state": "Rajasthan",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Gangapur City",
+        "fetched_at": "2026-04-01T15:58:59.312102"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.73615,
+          26.48184
+        ]
+      },
+      "properties": {
+        "name": "796, Saloda Industrial Area",
+        "place_id": "ola-platform:5000196995933",
+        "address": "796, Saloda Industrial Area, Gangapur, Rajasthan, 322202, India",
+        "district": "Gangapur City",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Gangapur City",
+        "fetched_at": "2026-04-01T15:58:59.330220"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.73592,
+          26.48367
+        ]
+      },
+      "properties": {
+        "name": "1058, Saloda Industrial Area",
+        "place_id": "ola-platform:5000197002849",
+        "address": "1058, Saloda Industrial Area, Gangapur, Rajasthan, 322202, India",
+        "district": "Gangapur City",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Gangapur City",
+        "fetched_at": "2026-04-01T15:58:59.349571"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8512,
+          26.7849
+        ]
+      },
+      "properties": {
+        "name": "DSLR Technologies Private Limited - Jaipur City Office & Factory",
+        "place_id": "ola-platform:5000219991661",
+        "address": "DSLR Technologies Private Limited - Jaipur City Office & Factory, Phase 3, 994-995, Near To Vitromed, Sitapura Industrial Area, Sitapura, Jaipur, Rajasthan 303905, India",
+        "district": "Gangapur City",
+        "state": "Rajasthan",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "factory area Gangapur City",
+        "fetched_at": "2026-04-01T15:58:59.425853"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7872,
+          26.9124
+        ]
+      },
+      "properties": {
+        "name": "Sitapura Industrial Area Jaipur",
+        "place_id": "ola-platform:5000039735760",
+        "address": "Sitapura Industrial Area Jaipur, Akash Ganga Apartment, 117, Akash Ganga Apartment, Bais Godam, Rajasthan India, 117, Ajmer Rd, 302006, Ganpati Nagar, Jaipur, Rajasthan",
+        "district": "Jaipur Rural",
+        "state": "Rajasthan",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Jaipur Rural",
+        "fetched_at": "2026-04-01T15:59:01.828274"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8571,
+          26.7824
+        ]
+      },
+      "properties": {
+        "name": "CIPET, Sitapura Industrial Area Jaipur",
+        "place_id": "ola-platform:5000036336659",
+        "address": "CIPET, Sitapura Industrial Area Jaipur, Unnamed Road, Sitapura Industrial Area, Sitapura, Jaipur, Rajasthan, 303905, India",
+        "district": "Jaipur Rural",
+        "state": "Rajasthan",
+        "types": [
+          "university"
+        ],
+        "query_used": "industrial area Jaipur Rural",
+        "fetched_at": "2026-04-01T15:59:01.884144"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8,
+          26.9526
+        ]
+      },
+      "properties": {
+        "name": "Sarna Doongar Industrial Area Jaipur",
+        "place_id": "ola-platform:5000068337432",
+        "address": "Sarna Doongar Industrial Area Jaipur, 5, Near Gov. School, Lankapuri, Ram Nagar, Shastri Nagar, Khora Bisal, Rajasthan, 302016, India",
+        "district": "Jaipur Rural",
+        "state": "Rajasthan",
+        "types": [
+          "school",
+          "premise",
+          "primary_school"
+        ],
+        "query_used": "industrial area Jaipur Rural",
+        "fetched_at": "2026-04-01T15:59:01.906320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7772,
+          26.9765
+        ]
+      },
+      "properties": {
+        "name": "VishwaKarma Industrial Area (MG Jaipur VKI Service)",
+        "place_id": "ola-platform:5000177712948",
+        "address": "VishwaKarma Industrial Area (MG Jaipur VKI Service), MG Jaipur VKI Service, Plot No. A-67, Rd Number 1, C, VishwaKarma Industrial Area, Jaipur, Rajasthan, 302039, India",
+        "district": "Jaipur Rural",
+        "state": "Rajasthan",
+        "types": [
+          "car_dealer"
+        ],
+        "query_used": "industrial area Jaipur Rural",
+        "fetched_at": "2026-04-01T15:59:01.926216"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.78954,
+          26.93614
+        ]
+      },
+      "properties": {
+        "name": "180, Near Jaipur Ice Factory",
+        "place_id": "ola-platform:5000202182493",
+        "address": "180, Near Jaipur Ice Factory, Pani Pech, Indra Colony, Bani Park, Jaipur, Rajasthan, 302016, India",
+        "district": "Jaipur Rural",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "factory area Jaipur Rural",
+        "fetched_at": "2026-04-01T15:59:02.027432"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.789,
+          26.9354
+        ]
+      },
+      "properties": {
+        "name": "I-7/A, Near Jaipur Ice Factory",
+        "place_id": "ola-platform:5000196412107",
+        "address": "I-7/A, Near Jaipur Ice Factory, Indra Colony, Bani Park, Jaipur, Rajasthan, 302016, India",
+        "district": "Jaipur Rural",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Jaipur Rural",
+        "fetched_at": "2026-04-01T15:59:02.046350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.79008,
+          26.93577
+        ]
+      },
+      "properties": {
+        "name": "195-196, Near Jaipur Ice Factory",
+        "place_id": "ola-platform:5000200666029",
+        "address": "195-196, Near Jaipur Ice Factory, Pani Pech, Sindhi Colony, Bani Park, Jaipur, Rajasthan, 302016, India",
+        "district": "Jaipur Rural",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "factory area Jaipur Rural",
+        "fetched_at": "2026-04-01T15:59:02.065745"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7894,
+          26.9352
+        ]
+      },
+      "properties": {
+        "name": "I-7/3, Near Jaipur Ice Factory",
+        "place_id": "ola-platform:5000192529132",
+        "address": "I-7/3, Near Jaipur Ice Factory, Sindhi Colony, Bani Park, Jaipur, Rajasthan, 302016, India",
+        "district": "Jaipur Rural",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Jaipur Rural",
+        "fetched_at": "2026-04-01T15:59:02.104529"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.072003,
+          26.388209
+        ]
+      },
+      "properties": {
+        "name": "Jodhpur Stone Park Industrial Area",
+        "place_id": "ola-platform:14248",
+        "address": "Jodhpur Stone Park Industrial Area, Rajasthan, India",
+        "district": "Jodhpur Rural",
+        "state": "Rajasthan",
+        "types": [
+          "locality"
+        ],
+        "query_used": "industrial area Jodhpur Rural",
+        "fetched_at": "2026-04-01T15:59:04.369579"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.027,
+          26.0542
+        ]
+      },
+      "properties": {
+        "name": "RIICO Industrial Area",
+        "place_id": "ola-platform:5000060661796",
+        "address": "RIICO Industrial Area, 305403, Indian Petrol Pump, Sarwar, Rajasthan",
+        "district": "Kekri",
+        "state": "Rajasthan",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Kekri",
+        "fetched_at": "2026-04-01T15:59:06.734627"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.02385,
+          26.05234
+        ]
+      },
+      "properties": {
+        "name": "F-74, RIICO Industrial Area",
+        "place_id": "ola-platform:5000193860608",
+        "address": "F-74, RIICO Industrial Area, Sarwar, Rajasthan, 305403, India",
+        "district": "Kekri",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Kekri",
+        "fetched_at": "2026-04-01T15:59:06.760328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1545,
+          25.9766
+        ]
+      },
+      "properties": {
+        "name": "Vijay Manufacturing Industry",
+        "place_id": "ola-platform:5000037487856",
+        "address": "Vijay Manufacturing Industry, Geeta Bhawan Rd, Choudhary Colony, Anant's Sweat Colony, Kekri, Rajasthan, 305404, India",
+        "district": "Kekri",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "manufacturing hub Kekri",
+        "fetched_at": "2026-04-01T15:59:07.114743"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8576,
+          28.207
+        ]
+      },
+      "properties": {
+        "name": "RIICO Industrial Area",
+        "place_id": "ola-platform:5000192539144",
+        "address": "RIICO Industrial Area, Bhiwadi, Rajasthan, 301019, India",
+        "district": "Khairthal-Tijara",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Khairthal-Tijara",
+        "fetched_at": "2026-04-01T15:59:09.309260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8666,
+          28.1968
+        ]
+      },
+      "properties": {
+        "name": "BKT, RIICO Industrial Area",
+        "place_id": "ola-platform:5000200478089",
+        "address": "BKT, RIICO Industrial Area, Bhiwadi, Rajasthan, 301019, India",
+        "district": "Khairthal-Tijara",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Khairthal-Tijara",
+        "fetched_at": "2026-04-01T15:59:09.329230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8036,
+          28.1235
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Khuskhera Bhiwadi",
+        "place_id": "ola-platform:5000044285591",
+        "address": "Industrial Area Khuskhera Bhiwadi, RIICO Industrial Area, Khushkhera, Rajasthan, 301018, India",
+        "district": "Khairthal-Tijara",
+        "state": "Rajasthan",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Khairthal-Tijara",
+        "fetched_at": "2026-04-01T15:59:09.349157"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8611,
+          28.1944
+        ]
+      },
+      "properties": {
+        "name": "G984 Bhiwadi Ricco Industrial Area Phase Lll Rajasthan",
+        "place_id": "ola-platform:5000050422848",
+        "address": "G984 Bhiwadi Ricco Industrial Area Phase Lll Rajasthan, Bells House G984, Phase-Lll, RIICO Industrial Area, Bhiwadi, Rajasthan, 301019, India",
+        "district": "Khairthal-Tijara",
+        "state": "Rajasthan",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Khairthal-Tijara",
+        "fetched_at": "2026-04-01T15:59:09.368060"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8798,
+          28.1742
+        ]
+      },
+      "properties": {
+        "name": "Kahrani Industrial Area, Y K Nagar",
+        "place_id": "ola-platform:5000043788177",
+        "address": "Kahrani Industrial Area, Y K Nagar, Kahrani Industrial Area, Bhiwadi - Chopanki Rd, Gadpur, Rajasthan, 301019, India",
+        "district": "Khairthal-Tijara",
+        "state": "Rajasthan",
+        "types": [
+          "real_estate_agency"
+        ],
+        "query_used": "industrial area Khairthal-Tijara",
+        "fetched_at": "2026-04-01T15:59:09.389915"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.052,
+          28.5433
+        ]
+      },
+      "properties": {
+        "name": "Masale Wali Factory, Bharthal Village, New Delhi",
+        "place_id": "ola-platform:5000035736504",
+        "address": "Masale Wali Factory, Bharthal Village, New Delhi, Goberwali, Dwarka, Gali, Village, Bharthal, Sector 26 Dwarka, Bharthal, New Delhi, Delhi, 110077, India",
+        "district": "Khairthal-Tijara",
+        "state": "Rajasthan",
+        "types": [
+          "grocery_or_supermarket"
+        ],
+        "query_used": "factory area Khairthal-Tijara",
+        "fetched_at": "2026-04-01T15:59:09.573971"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3827,
+          27.9854
+        ]
+      },
+      "properties": {
+        "name": "Transport Gurugram, Neemrana, Kotputli, Behror, To All India",
+        "place_id": "ola-platform:5000069079447",
+        "address": "Transport Gurugram, Neemrana, Kotputli, Behror, To All India, RIICO Industrial Area, Neemrana, Rajasthan, 301705, India",
+        "district": "Kotputli-Behror",
+        "state": "Rajasthan",
+        "types": [
+          "moving_company"
+        ],
+        "query_used": "industrial area Kotputli-Behror",
+        "fetched_at": "2026-04-01T15:59:11.930134"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2311,
+          27.8201
+        ]
+      },
+      "properties": {
+        "name": "Keshwana Industrial Area Keshwana Kotputli Jaipur",
+        "place_id": "ola-platform:5000048727473",
+        "address": "Keshwana Industrial Area Keshwana Kotputli Jaipur, Keshwanagujar, Rajasthan, 303108, India",
+        "district": "Kotputli-Behror",
+        "state": "Rajasthan",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Kotputli-Behror",
+        "fetched_at": "2026-04-01T15:59:11.959534"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2994,
+          27.8972
+        ]
+      },
+      "properties": {
+        "name": "RIICO Industrial Area Behror",
+        "place_id": "ola-platform:5000044449152",
+        "address": "RIICO Industrial Area Behror, Jamidar Pipe, Industrial Area, Behror, Rajasthan, 301701, India",
+        "district": "Kotputli-Behror",
+        "state": "Rajasthan",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Kotputli-Behror",
+        "fetched_at": "2026-04-01T15:59:12.007473"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.30428,
+          27.9036
+        ]
+      },
+      "properties": {
+        "name": "Maruti Suzuki Service, RIICO Industrial Area, Behror",
+        "place_id": "ola-platform:5000042233228",
+        "address": "Maruti Suzuki Service, RIICO Industrial Area, Behror, B-168, RIICO Industrial Area, Phase-II, Opp. Apex Tube, Dhami, Industrial Area, Behror, Rajasthan, 301701, India",
+        "district": "Kotputli-Behror",
+        "state": "Rajasthan",
+        "types": [
+          "car_repair"
+        ],
+        "query_used": "industrial area Kotputli-Behror",
+        "fetched_at": "2026-04-01T15:59:12.073031"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.29716,
+          27.894705
+        ]
+      },
+      "properties": {
+        "name": "TaTa Motors Cars Service Centre - Classic Motors, Ricco Industrial Area",
+        "place_id": "ola-platform:5000043925291",
+        "address": "TaTa Motors Cars Service Centre - Classic Motors, Ricco Industrial Area, Behror, Behror Tehsil, Kotputli-Behror, Rajasthan, 301701, India",
+        "district": "Kotputli-Behror",
+        "state": "Rajasthan",
+        "types": [
+          "car_repair"
+        ],
+        "query_used": "industrial area Kotputli-Behror",
+        "fetched_at": "2026-04-01T15:59:12.101456"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.393811,
+          27.977125
+        ]
+      },
+      "properties": {
+        "name": "Neemrana Industrial Estate",
+        "place_id": "ola-platform:5000036578821",
+        "address": "Neemrana Industrial Estate, Neemrana, Neemrana Tehsil, Kotputli-Behror, Rajasthan, 301705, India",
+        "district": "Kotputli-Behror",
+        "state": "Rajasthan",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Kotputli-Behror Rajasthan",
+        "fetched_at": "2026-04-01T15:59:12.122660"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7595,
+          27.7286
+        ]
+      },
+      "properties": {
+        "name": "Neem Ka Thana Rd",
+        "place_id": "ola-platform:5000193784849",
+        "address": "Neem Ka Thana Rd, RIICO Industrial Area, Neem Ka Thana, Rajasthan, 332713, India",
+        "district": "Neem Ka Thana",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Neem Ka Thana",
+        "fetched_at": "2026-04-01T15:59:14.645639"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.76323,
+          27.73115
+        ]
+      },
+      "properties": {
+        "name": "332718, Neem Ka Thana Rd",
+        "place_id": "ola-platform:5000183932570",
+        "address": "332718, Neem Ka Thana Rd, RIICO Industrial Area, Neem Ka Thana, Ranasar, Rajasthan, 332713, India",
+        "district": "Neem Ka Thana",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Neem Ka Thana",
+        "fetched_at": "2026-04-01T15:59:14.674433"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.761,
+          27.7321
+        ]
+      },
+      "properties": {
+        "name": "Hotal The Royal Plaza Shahpura Road Neem Ka Thana",
+        "place_id": "ola-platform:5000050902622",
+        "address": "Hotal The Royal Plaza Shahpura Road Neem Ka Thana, Shahpura Road Sirohi, RIICO Industrial Area, Neem Ka Thana, Rajasthan, 332713, India",
+        "district": "Neem Ka Thana",
+        "state": "Rajasthan",
+        "types": [
+          "lodging"
+        ],
+        "query_used": "industrial area Neem Ka Thana",
+        "fetched_at": "2026-04-01T15:59:14.694822"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8226,
+          27.4216
+        ]
+      },
+      "properties": {
+        "name": "Shree Salasar Manufacturing Hub",
+        "place_id": "ola-platform:5000066906289",
+        "address": "Shree Salasar Manufacturing Hub, Shiv Temple, Road, Main Market, Ajeetgarh, Rajasthan, 332701, India",
+        "district": "Neem Ka Thana",
+        "state": "Rajasthan",
+        "types": [
+          "furniture_store"
+        ],
+        "query_used": "manufacturing hub Neem Ka Thana",
+        "fetched_at": "2026-04-01T15:59:14.822233"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.37467,
+          27.10824
+        ]
+      },
+      "properties": {
+        "name": "G11 Industrial Area Phalodi Karyalay Jila Udyog Kendra Ke Samne",
+        "place_id": "ola-platform:5000190332477",
+        "address": "G11 Industrial Area Phalodi Karyalay Jila Udyog Kendra Ke Samne, Phalodi Industrial Area, Phalodi, Rajasthan, 342301, India",
+        "district": "Phalodi",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Phalodi",
+        "fetched_at": "2026-04-01T15:59:16.955728"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.374356,
+          27.109584
+        ]
+      },
+      "properties": {
+        "name": "Phalodi Industrial Area",
+        "place_id": "ola-platform:14258",
+        "address": "Phalodi Industrial Area, Rajasthan, India",
+        "district": "Phalodi",
+        "state": "Rajasthan",
+        "types": [
+          "locality"
+        ],
+        "query_used": "industrial area Phalodi",
+        "fetched_at": "2026-04-01T15:59:16.988790"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.7762,
+          24.7332
+        ]
+      },
+      "properties": {
+        "name": "NH 68, RIICO Industrial Area",
+        "place_id": "ola-platform:5000183373674",
+        "address": "NH 68, RIICO Industrial Area, Sanchore, Rajasthan, 343041, India",
+        "district": "Sanchore",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Sanchore",
+        "fetched_at": "2026-04-01T15:59:22.039677"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.7745,
+          24.734
+        ]
+      },
+      "properties": {
+        "name": "RIICO Industrial Area",
+        "place_id": "ola-platform:5000201272828",
+        "address": "RIICO Industrial Area, Sanchore, Rajasthan, 343041, India",
+        "district": "Sanchore",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Sanchore",
+        "fetched_at": "2026-04-01T15:59:22.064999"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.7752,
+          24.728
+        ]
+      },
+      "properties": {
+        "name": "Nh168a, RIICO Industrial Area",
+        "place_id": "ola-platform:5000195562954",
+        "address": "Nh168a, RIICO Industrial Area, Sanchore, Rajasthan, 343041, India",
+        "district": "Sanchore",
+        "state": "Rajasthan",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Sanchore",
+        "fetched_at": "2026-04-01T15:59:22.090988"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.76963,
+          24.73251
+        ]
+      },
+      "properties": {
+        "name": "RIICO Industrial Area",
+        "place_id": "ola-platform:5000197373650",
+        "address": "RIICO Industrial Area, Rampura, Sanchore, Rajasthan, 343041, India",
+        "district": "Sanchore",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial area Sanchore",
+        "fetched_at": "2026-04-01T15:59:22.117333"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.773499,
+          24.734189
+        ]
+      },
+      "properties": {
+        "name": "RIICO Industrial Area Sanchore",
+        "place_id": "ola-platform:14253",
+        "address": "RIICO Industrial Area Sanchore, Rajasthan, India",
+        "district": "Sanchore",
+        "state": "Rajasthan",
+        "types": [
+          "locality"
+        ],
+        "query_used": "industrial area Sanchore",
+        "fetched_at": "2026-04-01T15:59:22.138377"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.77637,
+          24.73524
+        ]
+      },
+      "properties": {
+        "name": "E123-125 & G126-128, RIICO Industrial Estate",
+        "place_id": "ola-platform:5000186900040",
+        "address": "E123-125 & G126-128, RIICO Industrial Estate, Makhupura, RIICO Industrial Area, Sanchore, Rajasthan, 343041, India",
+        "district": "Sanchore",
+        "state": "Rajasthan",
+        "types": [],
+        "query_used": "industrial estate Sanchore Rajasthan",
+        "fetched_at": "2026-04-01T15:59:22.163824"
+      }
+    }
+  ]
+}

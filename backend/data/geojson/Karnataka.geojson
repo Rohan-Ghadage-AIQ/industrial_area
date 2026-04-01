@@ -1,0 +1,4467 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.6815,
+          16.1782
+        ]
+      },
+      "properties": {
+        "name": "Bagalkot Cement Factory",
+        "place_id": "ola-platform:5000197801034",
+        "address": "Bagalkot Cement Factory, Industrial Area, Bagalkote, Karnataka, 587103, India",
+        "district": "Bagalkot",
+        "state": "Karnataka",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Bagalkot",
+        "fetched_at": "2026-04-01T15:45:09.299184"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.6871,
+          16.1893
+        ]
+      },
+      "properties": {
+        "name": "Muchakhandi Cross, Bagalkot",
+        "place_id": "ola-platform:5000045946712",
+        "address": "Muchakhandi Cross, Bagalkot, Muchakhandi, Cross, Industrial Area, Bagalkote, Karnataka, 587101, India",
+        "district": "Bagalkot",
+        "state": "Karnataka",
+        "types": [
+          "park"
+        ],
+        "query_used": "industrial area Bagalkot",
+        "fetched_at": "2026-04-01T15:45:09.314048"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.688,
+          16.1901
+        ]
+      },
+      "properties": {
+        "name": "Virabadreshwara Temple Muchakandi Cross Bagalkot",
+        "place_id": "ola-platform:5000064040977",
+        "address": "Virabadreshwara Temple Muchakandi Cross Bagalkot, Industrial Area, Bagalkote, Karnataka, 587101, India",
+        "district": "Bagalkot",
+        "state": "Karnataka",
+        "types": [
+          "place_of_worship",
+          "hindu_temple"
+        ],
+        "query_used": "industrial area Bagalkot",
+        "fetched_at": "2026-04-01T15:45:09.328982"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.68098,
+          16.184
+        ]
+      },
+      "properties": {
+        "name": "ADL-City Diagnostic Center Bagalkot",
+        "place_id": "ola-platform:5000056977009",
+        "address": "ADL-City Diagnostic Center Bagalkot, ADL-City Diagnostic Center, CIT Near Rotary Circle, Navanagar Rd, Opp. Vista Hotel, Industrial Area, Bagalkot, Karnataka, 587103, India",
+        "district": "Bagalkot",
+        "state": "Karnataka",
+        "types": [
+          "health"
+        ],
+        "query_used": "industrial area Bagalkot",
+        "fetched_at": "2026-04-01T15:45:09.338633"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.68327,
+          16.17844
+        ]
+      },
+      "properties": {
+        "name": "Cement Factory Bagalkot",
+        "place_id": "ola-platform:5000064817057",
+        "address": "Cement Factory Bagalkot, Bagalkot Cement Factory, Industrial Area, Bagalkot, Karnataka, 587103, India",
+        "district": "Bagalkot",
+        "state": "Karnataka",
+        "types": [
+          "hardware_store"
+        ],
+        "query_used": "industrial area Bagalkot",
+        "fetched_at": "2026-04-01T15:45:09.351427"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.29459,
+          16.51489
+        ]
+      },
+      "properties": {
+        "name": "Yaims Steel Industries Plot No 10 SPL Rambag Industrial Estate",
+        "place_id": "ola-platform:5000184795312",
+        "address": "Yaims Steel Industries Plot No 10 SPL Rambag Industrial Estate, Jambagi Rd, Jamkhandi Rural, Karnataka, 587119, India",
+        "district": "Bagalkot",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "industrial estate Bagalkot Karnataka",
+        "fetched_at": "2026-04-01T15:45:09.365108"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.075869,
+          16.030462
+        ]
+      },
+      "properties": {
+        "name": "KSIIDC Industrial Estate",
+        "place_id": "ola-platform:5000053432461",
+        "address": "KSIIDC Industrial Estate, Bijapur Road, Hunagund, Hunagunda Taluku, Bagalkote, Karnataka, 587118, India",
+        "district": "Bagalkot",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Bagalkot Karnataka",
+        "fetched_at": "2026-04-01T15:45:09.379833"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.69642,
+          16.11767
+        ]
+      },
+      "properties": {
+        "name": "Government Lower Primary School Factory Area Neeralakeri",
+        "place_id": "ola-platform:5000066095001",
+        "address": "Government Lower Primary School Factory Area Neeralakeri, Kelawadi, Guledgudda Taluku, Bagalkote, Karnataka, 587111, India",
+        "district": "Bagalkot",
+        "state": "Karnataka",
+        "types": [
+          "school",
+          "premise",
+          "primary_school"
+        ],
+        "query_used": "factory area Bagalkot",
+        "fetched_at": "2026-04-01T15:45:09.489684"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8392,
+          13.1146
+        ]
+      },
+      "properties": {
+        "name": "Global Residential PU College - Hoskote, Industrial Area",
+        "place_id": "ola-platform:5000062167948",
+        "address": "Global Residential PU College - Hoskote, Industrial Area, Hoskote - Chintamani Road Near Factory Gate Bus Stop Bangalore Rural, Pillagumpe, Karnataka, 562114, India",
+        "district": "Bengaluru Rural",
+        "state": "Karnataka",
+        "types": [
+          "university"
+        ],
+        "query_used": "industrial area Bengaluru Rural",
+        "fetched_at": "2026-04-01T15:45:12.189406"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.557069,
+          13.256995
+        ]
+      },
+      "properties": {
+        "name": "KSSIDC Industrial Area",
+        "place_id": "ola-platform:5000037942454",
+        "address": "KSSIDC Industrial Area, Varadanahalli, Doddaballapura Taluk, Bengaluru Rural, Karnataka, 562163, India",
+        "district": "Bengaluru Rural",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Bengaluru Rural",
+        "fetched_at": "2026-04-01T15:45:12.201942"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.57121,
+          13.28624
+        ]
+      },
+      "properties": {
+        "name": "Lakshmi Caterers - Doddaballapur Industrial Area",
+        "place_id": "ola-platform:5000061443334",
+        "address": "Lakshmi Caterers - Doddaballapur Industrial Area, Raghunathapura, Doddaballapura Taluk, Bengaluru Rural, Karnataka, 562163, India",
+        "district": "Bengaluru Rural",
+        "state": "Karnataka",
+        "types": [
+          "food"
+        ],
+        "query_used": "industrial area Bengaluru Rural",
+        "fetched_at": "2026-04-01T15:45:12.214609"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.835,
+          13.1152
+        ]
+      },
+      "properties": {
+        "name": "Chokkahalli Industrial Area",
+        "place_id": "ola-platform:5000036678782",
+        "address": "Chokkahalli Industrial Area, Chokkahalli, Pillagumpe, Karnataka, 562114, India",
+        "district": "Bengaluru Rural",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Bengaluru Rural",
+        "fetched_at": "2026-04-01T15:45:12.226450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2636,
+          13.2222
+        ]
+      },
+      "properties": {
+        "name": "Sompura Industrial Area",
+        "place_id": "ola-platform:5000046570056",
+        "address": "Sompura Industrial Area, Dobbaspet, Pemmanahalli, Karnataka, 562132, India",
+        "district": "Bengaluru Rural",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Bengaluru Rural",
+        "fetched_at": "2026-04-01T15:45:12.242416"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5528,
+          13.2578
+        ]
+      },
+      "properties": {
+        "name": "State Bank Of India Bashatihalli Industrial Estate",
+        "place_id": "ola-platform:5000044229006",
+        "address": "State Bank Of India Bashatihalli Industrial Estate, Daddaballapur, KIADB Ind.Area, Bengaluru, Karnataka, 562163, India",
+        "district": "Bengaluru Rural",
+        "state": "Karnataka",
+        "types": [
+          "bank"
+        ],
+        "query_used": "industrial estate Bengaluru Rural Karnataka",
+        "fetched_at": "2026-04-01T15:45:12.267228"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3867,
+          13.1366
+        ]
+      },
+      "properties": {
+        "name": "KSSIDC Industrial Estate",
+        "place_id": "ola-platform:5000052772256",
+        "address": "KSSIDC Industrial Estate, Narayanaraopalya, Karnataka, 562123, India",
+        "district": "Bengaluru Rural",
+        "state": "Karnataka",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Bengaluru Rural Karnataka",
+        "fetched_at": "2026-04-01T15:45:12.280023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3876,
+          13.1457
+        ]
+      },
+      "properties": {
+        "name": "(Kssidc) Nelamangala Industrial Estate Gate",
+        "place_id": "ola-platform:5000057094893",
+        "address": "(Kssidc) Nelamangala Industrial Estate Gate, Narasimanapalya, Kachanahalli, Karnataka, 562123, India",
+        "district": "Bengaluru Rural",
+        "state": "Karnataka",
+        "types": [
+          "bus_station"
+        ],
+        "query_used": "industrial estate Bengaluru Rural Karnataka",
+        "fetched_at": "2026-04-01T15:45:12.295070"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.832,
+          13.1861
+        ]
+      },
+      "properties": {
+        "name": "Factory Area",
+        "place_id": "ola-platform:5000051761431",
+        "address": "Factory Area, Doddaralagere, Karnataka, 562129, India",
+        "district": "Bengaluru Rural",
+        "state": "Karnataka",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Bengaluru Rural",
+        "fetched_at": "2026-04-01T15:45:12.308346"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.599117,
+          12.910361
+        ]
+      },
+      "properties": {
+        "name": "Bengaluru Brand Warehouse",
+        "place_id": "ola-platform:5000054428870",
+        "address": "Bengaluru Brand Warehouse, 48 9th Cross Road, 1st Main Rd, Sarraki, Industrial Area, 3rd Phase, J. P. Nagar, Bengaluru, Karnataka 560078",
+        "district": "Bengaluru Rural",
+        "state": "Karnataka",
+        "types": [
+          "clothing_store"
+        ],
+        "query_used": "factory area Bengaluru Rural",
+        "fetched_at": "2026-04-01T15:45:12.336998"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.63562,
+          13.17548
+        ]
+      },
+      "properties": {
+        "name": "Nike Factory Store - Bengaluru North, Bengaluru",
+        "place_id": "ola-platform:5000213951461",
+        "address": "Nike Factory Store - Bengaluru North, Bengaluru, Plot No 5, 6, 7, New Airport Road, Chikkajala, Jala Hobli Devanahalli, National Highway 7, North, Chikkajala, Bengaluru, Karnataka, 562157, India",
+        "district": "Bengaluru Rural",
+        "state": "Karnataka",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Bengaluru Rural",
+        "fetched_at": "2026-04-01T15:45:12.348558"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.66559,
+          12.81413
+        ]
+      },
+      "properties": {
+        "name": "Bangalore Urban 104 4th Phase",
+        "place_id": "ola-platform:5000191088988",
+        "address": "Bangalore Urban 104 4th Phase, Near Narsipura Industry, Bommasandra Industrial Area, Bommasandra, Bengaluru, Karnataka, 560099, India",
+        "district": "Bengaluru Urban",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "industrial area Bengaluru Urban",
+        "fetched_at": "2026-04-01T15:45:14.999376"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.44088,
+          12.9738
+        ]
+      },
+      "properties": {
+        "name": "Bangalore Urban #11A",
+        "place_id": "ola-platform:5000200823312",
+        "address": "Bangalore Urban #11A, Yerrappa Industrial Area Seegehalli Gate, Off.Magadi Road, Bangalore - 562130, Seegehalli, Channenahalli, Karnataka",
+        "district": "Bengaluru Urban",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "industrial area Bengaluru Urban",
+        "fetched_at": "2026-04-01T15:45:15.017834"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.65308,
+          12.78627
+        ]
+      },
+      "properties": {
+        "name": "Bangalore Urban Plot No 36",
+        "place_id": "ola-platform:5000193838607",
+        "address": "Bangalore Urban Plot No 36, Bommasandra Jigani Link Road, Opp HCL, Jigani Industrial Area, Bangalore, Jigani, Bande Nalla Sandra, Karnataka, 560105, India",
+        "district": "Bengaluru Urban",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "industrial area Bengaluru Urban",
+        "fetched_at": "2026-04-01T15:45:15.035250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.518212,
+          13.022778
+        ]
+      },
+      "properties": {
+        "name": "Srinivasa Nursing Home, Bengaluru Urban",
+        "place_id": "ola-platform:5000061416688",
+        "address": "Srinivasa Nursing Home, Bengaluru Urban, Rajagopala Nagara Road, Peenya Industrial Area, Laggere, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560058, India",
+        "district": "Bengaluru Urban",
+        "state": "Karnataka",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Bengaluru Urban",
+        "fetched_at": "2026-04-01T15:45:15.051491"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6743,
+          12.9971
+        ]
+      },
+      "properties": {
+        "name": "Bangalore Corporation Industrial Estate",
+        "place_id": "ola-platform:5000195780370",
+        "address": "Bangalore Corporation Industrial Estate, Mahadevapura, Bengaluru, Karnataka, 560016, India",
+        "district": "Bengaluru Urban",
+        "state": "Karnataka",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Bengaluru Urban Karnataka",
+        "fetched_at": "2026-04-01T15:45:15.085127"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.44336,
+          12.96288
+        ]
+      },
+      "properties": {
+        "name": "Bengaluru Urban",
+        "place_id": "ola-platform:5000184582021",
+        "address": "Bengaluru Urban, Sigu Industrial Estate, Near Busdepo35, And Phalada Organics Kannalli Near Seegehalli, Kodigehalli Post, North, Bengaluru, Kannahalli, Karnataka, 560112, India",
+        "district": "Bengaluru Urban",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "MIDC Bengaluru Urban",
+        "fetched_at": "2026-04-01T15:45:15.140249"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.522238,
+          13.021191
+        ]
+      },
+      "properties": {
+        "name": "The Brew Factory - Brewery Pub And Kitchen",
+        "place_id": "ola-platform:5000177978739",
+        "address": "The Brew Factory - Brewery Pub And Kitchen, Laggere Main Road, Peenya Industrial Area, Laggere, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560058, India",
+        "district": "Bengaluru Urban",
+        "state": "Karnataka",
+        "types": [
+          "bar"
+        ],
+        "query_used": "factory area Bengaluru Urban",
+        "fetched_at": "2026-04-01T15:45:15.183247"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.55404,
+          13.01468
+        ]
+      },
+      "properties": {
+        "name": "Sandal Soap Factory Metro Station",
+        "place_id": "ola-platform:5000205205513",
+        "address": "Sandal Soap Factory Metro Station, Chord Road, Ashokapuram, Yeswanthpur, Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, 560055, India",
+        "district": "Bengaluru Urban",
+        "state": "Karnataka",
+        "types": [
+          "metro_station"
+        ],
+        "query_used": "factory area Bengaluru Urban",
+        "fetched_at": "2026-04-01T15:45:15.218630"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6034,
+          12.8775
+        ]
+      },
+      "properties": {
+        "name": "Urban Ladder Factory Outlet",
+        "place_id": "ola-platform:5000059998119",
+        "address": "Urban Ladder Factory Outlet, 3/1, Opposite Aspire Badminton Academy, Raghavendra Layout, Someshwara Layout, Hulimavu, Bengaluru, Karnataka, 560076, India",
+        "district": "Bengaluru Urban",
+        "state": "Karnataka",
+        "types": [
+          "furniture_store"
+        ],
+        "query_used": "factory area Bengaluru Urban",
+        "fetched_at": "2026-04-01T15:45:15.236479"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.68456,
+          16.18887
+        ]
+      },
+      "properties": {
+        "name": "Bagalkote - Belagavi Rd",
+        "place_id": "ola-platform:5000195497159",
+        "address": "Bagalkote - Belagavi Rd, Industrial Area, Bagalkote, Karnataka, 587103, India",
+        "district": "Belagavi",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "industrial area Belagavi",
+        "fetched_at": "2026-04-01T15:45:17.793215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.50406,
+          15.84353
+        ]
+      },
+      "properties": {
+        "name": "159, Panjim - Belagavi Rd",
+        "place_id": "ola-platform:5000184868943",
+        "address": "159, Panjim - Belagavi Rd, Ashraywadi, Udyambag Industrial Area, Machhe, Belagavi, Karnataka, 590008, India",
+        "district": "Belagavi",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "industrial area Belagavi",
+        "fetched_at": "2026-04-01T15:45:17.820607"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4706,
+          15.7877
+        ]
+      },
+      "properties": {
+        "name": "Belagavi Ferro Cast Pvt. Ltd (Belgaum Ferro Cast Pvt. Ltd)",
+        "place_id": "ola-platform:5000040422748",
+        "address": "Belagavi Ferro Cast Pvt. Ltd (Belgaum Ferro Cast Pvt. Ltd), Belgaum Ferro Cast Pvt. Ltd, Machhe Industrial Area, Machhe, Machhe Industrial Area, Machhe, Belagavi, Karnataka, 590014, India",
+        "district": "Belagavi",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Belagavi",
+        "fetched_at": "2026-04-01T15:45:17.846660"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4727,
+          15.7875
+        ]
+      },
+      "properties": {
+        "name": "Tipu Sultan Nagar",
+        "place_id": "ola-platform:5000063380543",
+        "address": "Tipu Sultan Nagar, Sevak - NGO. No. 3826, Nityadhar Building, Tipu Sultan Nagar, Machhe, Belagavi, Sevak - NGO. No. 3826, Nityadhar Building, Tipu Sultan Nagar, Machhe, Belagavi, Sevak, 3826, Tipu Sultan Nagar, Machhe Industrial Area, Machhe, Belagavi, Karnataka, 590014, India",
+        "district": "Belagavi",
+        "state": "Karnataka",
+        "types": [
+          "premise",
+          "subpremise"
+        ],
+        "query_used": "industrial area Belagavi",
+        "fetched_at": "2026-04-01T15:45:17.874302"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.806848,
+          15.566998
+        ]
+      },
+      "properties": {
+        "name": "Sidco Industrial Estate Kittur Belagavi",
+        "place_id": "ola-platform:17652",
+        "address": "Sidco Industrial Estate Kittur Belagavi, Karnataka, India",
+        "district": "Belagavi",
+        "state": "Karnataka",
+        "types": [
+          "locality"
+        ],
+        "query_used": "industrial estate Belagavi Karnataka",
+        "fetched_at": "2026-04-01T15:45:17.902391"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.491375,
+          15.822347
+        ]
+      },
+      "properties": {
+        "name": "Angol Industrial Estate",
+        "place_id": "ola-platform:1026702",
+        "address": "Angol Industrial Estate, Belagavi, Karnataka, India",
+        "district": "Belagavi",
+        "state": "Karnataka",
+        "types": [
+          "borough"
+        ],
+        "query_used": "industrial estate Belagavi Karnataka",
+        "fetched_at": "2026-04-01T15:45:17.927864"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4916,
+          15.8149
+        ]
+      },
+      "properties": {
+        "name": "State Bank Of India Industrial Estate (Belagavi)",
+        "place_id": "ola-platform:5000042141774",
+        "address": "State Bank Of India Industrial Estate (Belagavi), Next To DIC Office, Udyambag Industrial Area, Udyambag, Belagavi, Karnataka, 590008, India",
+        "district": "Belagavi",
+        "state": "Karnataka",
+        "types": [
+          "bank"
+        ],
+        "query_used": "industrial estate Belagavi Karnataka",
+        "fetched_at": "2026-04-01T15:45:17.957757"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.49,
+          15.8198
+        ]
+      },
+      "properties": {
+        "name": "Vega Helmets Factory Outlet",
+        "place_id": "ola-platform:5000042923500",
+        "address": "Vega Helmets Factory Outlet, TaTa Bus Stop, NH- 4A, Udyambag Industrial Area, Udyambag, Belagavi, Karnataka, 590008, India",
+        "district": "Belagavi",
+        "state": "Karnataka",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Belagavi",
+        "fetched_at": "2026-04-01T15:45:18.061042"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.49332,
+          15.75909
+        ]
+      },
+      "properties": {
+        "name": "Line No 3, Near Bindu Soda Factory",
+        "place_id": "ola-platform:5000183157241",
+        "address": "Line No 3, Near Bindu Soda Factory, Belagavi, Karnataka, 590014, India",
+        "district": "Belagavi",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "factory area Belagavi",
+        "fetched_at": "2026-04-01T15:45:18.086883"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.52362,
+          15.87146
+        ]
+      },
+      "properties": {
+        "name": "1048, Near Cable Factory",
+        "place_id": "ola-platform:5000187308932",
+        "address": "1048, Near Cable Factory, Veerbhadra Nagar, Marihal, Belagavi, Karnataka, 590017, India",
+        "district": "Belagavi",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "factory area Belagavi",
+        "fetched_at": "2026-04-01T15:45:18.114653"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.5087,
+          15.8954
+        ]
+      },
+      "properties": {
+        "name": "Uppinkai Factory",
+        "place_id": "ola-platform:5000040527612",
+        "address": "Uppinkai Factory, (Uppinkai Factory), Sai Colony, Shahu Nagar, Belagavi, Karnataka, 590010, India",
+        "district": "Belagavi",
+        "state": "Karnataka",
+        "types": [
+          "store"
+        ],
+        "query_used": "factory area Belagavi",
+        "fetched_at": "2026-04-01T15:45:18.142217"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.54326,
+          15.889241
+        ]
+      },
+      "properties": {
+        "name": "Batteries Manufacturing And Service",
+        "place_id": "ola-platform:5000039579255",
+        "address": "Batteries Manufacturing And Service, KIADB Industrial Estate, Auto Nagar, Belagavi, Belagavi Taluku, Belagavi, Karnataka, 590015, India",
+        "district": "Belagavi",
+        "state": "Karnataka",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "manufacturing hub Belagavi",
+        "fetched_at": "2026-04-01T15:45:18.169484"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.523935,
+          15.955538
+        ]
+      },
+      "properties": {
+        "name": "Panchakarma Therapy Centre And Ayurvedic Medicine Manufacturing Unit",
+        "place_id": "ola-platform:5000066694348",
+        "address": "Panchakarma Therapy Centre And Ayurvedic Medicine Manufacturing Unit, Honaga, Belagavi Taluku, Belagavi, Karnataka, 591143, India",
+        "district": "Belagavi",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Belagavi",
+        "fetched_at": "2026-04-01T15:45:18.198097"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.493202,
+          15.737665
+        ]
+      },
+      "properties": {
+        "name": "Ashok Leyland Alma Motors Truck And Buses Manufacturing Industry",
+        "place_id": "ola-platform:5000046632742",
+        "address": "Ashok Leyland Alma Motors Truck And Buses Manufacturing Industry, Desuru, Belagavi Taluku, Belagavi, Karnataka, 590014, India",
+        "district": "Belagavi",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Belagavi",
+        "fetched_at": "2026-04-01T15:45:18.229707"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9095,
+          15.1078
+        ]
+      },
+      "properties": {
+        "name": "Mundargi Industrial Area",
+        "place_id": "ola-platform:5000190000420",
+        "address": "Mundargi Industrial Area, Ballari, Karnataka, 583102, India",
+        "district": "Ballari",
+        "state": "Karnataka",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Ballari",
+        "fetched_at": "2026-04-01T15:45:20.347438"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.94528,
+          15.14399
+        ]
+      },
+      "properties": {
+        "name": "265, Mundargi Industrial Area",
+        "place_id": "ola-platform:5000190046180",
+        "address": "265, Mundargi Industrial Area, Ballari, Karnataka, 583101, India",
+        "district": "Ballari",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "industrial area Ballari",
+        "fetched_at": "2026-04-01T15:45:20.376765"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.94524,
+          15.14457
+        ]
+      },
+      "properties": {
+        "name": "44, Bellary Industrial Area",
+        "place_id": "ola-platform:5000198406028",
+        "address": "44, Bellary Industrial Area, Ballari, Karnataka, 583101, India",
+        "district": "Ballari",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "industrial area Ballari",
+        "fetched_at": "2026-04-01T15:45:20.409426"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9153,
+          15.1138
+        ]
+      },
+      "properties": {
+        "name": "Phase 1, Mundargi Industrial Area",
+        "place_id": "ola-platform:5000185912559",
+        "address": "Phase 1, Mundargi Industrial Area, Ballari, Karnataka, 583102, India",
+        "district": "Ballari",
+        "state": "Karnataka",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Ballari",
+        "fetched_at": "2026-04-01T15:45:20.437226"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.94644,
+          15.14307
+        ]
+      },
+      "properties": {
+        "name": "830, Mundargi Industrial Area",
+        "place_id": "ola-platform:5000197215933",
+        "address": "830, Mundargi Industrial Area, Ballari, Karnataka, 583101, India",
+        "district": "Ballari",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "industrial area Ballari",
+        "fetched_at": "2026-04-01T15:45:20.462722"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.922433,
+          15.127633
+        ]
+      },
+      "properties": {
+        "name": "HPS Smld Industrial Estate",
+        "place_id": "ola-platform:5000063876766",
+        "address": "HPS Smld Industrial Estate, Ballari, Bellary Taluk, Ballari, Karnataka, 583101, India",
+        "district": "Ballari",
+        "state": "Karnataka",
+        "types": [
+          "school",
+          "premise",
+          "primary_school"
+        ],
+        "query_used": "industrial estate Ballari Karnataka",
+        "fetched_at": "2026-04-01T15:45:20.492176"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9006,
+          15.13258
+        ]
+      },
+      "properties": {
+        "name": "12 Huml Pipe Factory Area",
+        "place_id": "ola-platform:5000192519300",
+        "address": "12 Huml Pipe Factory Area, Cowl Bazaar, Ballari, Karnataka, 583102, India",
+        "district": "Ballari",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "factory area Ballari",
+        "fetched_at": "2026-04-01T15:45:20.593218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9028,
+          15.1366
+        ]
+      },
+      "properties": {
+        "name": "83, Beedi Factory Rd",
+        "place_id": "ola-platform:5000202420435",
+        "address": "83, Beedi Factory Rd, Ward 389, Ballari, Karnataka, 583102, India",
+        "district": "Ballari",
+        "state": "Karnataka",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Ballari",
+        "fetched_at": "2026-04-01T15:45:20.643210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.90321,
+          15.13669
+        ]
+      },
+      "properties": {
+        "name": "24, Beedi Factory Rd",
+        "place_id": "ola-platform:5000199849969",
+        "address": "24, Beedi Factory Rd, Cowl Bazaar, Ballari, Karnataka, 583102, India",
+        "district": "Ballari",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "factory area Ballari",
+        "fetched_at": "2026-04-01T15:45:20.669819"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.90275,
+          15.13657
+        ]
+      },
+      "properties": {
+        "name": "48, Beedi Factory Rd",
+        "place_id": "ola-platform:5000198364508",
+        "address": "48, Beedi Factory Rd, Cowl Bazaar, Ballari, Karnataka, 583102, India",
+        "district": "Ballari",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "factory area Ballari",
+        "fetched_at": "2026-04-01T15:45:20.697114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.92166,
+          15.138658
+        ]
+      },
+      "properties": {
+        "name": "Hansa International Manufacturing",
+        "place_id": "ola-platform:5000052848094",
+        "address": "Hansa International Manufacturing, Ballari, Bellary Taluk, Ballari, Karnataka, 583101, India",
+        "district": "Ballari",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Ballari",
+        "fetched_at": "2026-04-01T15:45:20.807872"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.92181,
+          15.13946
+        ]
+      },
+      "properties": {
+        "name": "Kasturi Dresses Manufacturing",
+        "place_id": "ola-platform:5000065279957",
+        "address": "Kasturi Dresses Manufacturing, Ballari, Bellary Taluk, Ballari, Karnataka, 583101, India",
+        "district": "Ballari",
+        "state": "Karnataka",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "manufacturing hub Ballari",
+        "fetched_at": "2026-04-01T15:45:20.838309"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4416,
+          17.4587
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:5000201116508",
+        "address": "Industrial Estate, Sanath Nagar IE, Sanath Nagar, Hyderabad, Telangana, 500018, India",
+        "district": "Bidar",
+        "state": "Karnataka",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Bidar Karnataka",
+        "fetched_at": "2026-04-01T15:45:23.376386"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8857,
+          11.9818
+        ]
+      },
+      "properties": {
+        "name": "KIADB - Badanaguppe - Kellamballi Industrial Area (KIADB-Badanaguppe-Kellamballi-Kallahalli Industrial Area)",
+        "place_id": "ola-platform:5000061994147",
+        "address": "KIADB - Badanaguppe - Kellamballi Industrial Area (KIADB-Badanaguppe-Kellamballi-Kallahalli Industrial Area), KIADB-Badanaguppe-Kellamballi-Kallahalli Industrial Area, Badanaguppe, Karnataka, 571313, India",
+        "district": "Chamarajanagar",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Chamarajanagar",
+        "fetched_at": "2026-04-01T15:45:25.814039"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8778,
+          11.9832
+        ]
+      },
+      "properties": {
+        "name": "KIADB - Badanaguppe - Kellamballi Industrial Area",
+        "place_id": "ola-platform:5000047647158",
+        "address": "KIADB - Badanaguppe - Kellamballi Industrial Area, Badanaguppe, Karnataka, 571313, India",
+        "district": "Chamarajanagar",
+        "state": "Karnataka",
+        "types": [
+          "lodging"
+        ],
+        "query_used": "industrial area Chamarajanagar",
+        "fetched_at": "2026-04-01T15:45:25.843250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1098,
+          12.1501
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area, Devanga Colony",
+        "place_id": "ola-platform:5000049364235",
+        "address": "Industrial Area, Devanga Colony, Kollegala, Karnataka, 571440, India",
+        "district": "Chamarajanagar",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Chamarajanagar",
+        "fetched_at": "2026-04-01T15:45:25.870363"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.11021,
+          12.15047
+        ]
+      },
+      "properties": {
+        "name": "D-1, Industrial Area",
+        "place_id": "ola-platform:5000184078123",
+        "address": "D-1, Industrial Area, Near Nalada Gas, Kollegala, Karnataka, 571440, India",
+        "district": "Chamarajanagar",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "industrial area Chamarajanagar",
+        "fetched_at": "2026-04-01T15:45:25.898052"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4995,
+          13.0081
+        ]
+      },
+      "properties": {
+        "name": "Shushruti Group Of Institutions",
+        "place_id": "ola-platform:5000051876298",
+        "address": "Shushruti Group Of Institutions, #68, Andrahalli Main Rd, Shushruti Nagar, Byraveshwara Industrial Estate, Bengaluru, Karnataka, 560091, India",
+        "district": "Chamarajanagar",
+        "state": "Karnataka",
+        "types": [
+          "university"
+        ],
+        "query_used": "industrial estate Chamarajanagar Karnataka",
+        "fetched_at": "2026-04-01T15:45:26.007797"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.729107,
+          13.403629
+        ]
+      },
+      "properties": {
+        "name": "Chikballapur Industrial Area",
+        "place_id": "ola-platform:11637",
+        "address": "Chikballapur Industrial Area, Karnataka, India",
+        "district": "Chikballapur",
+        "state": "Karnataka",
+        "types": [
+          "locality"
+        ],
+        "query_used": "industrial area Chikballapur",
+        "fetched_at": "2026-04-01T15:45:28.584290"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7832,
+          13.2856
+        ]
+      },
+      "properties": {
+        "name": "Amble Industrial Area",
+        "place_id": "ola-platform:5000039846856",
+        "address": "Amble Industrial Area, Chikkamagaluru, Karnataka, 577101, India",
+        "district": "Chikkamagaluru",
+        "state": "Karnataka",
+        "types": [
+          "park"
+        ],
+        "query_used": "industrial area Chikkamagaluru",
+        "fetched_at": "2026-04-01T15:45:31.292302"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7978,
+          13.2783
+        ]
+      },
+      "properties": {
+        "name": "Amble Industrial Area Road",
+        "place_id": "ola-platform:5000183485176",
+        "address": "Amble Industrial Area Road, Amble Industrial Area Rd, Amble, Karnataka, 577101, India",
+        "district": "Chikkamagaluru",
+        "state": "Karnataka",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Chikkamagaluru",
+        "fetched_at": "2026-04-01T15:45:31.325270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7974,
+          13.2989
+        ]
+      },
+      "properties": {
+        "name": "Amble Industrial Area- Laxmipura- Hiremagalur Rd",
+        "place_id": "ola-platform:5000199277180",
+        "address": "Amble Industrial Area- Laxmipura- Hiremagalur Rd, Laxmipura, Karnataka, 577102, India",
+        "district": "Chikkamagaluru",
+        "state": "Karnataka",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Chikkamagaluru",
+        "fetched_at": "2026-04-01T15:45:31.357579"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.76731,
+          13.3339
+        ]
+      },
+      "properties": {
+        "name": "5th Cross, Bulb Factory Road Gowri Kaluve Extn",
+        "place_id": "ola-platform:5000191135468",
+        "address": "5th Cross, Bulb Factory Road Gowri Kaluve Extn, Vijayapura, Chikkamagaluru, Karnataka, 577101, India",
+        "district": "Chikkamagaluru",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "factory area Chikkamagaluru",
+        "fetched_at": "2026-04-01T15:45:31.701736"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.4277,
+          14.2156
+        ]
+      },
+      "properties": {
+        "name": "220 KV SRS Receiving Station, KPTCL, Chitradurga",
+        "place_id": "ola-platform:5000050445567",
+        "address": "220 KV SRS Receiving Station, KPTCL, Chitradurga, 220 K.V, Unnamed Road, Industrial Area, Chitradurga, Karnataka, 577501, India",
+        "district": "Chitradurga",
+        "state": "Karnataka",
+        "types": [
+          "local_government_office"
+        ],
+        "query_used": "industrial area Chitradurga",
+        "fetched_at": "2026-04-01T15:45:34.509570"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.4234,
+          14.2099
+        ]
+      },
+      "properties": {
+        "name": "Mahindra H D Motors Chitradurga (Mahindra H D Motors - SUV & Commercial Vehicle Showroom)",
+        "place_id": "ola-platform:5000048157721",
+        "address": "Mahindra H D Motors Chitradurga (Mahindra H D Motors - SUV & Commercial Vehicle Showroom), Plot No.73, K.I.A.D.B, Industrial Area, Chitradurga, Karnataka, 577501, India",
+        "district": "Chitradurga",
+        "state": "Karnataka",
+        "types": [
+          "car_dealer"
+        ],
+        "query_used": "industrial area Chitradurga",
+        "fetched_at": "2026-04-01T15:45:34.545036"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.4263,
+          14.2091
+        ]
+      },
+      "properties": {
+        "name": "Varsha Associates Manufacturing Unit",
+        "place_id": "ola-platform:5000061210072",
+        "address": "Varsha Associates Manufacturing Unit, Industrial Area, Chitradurga, Karnataka, 577501, India",
+        "district": "Chitradurga",
+        "state": "Karnataka",
+        "types": [
+          "food",
+          "restaurant"
+        ],
+        "query_used": "manufacturing hub Chitradurga",
+        "fetched_at": "2026-04-01T15:45:35.015254"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.822227,
+          12.950754
+        ]
+      },
+      "properties": {
+        "name": "Dakshina Kannada Small Industrial Association",
+        "place_id": "ola-platform:5000067087312",
+        "address": "Dakshina Kannada Small Industrial Association, Baikampady Industrial Area, Mangaluru, Mangaluru Taluk, Dakshina Kannada, Karnataka, 575011, India",
+        "district": "Dakshina Kannada",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Dakshina Kannada",
+        "fetched_at": "2026-04-01T15:45:37.522841"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8068,
+          12.9496
+        ]
+      },
+      "properties": {
+        "name": "Baikampady Industrial Area",
+        "place_id": "ola-platform:5000193630740",
+        "address": "Baikampady Industrial Area, New Mangalore, Baikampady Industrial Area, Mangaluru, Karnataka, 575010, India",
+        "district": "Dakshina Kannada",
+        "state": "Karnataka",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Dakshina Kannada",
+        "fetched_at": "2026-04-01T15:45:37.555686"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8166,
+          12.95865
+        ]
+      },
+      "properties": {
+        "name": "Bikampaddy Industrial Area",
+        "place_id": "ola-platform:5000057028168",
+        "address": "Bikampaddy Industrial Area, Baikampady, Mangaluru Taluk, Dakshina Kannada, Karnataka, 575019, India",
+        "district": "Dakshina Kannada",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Dakshina Kannada",
+        "fetched_at": "2026-04-01T15:45:37.585530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.860833,
+          12.895556
+        ]
+      },
+      "properties": {
+        "name": "Yeyyadi Industrial Area",
+        "place_id": "ola-platform:5000042860763",
+        "address": "Yeyyadi Industrial Area, Kadri Hills, Konchady, Mangaluru Taluk, Dakshina Kannada, Karnataka, 575008, India",
+        "district": "Dakshina Kannada",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Dakshina Kannada",
+        "fetched_at": "2026-04-01T15:45:37.618023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8599,
+          12.8981
+        ]
+      },
+      "properties": {
+        "name": "State Bank Of India Industrial Area (Yeyyadi)",
+        "place_id": "ola-platform:5000039689023",
+        "address": "State Bank Of India Industrial Area (Yeyyadi), Mangaluru N K Karnataka Dt:dakshina Kannada, Yeyyadi, Mangaluru, Karnataka, 575008, India",
+        "district": "Dakshina Kannada",
+        "state": "Karnataka",
+        "types": [
+          "bank"
+        ],
+        "query_used": "industrial area Dakshina Kannada",
+        "fetched_at": "2026-04-01T15:45:37.647059"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8605,
+          12.8958
+        ]
+      },
+      "properties": {
+        "name": "Yeyyadi Industrial Estate",
+        "place_id": "ola-platform:5000067133826",
+        "address": "Yeyyadi Industrial Estate, Yeyyadi, Mangaluru, Karnataka, 575008, India",
+        "district": "Dakshina Kannada",
+        "state": "Karnataka",
+        "types": [
+          "clothing_store"
+        ],
+        "query_used": "industrial estate Dakshina Kannada Karnataka",
+        "fetched_at": "2026-04-01T15:45:37.676623"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.861012,
+          12.897455
+        ]
+      },
+      "properties": {
+        "name": "Ballal Industrial Estate",
+        "place_id": "ola-platform:5000036721151",
+        "address": "Ballal Industrial Estate, Shakthinagar, Yeyyadi, Konchady, Mangaluru Taluk, Dakshina Kannada, Karnataka, 575008, India",
+        "district": "Dakshina Kannada",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Dakshina Kannada Karnataka",
+        "fetched_at": "2026-04-01T15:45:37.708337"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.86148,
+          12.89578
+        ]
+      },
+      "properties": {
+        "name": "64/2, Industrial Estate",
+        "place_id": "ola-platform:5000183982051",
+        "address": "64/2, Industrial Estate, Yeyyadi, Mangaluru, Karnataka, 575008, India",
+        "district": "Dakshina Kannada",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "industrial estate Dakshina Kannada Karnataka",
+        "fetched_at": "2026-04-01T15:45:37.737806"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.86105,
+          12.8947
+        ]
+      },
+      "properties": {
+        "name": "26, Industrial Estate",
+        "place_id": "ola-platform:5000193158711",
+        "address": "26, Industrial Estate, Yeyyadi, Mangaluru, Karnataka, 575008, India",
+        "district": "Dakshina Kannada",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "industrial estate Dakshina Kannada Karnataka",
+        "fetched_at": "2026-04-01T15:45:37.769461"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.224719,
+          12.719177
+        ]
+      },
+      "properties": {
+        "name": "Aryapu Industrial Estate",
+        "place_id": "ola-platform:5000042248361",
+        "address": "Aryapu Industrial Estate, Mani - Mysore Road, Kurelu, Parpunja, Putturu Taluk, Dakshina Kannada, Karnataka, 574210, India",
+        "district": "Dakshina Kannada",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Dakshina Kannada Karnataka",
+        "fetched_at": "2026-04-01T15:45:37.800445"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.889857,
+          14.477546
+        ]
+      },
+      "properties": {
+        "name": "Karur Industrial Area",
+        "place_id": "ola-platform:1028665",
+        "address": "Karur Industrial Area, Davanagere, Karnataka, India",
+        "district": "Davanagere",
+        "state": "Karnataka",
+        "types": [
+          "borough"
+        ],
+        "query_used": "industrial area Davanagere",
+        "fetched_at": "2026-04-01T15:45:40.286195"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.935222,
+          14.424586
+        ]
+      },
+      "properties": {
+        "name": "Davanagere Industrial Area",
+        "place_id": "ola-platform:1027562",
+        "address": "Davanagere Industrial Area, Davanagere, Karnataka, India",
+        "district": "Davanagere",
+        "state": "Karnataka",
+        "types": [
+          "borough"
+        ],
+        "query_used": "industrial area Davanagere",
+        "fetched_at": "2026-04-01T15:45:40.319624"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.93046,
+          14.42363
+        ]
+      },
+      "properties": {
+        "name": "01, Industrial Area",
+        "place_id": "ola-platform:5000185441454",
+        "address": "01, Industrial Area, Davanagere, Karnataka, 577002, India",
+        "district": "Davanagere",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "industrial area Davanagere",
+        "fetched_at": "2026-04-01T15:45:40.351543"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.936772,
+          14.423853
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000041606188",
+        "address": "Industrial Area, Davanagere, Davanagere Taluku, Davanagere, Karnataka, 577003, India",
+        "district": "Davanagere",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Davanagere",
+        "fetched_at": "2026-04-01T15:45:40.382473"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.9301,
+          14.4248
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Circle",
+        "place_id": "ola-platform:5000056593874",
+        "address": "Industrial Area Circle, Davanagere Industrial Area, Davanagere, Karnataka, 577002, India",
+        "district": "Davanagere",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Davanagere",
+        "fetched_at": "2026-04-01T15:45:40.413619"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.808566,
+          14.523366
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:5000039480759",
+        "address": "Industrial Estate, Hosapete-HariHara Road, Labour Colony, Karalahalli, HariHara Taluku, Davanagere, Karnataka, 577601, India",
+        "district": "Davanagere",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Davanagere Karnataka",
+        "fetched_at": "2026-04-01T15:45:40.446260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.9061,
+          15.5026
+        ]
+      },
+      "properties": {
+        "name": "Dharwad Plot No. 546B Road No. 24 KIADB",
+        "place_id": "ola-platform:5000197070732",
+        "address": "Dharwad Plot No. 546B Road No. 24 KIADB, Belur Industrial Area, Dharwad, Karnataka, 580011, India",
+        "district": "Dharwad",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "industrial area Dharwad",
+        "fetched_at": "2026-04-01T15:45:43.163949"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.92396,
+          15.507573
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate Belur Dharwad 580011",
+        "place_id": "ola-platform:5000051655949",
+        "address": "Industrial Estate Belur Dharwad 580011, 1st Cross Belur Industrial Area, Belur Industrial Area, Dharwad, Dharawada Taluku, Dharwad, Karnataka, 580011, India",
+        "district": "Dharwad",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Dharwad Karnataka",
+        "fetched_at": "2026-04-01T15:45:43.196412"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.136639,
+          15.344125
+        ]
+      },
+      "properties": {
+        "name": "Pujari Fancy Aerated Water Factory",
+        "place_id": "ola-platform:5000038856189",
+        "address": "Pujari Fancy Aerated Water Factory, Pune Bangalore Road, Chanakya Puri, Kamaripet, Hubballi, Hubballi Urban Taluku, Dharwad, Karnataka, 580028, India",
+        "district": "Dharwad",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "factory area Dharwad",
+        "fetched_at": "2026-04-01T15:45:43.482829"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1341,
+          15.3331
+        ]
+      },
+      "properties": {
+        "name": "Darwad Beedi Factory",
+        "place_id": "ola-platform:5000055985963",
+        "address": "Darwad Beedi Factory, Old Hubli, Mehboob Nagar Circle, Jannat Nagar, Old Hubli, Hubballi, Karnataka, 580024, India",
+        "district": "Dharwad",
+        "state": "Karnataka",
+        "types": [
+          "store"
+        ],
+        "query_used": "factory area Dharwad",
+        "fetched_at": "2026-04-01T15:45:43.579617"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1067,
+          15.3865
+        ]
+      },
+      "properties": {
+        "name": "Coke Factory",
+        "place_id": "ola-platform:5000188142819",
+        "address": "Coke Factory, Hubli - Dharwad Hwy, Bairidevarkoppa, Hubballi, Karnataka, 580025, India",
+        "district": "Dharwad",
+        "state": "Karnataka",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Dharwad",
+        "fetched_at": "2026-04-01T15:45:43.613690"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.930882,
+          15.531767
+        ]
+      },
+      "properties": {
+        "name": "TaTa Motors Marcopolo Bus Manufacturing Plant Dharwad",
+        "place_id": "ola-platform:5000054759547",
+        "address": "TaTa Motors Marcopolo Bus Manufacturing Plant Dharwad, Sh73, Garag, Dharawada Taluku, Dharwad, Karnataka, 581105, India",
+        "district": "Dharwad",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Dharwad",
+        "fetched_at": "2026-04-01T15:45:43.652581"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.931404,
+          15.516739
+        ]
+      },
+      "properties": {
+        "name": "TaTa Motors Car Manufacturing Plant Dharwad Entry Gate",
+        "place_id": "ola-platform:5000041239694",
+        "address": "TaTa Motors Car Manufacturing Plant Dharwad Entry Gate, Belur, Dharawada Taluku, Dharwad, Karnataka, 580011, India",
+        "district": "Dharwad",
+        "state": "Karnataka",
+        "types": [
+          "car_repair"
+        ],
+        "query_used": "manufacturing hub Dharwad",
+        "fetched_at": "2026-04-01T15:45:43.684567"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.930905,
+          15.517487
+        ]
+      },
+      "properties": {
+        "name": "TaTa Motors Car Manufacturing Plant Dharwad",
+        "place_id": "ola-platform:5000052510276",
+        "address": "TaTa Motors Car Manufacturing Plant Dharwad, Belur, Dharawada Taluku, Dharwad, Karnataka, 580011, India",
+        "district": "Dharwad",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Dharwad",
+        "fetched_at": "2026-04-01T15:45:43.716098"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.0769,
+          15.40019
+        ]
+      },
+      "properties": {
+        "name": "Able Design And Manufacturing Pvt Ltd",
+        "place_id": "ola-platform:5000036778468",
+        "address": "Able Design And Manufacturing Pvt Ltd, Pune Bangalore Road, Rayapur, Dharawada Taluku, Dharwad, Karnataka, 580025, India",
+        "district": "Dharwad",
+        "state": "Karnataka",
+        "types": [
+          "general_contractor"
+        ],
+        "query_used": "manufacturing hub Dharwad",
+        "fetched_at": "2026-04-01T15:45:43.752871"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.66913,
+          15.46525
+        ]
+      },
+      "properties": {
+        "name": "113a, Narasapur Industrial Area",
+        "place_id": "ola-platform:5000183728072",
+        "address": "113a, Narasapur Industrial Area, Gadag-Betageri, Karnataka, 582102, India",
+        "district": "Gadag",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "industrial area Gadag",
+        "fetched_at": "2026-04-01T15:45:47.163626"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.670269,
+          15.462744
+        ]
+      },
+      "properties": {
+        "name": "Narsapur Industrial Area",
+        "place_id": "ola-platform:5000048021384",
+        "address": "Narsapur Industrial Area, Nekar Colony, Nagasamudra, Gadag Taluk, Gadag, Karnataka, 582102, India",
+        "district": "Gadag",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Gadag",
+        "fetched_at": "2026-04-01T15:45:47.183258"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.6659,
+          15.4624
+        ]
+      },
+      "properties": {
+        "name": "Narsapur Industrial Area",
+        "place_id": "ola-platform:5000056173361",
+        "address": "Narsapur Industrial Area, Gadag-Betageri, Karnataka, 582102, India",
+        "district": "Gadag",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Gadag",
+        "fetched_at": "2026-04-01T15:45:47.202669"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.9281,
+          15.5352
+        ]
+      },
+      "properties": {
+        "name": "Belur Industrial Area",
+        "place_id": "ola-platform:5000184581138",
+        "address": "Belur Industrial Area, Garag Road, Mummigatti Post, SH 73, Garag, Karnataka, 581105, India",
+        "district": "Gadag",
+        "state": "Karnataka",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Gadag",
+        "fetched_at": "2026-04-01T15:45:47.221667"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.6037,
+          15.4232
+        ]
+      },
+      "properties": {
+        "name": "Gadag Industrial Estate",
+        "place_id": "ola-platform:5000201732281",
+        "address": "Gadag Industrial Estate, Gadag-Betageri, Karnataka, 582103, India",
+        "district": "Gadag",
+        "state": "Karnataka",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Gadag Karnataka",
+        "fetched_at": "2026-04-01T15:45:47.266225"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.667,
+          15.4605
+        ]
+      },
+      "properties": {
+        "name": "KIADB Industrial Estate",
+        "place_id": "ola-platform:5000037263533",
+        "address": "KIADB Industrial Estate, Gadag, Karnataka, 582102, India",
+        "district": "Gadag",
+        "state": "Karnataka",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Gadag Karnataka",
+        "fetched_at": "2026-04-01T15:45:47.287305"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.670503,
+          15.460472
+        ]
+      },
+      "properties": {
+        "name": "Lobosa Spices Manufacturing Cluster Association",
+        "place_id": "ola-platform:5000039752605",
+        "address": "Lobosa Spices Manufacturing Cluster Association, Pala Badami Road, Nekar Colony, Narasapura, Gadag Taluk, Gadag, Karnataka, 582102, India",
+        "district": "Gadag",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Gadag",
+        "fetched_at": "2026-04-01T15:45:47.487023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1297,
+          13.0124
+        ]
+      },
+      "properties": {
+        "name": "Podar International School Hassan (ICSE) (Podar International School (ICSE), Hassan)",
+        "place_id": "ola-platform:5000050959740",
+        "address": "Podar International School Hassan (ICSE) (Podar International School (ICSE), Hassan), Podar International School (ICSE), Hassan, Plot No 32 & 33, Survey No 2, 3 & 4 B. Kathihally Industrial Area, Kasaba, Hobli, Katihalli, Hassan, Karnataka, 573202, India",
+        "district": "Hassan",
+        "state": "Karnataka",
+        "types": [
+          "school",
+          "premise",
+          "primary_school"
+        ],
+        "query_used": "industrial area Hassan",
+        "fetched_at": "2026-04-01T15:45:49.636012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1193,
+          12.9837
+        ]
+      },
+      "properties": {
+        "name": "Oil & Lubricant Pol Terminal Hassan (HPCL Petroleum, Oil & Lubricant [Pol] Terminal Hassan)",
+        "place_id": "ola-platform:5000176686450",
+        "address": "Oil & Lubricant Pol Terminal Hassan (HPCL Petroleum, Oil & Lubricant [Pol] Terminal Hassan), HPCL Petroleum, Oil & Lubricant [POL] Terminal Hassan, Plot No. 1A, KIADB Industrial Area, Road, Mysore, Aduvalli, Karnataka, 573201, India",
+        "district": "Hassan",
+        "state": "Karnataka",
+        "types": [
+          "store"
+        ],
+        "query_used": "industrial area Hassan",
+        "fetched_at": "2026-04-01T15:45:49.670679"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.12,
+          12.9787
+        ]
+      },
+      "properties": {
+        "name": "Page Industries Ltd Unit 12 B (Jockey Company)",
+        "place_id": "ola-platform:5000064500179",
+        "address": "Page Industries Ltd Unit 12 B (Jockey Company), Hassan, Mysore Rd, Karnataka, 573201, India",
+        "district": "Hassan",
+        "state": "Karnataka",
+        "types": [
+          "storage"
+        ],
+        "query_used": "industrial area Hassan",
+        "fetched_at": "2026-04-01T15:45:49.705397"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8817,
+          17.26891
+        ]
+      },
+      "properties": {
+        "name": "Kalaburagi Plot No. 201",
+        "place_id": "ola-platform:5000183828073",
+        "address": "Kalaburagi Plot No. 201, 202 Nandur, Industrial Area, Kalaburagi, Nandoor K, Karnataka, 585102, India",
+        "district": "Kalaburagi",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "industrial area Kalaburagi",
+        "fetched_at": "2026-04-01T15:45:55.016169"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8724,
+          17.2755
+        ]
+      },
+      "properties": {
+        "name": "TaTa Motors Kalaburagi Motors",
+        "place_id": "ola-platform:5000062438810",
+        "address": "TaTa Motors Kalaburagi Motors, Plot No 6 SY No 62&63 Nandur Industrial Area Shahabad Road Kalaburagi 585102, Kalaburagi, Nandoor K, Karnataka",
+        "district": "Kalaburagi",
+        "state": "Karnataka",
+        "types": [
+          "car_repair"
+        ],
+        "query_used": "industrial area Kalaburagi",
+        "fetched_at": "2026-04-01T15:45:55.057809"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8728,
+          17.2711
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Kalaburagi",
+        "place_id": "ola-platform:5000052425347",
+        "address": "Industrial Area Kalaburagi, Nandoor K, Karnataka, 585102, India",
+        "district": "Kalaburagi",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Kalaburagi",
+        "fetched_at": "2026-04-01T15:45:55.097787"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8583,
+          17.3719
+        ]
+      },
+      "properties": {
+        "name": "VRL Logistics Ltd - Kalaburagi TPT",
+        "place_id": "ola-platform:5000221162450",
+        "address": "VRL Logistics Ltd - Kalaburagi TPT, Plot No23 KIADB, 1st Stage, 01, Humnabad Rd, Industrial Area, Kapnoor, Kalaburagi, Karnataka 585104, India",
+        "district": "Kalaburagi",
+        "state": "Karnataka",
+        "types": [
+          "moving_company"
+        ],
+        "query_used": "industrial area Kalaburagi",
+        "fetched_at": "2026-04-01T15:45:55.132021"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9939,
+          17.0667
+        ]
+      },
+      "properties": {
+        "name": "Wadi ACC Cement Factory Area",
+        "place_id": "ola-platform:5000049411123",
+        "address": "Wadi ACC Cement Factory Area, ACC Cement Factory Area, Wadi, Karnataka, 585225, India",
+        "district": "Kalaburagi",
+        "state": "Karnataka",
+        "types": [
+          "point_of_interest"
+        ],
+        "query_used": "factory area Kalaburagi",
+        "fetched_at": "2026-04-01T15:45:55.401387"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9787,
+          17.0651
+        ]
+      },
+      "properties": {
+        "name": "ACC Cement Factory Area",
+        "place_id": "ola-platform:5000199840418",
+        "address": "ACC Cement Factory Area, Wadi, Karnataka, 585225, India",
+        "district": "Kalaburagi",
+        "state": "Karnataka",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Kalaburagi",
+        "fetched_at": "2026-04-01T15:45:55.440601"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.98386,
+          17.06382
+        ]
+      },
+      "properties": {
+        "name": "ACC Cement Factory Area",
+        "place_id": "ola-platform:5000200075300",
+        "address": "ACC Cement Factory Area, Wadi, Wadi ACC, Karnataka, 585225, India",
+        "district": "Kalaburagi",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "factory area Kalaburagi",
+        "fetched_at": "2026-04-01T15:45:55.485260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9727,
+          17.06523
+        ]
+      },
+      "properties": {
+        "name": "ACC Cement Factory Area",
+        "place_id": "ola-platform:5000186910073",
+        "address": "ACC Cement Factory Area, Wadi, Ingalgi, Karnataka, 585225, India",
+        "district": "Kalaburagi",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "factory area Kalaburagi",
+        "fetched_at": "2026-04-01T15:45:55.527266"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8779,
+          17.4096
+        ]
+      },
+      "properties": {
+        "name": "Bajaj Earths Manufacturing Plant, Kalaburagi",
+        "place_id": "ola-platform:5000220350146",
+        "address": "Bajaj Earths Manufacturing Plant, Kalaburagi, SY.No.:35/2, Uplaon, Humnabad Rd, Kalaburagi, Uplaon, Karnataka 585102, India",
+        "district": "Kalaburagi",
+        "state": "Karnataka",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "manufacturing hub Kalaburagi",
+        "fetched_at": "2026-04-01T15:45:55.602976"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.83609,
+          17.330187
+        ]
+      },
+      "properties": {
+        "name": "Gulbarga Notebook Manufacturing.",
+        "place_id": "ola-platform:5000051084576",
+        "address": "Gulbarga Notebook Manufacturing, Sh10, Rajapura, Kalaburagi, Kalaburagi Taluku, Kalaburagi, Karnataka, 585102, India",
+        "district": "Kalaburagi",
+        "state": "Karnataka",
+        "types": [
+          "store"
+        ],
+        "query_used": "manufacturing hub Kalaburagi",
+        "fetched_at": "2026-04-01T15:45:55.650109"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8561,
+          17.3381
+        ]
+      },
+      "properties": {
+        "name": "Varanus Manufacturing Industries",
+        "place_id": "ola-platform:5000043139645",
+        "address": "Varanus Manufacturing Industries, Shop No 4 Yadgir, Gubbi Colony, Yadulla Colony, Kalaburagi, Karnataka, 585104, India",
+        "district": "Kalaburagi",
+        "state": "Karnataka",
+        "types": [
+          "general_contractor"
+        ],
+        "query_used": "manufacturing hub Kalaburagi",
+        "fetched_at": "2026-04-01T15:45:55.694273"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.9577,
+          12.4828
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Tea Stall",
+        "place_id": "ola-platform:5000045444693",
+        "address": "Industrial Area Tea Stall, SH 91, Kudumangalore, Karnataka, 571232, India",
+        "district": "Kodagu",
+        "state": "Karnataka",
+        "types": [
+          "cafe",
+          "restaurant"
+        ],
+        "query_used": "industrial area Kodagu",
+        "fetched_at": "2026-04-01T15:45:57.868102"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.159006,
+          13.12848
+        ]
+      },
+      "properties": {
+        "name": "Tamka Industrial Area (Tamaka Industrial Area)",
+        "place_id": "ola-platform:1028690",
+        "address": "Tamka Industrial Area (Tamaka Industrial Area), Kolar, Karnataka, India",
+        "district": "Kolar",
+        "state": "Karnataka",
+        "types": [
+          "borough"
+        ],
+        "query_used": "industrial area Kolar",
+        "fetched_at": "2026-04-01T15:46:00.747149"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.00443,
+          13.19741
+        ]
+      },
+      "properties": {
+        "name": "No 59-63 & 65-71, KIADB Vemagal Industrial Area Vemgal",
+        "place_id": "ola-platform:5000186867675",
+        "address": "No 59-63 & 65-71, KIADB Vemagal Industrial Area Vemgal, Kolar Taluk, 563157, Kolar, Bheemapura, Karnataka",
+        "district": "Kolar",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "industrial area Kolar",
+        "fetched_at": "2026-04-01T15:46:00.896149"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.13486,
+          13.12589
+        ]
+      },
+      "properties": {
+        "name": "97/7, Old Tile Factory Area",
+        "place_id": "ola-platform:5000187133068",
+        "address": "97/7, Old Tile Factory Area, Kanakanapalya, Kolar, Karnataka, 563101, India",
+        "district": "Kolar",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "factory area Kolar",
+        "fetched_at": "2026-04-01T15:46:01.154654"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1341,
+          13.1258
+        ]
+      },
+      "properties": {
+        "name": "Old Tile Factory Area",
+        "place_id": "ola-platform:5000192238915",
+        "address": "Old Tile Factory Area, Kanakanapalya, Kolar, Karnataka, 563101, India",
+        "district": "Kolar",
+        "state": "Karnataka",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Kolar",
+        "fetched_at": "2026-04-01T15:46:01.188432"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.38125,
+          15.33678
+        ]
+      },
+      "properties": {
+        "name": "Narasapura Industrial Area",
+        "place_id": "ola-platform:5000046912911",
+        "address": "Narasapura Industrial Area, Narayanapete, Mohamad Nagara, Koppala Taluku, Koppal, Karnataka, 583234, India",
+        "district": "Koppal",
+        "state": "Karnataka",
+        "types": [
+          "real_estate_agency"
+        ],
+        "query_used": "industrial area Koppal",
+        "fetched_at": "2026-04-01T15:46:03.655051"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.073793,
+          12.617814
+        ]
+      },
+      "properties": {
+        "name": "Mandya Oxygen Products Pvt Ltd",
+        "place_id": "ola-platform:5000058728871",
+        "address": "Mandya Oxygen Products Pvt Ltd, Somanahalli Industrial Area, Rudrakshipura, Somanahalli, Madduru Taluk, Mandya, Karnataka, 571433, India",
+        "district": "Mandya",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Mandya",
+        "fetched_at": "2026-04-01T15:46:06.202792"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6066,
+          12.3688
+        ]
+      },
+      "properties": {
+        "name": "410/415/2, Hebbal Industrial Estate",
+        "place_id": "ola-platform:5000189536508",
+        "address": "410/415/2, Hebbal Industrial Estate, Vanivilasapuram, Mysuru, Karnataka, 571606, India",
+        "district": "Mandya",
+        "state": "Karnataka",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Mandya Karnataka",
+        "fetched_at": "2026-04-01T15:46:06.364091"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6074,
+          12.3682
+        ]
+      },
+      "properties": {
+        "name": "410/413/55, Hebbal Industrial Estate",
+        "place_id": "ola-platform:5000201720277",
+        "address": "410/413/55, Hebbal Industrial Estate, Vanivilasapuram, Mysuru, Karnataka, 571606, India",
+        "district": "Mandya",
+        "state": "Karnataka",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Mandya Karnataka",
+        "fetched_at": "2026-04-01T15:46:06.401530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6082,
+          12.3683
+        ]
+      },
+      "properties": {
+        "name": "410/413/5, Hebbal Industrial Estate",
+        "place_id": "ola-platform:5000195698191",
+        "address": "410/413/5, Hebbal Industrial Estate, Vanivilasapuram, Mysuru, Karnataka, 571606, India",
+        "district": "Mandya",
+        "state": "Karnataka",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Mandya Karnataka",
+        "fetched_at": "2026-04-01T15:46:06.440783"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6005,
+          12.3675
+        ]
+      },
+      "properties": {
+        "name": "Block 77, Hebbal Industrial Estate",
+        "place_id": "ola-platform:5000192141274",
+        "address": "Block 77, Hebbal Industrial Estate, Hebbal, Anagahalli, Karnataka, 571606, India",
+        "district": "Mandya",
+        "state": "Karnataka",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Mandya Karnataka",
+        "fetched_at": "2026-04-01T15:46:06.492664"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.903,
+          12.5341
+        ]
+      },
+      "properties": {
+        "name": "Mandya Sugar Factory",
+        "place_id": "ola-platform:5000188063306",
+        "address": "Mandya Sugar Factory, Sugar Town, Mandya City, Mandya, Karnataka, 571401, India",
+        "district": "Mandya",
+        "state": "Karnataka",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Mandya",
+        "fetched_at": "2026-04-01T15:46:06.682951"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.90402,
+          12.53083
+        ]
+      },
+      "properties": {
+        "name": "104, Sugar Factory Rd",
+        "place_id": "ola-platform:5000184589611",
+        "address": "104, Sugar Factory Rd, Mandya Railway Station Area, Mandya, Karnataka, 571401, India",
+        "district": "Mandya",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "factory area Mandya",
+        "fetched_at": "2026-04-01T15:46:06.706675"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.56924,
+          12.359634
+        ]
+      },
+      "properties": {
+        "name": "Koorgally Industrial Area Phase 3",
+        "place_id": "ola-platform:1029157",
+        "address": "Koorgally Industrial Area Phase 3, Mysuru, Karnataka, India",
+        "district": "Mysuru",
+        "state": "Karnataka",
+        "types": [
+          "borough"
+        ],
+        "query_used": "industrial area Mysuru",
+        "fetched_at": "2026-04-01T15:46:08.886025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.604329,
+          12.36318
+        ]
+      },
+      "properties": {
+        "name": "Hebbal Industrial Area",
+        "place_id": "ola-platform:1028842",
+        "address": "Hebbal Industrial Area, Mysuru, Karnataka, India",
+        "district": "Mysuru",
+        "state": "Karnataka",
+        "types": [
+          "borough"
+        ],
+        "query_used": "industrial area Mysuru",
+        "fetched_at": "2026-04-01T15:46:08.928995"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5779,
+          12.3454
+        ]
+      },
+      "properties": {
+        "name": "Hootagalli Industrial Area",
+        "place_id": "ola-platform:5000194014526",
+        "address": "Hootagalli Industrial Area, Mysuru, Karnataka, 570018, India",
+        "district": "Mysuru",
+        "state": "Karnataka",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Mysuru",
+        "fetched_at": "2026-04-01T15:46:08.977935"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6653,
+          12.3529
+        ]
+      },
+      "properties": {
+        "name": "Siddiq Nagar Industrial Area",
+        "place_id": "ola-platform:5000057588520",
+        "address": "Siddiq Nagar Industrial Area, Hale Kesare, Mysuru, Karnataka, 570003, India",
+        "district": "Mysuru",
+        "state": "Karnataka",
+        "types": [
+          "clothing_store"
+        ],
+        "query_used": "industrial area Mysuru",
+        "fetched_at": "2026-04-01T15:46:09.011750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9565,
+          12.7022
+        ]
+      },
+      "properties": {
+        "name": "Mysore Hebbal Industrial Area",
+        "place_id": "ola-platform:5000058750450",
+        "address": "Mysore Hebbal Industrial Area, Hebbal Industrial Area, Mysuru, Karnataka, 571425, India",
+        "district": "Mysuru",
+        "state": "Karnataka",
+        "types": [
+          "street_address",
+          "hospital"
+        ],
+        "query_used": "industrial area Mysuru",
+        "fetched_at": "2026-04-01T15:46:09.038111"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6272,
+          12.3555
+        ]
+      },
+      "properties": {
+        "name": "Club Mahindra Golden LandMark Hotel - Mysuru, Karnataka",
+        "place_id": "ola-platform:5000220834873",
+        "address": "Club Mahindra Golden LandMark Hotel - Mysuru, Karnataka, 45/A, KRS Rd, Hebbal Industrial Estate, Metagalli, Mysuru, Karnataka 570016, India",
+        "district": "Mysuru",
+        "state": "Karnataka",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial estate Mysuru Karnataka",
+        "fetched_at": "2026-04-01T15:46:09.063901"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6018,
+          12.3534
+        ]
+      },
+      "properties": {
+        "name": "TeaMax Cafe Mysore Karnataka",
+        "place_id": "ola-platform:5000220612855",
+        "address": "TeaMax Cafe Mysore Karnataka, 291/C, Devaraja Mohalla, Near Aroma Bakery, Meenakunte, Hebbal Industrial Estate, Hebbal Industrial Area, Mysuru, Karnataka 570027, India",
+        "district": "Mysuru",
+        "state": "Karnataka",
+        "types": [
+          "cafe",
+          "restaurant"
+        ],
+        "query_used": "industrial estate Mysuru Karnataka",
+        "fetched_at": "2026-04-01T15:46:09.088424"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.595,
+          12.351
+        ]
+      },
+      "properties": {
+        "name": "SCC Cargo Pvt Ltd Mysore Karnataka",
+        "place_id": "ola-platform:5000041269950",
+        "address": "SCC Cargo Pvt Ltd Mysore Karnataka, SCC Cargo Pvt Ltd, Road, Hebbal Industrial Estate, Hebbal, Mysuru, Karnataka, 570027, India",
+        "district": "Mysuru",
+        "state": "Karnataka",
+        "types": [
+          "storage"
+        ],
+        "query_used": "industrial estate Mysuru Karnataka",
+        "fetched_at": "2026-04-01T15:46:09.108830"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5682,
+          12.3477
+        ]
+      },
+      "properties": {
+        "name": "State Bank Of India Industrial Estate Belwadi (Mysuru)",
+        "place_id": "ola-platform:5000046891278",
+        "address": "State Bank Of India Industrial Estate Belwadi (Mysuru), 10KM. Mysuru-Hunsur Road, Belwadi Belwadi Industrial Estate Belwadi, Mysuru, Karnataka, 571130, India",
+        "district": "Mysuru",
+        "state": "Karnataka",
+        "types": [
+          "bank"
+        ],
+        "query_used": "industrial estate Mysuru Karnataka",
+        "fetched_at": "2026-04-01T15:46:09.135138"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6436,
+          12.2864
+        ]
+      },
+      "properties": {
+        "name": "Mysore Silk Factory, Mysore",
+        "place_id": "ola-platform:5000044022376",
+        "address": "Mysore Silk Factory, Mysore, Mysore Silk Factory, Vidyaranyapura, Mysuru, Karnataka, 570031, India",
+        "district": "Mysuru",
+        "state": "Karnataka",
+        "types": [
+          "clothing_store"
+        ],
+        "query_used": "factory area Mysuru",
+        "fetched_at": "2026-04-01T15:46:09.198371"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.7053,
+          12.1654
+        ]
+      },
+      "properties": {
+        "name": "Mysore Factory",
+        "place_id": "ola-platform:5000047551779",
+        "address": "Mysore Factory, Asian Paints, Mysore Factory, Mysuru, Karnataka, 571302, India",
+        "district": "Mysuru",
+        "state": "Karnataka",
+        "types": [
+          "home_goods_store"
+        ],
+        "query_used": "factory area Mysuru",
+        "fetched_at": "2026-04-01T15:46:09.228728"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5903,
+          12.9667
+        ]
+      },
+      "properties": {
+        "name": "Mysore Silk Factory",
+        "place_id": "ola-platform:5000044857087",
+        "address": "Mysore Silk Factory, 15, 8th A Main Rd, Ashwath Nagar, Sampangi Rama Nagara, Bengaluru, Karnataka, 560027, India",
+        "district": "Mysuru",
+        "state": "Karnataka",
+        "types": [
+          "clothing_store"
+        ],
+        "query_used": "factory area Mysuru",
+        "fetched_at": "2026-04-01T15:46:09.256334"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6409,
+          12.3322
+        ]
+      },
+      "properties": {
+        "name": "Mysore Banians Factory",
+        "place_id": "ola-platform:5000045887678",
+        "address": "Mysore Banians Factory, 17/2, 2nd Main Rd, Medar Block, Yadavagiri, Mysuru, Karnataka 570020, 2nd Main Rd, Medar Block, Yadavagiri, Mysuru, Karnataka",
+        "district": "Mysuru",
+        "state": "Karnataka",
+        "types": [
+          "clothing_store"
+        ],
+        "query_used": "factory area Mysuru",
+        "fetched_at": "2026-04-01T15:46:09.287603"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5892,
+          12.3509
+        ]
+      },
+      "properties": {
+        "name": "Inch Italiano - Manufacturing Unit, Mysore",
+        "place_id": "ola-platform:5000055301469",
+        "address": "Inch Italiano - Manufacturing Unit, Mysore, 77/U, Hootagalli Industrial Area, Near Rane Madras, Mysuru, Karnataka, 570027, India",
+        "district": "Mysuru",
+        "state": "Karnataka",
+        "types": [
+          "point_of_interest"
+        ],
+        "query_used": "manufacturing hub Mysuru",
+        "fetched_at": "2026-04-01T15:46:09.314708"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5973,
+          12.3685
+        ]
+      },
+      "properties": {
+        "name": "Ideas Manufacturing Mysore Private Limited",
+        "place_id": "ola-platform:5000054809748",
+        "address": "Ideas Manufacturing Mysore Private Limited, 111/O, Emerald Enclave, Behind Infosys Mysore, Hebbal Industrial Area, Opposite Sri Rama Mandira, Emerald Enclave, Hebbal Industrial Estate, Hebbal, Mysuru, Karnataka, 571606, India",
+        "district": "Mysuru",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Mysuru",
+        "fetched_at": "2026-04-01T15:46:09.347152"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.34393,
+          16.2351
+        ]
+      },
+      "properties": {
+        "name": "66, Industrial Area",
+        "place_id": "ola-platform:5000190770368",
+        "address": "66, Industrial Area, Raichur, Karnataka, 584101, India",
+        "district": "Raichur",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "industrial area Raichur",
+        "fetched_at": "2026-04-01T15:46:11.687126"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.35368,
+          16.23197
+        ]
+      },
+      "properties": {
+        "name": "1, Industrial Area",
+        "place_id": "ola-platform:5000197069391",
+        "address": "1, Industrial Area, Raichur, Karnataka, 584101, India",
+        "district": "Raichur",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "industrial area Raichur",
+        "fetched_at": "2026-04-01T15:46:11.733094"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.35374,
+          16.23329
+        ]
+      },
+      "properties": {
+        "name": "Rajendra Papers 33 Industrial Area Hyderbad Road",
+        "place_id": "ola-platform:5000187861299",
+        "address": "Rajendra Papers 33 Industrial Area Hyderbad Road, Rajendra Gunj, Raichur, Karnataka, 584101, India",
+        "district": "Raichur",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "industrial area Raichur",
+        "fetched_at": "2026-04-01T15:46:11.774992"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3527,
+          16.2155
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000065502954",
+        "address": "Industrial Area, Manchalepur, Raichur, Karnataka, 584101, India",
+        "district": "Raichur",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Raichur",
+        "fetched_at": "2026-04-01T15:46:11.816520"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.35183,
+          16.2284
+        ]
+      },
+      "properties": {
+        "name": "Shed No 19 KSSIDC Industrial Estate Road",
+        "place_id": "ola-platform:5000185526910",
+        "address": "Shed No 19 KSSIDC Industrial Estate Road, 7, Raichur-Hyderabad Rd, Near Navatha Transport, Rajendra Gunj, Raichur, Karnataka, 584101, India",
+        "district": "Raichur",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "industrial estate Raichur Karnataka",
+        "fetched_at": "2026-04-01T15:46:11.946824"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.38386,
+          16.25977
+        ]
+      },
+      "properties": {
+        "name": "12345, Mehta Industrial Estate Rd Machohalli",
+        "place_id": "ola-platform:5000195829206",
+        "address": "12345, Mehta Industrial Estate Rd Machohalli, Bapagrama Bengaluru, Potgal, Karnataka, 584102, India",
+        "district": "Raichur",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "industrial estate Raichur Karnataka",
+        "fetched_at": "2026-04-01T15:46:11.986791"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.60132,
+          15.49995
+        ]
+      },
+      "properties": {
+        "name": "Sri Shravya Printers & Manufacturing",
+        "place_id": "ola-platform:5000064800304",
+        "address": "Sri Shravya Printers & Manufacturing, Raichur Rd, Sri Ramanagara, Karnataka, 583282, India",
+        "district": "Raichur",
+        "state": "Karnataka",
+        "types": [
+          "book_store"
+        ],
+        "query_used": "manufacturing hub Raichur",
+        "fetched_at": "2026-04-01T15:46:12.287825"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4263,
+          12.6441
+        ]
+      },
+      "properties": {
+        "name": "Harohalli Industrial Area 3rd Phase",
+        "place_id": "ola-platform:5000040919925",
+        "address": "Harohalli Industrial Area 3rd Phase, Road No1, Harohalli Industrial Area 3rd Phase, Harohalli, Kanakapura, Karnataka, 562112, India",
+        "district": "Ramanagara",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Ramanagara",
+        "fetched_at": "2026-04-01T15:46:14.794466"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3834,
+          12.7986
+        ]
+      },
+      "properties": {
+        "name": "Bidadi Industrial Area",
+        "place_id": "ola-platform:5000048454517",
+        "address": "Bidadi Industrial Area, Bidadi, Karnataka, 562109, India",
+        "district": "Ramanagara",
+        "state": "Karnataka",
+        "types": [
+          "lodging"
+        ],
+        "query_used": "industrial area Ramanagara",
+        "fetched_at": "2026-04-01T15:46:14.846603"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4203,
+          12.804
+        ]
+      },
+      "properties": {
+        "name": "Bidadi Industrial Area",
+        "place_id": "ola-platform:5000039689066",
+        "address": "Bidadi Industrial Area, Bengaluru, Karnataka, 562109, India",
+        "district": "Ramanagara",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Ramanagara",
+        "fetched_at": "2026-04-01T15:46:14.889868"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4367,
+          12.673
+        ]
+      },
+      "properties": {
+        "name": "Harohalli Industrial Area",
+        "place_id": "ola-platform:5000059628462",
+        "address": "Harohalli Industrial Area, Hulisiddegowdanadoddi, Karnataka, 562112, India",
+        "district": "Ramanagara",
+        "state": "Karnataka",
+        "types": [
+          "storage"
+        ],
+        "query_used": "industrial area Ramanagara",
+        "fetched_at": "2026-04-01T15:46:14.938415"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4029,
+          12.7824
+        ]
+      },
+      "properties": {
+        "name": "Sansera Engineering Plant-11, Bidadi Industrial Area",
+        "place_id": "ola-platform:5000036182896",
+        "address": "Sansera Engineering Plant-11, Bidadi Industrial Area, Byramangala Rd, Banandoor, Karnataka, 562109, India",
+        "district": "Ramanagara",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Ramanagara",
+        "fetched_at": "2026-04-01T15:46:14.988776"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.21496,
+          12.6332
+        ]
+      },
+      "properties": {
+        "name": "P-21/C Industrial Estate Thagachegere Sathnur Sathnur Road Channapatna",
+        "place_id": "ola-platform:5000200650678",
+        "address": "P-21/C Industrial Estate Thagachegere Sathnur Sathnur Road Channapatna, Channapatna, Channadevi Agrahara, Karnataka, 562160, India",
+        "district": "Ramanagara",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "industrial estate Ramanagara Karnataka",
+        "fetched_at": "2026-04-01T15:46:15.115277"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1302,
+          12.6373
+        ]
+      },
+      "properties": {
+        "name": "KTM Industrial Estate Phase 3",
+        "place_id": "ola-platform:5000067616126",
+        "address": "KTM Industrial Estate Phase 3, Survey No 158/2 & 159 Kumabalgudu Industrial Estate, Mysore Rd, Kengeri Hobli, Bengaluru, Karnataka, 562160, India",
+        "district": "Ramanagara",
+        "state": "Karnataka",
+        "types": [
+          "general_contractor"
+        ],
+        "query_used": "industrial estate Ramanagara Karnataka",
+        "fetched_at": "2026-04-01T15:46:15.159720"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4845,
+          12.7221
+        ]
+      },
+      "properties": {
+        "name": "Maiyas Food Factory",
+        "place_id": "ola-platform:5000047253725",
+        "address": "Maiyas Food Factory, Ramanagara, Karnataka, 562112, India",
+        "district": "Ramanagara",
+        "state": "Karnataka",
+        "types": [
+          "food"
+        ],
+        "query_used": "factory area Ramanagara",
+        "fetched_at": "2026-04-01T15:46:15.447159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2814,
+          12.7127
+        ]
+      },
+      "properties": {
+        "name": "AWR Silk Factory",
+        "place_id": "ola-platform:5000063708053",
+        "address": "AWR Silk Factory, Phool Bagh, Ex-Munciple Councillor, Mehboob Nagar, Ramanagara, Karnataka, 562159, India",
+        "district": "Ramanagara",
+        "state": "Karnataka",
+        "types": [
+          "store"
+        ],
+        "query_used": "factory area Ramanagara",
+        "fetched_at": "2026-04-01T15:46:15.489636"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.425069,
+          12.813484
+        ]
+      },
+      "properties": {
+        "name": "Proman Infrastructure Services Pvt Ltd - Manufacturing Unit",
+        "place_id": "ola-platform:5000043988200",
+        "address": "Proman Infrastructure Services Pvt Ltd - Manufacturing Unit, Pichaguntarya Palya, Ramanagara Taluk, Ramanagara, Karnataka, 562109, India",
+        "district": "Ramanagara",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Ramanagara",
+        "fetched_at": "2026-04-01T15:46:15.617656"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.428465,
+          12.785963
+        ]
+      },
+      "properties": {
+        "name": "Mitsubishi Electric India Manufacturing Unit (Mitsubishi Electric India Private Limited)",
+        "place_id": "ola-platform:5000036650147",
+        "address": "Mitsubishi Electric India Manufacturing Unit (Mitsubishi Electric India Private Limited), Bidadi Industrial Area, Pichaguntarya Palya, Ramanagara Taluk, Ramanagara, Karnataka, 562109, India",
+        "district": "Ramanagara",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Ramanagara",
+        "fetched_at": "2026-04-01T15:46:15.664384"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.276,
+          12.7238
+        ]
+      },
+      "properties": {
+        "name": "SLN Industry Areca Leaf Plate Manufacturing",
+        "place_id": "ola-platform:5000063256951",
+        "address": "SLN Industry Areca Leaf Plate Manufacturing, Industrial Area, Sh17, Ijoor, Ramanagara, Karnataka, 562159, India",
+        "district": "Ramanagara",
+        "state": "Karnataka",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "manufacturing hub Ramanagara",
+        "fetched_at": "2026-04-01T15:46:15.753260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.436048,
+          12.679269
+        ]
+      },
+      "properties": {
+        "name": "Valinor Commerical Kitchens - Manufacturing Unit",
+        "place_id": "ola-platform:5000056586121",
+        "address": "Valinor Commerical Kitchens - Manufacturing Unit, Harohalli Industrial Area, Bannikuppe, Harohalli Taluk, Ramanagara, Karnataka, 562112, India",
+        "district": "Ramanagara",
+        "state": "Karnataka",
+        "types": [
+          "department_store"
+        ],
+        "query_used": "manufacturing hub Ramanagara",
+        "fetched_at": "2026-04-01T15:46:15.795189"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5516,
+          13.9106
+        ]
+      },
+      "properties": {
+        "name": "KIADB Mandli Kallur Industrial Area",
+        "place_id": "ola-platform:5000184110678",
+        "address": "KIADB Mandli Kallur Industrial Area, Lakshmi Pura, Shivamogga, Karnataka, 577202, India",
+        "district": "Shivamogga",
+        "state": "Karnataka",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Shivamogga",
+        "fetched_at": "2026-04-01T15:46:18.026665"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.54962,
+          13.94476
+        ]
+      },
+      "properties": {
+        "name": "41-A, KIADB Mandli Kallur Industrial Area",
+        "place_id": "ola-platform:5000199476233",
+        "address": "41-A, KIADB Mandli Kallur Industrial Area, Vinoba Nagara, Shivamogga, Karnataka, 577204, India",
+        "district": "Shivamogga",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "industrial area Shivamogga",
+        "fetched_at": "2026-04-01T15:46:18.076314"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.55355,
+          13.90755
+        ]
+      },
+      "properties": {
+        "name": "45-B, KIADB Mandli Kallur Industrial Area",
+        "place_id": "ola-platform:5000185891507",
+        "address": "45-B, KIADB Mandli Kallur Industrial Area, Lakshmi Pura, Shivamogga, Karnataka, 577202, India",
+        "district": "Shivamogga",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "industrial area Shivamogga",
+        "fetched_at": "2026-04-01T15:46:18.116128"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.55285,
+          13.90744
+        ]
+      },
+      "properties": {
+        "name": "29/02, KIADB Mandli Kallur Industrial Area",
+        "place_id": "ola-platform:5000201002731",
+        "address": "29/02, KIADB Mandli Kallur Industrial Area, Old Mandli, Shivamogga, Karnataka, 577202, India",
+        "district": "Shivamogga",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "industrial area Shivamogga",
+        "fetched_at": "2026-04-01T15:46:18.157561"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.55285,
+          13.90744
+        ]
+      },
+      "properties": {
+        "name": "2-B, KIADB Mandli Kallur Industrial Area",
+        "place_id": "ola-platform:5000193909249",
+        "address": "2-B, KIADB Mandli Kallur Industrial Area, Lakshmi Pura, Shivamogga, Karnataka, 577202, India",
+        "district": "Shivamogga",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "industrial area Shivamogga",
+        "fetched_at": "2026-04-01T15:46:18.198650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.569245,
+          13.922833
+        ]
+      },
+      "properties": {
+        "name": "State Bank Of India Pearlite Industrial Estate Branch",
+        "place_id": "ola-platform:5000054195658",
+        "address": "State Bank Of India Pearlite Industrial Estate Branch, State Bank Of India, New Thirthalli Road, Seege Hatti, Shivamogga, Shivamogga Taluk, Shimoga, Karnataka, 577202, India",
+        "district": "Shivamogga",
+        "state": "Karnataka",
+        "types": [
+          "bank"
+        ],
+        "query_used": "industrial estate Shivamogga Karnataka",
+        "fetched_at": "2026-04-01T15:46:18.365315"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5922,
+          13.9326
+        ]
+      },
+      "properties": {
+        "name": "Sandal Oil Factory",
+        "place_id": "ola-platform:5000199807372",
+        "address": "Sandal Oil Factory, Hosodi Rd, Shantamma Layout, Shivamogga, Karnataka, 577203, India",
+        "district": "Shivamogga",
+        "state": "Karnataka",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Shivamogga",
+        "fetched_at": "2026-04-01T15:46:18.406778"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5925,
+          13.9328
+        ]
+      },
+      "properties": {
+        "name": "Karnataka Sandal Wood Soap Factory",
+        "place_id": "ola-platform:5000064207934",
+        "address": "Karnataka Sandal Wood Soap Factory, Shantamma Layout, Shivamogga, Karnataka, 577203, India",
+        "district": "Shivamogga",
+        "state": "Karnataka",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Shivamogga",
+        "fetched_at": "2026-04-01T15:46:18.486796"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.10825,
+          13.38544
+        ]
+      },
+      "properties": {
+        "name": "Tumakuru KIADB Industrial Area 2 Nd",
+        "place_id": "ola-platform:5000186254046",
+        "address": "Tumakuru KIADB Industrial Area 2 Nd, Antharasanahalli, Tumakuru, Arakere, Karnataka, 572106, India",
+        "district": "Tumakuru",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "industrial area Tumakuru",
+        "fetched_at": "2026-04-01T15:46:21.179082"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1902,
+          13.2878
+        ]
+      },
+      "properties": {
+        "name": "Hirehalli Industrial Area",
+        "place_id": "ola-platform:5000064909235",
+        "address": "Hirehalli Industrial Area, Pandithanahalli, Karnataka, 572168, India",
+        "district": "Tumakuru",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Tumakuru",
+        "fetched_at": "2026-04-01T15:46:21.243081"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0361,
+          13.484
+        ]
+      },
+      "properties": {
+        "name": "Vasantha Narsapura Industrial Area",
+        "place_id": "ola-platform:5000055550041",
+        "address": "Vasantha Narsapura Industrial Area, Nagenahalli, Karnataka, 572128, India",
+        "district": "Tumakuru",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Tumakuru",
+        "fetched_at": "2026-04-01T15:46:21.293159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0089,
+          13.5106
+        ]
+      },
+      "properties": {
+        "name": "Vasanthnarsapura Industrial Area",
+        "place_id": "ola-platform:5000059690759",
+        "address": "Vasanthnarsapura Industrial Area, Hobli, Vasanthanarasapura Industrial Park KIADB, Kora, Somasagara, Karnataka, 572128, India",
+        "district": "Tumakuru",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Tumakuru",
+        "fetched_at": "2026-04-01T15:46:21.339948"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0306,
+          13.4804
+        ]
+      },
+      "properties": {
+        "name": "Vasanthanarsapura Industrial Area",
+        "place_id": "ola-platform:5000049931223",
+        "address": "Vasanthanarsapura Industrial Area, Service Rd, Nagenahalli, Karnataka, 572128, India",
+        "district": "Tumakuru",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Tumakuru",
+        "fetched_at": "2026-04-01T15:46:21.386489"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1754,
+          13.2822
+        ]
+      },
+      "properties": {
+        "name": "Tanvi Industrial Estate;auzin (K.S Agro Chemicals)",
+        "place_id": "ola-platform:5000062191960",
+        "address": "Tanvi Industrial Estate;auzin (K.S Agro Chemicals), K.S Agro Chemicals, Pandithanahalli, Near Tumakuru, Pandithanahalli, Karnataka, 572104, India",
+        "district": "Tumakuru",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Tumakuru Karnataka",
+        "fetched_at": "2026-04-01T15:46:21.512005"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1139,
+          13.3391
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:5000059624981",
+        "address": "Industrial Estate, Unnamed Road, 7th Cross, Opp. Vigneshwara Comforts Hotel, Ward No. 18, Tumkur, Tumakuru, Karnataka, 572101, India",
+        "district": "Tumakuru",
+        "state": "Karnataka",
+        "types": [
+          "food",
+          "restaurant"
+        ],
+        "query_used": "industrial estate Tumakuru Karnataka",
+        "fetched_at": "2026-04-01T15:46:21.552455"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.03201,
+          13.49706
+        ]
+      },
+      "properties": {
+        "name": "Office & Factory 68/68/87-B",
+        "place_id": "ola-platform:5000185366367",
+        "address": "Office & Factory 68/68/87-B, 1st Phase Vasanthanarasapura Industrial Area, Kora Hobli, Dist, Tumakuru, Yeladadalu, Karnataka, 572128, India",
+        "district": "Tumakuru",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "factory area Tumakuru",
+        "fetched_at": "2026-04-01T15:46:21.750250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.101,
+          13.3795
+        ]
+      },
+      "properties": {
+        "name": "Santoor Soap Factory - Wipro EnterPrises (Santoor Soap Factory - Wipro Enterpriseers)",
+        "place_id": "ola-platform:5000176639784",
+        "address": "Santoor Soap Factory - Wipro EnterPrises (Santoor Soap Factory - Wipro Enterpriseers), Santoor Soap Factory - Wipro Enterpriseers, Antharasanahalli, Tumakuru, Karnataka, 572106, India",
+        "district": "Tumakuru",
+        "state": "Karnataka",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Tumakuru",
+        "fetched_at": "2026-04-01T15:46:21.830874"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1074,
+          13.3829
+        ]
+      },
+      "properties": {
+        "name": "Nikitha Build-Tech Factory",
+        "place_id": "ola-platform:5000046626096",
+        "address": "Nikitha Build-Tech Factory, Antharasanahalli, Tumakuru, Karnataka, 572106, India",
+        "district": "Tumakuru",
+        "state": "Karnataka",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Tumakuru",
+        "fetched_at": "2026-04-01T15:46:21.872973"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0885,
+          13.3358
+        ]
+      },
+      "properties": {
+        "name": "Paper Cups Manufacturing Industry.",
+        "place_id": "ola-platform:5000037042426",
+        "address": "Paper Cups Manufacturing Industry, Sadashivanagar, Tumakuru, Karnataka, 572105, India",
+        "district": "Tumakuru",
+        "state": "Karnataka",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "manufacturing hub Tumakuru",
+        "fetched_at": "2026-04-01T15:46:21.957514"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.176751,
+          13.285899
+        ]
+      },
+      "properties": {
+        "name": "Preethi Chemicals Manufacturing Company Ltd",
+        "place_id": "ola-platform:5000053405207",
+        "address": "Preethi Chemicals Manufacturing Company Ltd, Manchakalkuppe, Tumkur Taluk, Tumakuru, Karnataka, 572168, India",
+        "district": "Tumakuru",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Tumakuru",
+        "fetched_at": "2026-04-01T15:46:21.998587"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.185181,
+          13.292581
+        ]
+      },
+      "properties": {
+        "name": "Incap Contract Manufacturing Services Pvt Ltd",
+        "place_id": "ola-platform:5000048521304",
+        "address": "Incap Contract Manufacturing Services Pvt Ltd, Pemmanahalli, Tumkur Taluk, Tumakuru, Karnataka, 572168, India",
+        "district": "Tumakuru",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Tumakuru",
+        "fetched_at": "2026-04-01T15:46:22.042145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1885,
+          13.2926
+        ]
+      },
+      "properties": {
+        "name": "Incap Contract Manufacturing Services Pvt. Ltd.",
+        "place_id": "ola-platform:5000220840887",
+        "address": "Incap Contract Manufacturing Services Pvt. Ltd, Survey No 36-39, Post, Hirehalli, Pandithanahalli, Tumakuru, Karnataka 572168, India",
+        "district": "Tumakuru",
+        "state": "Karnataka",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "manufacturing hub Tumakuru",
+        "fetched_at": "2026-04-01T15:46:22.084380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.786537,
+          13.33354
+        ]
+      },
+      "properties": {
+        "name": "Shivally Industrial Area",
+        "place_id": "ola-platform:1027199",
+        "address": "Shivally Industrial Area, Udupi, Karnataka, India",
+        "district": "Udupi",
+        "state": "Karnataka",
+        "types": [
+          "borough"
+        ],
+        "query_used": "industrial area Udupi",
+        "fetched_at": "2026-04-01T15:46:24.182419"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.7896,
+          13.3355
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Bus Stop",
+        "place_id": "ola-platform:5000038137600",
+        "address": "Industrial Area Bus Stop, Shanthi Nagar, Manipal, Karnataka, 576104, India",
+        "district": "Udupi",
+        "state": "Karnataka",
+        "types": [
+          "bus_station",
+          "transit_station"
+        ],
+        "query_used": "industrial area Udupi",
+        "fetched_at": "2026-04-01T15:46:24.218500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.7856,
+          13.333
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000186236272",
+        "address": "Industrial Area, Manipal, Karnataka, 576104, India",
+        "district": "Udupi",
+        "state": "Karnataka",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Udupi",
+        "fetched_at": "2026-04-01T15:46:24.255072"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.79043,
+          13.33933
+        ]
+      },
+      "properties": {
+        "name": "2nd Cross Rd, Industrial Area",
+        "place_id": "ola-platform:5000199347075",
+        "address": "2nd Cross Rd, Industrial Area, Manipal, Karnataka, 576104, India",
+        "district": "Udupi",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "industrial area Udupi",
+        "fetched_at": "2026-04-01T15:46:24.291183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.787204,
+          13.333891
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:5000066061362",
+        "address": "Industrial Estate, Manipal, Udupi Taluku, Udupi, Karnataka, 576104, India",
+        "district": "Udupi",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Udupi Karnataka",
+        "fetched_at": "2026-04-01T15:46:24.365159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.9997,
+          13.1693
+        ]
+      },
+      "properties": {
+        "name": "ICICI Bank Ltd. - Airoli - Kalwa Industrial Estate",
+        "place_id": "ola-platform:5000036836307",
+        "address": "ICICI Bank Ltd. - Airoli - Kalwa Industrial Estate, Unit-01, Ground Floor, Reliable Plaza, Plot No-K10 Kalwa Industrial Estate, Thane - Belapur Rd, Airoli, Navi Mumbai, Maharashtra, 574114, India",
+        "district": "Udupi",
+        "state": "Karnataka",
+        "types": [
+          "bank"
+        ],
+        "query_used": "industrial estate Udupi Karnataka",
+        "fetched_at": "2026-04-01T15:46:24.406670"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.4267,
+          14.4472
+        ]
+      },
+      "properties": {
+        "name": "1, Industrial Area Main Rd",
+        "place_id": "ola-platform:5000197065795",
+        "address": "1, Industrial Area Main Rd, Karnataka, 581343, India",
+        "district": "Uttara Kannada",
+        "state": "Karnataka",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Uttara Kannada",
+        "fetched_at": "2026-04-01T15:46:27.338797"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.61685,
+          15.26998
+        ]
+      },
+      "properties": {
+        "name": "Plot No Spl19 &19A KSSIDC Industrial Area",
+        "place_id": "ola-platform:5000185094309",
+        "address": "Plot No Spl19 &19A KSSIDC Industrial Area, Ambewadi Dandeli, Dandeli, Ambewadi, Karnataka, 581325, India",
+        "district": "Uttara Kannada",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "industrial area Uttara Kannada",
+        "fetched_at": "2026-04-01T15:46:27.388452"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.42666,
+          14.44694
+        ]
+      },
+      "properties": {
+        "name": "35, Industrial Area Main Rd",
+        "place_id": "ola-platform:5000197088685",
+        "address": "35, Industrial Area Main Rd, Kumta, Karnataka, 581343, India",
+        "district": "Uttara Kannada",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "industrial area Uttara Kannada",
+        "fetched_at": "2026-04-01T15:46:27.437007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.61687,
+          15.26986
+        ]
+      },
+      "properties": {
+        "name": "Sagar Industries Plot No-Spl19 &19A KSSIDC Industrial Area Ambewadi",
+        "place_id": "ola-platform:5000201400902",
+        "address": "Sagar Industries Plot No-Spl19 &19A KSSIDC Industrial Area Ambewadi, Dandeli, Ambewadi, Karnataka, 581325, India",
+        "district": "Uttara Kannada",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "industrial area Uttara Kannada",
+        "fetched_at": "2026-04-01T15:46:27.484383"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.6971,
+          14.95688
+        ]
+      },
+      "properties": {
+        "name": "Suresh Gaonkar Industrial Estate",
+        "place_id": "ola-platform:5000054978703",
+        "address": "Suresh Gaonkar Industrial Estate, Tipu Nagar, Yellapur, Karnataka, 581359, India",
+        "district": "Uttara Kannada",
+        "state": "Karnataka",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Uttara Kannada Karnataka",
+        "fetched_at": "2026-04-01T15:46:27.708789"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.748419,
+          16.85648
+        ]
+      },
+      "properties": {
+        "name": "Aliyabad Industrial Area Bijapur",
+        "place_id": "ola-platform:5000065459290",
+        "address": "Aliyabad Industrial Area Bijapur, Yogapur, Vijayapura, Vijayapura Taluk, Vijayapura, Karnataka, 586101, India",
+        "district": "Vijayapura",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Vijayapura",
+        "fetched_at": "2026-04-01T15:46:30.623159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.746653,
+          16.843815
+        ]
+      },
+      "properties": {
+        "name": "Jain Irrigation Systems Ltd Industrial Area Mahalbagayatvijayapur 586004",
+        "place_id": "ola-platform:5000206210783",
+        "address": "Jain Irrigation Systems Ltd Industrial Area Mahalbagayatvijayapur 586004, Mahalbhagyat Industrial Area, Yogapur, Vijayapura, Vijayapura Taluk, Vijayapura, Karnataka, 586104, India",
+        "district": "Vijayapura",
+        "state": "Karnataka",
+        "types": [
+          "store"
+        ],
+        "query_used": "industrial area Vijayapura",
+        "fetched_at": "2026-04-01T15:46:30.686041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7516,
+          16.855
+        ]
+      },
+      "properties": {
+        "name": "Mahalbagayat Industrial Area",
+        "place_id": "ola-platform:5000201830428",
+        "address": "Mahalbagayat Industrial Area, Vijayapura, Karnataka, 586104, India",
+        "district": "Vijayapura",
+        "state": "Karnataka",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Vijayapura",
+        "fetched_at": "2026-04-01T15:46:30.742271"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7483,
+          16.8432
+        ]
+      },
+      "properties": {
+        "name": "K I A D B, Mahalbagayat Industrial Area",
+        "place_id": "ola-platform:5000193667047",
+        "address": "K I A D B, Mahalbagayat Industrial Area, Vijayapura, Karnataka, 586104, India",
+        "district": "Vijayapura",
+        "state": "Karnataka",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Vijayapura",
+        "fetched_at": "2026-04-01T15:46:30.788965"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.73795,
+          16.84407
+        ]
+      },
+      "properties": {
+        "name": "SH 34, Mahalbagayat Industrial Area",
+        "place_id": "ola-platform:5000189350583",
+        "address": "SH 34, Mahalbagayat Industrial Area, Vijayapura, Karnataka, 586101, India",
+        "district": "Vijayapura",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "industrial area Vijayapura",
+        "fetched_at": "2026-04-01T15:46:30.836392"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.698909,
+          16.812757
+        ]
+      },
+      "properties": {
+        "name": "Karnataka Pet Manufacturing",
+        "place_id": "ola-platform:5000044889447",
+        "address": "Karnataka Pet Manufacturing, Vijayapura, Vijayapura Taluk, Vijayapura, Karnataka, 586101, India",
+        "district": "Vijayapura",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Vijayapura",
+        "fetched_at": "2026-04-01T15:46:31.369773"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2921,
+          16.51107
+        ]
+      },
+      "properties": {
+        "name": "Yadgir Plot No.520, Beside Rail Bogie Karkhana",
+        "place_id": "ola-platform:5000186814172",
+        "address": "Yadgir Plot No.520, Beside Rail Bogie Karkhana, KIADB Industrial Area, Yadgir, Kadechur, Karnataka, 585221, India",
+        "district": "Yadgir",
+        "state": "Karnataka",
+        "types": [],
+        "query_used": "industrial area Yadgir",
+        "fetched_at": "2026-04-01T15:46:33.828641"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2881,
+          16.5139
+        ]
+      },
+      "properties": {
+        "name": "Rail Bogie Karkhana Kadechur, Yadgir",
+        "place_id": "ola-platform:5000051763412",
+        "address": "Rail Bogie Karkhana Kadechur, Yadgir, Near Badiyal, Kadechur, Industrial Area, KIADB Saidapur, Shattihalli, Karnataka, 585221, India",
+        "district": "Yadgir",
+        "state": "Karnataka",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial area Yadgir",
+        "fetched_at": "2026-04-01T15:46:33.889890"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.288,
+          16.5145
+        ]
+      },
+      "properties": {
+        "name": "Yadgir Rail Coach Manufacturing Unit",
+        "place_id": "ola-platform:5000220701593",
+        "address": "Yadgir Rail Coach Manufacturing Unit, Shattihalli, Karnataka 585221, India",
+        "district": "Yadgir",
+        "state": "Karnataka",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial area Yadgir",
+        "fetched_at": "2026-04-01T15:46:33.939720"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1588,
+          16.7678
+        ]
+      },
+      "properties": {
+        "name": "LM Badal Rice Mill Yadgir",
+        "place_id": "ola-platform:5000054090975",
+        "address": "LM Badal Rice Mill Yadgir, Plot No-3 Industrial Area KIADB Hyd Road, Yadgiri, Karnataka, 585202, India",
+        "district": "Yadgir",
+        "state": "Karnataka",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Yadgir",
+        "fetched_at": "2026-04-01T15:46:33.986460"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.37399,
+          15.261545
+        ]
+      },
+      "properties": {
+        "name": "The Hospet Industrial Estate Entrepreneurs Association",
+        "place_id": "ola-platform:5000048182392",
+        "address": "The Hospet Industrial Estate Entrepreneurs Association, Amaravati, Hosapete, Hosapete Taluk, Vijayanagara, Karnataka, 583203, India",
+        "district": "Vijayanagara",
+        "state": "Karnataka",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Vijayanagara Karnataka",
+        "fetched_at": "2026-04-01T15:46:37.534257"
+      }
+    }
+  ]
+}

@@ -1,0 +1,4097 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.3806,
+          23.7977
+        ]
+      },
+      "properties": {
+        "name": "Ahmedabad - Palanpur Highway Rd",
+        "place_id": "ola-platform:5000199134923",
+        "address": "Ahmedabad - Palanpur Highway Rd, Industrial Area, Unjha, Gujarat, 384170, India",
+        "district": "Ahmedabad",
+        "state": "Gujarat",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Ahmedabad",
+        "fetched_at": "2026-04-01T15:40:42.711403"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.37838,
+          23.80449
+        ]
+      },
+      "properties": {
+        "name": "Ahmedabad - Patan Highway Rd",
+        "place_id": "ola-platform:5000202553920",
+        "address": "Ahmedabad - Patan Highway Rd, Industrial Area, Unjha, Gujarat, 384170, India",
+        "district": "Ahmedabad",
+        "state": "Gujarat",
+        "types": [],
+        "query_used": "industrial area Ahmedabad",
+        "fetched_at": "2026-04-01T15:40:42.726458"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.37559,
+          23.80426
+        ]
+      },
+      "properties": {
+        "name": "125, Ahmedabad - Patan Highway Rd",
+        "place_id": "ola-platform:5000184066265",
+        "address": "125, Ahmedabad - Patan Highway Rd, Industrial Area, Ahmedabad, Unjha, Gujarat, 384170, India",
+        "district": "Ahmedabad",
+        "state": "Gujarat",
+        "types": [],
+        "query_used": "industrial area Ahmedabad",
+        "fetched_at": "2026-04-01T15:40:42.743338"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.3579,
+          22.8315
+        ]
+      },
+      "properties": {
+        "name": "E-8, Rajkot - Ahmedabad Hwy",
+        "place_id": "ola-platform:5000193949539",
+        "address": "E-8, Rajkot - Ahmedabad Hwy, Bavla Industrial Area, Bavla, Gujarat, 382220, India",
+        "district": "Ahmedabad",
+        "state": "Gujarat",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Ahmedabad",
+        "fetched_at": "2026-04-01T15:40:42.760561"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.35788,
+          22.83176
+        ]
+      },
+      "properties": {
+        "name": "E-10, Rajkot - Ahmedabad Hwy",
+        "place_id": "ola-platform:5000193396562",
+        "address": "E-10, Rajkot - Ahmedabad Hwy, E-10, Rajkot - Ahmedabad Hwy, Industrial Area, Bavla, Gujarat, 382220, India",
+        "district": "Ahmedabad",
+        "state": "Gujarat",
+        "types": [],
+        "query_used": "industrial area Ahmedabad",
+        "fetched_at": "2026-04-01T15:40:42.782232"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.457,
+          22.9295
+        ]
+      },
+      "properties": {
+        "name": "GIDC Ahmedabad",
+        "place_id": "ola-platform:5000056188608",
+        "address": "GIDC Ahmedabad, Changodar, GIDC Ahmedabad, Gujarat, Changodar, Gujarat, 382213, India",
+        "district": "Ahmedabad",
+        "state": "Gujarat",
+        "types": [
+          "point_of_interest"
+        ],
+        "query_used": "MIDC Ahmedabad",
+        "fetched_at": "2026-04-01T15:40:42.867547"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7428,
+          23.1031
+        ]
+      },
+      "properties": {
+        "name": "CompTech Equipments Limited Factory (Air Compressors Manufacturer In Ahmedabad)",
+        "place_id": "ola-platform:5000052222481",
+        "address": "CompTech Equipments Limited Factory (Air Compressors Manufacturer In Ahmedabad), 15-A, Zak Industrial Area, Naroda-Dahegam Road, Village, Zak, Ahmedabad, Gujarat, 382355, India",
+        "district": "Ahmedabad",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "factory area Ahmedabad",
+        "fetched_at": "2026-04-01T15:40:42.881226"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.7131,
+          23.1046
+        ]
+      },
+      "properties": {
+        "name": "Tiles Factory, RSSB Ahmedabad",
+        "place_id": "ola-platform:5000062640049",
+        "address": "Tiles Factory, RSSB Ahmedabad, Radha Soami Satsang Beas, Enasan, Gujarat, 382355, India",
+        "district": "Ahmedabad",
+        "state": "Gujarat",
+        "types": [
+          "hardware_store"
+        ],
+        "query_used": "factory area Ahmedabad",
+        "fetched_at": "2026-04-01T15:40:42.897289"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.479,
+          23.0967
+        ]
+      },
+      "properties": {
+        "name": "Atul Bakery Factory | Ahmedabad",
+        "place_id": "ola-platform:5000040603835",
+        "address": "Atul Bakery Factory | Ahmedabad, Block No. 555, Plot No.9-B, BH. Gulab Singtel TA-Kalol, Vil, Rakanpur, Santej, Gujarat, 382721, India",
+        "district": "Ahmedabad",
+        "state": "Gujarat",
+        "types": [
+          "bakery"
+        ],
+        "query_used": "factory area Ahmedabad",
+        "fetched_at": "2026-04-01T15:40:42.915625"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6659,
+          23.0006
+        ]
+      },
+      "properties": {
+        "name": "Skechers Factory Outlet - Vastral, Ahmedabad",
+        "place_id": "ola-platform:5000055000345",
+        "address": "Skechers Factory Outlet - Vastral, Ahmedabad, Shop No 36, Ground, Ved Arcade Mall, Lake Ring Road, Opp. Vastral, Pranami Nagar, Vastral, Ahmedabad, Gujarat, 380026, India",
+        "district": "Ahmedabad",
+        "state": "Gujarat",
+        "types": [
+          "shoe_store"
+        ],
+        "query_used": "factory area Ahmedabad",
+        "fetched_at": "2026-04-01T15:40:42.934375"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6281,
+          23.0392
+        ]
+      },
+      "properties": {
+        "name": "Kiana Fashion (Factory Outlet) - The Best Kurti Collection Ahmedabad",
+        "place_id": "ola-platform:5000051790228",
+        "address": "Kiana Fashion (Factory Outlet) - The Best Kurti Collection Ahmedabad, Bapunagar, Ahmedabad, Gujarat, 380024, India",
+        "district": "Ahmedabad",
+        "state": "Gujarat",
+        "types": [
+          "clothing_store"
+        ],
+        "query_used": "factory area Ahmedabad",
+        "fetched_at": "2026-04-01T15:40:42.952742"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.4005,
+          22.8775
+        ]
+      },
+      "properties": {
+        "name": "Matter | Manufacturing Hub",
+        "place_id": "ola-platform:5000221271365",
+        "address": "Matter | Manufacturing Hub, 10, Interpharma Development Pvt Ltd, Plot No.5, Sarkhej-Bavla Rd, Near Intas Pharmaceuticals, Opp. Industrial Park, Changodar, Gujarat 382213, India",
+        "district": "Ahmedabad",
+        "state": "Gujarat",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "manufacturing hub Ahmedabad",
+        "fetched_at": "2026-04-01T15:40:42.971112"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5698,
+          23.0288
+        ]
+      },
+      "properties": {
+        "name": "Yashtra HealthCare - Best Pharma PCD Company In Ahmedabad, 3rd Party Manufacturing Company In Ahmedabad",
+        "place_id": "ola-platform:5000058612325",
+        "address": "Yashtra HealthCare - Best Pharma PCD Company In Ahmedabad, 3rd Party Manufacturing Company In Ahmedabad, A- 501, Premium House, Ashram Rd, Opp. Gandhigram Railway Station, Ellisbridge, Ahmedabad, Gujarat, 380006, India",
+        "district": "Ahmedabad",
+        "state": "Gujarat",
+        "types": [
+          "drugstore",
+          "pharmacy"
+        ],
+        "query_used": "manufacturing hub Ahmedabad",
+        "fetched_at": "2026-04-01T15:40:42.986828"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.594426,
+          23.041957
+        ]
+      },
+      "properties": {
+        "name": "Manek Chowk & Ahmedabad Manufacturing Corporation",
+        "place_id": "ola-platform:5000038895975",
+        "address": "Manek Chowk & Ahmedabad Manufacturing Corporation, Madhupura, Asarva Taluka, Ahmedabad, Gujarat, 380004, India",
+        "district": "Ahmedabad",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Ahmedabad",
+        "fetched_at": "2026-04-01T15:40:43.012115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.673,
+          23.0789
+        ]
+      },
+      "properties": {
+        "name": "Sai Enterprise Chair Manufacturing Office Chair Chair Manufacture Chair Repairing Service Naroda Ahmedabad (Sai Enterprise | Office Chair | Office Chair Manufacturer | Chair Repairing Service - Naroda Ahmedabad.)",
+        "place_id": "ola-platform:5000059666642",
+        "address": "Sai Enterprise Chair Manufacturing Office Chair Chair Manufacture Chair Repairing Service Naroda Ahmedabad (Sai Enterprise | Office Chair | Office Chair Manufacturer | Chair Repairing Service - Naroda Ahmedabad.), Shop No.F 4 First Floor, Saptak Vihar, Opp. Vitthal Plaza, Vasant Vihar 2, Nava Naroda, Ahmedabad, Gujarat, 382330, India",
+        "district": "Ahmedabad",
+        "state": "Gujarat",
+        "types": [
+          "furniture_store"
+        ],
+        "query_used": "manufacturing hub Ahmedabad",
+        "fetched_at": "2026-04-01T15:40:43.028738"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.60584,
+          23.01954
+        ]
+      },
+      "properties": {
+        "name": "Ahmedabad Cotton Manufacturing Corporation",
+        "place_id": "ola-platform:5000040224407",
+        "address": "Ahmedabad Cotton Manufacturing Corporation, Sarangpur, Maninagar Taluka, Ahmedabad, Gujarat, 380021, India",
+        "district": "Ahmedabad",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Ahmedabad",
+        "fetched_at": "2026-04-01T15:40:43.042333"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.22994,
+          21.60921
+        ]
+      },
+      "properties": {
+        "name": "Swastik Industrial Estate",
+        "place_id": "ola-platform:5000058756569",
+        "address": "Swastik Industrial Estate, Amreli, Amreli Taluka, Amreli, Gujarat, 365601, India",
+        "district": "Amreli",
+        "state": "Gujarat",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "industrial estate Amreli Gujarat",
+        "fetched_at": "2026-04-01T15:40:45.313669"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.2296,
+          21.60637
+        ]
+      },
+      "properties": {
+        "name": "Pukaar Industrial Estate",
+        "place_id": "ola-platform:5000037296292",
+        "address": "Pukaar Industrial Estate, Amreli, Amreli Taluka, Amreli, Gujarat, 365601, India",
+        "district": "Amreli",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Amreli Gujarat",
+        "fetched_at": "2026-04-01T15:40:45.336800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.617,
+          23.0453
+        ]
+      },
+      "properties": {
+        "name": "Anand Industrial Estate",
+        "place_id": "ola-platform:5000035520942",
+        "address": "Anand Industrial Estate, 511 Anand Industrial Estate, Naroda Rd, Near C Colony, Aditya Nagar, D Colony, Ahmedabad, Gujarat, 380016, India",
+        "district": "Anand",
+        "state": "Gujarat",
+        "types": [
+          "store"
+        ],
+        "query_used": "industrial estate Anand Gujarat",
+        "fetched_at": "2026-04-01T15:40:47.913958"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2173,
+          22.2829
+        ]
+      },
+      "properties": {
+        "name": "Anand Industrial Estate",
+        "place_id": "ola-platform:5000185087202",
+        "address": "Anand Industrial Estate, Bhatia Chawl, Suryanagar, Vadodara, Gujarat, 390017, India",
+        "district": "Anand",
+        "state": "Gujarat",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Anand Gujarat",
+        "fetched_at": "2026-04-01T15:40:47.934049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.63759,
+          22.99735
+        ]
+      },
+      "properties": {
+        "name": "Anand Industrial Estate",
+        "place_id": "ola-platform:5000194246107",
+        "address": "Anand Industrial Estate, Rabari Colony, Amraiwadi, Ahmedabad, Gujarat, 380026, India",
+        "district": "Anand",
+        "state": "Gujarat",
+        "types": [],
+        "query_used": "industrial estate Anand Gujarat",
+        "fetched_at": "2026-04-01T15:40:47.956448"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.579248,
+          22.965578
+        ]
+      },
+      "properties": {
+        "name": "Anand Industrial Estate",
+        "place_id": "ola-platform:5000043875970",
+        "address": "Anand Industrial Estate, Maninagar Taluka, Ahmedabad, Gujarat, 382405, India",
+        "district": "Anand",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Anand Gujarat",
+        "fetched_at": "2026-04-01T15:40:47.978037"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.822,
+          21.215
+        ]
+      },
+      "properties": {
+        "name": "Shree Nani Bahauchara Ji Mandir",
+        "place_id": "ola-platform:5000049499517",
+        "address": "Shree Nani Bahauchara Ji Mandir, Ved Rd, Fatakdawadi, Industrial Area, Singanpor, Surat, Gujarat, 395004, India",
+        "district": "Bharuch",
+        "state": "Gujarat",
+        "types": [
+          "place_of_worship",
+          "hindu_temple"
+        ],
+        "query_used": "industrial area Bharuch",
+        "fetched_at": "2026-04-01T15:40:56.131301"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1354,
+          22.4008
+        ]
+      },
+      "properties": {
+        "name": "Nayosha Enterprise",
+        "place_id": "ola-platform:5000049600617",
+        "address": "Nayosha Enterprise, Plot No. 417, GIDC Estate, At Ranoli, Village, GIDC Industrial Estate, Ranoli GIDC, Ranoli, Vadodara, Gujarat, 391350, India",
+        "district": "Bharuch",
+        "state": "Gujarat",
+        "types": [
+          "store"
+        ],
+        "query_used": "industrial estate Bharuch Gujarat",
+        "fetched_at": "2026-04-01T15:40:56.185405"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0413,
+          21.6042
+        ]
+      },
+      "properties": {
+        "name": "Madhav Industrial Estate",
+        "place_id": "ola-platform:5000053930427",
+        "address": "Madhav Industrial Estate, Gujarat, 393002, India",
+        "district": "Bharuch",
+        "state": "Gujarat",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Bharuch Gujarat",
+        "fetched_at": "2026-04-01T15:40:56.214097"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6049,
+          21.7281
+        ]
+      },
+      "properties": {
+        "name": "Dahej Industrial Estate",
+        "place_id": "ola-platform:5000051426690",
+        "address": "Dahej Industrial Estate, Dhanuka AgriTech Ltd, D-3/1/A, Dahej Industrial Estate, Phase-3, Dahej, Gujarat, 392130, India",
+        "district": "Bharuch",
+        "state": "Gujarat",
+        "types": [
+          "storage"
+        ],
+        "query_used": "industrial estate Bharuch Gujarat",
+        "fetched_at": "2026-04-01T15:40:56.240246"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0563,
+          21.6093
+        ]
+      },
+      "properties": {
+        "name": "Yogi Industrial Estate",
+        "place_id": "ola-platform:5000036864823",
+        "address": "Yogi Industrial Estate, Ankleshwar, Gujarat, 393001, India",
+        "district": "Bharuch",
+        "state": "Gujarat",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Bharuch Gujarat",
+        "fetched_at": "2026-04-01T15:40:56.266270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1493,
+          21.6304
+        ]
+      },
+      "properties": {
+        "name": "Eskay Iodine Pvt. Ltd.",
+        "place_id": "ola-platform:5000067178713",
+        "address": "Eskay Iodine Pvt. Ltd, (Factory), 907/2, GIDC, Jhagadia, Jhagadia GIDC, Bharuch, Gujarat, 393110, India",
+        "district": "Bharuch",
+        "state": "Gujarat",
+        "types": [
+          "health"
+        ],
+        "query_used": "factory area Bharuch",
+        "fetched_at": "2026-04-01T15:40:56.323647"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.011807,
+          21.730482
+        ]
+      },
+      "properties": {
+        "name": "Shree Nilkanth Book Manufacturing Company",
+        "place_id": "ola-platform:5000056512492",
+        "address": "Shree Nilkanth Book Manufacturing Company, Hotel Apex, Old NH 8, Gujarat Narmada Valley Fertilizers & Chemicals Limited, Bharuch, Bharuch Taluka, Bharuch, Gujarat, 392001, India",
+        "district": "Bharuch",
+        "state": "Gujarat",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "manufacturing hub Bharuch",
+        "fetched_at": "2026-04-01T15:40:56.423811"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.001678,
+          21.619867
+        ]
+      },
+      "properties": {
+        "name": "Right Bar Manufacturing",
+        "place_id": "ola-platform:5000035252811",
+        "address": "Right Bar Manufacturing, Ankleshwar Taluka, Bharuch, Gujarat, 393001, India",
+        "district": "Bharuch",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Bharuch",
+        "fetched_at": "2026-04-01T15:40:56.472068"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.012055,
+          21.616925
+        ]
+      },
+      "properties": {
+        "name": "Flexoi Manufacturing Company",
+        "place_id": "ola-platform:5000046697696",
+        "address": "Flexoi Manufacturing Company, Ankleshwar Taluka, Bharuch, Gujarat, 393002, India",
+        "district": "Bharuch",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Bharuch",
+        "fetched_at": "2026-04-01T15:40:56.496654"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.871,
+          21.9853
+        ]
+      },
+      "properties": {
+        "name": "Zetwerk Manufacturing Buisness Pvt Ltd Amod, Vadodara",
+        "place_id": "ola-platform:5000047900946",
+        "address": "Zetwerk Manufacturing Buisness Pvt Ltd Amod, Vadodara, Amod - Bharuch Rd, Kakuji Wadi, Amod, Gujarat, 392110, India",
+        "district": "Bharuch",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Bharuch",
+        "fetched_at": "2026-04-01T15:40:56.519156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.157,
+          21.7819
+        ]
+      },
+      "properties": {
+        "name": "88A, Bhavnagar Industrial Area",
+        "place_id": "ola-platform:5000196311807",
+        "address": "88A, Bhavnagar Industrial Area, Bhavnagar, Gujarat, 364005, India",
+        "district": "Bhavnagar",
+        "state": "Gujarat",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Bhavnagar",
+        "fetched_at": "2026-04-01T15:40:58.659036"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.10019,
+          21.76002
+        ]
+      },
+      "properties": {
+        "name": "2, Industrial Area",
+        "place_id": "ola-platform:5000193307647",
+        "address": "2, Industrial Area, Chitra Gujarat Industrial Development Corporation, Bhavnagar, Gujarat, 364003, India",
+        "district": "Bhavnagar",
+        "state": "Gujarat",
+        "types": [],
+        "query_used": "industrial area Bhavnagar",
+        "fetched_at": "2026-04-01T15:40:58.690564"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.1026,
+          21.7636
+        ]
+      },
+      "properties": {
+        "name": "Gujarat Precision",
+        "place_id": "ola-platform:5000056305539",
+        "address": "Gujarat Precision, Plot No. 327, Chitra G.I.D.C, Industrial Estate, Chitra, Bhavnagar, Gujarat, 364003, India",
+        "district": "Bhavnagar",
+        "state": "Gujarat",
+        "types": [
+          "point_of_interest"
+        ],
+        "query_used": "industrial estate Bhavnagar Gujarat",
+        "fetched_at": "2026-04-01T15:40:58.777096"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.09664,
+          21.76375
+        ]
+      },
+      "properties": {
+        "name": "94/5, GIDC Industrial Estate",
+        "place_id": "ola-platform:5000184593101",
+        "address": "94/5, GIDC Industrial Estate, Chitra, Bhavnagar, Gujarat, 364003, India",
+        "district": "Bhavnagar",
+        "state": "Gujarat",
+        "types": [],
+        "query_used": "industrial estate Bhavnagar Gujarat",
+        "fetched_at": "2026-04-01T15:40:58.802975"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.759159,
+          21.110705
+        ]
+      },
+      "properties": {
+        "name": "Shree Industrial Estates",
+        "place_id": "ola-platform:5000063400973",
+        "address": "Shree Industrial Estates, Mahuva ByPass, Mahuva Taluka, Bhavnagar, Gujarat, 364290, India",
+        "district": "Bhavnagar",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Bhavnagar Gujarat",
+        "fetched_at": "2026-04-01T15:40:58.832201"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.15277,
+          21.7702
+        ]
+      },
+      "properties": {
+        "name": "112C, Rubber Factory Area",
+        "place_id": "ola-platform:5000195607345",
+        "address": "112C, Rubber Factory Area, Bhavnagar, Gujarat, 364001, India",
+        "district": "Bhavnagar",
+        "state": "Gujarat",
+        "types": [],
+        "query_used": "factory area Bhavnagar",
+        "fetched_at": "2026-04-01T15:40:58.887001"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.15325,
+          21.76618
+        ]
+      },
+      "properties": {
+        "name": "1130, Rubber Factory Area",
+        "place_id": "ola-platform:5000195008503",
+        "address": "1130, Rubber Factory Area, Bhavnagar, Gujarat, 364001, India",
+        "district": "Bhavnagar",
+        "state": "Gujarat",
+        "types": [],
+        "query_used": "factory area Bhavnagar",
+        "fetched_at": "2026-04-01T15:40:58.916084"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.15221,
+          21.77106
+        ]
+      },
+      "properties": {
+        "name": "42826, Rubber Factory Area",
+        "place_id": "ola-platform:5000198486721",
+        "address": "42826, Rubber Factory Area, Bhavnagar, Gujarat, 364001, India",
+        "district": "Bhavnagar",
+        "state": "Gujarat",
+        "types": [],
+        "query_used": "factory area Bhavnagar",
+        "fetched_at": "2026-04-01T15:40:58.941688"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.15102,
+          21.77132
+        ]
+      },
+      "properties": {
+        "name": "B2, Rubber Factory Area",
+        "place_id": "ola-platform:5000200506983",
+        "address": "B2, Rubber Factory Area, Bhavnagar, Gujarat, 364001, India",
+        "district": "Bhavnagar",
+        "state": "Gujarat",
+        "types": [],
+        "query_used": "factory area Bhavnagar",
+        "fetched_at": "2026-04-01T15:40:58.968975"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.15473,
+          21.76606
+        ]
+      },
+      "properties": {
+        "name": "1166/2, Rubber Factory Area",
+        "place_id": "ola-platform:5000194506486",
+        "address": "1166/2, Rubber Factory Area, Bhavnagar, Gujarat, 364001, India",
+        "district": "Bhavnagar",
+        "state": "Gujarat",
+        "types": [],
+        "query_used": "factory area Bhavnagar",
+        "fetched_at": "2026-04-01T15:40:58.996723"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.099663,
+          21.759865
+        ]
+      },
+      "properties": {
+        "name": "Atul Manufacturing",
+        "place_id": "ola-platform:5000047474228",
+        "address": "Atul Manufacturing, Bhavnagar, Bhavnagar Taluka, Bhavnagar, Gujarat, 364003, India",
+        "district": "Bhavnagar",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Bhavnagar",
+        "fetched_at": "2026-04-01T15:40:59.027248"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.131244,
+          21.771453
+        ]
+      },
+      "properties": {
+        "name": "Atom Machinery Manufacturing Company",
+        "place_id": "ola-platform:5000035553632",
+        "address": "Atom Machinery Manufacturing Company, Bhavnagar, Bhavnagar Taluka, Bhavnagar, Gujarat, 364003, India",
+        "district": "Bhavnagar",
+        "state": "Gujarat",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "manufacturing hub Bhavnagar",
+        "fetched_at": "2026-04-01T15:40:59.054083"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.1463,
+          21.778267
+        ]
+      },
+      "properties": {
+        "name": "Raninga Jewellery Manufacturing",
+        "place_id": "ola-platform:5000068161343",
+        "address": "Raninga Jewellery Manufacturing, Bhavnagar, Bhavnagar Taluka, Bhavnagar, Gujarat, 364001, India",
+        "district": "Bhavnagar",
+        "state": "Gujarat",
+        "types": [
+          "jewelry_store"
+        ],
+        "query_used": "manufacturing hub Bhavnagar",
+        "fetched_at": "2026-04-01T15:40:59.080730"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.1487,
+          21.7764
+        ]
+      },
+      "properties": {
+        "name": "Mukesh Plastics Manufacturing Of Plastic Cover, PP Ropes Denglar, PVC Cover",
+        "place_id": "ola-platform:5000064893508",
+        "address": "Mukesh Plastics Manufacturing Of Plastic Cover, PP Ropes Denglar, PVC Cover, Pirchhalla St, Opposite Ghara Laxmi, Vora Bazar, Bhavnagar, Gujarat, 364001, India",
+        "district": "Bhavnagar",
+        "state": "Gujarat",
+        "types": [
+          "furniture_store"
+        ],
+        "query_used": "manufacturing hub Bhavnagar",
+        "fetched_at": "2026-04-01T15:40:59.108787"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6254,
+          23.0151
+        ]
+      },
+      "properties": {
+        "name": "Botad Electric Motors",
+        "place_id": "ola-platform:5000053727328",
+        "address": "Botad Electric Motors, 86, Adarshco, Chakodaia Amadev Road, Opp. Ind.Estate, Industrial Area, Rakhial, Ahmedabad, Gujarat, 380021, India",
+        "district": "Botad",
+        "state": "Gujarat",
+        "types": [
+          "store"
+        ],
+        "query_used": "industrial area Botad",
+        "fetched_at": "2026-04-01T15:41:01.221305"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.41825,
+          23.52958
+        ]
+      },
+      "properties": {
+        "name": "Post Office Industrial Area Dahod Road",
+        "place_id": "ola-platform:5000060958832",
+        "address": "Post Office Industrial Area Dahod Road, Banswara, Banswara Tehsil, Banswara, Rajasthan, 327001, India",
+        "district": "Dahod",
+        "state": "Gujarat",
+        "types": [
+          "post_office"
+        ],
+        "query_used": "industrial area Dahod",
+        "fetched_at": "2026-04-01T15:41:07.399412"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.42993,
+          23.53194
+        ]
+      },
+      "properties": {
+        "name": "Post Office Industrial Area Dahod Road",
+        "place_id": "ola-platform:5000053484914",
+        "address": "Post Office Industrial Area Dahod Road, Banswara, Banswara Tehsil, Banswara, Rajasthan, 327001, India",
+        "district": "Dahod",
+        "state": "Gujarat",
+        "types": [
+          "post_office"
+        ],
+        "query_used": "industrial area Dahod",
+        "fetched_at": "2026-04-01T15:41:07.431460"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.296845,
+          22.878058
+        ]
+      },
+      "properties": {
+        "name": "Dahod GIDC Phase 2",
+        "place_id": "ola-platform:17534",
+        "address": "Dahod GIDC Phase 2, Gujarat, India",
+        "district": "Dahod",
+        "state": "Gujarat",
+        "types": [
+          "locality"
+        ],
+        "query_used": "MIDC Dahod",
+        "fetched_at": "2026-04-01T15:41:07.652031"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.66689,
+          23.24173
+        ]
+      },
+      "properties": {
+        "name": "14, Industrial Area",
+        "place_id": "ola-platform:5000190645289",
+        "address": "14, Industrial Area, Sector 30, GandhiNagar, Gujarat, 382030, India",
+        "district": "Gandhinagar",
+        "state": "Gujarat",
+        "types": [],
+        "query_used": "industrial area Gandhinagar",
+        "fetched_at": "2026-04-01T15:41:17.597025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.441697,
+          23.279453
+        ]
+      },
+      "properties": {
+        "name": "Metro Industrial Area",
+        "place_id": "ola-platform:5000061272220",
+        "address": "Metro Industrial Area, Sh41, Chhatral, Kalol Taluka, GandhiNagar, Gujarat, 382729, India",
+        "district": "Gandhinagar",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Gandhinagar",
+        "fetched_at": "2026-04-01T15:41:17.701585"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6278,
+          23.0979
+        ]
+      },
+      "properties": {
+        "name": "Dr. Shubha Sinha (Consultant Breast Surgeon) - Best Oncologist Surgeon In GandhiNagar",
+        "place_id": "ola-platform:5000042307974",
+        "address": "Dr. Shubha Sinha (Consultant Breast Surgeon) - Best Oncologist Surgeon In GandhiNagar, Dr. Shubha Sinha, Apollo CBCC, Main Hospital, Block A, Institute For Plasma Research Research Centre, 1A, GIDC Bhat, Industrial Estate, Ahmedabad, Gujarat, 382428, India",
+        "district": "Gandhinagar",
+        "state": "Gujarat",
+        "types": [
+          "doctor",
+          "health",
+          "hospital"
+        ],
+        "query_used": "industrial estate Gandhinagar Gujarat",
+        "fetched_at": "2026-04-01T15:41:17.726322"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6764,
+          23.107
+        ]
+      },
+      "properties": {
+        "name": "Fortune North Industrial Estate",
+        "place_id": "ola-platform:5000191437155",
+        "address": "Fortune North Industrial Estate, Naroda, Nana Chiloda, Ahmedabad, Gujarat, 382330, India",
+        "district": "Gandhinagar",
+        "state": "Gujarat",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Gandhinagar Gujarat",
+        "fetched_at": "2026-04-01T15:41:17.751447"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.4704,
+          23.1121
+        ]
+      },
+      "properties": {
+        "name": "Chokshi Industrial Estate",
+        "place_id": "ola-platform:5000050609437",
+        "address": "Chokshi Industrial Estate, Santej - Vadsar Rd, Santej, Gujarat, 382721, India",
+        "district": "Gandhinagar",
+        "state": "Gujarat",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Gandhinagar Gujarat",
+        "fetched_at": "2026-04-01T15:41:17.775740"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.484,
+          23.1005
+        ]
+      },
+      "properties": {
+        "name": "Laxmi Industrial Estate",
+        "place_id": "ola-platform:5000064216901",
+        "address": "Laxmi Industrial Estate, Near Bhadaj, Ranchodpura, Santej, Gujarat, 382721, India",
+        "district": "Gandhinagar",
+        "state": "Gujarat",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Gandhinagar Gujarat",
+        "fetched_at": "2026-04-01T15:41:17.799621"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.458407,
+          23.109102
+        ]
+      },
+      "properties": {
+        "name": "Factory Biohazard Pollution Area",
+        "place_id": "ola-platform:5000046222593",
+        "address": "Factory Biohazard Pollution Area, Chharodi, Kalol Taluka, GandhiNagar, Gujarat, 382721, India",
+        "district": "Gandhinagar",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "factory area Gandhinagar",
+        "fetched_at": "2026-04-01T15:41:17.847907"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6368,
+          23.2571
+        ]
+      },
+      "properties": {
+        "name": "Roop Ultrasonix Ltd. - GandhiNagar Factory",
+        "place_id": "ola-platform:5000035843679",
+        "address": "Roop Ultrasonix Ltd. - GandhiNagar Factory, Electronic Zone, E-382028, GIDC Rd, Sector 26, GandhiNagar, Gujarat",
+        "district": "Gandhinagar",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "factory area Gandhinagar",
+        "fetched_at": "2026-04-01T15:41:17.867585"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5158,
+          23.0487
+        ]
+      },
+      "properties": {
+        "name": "Brand Factory Brand Factory Home Town",
+        "place_id": "ola-platform:5000199541386",
+        "address": "Brand Factory Brand Factory Home Town, Sarkhej - GandhiNagar Hwy, Thaltej, Ahmedabad, Gujarat, 380054, India",
+        "district": "Gandhinagar",
+        "state": "Gujarat",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Gandhinagar",
+        "fetched_at": "2026-04-01T15:41:17.915838"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.4451,
+          23.3131
+        ]
+      },
+      "properties": {
+        "name": "Schilthorn Precision Engineering Pvt. Ltd. - Precision Manufacturing Company In Chhatral GIDC, GandhiNagar, Gujarat- 382729",
+        "place_id": "ola-platform:5000220906142",
+        "address": "Schilthorn Precision Engineering Pvt. Ltd. - Precision Manufacturing Company In Chhatral GIDC, GandhiNagar, Gujarat- 382729, Survey No - 256, Kalol - Mahesana Highway, Behind Torrent Pharma, Chadasna, Gujarat 382705, India",
+        "district": "Gandhinagar",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Gandhinagar",
+        "fetched_at": "2026-04-01T15:41:17.962182"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5132,
+          23.0731
+        ]
+      },
+      "properties": {
+        "name": "Cubein E Manufacturing Solutions (CEMS) | 3D Printing Service | 3D Scanning Service | Product Design",
+        "place_id": "ola-platform:5000059594694",
+        "address": "Cubein E Manufacturing Solutions (CEMS) | 3D Printing Service | 3D Scanning Service | Product Design, B914 Empire Business Hub Science City Cross Road Nr, Sarkhej - GandhiNagar Hwy, Sola, Ahmedabad, Gujarat, 380060, India",
+        "district": "Gandhinagar",
+        "state": "Gujarat",
+        "types": [
+          "department_store"
+        ],
+        "query_used": "manufacturing hub Gandhinagar",
+        "fetched_at": "2026-04-01T15:41:17.987023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5254,
+          23.0747
+        ]
+      },
+      "properties": {
+        "name": "Mefron Technologies - Electronic Manufacturing Services, PCB Assembly Service",
+        "place_id": "ola-platform:5000056257692",
+        "address": "Mefron Technologies - Electronic Manufacturing Services, PCB Assembly Service, Mefron Technologies - Electronic Manufacturing Services, B-703, Shapath Hexa, Sarkhej - GandhiNagar Hwy, Opp. Gujarat Highcourt, Vishwas City 1, Sola, Ahmedabad, Gujarat, 380061, India",
+        "district": "Gandhinagar",
+        "state": "Gujarat",
+        "types": [
+          "electronics_store"
+        ],
+        "query_used": "manufacturing hub Gandhinagar",
+        "fetched_at": "2026-04-01T15:41:18.013014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.63174,
+          23.252202
+        ]
+      },
+      "properties": {
+        "name": "Roma Screw Machine Parts Manufacturing Co",
+        "place_id": "ola-platform:5000054338332",
+        "address": "Roma Screw Machine Parts Manufacturing Co, Sector 25, GandhiNagar, GandhiNagar Taluka, GandhiNagar, Gujarat, 382028, India",
+        "district": "Gandhinagar",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Gandhinagar",
+        "fetched_at": "2026-04-01T15:41:18.046614"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.70143,
+          20.81068
+        ]
+      },
+      "properties": {
+        "name": "Nh51, Industrial Area",
+        "place_id": "ola-platform:5000198055010",
+        "address": "Nh51, Industrial Area, Kodinar, Gujarat, 362720, India",
+        "district": "Gir Somnath",
+        "state": "Gujarat",
+        "types": [],
+        "query_used": "industrial area Gir Somnath",
+        "fetched_at": "2026-04-01T15:41:20.247889"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.3524,
+          20.916
+        ]
+      },
+      "properties": {
+        "name": "Rayon Factory Area",
+        "place_id": "ola-platform:5000187193498",
+        "address": "Rayon Factory Area, Veraval, Gujarat, 362269, India",
+        "district": "Gir Somnath",
+        "state": "Gujarat",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Gir Somnath",
+        "fetched_at": "2026-04-01T15:41:20.573974"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.3579,
+          20.9161
+        ]
+      },
+      "properties": {
+        "name": "5, Rayon Factory Area",
+        "place_id": "ola-platform:5000192302062",
+        "address": "5, Rayon Factory Area, Veraval, Gujarat, 362269, India",
+        "district": "Gir Somnath",
+        "state": "Gujarat",
+        "types": [],
+        "query_used": "factory area Gir Somnath",
+        "fetched_at": "2026-04-01T15:41:20.602657"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.115611,
+          22.471541
+        ]
+      },
+      "properties": {
+        "name": "Hapa Industrial Area",
+        "place_id": "ola-platform:1012020",
+        "address": "Hapa Industrial Area, Jamnagar, Gujarat, India",
+        "district": "Jamnagar",
+        "state": "Gujarat",
+        "types": [
+          "borough"
+        ],
+        "query_used": "industrial area Jamnagar",
+        "fetched_at": "2026-04-01T15:41:22.935982"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.1229,
+          22.4724
+        ]
+      },
+      "properties": {
+        "name": "Statin 51, Hapa Industrial Area",
+        "place_id": "ola-platform:5000188270533",
+        "address": "Statin 51, Hapa Industrial Area, Jamnagar, Gujarat, 361007, India",
+        "district": "Jamnagar",
+        "state": "Gujarat",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Jamnagar",
+        "fetched_at": "2026-04-01T15:41:22.970507"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.11401,
+          22.47731
+        ]
+      },
+      "properties": {
+        "name": "Hapa Rd, Hapa Industrial Area",
+        "place_id": "ola-platform:5000201885287",
+        "address": "Hapa Rd, Hapa Industrial Area, Jamnagar, Gujarat, 361007, India",
+        "district": "Jamnagar",
+        "state": "Gujarat",
+        "types": [],
+        "query_used": "industrial area Jamnagar",
+        "fetched_at": "2026-04-01T15:41:23.006716"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.1177,
+          22.4798
+        ]
+      },
+      "properties": {
+        "name": "GJ SH 25, Hapa Industrial Area",
+        "place_id": "ola-platform:5000188626768",
+        "address": "GJ SH 25, Hapa Industrial Area, Jamnagar, Gujarat, 361007, India",
+        "district": "Jamnagar",
+        "state": "Gujarat",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Jamnagar",
+        "fetched_at": "2026-04-01T15:41:23.068871"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.0671,
+          22.4527
+        ]
+      },
+      "properties": {
+        "name": "Street Number 5, Oshwal Industrial Area",
+        "place_id": "ola-platform:5000201420286",
+        "address": "Street Number 5, Oshwal Industrial Area, Jamnagar, Gujarat, 361005, India",
+        "district": "Jamnagar",
+        "state": "Gujarat",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Jamnagar",
+        "fetched_at": "2026-04-01T15:41:23.117333"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.4652,
+          21.57969
+        ]
+      },
+      "properties": {
+        "name": "12 B, Madhav Industrial Estate",
+        "place_id": "ola-platform:5000184056782",
+        "address": "12 B, Madhav Industrial Estate, 12, Dhoraji Rd, Saragvada, Junagadh, Gujarat, 362011, India",
+        "district": "Junagadh",
+        "state": "Gujarat",
+        "types": [],
+        "query_used": "industrial estate Junagadh Gujarat",
+        "fetched_at": "2026-04-01T15:41:26.228077"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.140259,
+          23.058815
+        ]
+      },
+      "properties": {
+        "name": "Bansal Industrial Estate",
+        "place_id": "ola-platform:5000059486511",
+        "address": "Bansal Industrial Estate, ગાંધીધામ, Gandhidham Taluka, Kutch, Gujarat, 370201, India",
+        "district": "Kutch",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Kutch Gujarat",
+        "fetched_at": "2026-04-01T15:41:30.462244"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.093581,
+          23.096729
+        ]
+      },
+      "properties": {
+        "name": "Sharma Industrial Estate",
+        "place_id": "ola-platform:5000048759850",
+        "address": "Sharma Industrial Estate, ગળપાદર, Anjar Taluka, Kutch, Gujarat, 370110, India",
+        "district": "Kutch",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Kutch Gujarat",
+        "fetched_at": "2026-04-01T15:41:30.490687"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.921061,
+          22.923603
+        ]
+      },
+      "properties": {
+        "name": "Radhey Industrial Estate",
+        "place_id": "ola-platform:5000043463082",
+        "address": "Radhey Industrial Estate, Sh6, હાટડી, Mundra Taluka, Kutch, Gujarat, 370410, India",
+        "district": "Kutch",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Kutch Gujarat",
+        "fetched_at": "2026-04-01T15:41:30.521023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8175,
+          22.7731
+        ]
+      },
+      "properties": {
+        "name": "Maruti Industrial Estate",
+        "place_id": "ola-platform:5000059090854",
+        "address": "Maruti Industrial Estate, Varsola, Gujarat, 387130, India",
+        "district": "Kheda",
+        "state": "Gujarat",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Kheda Gujarat",
+        "fetched_at": "2026-04-01T15:41:34.553743"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.65946,
+          22.70653
+        ]
+      },
+      "properties": {
+        "name": "53 - 56, Industrial Estate",
+        "place_id": "ola-platform:5000200758499",
+        "address": "53 - 56, Industrial Estate, GIDC, Matar, Gujarat, 387530, India",
+        "district": "Kheda",
+        "state": "Gujarat",
+        "types": [],
+        "query_used": "industrial estate Kheda Gujarat",
+        "fetched_at": "2026-04-01T15:41:34.581214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6197,
+          22.8756
+        ]
+      },
+      "properties": {
+        "name": "DhanLaxmi Industrial Estate",
+        "place_id": "ola-platform:5000065112058",
+        "address": "DhanLaxmi Industrial Estate, DhanLaxmi Rd, Umiyapura, Gujarat, 387120, India",
+        "district": "Kheda",
+        "state": "Gujarat",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Kheda Gujarat",
+        "fetched_at": "2026-04-01T15:41:34.603603"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6346,
+          22.7571
+        ]
+      },
+      "properties": {
+        "name": "Factory Spaces For Rent (Prime Industrial & Warehouse Hub Kheda, Gujarat)",
+        "place_id": "ola-platform:5000064457943",
+        "address": "Factory Spaces For Rent (Prime Industrial & Warehouse Hub Kheda, Gujarat), Prime Industrial & Warehouse Hub Kheda, Gujarat, Prime Industrial & Logistic Hub, Vavdi, Gujarat, 387560, India",
+        "district": "Kheda",
+        "state": "Gujarat",
+        "types": [
+          "storage"
+        ],
+        "query_used": "factory area Kheda",
+        "fetched_at": "2026-04-01T15:41:34.658874"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.6501,
+          22.7694
+        ]
+      },
+      "properties": {
+        "name": "Prime Warehouse Hub",
+        "place_id": "ola-platform:5000057146480",
+        "address": "Prime Warehouse Hub, Kheda, Gujarat - Warehouse Spaces | Industrial Sheds | Factory Spaces For Rent, Nh64, Gujarat, 387560, India",
+        "district": "Kheda",
+        "state": "Gujarat",
+        "types": [
+          "storage"
+        ],
+        "query_used": "factory area Kheda",
+        "fetched_at": "2026-04-01T15:41:34.684540"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.3291,
+          23.5978
+        ]
+      },
+      "properties": {
+        "name": "Iscon Industrial Estate",
+        "place_id": "ola-platform:5000057872670",
+        "address": "Iscon Industrial Estate, Mehsana, Gujarat, 384205, India",
+        "district": "Mehsana",
+        "state": "Gujarat",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Mehsana Gujarat",
+        "fetched_at": "2026-04-01T15:41:42.490318"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.3307,
+          23.5938
+        ]
+      },
+      "properties": {
+        "name": "Dev Industrial Estate",
+        "place_id": "ola-platform:5000056418833",
+        "address": "Dev Industrial Estate, Mehsana, Gujarat, 384205, India",
+        "district": "Mehsana",
+        "state": "Gujarat",
+        "types": [
+          "storage"
+        ],
+        "query_used": "industrial estate Mehsana Gujarat",
+        "fetched_at": "2026-04-01T15:41:42.538464"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.3306,
+          23.5928
+        ]
+      },
+      "properties": {
+        "name": "Sai Industrial Estate",
+        "place_id": "ola-platform:5000041639062",
+        "address": "Sai Industrial Estate, Mehsana ByPass Rd, Nugar, Gujarat, 384205, India",
+        "district": "Mehsana",
+        "state": "Gujarat",
+        "types": [
+          "electronics_store"
+        ],
+        "query_used": "industrial estate Mehsana Gujarat",
+        "fetched_at": "2026-04-01T15:41:42.580763"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.3423,
+          23.5954
+        ]
+      },
+      "properties": {
+        "name": "Umiya Industrial Estate",
+        "place_id": "ola-platform:5000040904715",
+        "address": "Umiya Industrial Estate, Brahmani Nagar, Mehsana, Dediyasan Part, Gujarat, 384205, India",
+        "district": "Mehsana",
+        "state": "Gujarat",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "industrial estate Mehsana Gujarat",
+        "fetched_at": "2026-04-01T15:41:42.624866"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.3261,
+          23.59827
+        ]
+      },
+      "properties": {
+        "name": "187, Iscon Industrial Estate",
+        "place_id": "ola-platform:5000200449557",
+        "address": "187, Iscon Industrial Estate, Near, Iscon ByPass Circle, Mehsana, Gujarat, 384205, India",
+        "district": "Mehsana",
+        "state": "Gujarat",
+        "types": [],
+        "query_used": "industrial estate Mehsana Gujarat",
+        "fetched_at": "2026-04-01T15:41:42.674941"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.374309,
+          23.5917
+        ]
+      },
+      "properties": {
+        "name": "Mahesana GIDC",
+        "place_id": "ola-platform:1011427",
+        "address": "Mahesana GIDC, Mahesana, Gujarat, India",
+        "district": "Mehsana",
+        "state": "Gujarat",
+        "types": [
+          "borough"
+        ],
+        "query_used": "MIDC Mehsana",
+        "fetched_at": "2026-04-01T15:41:42.738955"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.4278,
+          23.3092
+        ]
+      },
+      "properties": {
+        "name": "Chhatral Kadi Mehsana",
+        "place_id": "ola-platform:5000047514741",
+        "address": "Chhatral Kadi Mehsana, Maruti Factory, Chhatral Kadi Mehsana, Unnamed Road, Indrad, Gujarat, 382715, India",
+        "district": "Mehsana",
+        "state": "Gujarat",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Mehsana",
+        "fetched_at": "2026-04-01T15:41:42.860700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.37093,
+          23.59284
+        ]
+      },
+      "properties": {
+        "name": "257-B, Nr. Nirma Factory",
+        "place_id": "ola-platform:5000197704343",
+        "address": "257-B, Nr. Nirma Factory, G.I.D.C. Phase -1, Mahesana GIDC, Mehsana, Gujarat, 384002, India",
+        "district": "Mehsana",
+        "state": "Gujarat",
+        "types": [],
+        "query_used": "factory area Mehsana",
+        "fetched_at": "2026-04-01T15:41:42.914834"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.4203,
+          23.3266
+        ]
+      },
+      "properties": {
+        "name": "Fastrack Dealcomm Pvt. Ltd. - Factory",
+        "place_id": "ola-platform:5000061383827",
+        "address": "Fastrack Dealcomm Pvt. Ltd. - Factory, Fastrack Dealcomm Pvt. Ltd, Survey No: 1314-1, Vill: Rajpur, Tal: Kadi, Dist: Mehsana, Gujarat, 382705, India",
+        "district": "Mehsana",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "factory area Mehsana",
+        "fetched_at": "2026-04-01T15:41:42.952659"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.3637,
+          23.5938
+        ]
+      },
+      "properties": {
+        "name": "EV Charging Station Manufacturing",
+        "place_id": "ola-platform:5000051590340",
+        "address": "EV Charging Station Manufacturing, F 14 Goklul Meridian, 02, Modhera Rd, Near Taukho Party Plot, Prabhunagar, Mahesana GIDC, Mehsana, Gujarat, 384002, India",
+        "district": "Mehsana",
+        "state": "Gujarat",
+        "types": [
+          "point_of_interest"
+        ],
+        "query_used": "manufacturing hub Mehsana",
+        "fetched_at": "2026-04-01T15:41:43.021866"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.1137,
+          22.4774
+        ]
+      },
+      "properties": {
+        "name": "Morbi Tiles",
+        "place_id": "ola-platform:5000049510561",
+        "address": "Morbi Tiles, Happa Industrial Area, Rajkot Main Road, Hapa Industrial Area, Jamnagar, Gujarat, 361007, India",
+        "district": "Morbi",
+        "state": "Gujarat",
+        "types": [
+          "home_goods_store"
+        ],
+        "query_used": "industrial area Morbi",
+        "fetched_at": "2026-04-01T15:41:45.363981"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.852725,
+          22.85037
+        ]
+      },
+      "properties": {
+        "name": "Gujarat Industrial Estate",
+        "place_id": "ola-platform:5000042447119",
+        "address": "Gujarat Industrial Estate, Nh27, Morbi, Morbi Taluka, Morbi, Gujarat, 363641, India",
+        "district": "Morbi",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Morbi Gujarat",
+        "fetched_at": "2026-04-01T15:41:45.537846"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.796231,
+          22.75772
+        ]
+      },
+      "properties": {
+        "name": "Ajanta Industrial Estate",
+        "place_id": "ola-platform:5000041180023",
+        "address": "Ajanta Industrial Estate, Rajkot - Morbi Highway, Sanala, Morbi Taluka, Morbi, Gujarat, 363641, India",
+        "district": "Morbi",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Morbi Gujarat",
+        "fetched_at": "2026-04-01T15:41:45.593989"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.878,
+          22.7981
+        ]
+      },
+      "properties": {
+        "name": "Lalpar Industrial Estate - 1",
+        "place_id": "ola-platform:5000064467503",
+        "address": "Lalpar Industrial Estate - 1, 8-A National Highway, B/h Yuvi Tiles Pvt. Ltd. Bhadiyad, Lalpar, Morbi 02, Bhadiyad, Morbi - 2, Morbi, Gujarat, 363641, India",
+        "district": "Morbi",
+        "state": "Gujarat",
+        "types": [
+          "storage"
+        ],
+        "query_used": "industrial estate Morbi Gujarat",
+        "fetched_at": "2026-04-01T15:41:45.656275"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.86763,
+          22.81379
+        ]
+      },
+      "properties": {
+        "name": "Shakti Industrial Estate",
+        "place_id": "ola-platform:5000194964948",
+        "address": "Shakti Industrial Estate, B/h Shakti Chamber 1, 8-A, National Highway Trajpar, Bhadiyad, Morbi - 2, Morbi, Gujarat, 363641, India",
+        "district": "Morbi",
+        "state": "Gujarat",
+        "types": [],
+        "query_used": "industrial estate Morbi Gujarat",
+        "fetched_at": "2026-04-01T15:41:45.707503"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.7977,
+          22.7635
+        ]
+      },
+      "properties": {
+        "name": "Morbi",
+        "place_id": "ola-platform:5000058664093",
+        "address": "Morbi, Ajanta Manufacturing Pvt Ltd. (Oreva Group), Morbi, Rajkot - Morbi Hwy, Saktasanala, Gujarat, 363641, India",
+        "district": "Morbi",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Morbi",
+        "fetched_at": "2026-04-01T15:41:46.205179"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.7868,
+          22.7264
+        ]
+      },
+      "properties": {
+        "name": "Rikon Clock Manufacturing Company",
+        "place_id": "ola-platform:5000046989473",
+        "address": "Rikon Clock Manufacturing Company, At Village Lajai, Opp Atop Foods, Morbi Rajkot Highway, TA. Tankara, Morbi, Gujarat, 363641, India",
+        "district": "Morbi",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Morbi",
+        "fetched_at": "2026-04-01T15:41:46.241047"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.85442,
+          22.830328
+        ]
+      },
+      "properties": {
+        "name": "Ajanta Manufacturing Ltd.",
+        "place_id": "ola-platform:5000043973824",
+        "address": "Ajanta Manufacturing Ltd, Morbi, Morbi Taluka, Morbi, Gujarat, 363641, India",
+        "district": "Morbi",
+        "state": "Gujarat",
+        "types": [
+          "health"
+        ],
+        "query_used": "manufacturing hub Morbi",
+        "fetched_at": "2026-04-01T15:41:46.279746"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.85709,
+          22.756462
+        ]
+      },
+      "properties": {
+        "name": "Aajveto Manufacturing Pvt. Ltd.",
+        "place_id": "ola-platform:5000068949601",
+        "address": "Aajveto Manufacturing Pvt. Ltd, Lilapar, Morbi, Morbi Taluka, Morbi, Gujarat, 363641, India",
+        "district": "Morbi",
+        "state": "Gujarat",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "manufacturing hub Morbi",
+        "fetched_at": "2026-04-01T15:41:46.355722"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.19,
+          22.2682
+        ]
+      },
+      "properties": {
+        "name": "Narmada Nagar 3, GIDC Industrial Area",
+        "place_id": "ola-platform:5000202411252",
+        "address": "Narmada Nagar 3, GIDC Industrial Area, Manjalpur, Vadodara, Gujarat, 390011, India",
+        "district": "Narmada",
+        "state": "Gujarat",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Narmada",
+        "fetched_at": "2026-04-01T15:41:48.603093"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9109,
+          20.9432
+        ]
+      },
+      "properties": {
+        "name": "Goldi Solar Factory (Navsari)",
+        "place_id": "ola-platform:5000038992900",
+        "address": "Goldi Solar Factory (Navsari), Railway Station Rd, Near Mafatlal Mills Talav, Vejalpore, Navsari, Jalalpore, Gujarat, 396421, India",
+        "district": "Navsari",
+        "state": "Gujarat",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Navsari",
+        "fetched_at": "2026-04-01T15:41:51.922407"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0087,
+          20.8152
+        ]
+      },
+      "properties": {
+        "name": "Gandevi Sugar Factory",
+        "place_id": "ola-platform:5000052529119",
+        "address": "Gandevi Sugar Factory, P.O. Sugar Factory, Via Billimora, District Navsari, Gandevi, Gujarat, 396360, India",
+        "district": "Navsari",
+        "state": "Gujarat",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Navsari",
+        "fetched_at": "2026-04-01T15:41:52.024185"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.93001,
+          20.93421
+        ]
+      },
+      "properties": {
+        "name": "2, Opp. NIF Factory",
+        "place_id": "ola-platform:5000189888858",
+        "address": "2, Opp. NIF Factory, Ankurpark Society, Ratnakar, Maninagar, Navsari, Gujarat, 396445, India",
+        "district": "Navsari",
+        "state": "Gujarat",
+        "types": [],
+        "query_used": "factory area Navsari",
+        "fetched_at": "2026-04-01T15:41:52.096873"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.887,
+          21.0781
+        ]
+      },
+      "properties": {
+        "name": "Jay Garments",
+        "place_id": "ola-platform:5000037097259",
+        "address": "Jay Garments, Best Garments Factory Outlet And Family Shop, 104, Ancellary Zone, Surat - Navsari Rd, Opp. Tulsi Hotel, Off Sachin, Kanakpur, Sachin, Surat, Gujarat, 394230, India",
+        "district": "Navsari",
+        "state": "Gujarat",
+        "types": [
+          "clothing_store"
+        ],
+        "query_used": "factory area Navsari",
+        "fetched_at": "2026-04-01T15:41:52.153767"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.97427,
+          20.943089
+        ]
+      },
+      "properties": {
+        "name": "Hilti Manufacturing India Pvt Ltd",
+        "place_id": "ola-platform:5000048316618",
+        "address": "Hilti Manufacturing India Pvt Ltd, Navsari, Navsari Taluka, Navsari, Gujarat, 396424, India",
+        "district": "Navsari",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Navsari",
+        "fetched_at": "2026-04-01T15:41:52.202806"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.967925,
+          20.944236
+        ]
+      },
+      "properties": {
+        "name": "Hilti Manufacturing India Pvt Ltd",
+        "place_id": "ola-platform:5000066440115",
+        "address": "Hilti Manufacturing India Pvt Ltd, Sh88, Kabilpore, Navsari, Navsari Taluka, Navsari, Gujarat, 396424, India",
+        "district": "Navsari",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Navsari",
+        "fetched_at": "2026-04-01T15:41:52.249766"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9721,
+          20.9465
+        ]
+      },
+      "properties": {
+        "name": "Hilti Manufacturing Unit 2",
+        "place_id": "ola-platform:5000044314818",
+        "address": "Hilti Manufacturing Unit 2, GIDC Kabilpore, Navsari, Gujarat, 396424, India",
+        "district": "Navsari",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Navsari",
+        "fetched_at": "2026-04-01T15:41:52.306589"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9296,
+          20.95374
+        ]
+      },
+      "properties": {
+        "name": "Bombay Agarbatti Stores And Manufacturing",
+        "place_id": "ola-platform:5000068115151",
+        "address": "Bombay Agarbatti Stores And Manufacturing, Madhumati Colony, Navsari, Gujarat, 396445, India",
+        "district": "Navsari",
+        "state": "Gujarat",
+        "types": [
+          "store"
+        ],
+        "query_used": "manufacturing hub Navsari",
+        "fetched_at": "2026-04-01T15:41:52.354902"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9177,
+          20.9238
+        ]
+      },
+      "properties": {
+        "name": "Reemz Manufacturing LLP",
+        "place_id": "ola-platform:5000063654001",
+        "address": "Reemz Manufacturing LLP, Ashoknagar Society, Vejalpore, Navsari, Gujarat, 396445, India",
+        "district": "Navsari",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Navsari",
+        "fetched_at": "2026-04-01T15:41:52.394667"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.615983,
+          22.793277
+        ]
+      },
+      "properties": {
+        "name": "Godhra Industrial Estate",
+        "place_id": "ola-platform:5000037485683",
+        "address": "Godhra Industrial Estate, Sh5, Godhra, Godhra Taluka, Panchmahal, Gujarat, 389001, India",
+        "district": "Panchmahal",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Panchmahal Gujarat",
+        "fetched_at": "2026-04-01T15:41:55.775138"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.614836,
+          22.794736
+        ]
+      },
+      "properties": {
+        "name": "GIDC Industrial Estate",
+        "place_id": "ola-platform:5000057656477",
+        "address": "GIDC Industrial Estate, Sh5, Godhra, Godhra Taluka, Panchmahal, Gujarat, 389001, India",
+        "district": "Panchmahal",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Panchmahal Gujarat",
+        "fetched_at": "2026-04-01T15:41:55.826192"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.46331,
+          22.572884
+        ]
+      },
+      "properties": {
+        "name": "Hero MotoCorp Manufacturing Plant",
+        "place_id": "ola-platform:5000039021152",
+        "address": "Hero MotoCorp Manufacturing Plant, Kalol Taluka, Panchmahal, Gujarat, 389330, India",
+        "district": "Panchmahal",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Panchmahal",
+        "fetched_at": "2026-04-01T15:41:56.487668"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.446166,
+          22.543461
+        ]
+      },
+      "properties": {
+        "name": "LM Wind Power Blades Manufacturing Plant",
+        "place_id": "ola-platform:5000036259089",
+        "address": "LM Wind Power Blades Manufacturing Plant, Sh150, Halol Taluka, Panchmahal, Gujarat, 389350, India",
+        "district": "Panchmahal",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Panchmahal",
+        "fetched_at": "2026-04-01T15:41:56.535784"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.444971,
+          22.535959
+        ]
+      },
+      "properties": {
+        "name": "General Motors India Pvt Ltd Manufacturing Plant Halol",
+        "place_id": "ola-platform:5000057913057",
+        "address": "General Motors India Pvt Ltd Manufacturing Plant Halol, Halol ByPass SH-05, Halol Taluka, Panchmahal, Gujarat, 389350, India",
+        "district": "Panchmahal",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Panchmahal",
+        "fetched_at": "2026-04-01T15:41:56.587408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.44862,
+          22.542228
+        ]
+      },
+      "properties": {
+        "name": "Morris Garages Manufacturing Factory (MG Motor India Pvt Ltd Plant)",
+        "place_id": "ola-platform:5000058574347",
+        "address": "Morris Garages Manufacturing Factory (MG Motor India Pvt Ltd Plant), Halol ByPass SH-05, Halol Taluka, Panchmahal, Gujarat, 389350, India",
+        "district": "Panchmahal",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Panchmahal",
+        "fetched_at": "2026-04-01T15:41:56.659290"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.41044,
+          24.17422
+        ]
+      },
+      "properties": {
+        "name": "A-48, Palanpur Ice Factory Area",
+        "place_id": "ola-platform:5000197464838",
+        "address": "A-48, Palanpur Ice Factory Area, Palanpur, Gujarat, 385410, India",
+        "district": "Patan",
+        "state": "Gujarat",
+        "types": [],
+        "query_used": "factory area Patan",
+        "fetched_at": "2026-04-01T15:41:59.457622"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.41367,
+          24.16962
+        ]
+      },
+      "properties": {
+        "name": "C-8, Palanpur Ice Factory Area",
+        "place_id": "ola-platform:5000197990069",
+        "address": "C-8, Palanpur Ice Factory Area, Palanpur, Gujarat, 385410, India",
+        "district": "Patan",
+        "state": "Gujarat",
+        "types": [],
+        "query_used": "factory area Patan",
+        "fetched_at": "2026-04-01T15:41:59.506636"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.41018,
+          24.17159
+        ]
+      },
+      "properties": {
+        "name": "66, Palanpur Ice Factory Area",
+        "place_id": "ola-platform:5000188008341",
+        "address": "66, Palanpur Ice Factory Area, Palanpur, Gujarat, 385410, India",
+        "district": "Patan",
+        "state": "Gujarat",
+        "types": [],
+        "query_used": "factory area Patan",
+        "fetched_at": "2026-04-01T15:41:59.560719"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.41265,
+          24.16935
+        ]
+      },
+      "properties": {
+        "name": "35, Palanpur Ice Factory Area",
+        "place_id": "ola-platform:5000192915664",
+        "address": "35, Palanpur Ice Factory Area, Palanpur, Gujarat, 385410, India",
+        "district": "Patan",
+        "state": "Gujarat",
+        "types": [],
+        "query_used": "factory area Patan",
+        "fetched_at": "2026-04-01T15:41:59.620279"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.41089,
+          24.16746
+        ]
+      },
+      "properties": {
+        "name": "132, Palanpur Ice Factory Area",
+        "place_id": "ola-platform:5000197736944",
+        "address": "132, Palanpur Ice Factory Area, Palanpur, Gujarat, 385410, India",
+        "district": "Patan",
+        "state": "Gujarat",
+        "types": [],
+        "query_used": "factory area Patan",
+        "fetched_at": "2026-04-01T15:41:59.671208"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.703894,
+          21.660792
+        ]
+      },
+      "properties": {
+        "name": "Vanana Industrial Estate",
+        "place_id": "ola-platform:5000054389643",
+        "address": "Vanana Industrial Estate, Ranavav Taluka, Porbandar, Gujarat, 360550, India",
+        "district": "Porbandar",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Porbandar Gujarat",
+        "fetched_at": "2026-04-01T15:42:02.169503"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.6318,
+          21.6222
+        ]
+      },
+      "properties": {
+        "name": "Birla Cement Factory",
+        "place_id": "ola-platform:5000187162886",
+        "address": "Birla Cement Factory, Chowpatti, Porbandar, Gujarat, 360578, India",
+        "district": "Porbandar",
+        "state": "Gujarat",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Porbandar",
+        "fetched_at": "2026-04-01T15:42:02.533534"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.62283,
+          21.62527
+        ]
+      },
+      "properties": {
+        "name": "Nh51, Birla Cement Factory",
+        "place_id": "ola-platform:5000193725015",
+        "address": "Nh51, Birla Cement Factory, Chowpatti, Porbandar, Gujarat, 360575, India",
+        "district": "Porbandar",
+        "state": "Gujarat",
+        "types": [],
+        "query_used": "factory area Porbandar",
+        "fetched_at": "2026-04-01T15:42:02.587017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.6205,
+          21.62979
+        ]
+      },
+      "properties": {
+        "name": "Nh51, Birla Cement Factory",
+        "place_id": "ola-platform:5000184563668",
+        "address": "Nh51, Birla Cement Factory, GEB Colony, Porbandar, Gujarat, 360575, India",
+        "district": "Porbandar",
+        "state": "Gujarat",
+        "types": [],
+        "query_used": "factory area Porbandar",
+        "fetched_at": "2026-04-01T15:42:02.629170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.82635,
+          22.28786
+        ]
+      },
+      "properties": {
+        "name": "Rajkot Hwy",
+        "place_id": "ola-platform:5000196008983",
+        "address": "Rajkot Hwy, Vardhman Industrial Area, Ram Nagar, Aji Industrial Estate, Rajkot, Gujarat, 360003, India",
+        "district": "Rajkot",
+        "state": "Gujarat",
+        "types": [],
+        "query_used": "industrial area Rajkot",
+        "fetched_at": "2026-04-01T15:42:05.160697"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.11238,
+          22.47834
+        ]
+      },
+      "properties": {
+        "name": "395, Jamnagar - Rajkot Hwy",
+        "place_id": "ola-platform:5000192281629",
+        "address": "395, Jamnagar - Rajkot Hwy, Hapa Industrial Area, Jamnagar, Gujarat, 361007, India",
+        "district": "Rajkot",
+        "state": "Gujarat",
+        "types": [],
+        "query_used": "industrial area Rajkot",
+        "fetched_at": "2026-04-01T15:42:05.215126"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.1177,
+          22.4798
+        ]
+      },
+      "properties": {
+        "name": "Jamnagar - Rajkot Hwy",
+        "place_id": "ola-platform:5000193458739",
+        "address": "Jamnagar - Rajkot Hwy, Hapa Industrial Area, Jamnagar, Gujarat, 361007, India",
+        "district": "Rajkot",
+        "state": "Gujarat",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Rajkot",
+        "fetched_at": "2026-04-01T15:42:05.270425"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.10937,
+          22.47877
+        ]
+      },
+      "properties": {
+        "name": "16, Jamnagar - Rajkot Hwy",
+        "place_id": "ola-platform:5000185806038",
+        "address": "16, Jamnagar - Rajkot Hwy, Hapa Industrial Area, Jamnagar, Gujarat, 361007, India",
+        "district": "Rajkot",
+        "state": "Gujarat",
+        "types": [],
+        "query_used": "industrial area Rajkot",
+        "fetched_at": "2026-04-01T15:42:05.325012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.8008,
+          22.24543
+        ]
+      },
+      "properties": {
+        "name": "Rajkot Hwy",
+        "place_id": "ola-platform:5000201635820",
+        "address": "Rajkot Hwy, Samrat Industrial Area, Rajkot, Gujarat, 360022, India",
+        "district": "Rajkot",
+        "state": "Gujarat",
+        "types": [],
+        "query_used": "industrial area Rajkot",
+        "fetched_at": "2026-04-01T15:42:05.379687"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.8219,
+          22.284
+        ]
+      },
+      "properties": {
+        "name": "Sarvodya Society, Aji Industrial Estate, Rajkot, Gujarat",
+        "place_id": "ola-platform:5000068201522",
+        "address": "Sarvodya Society, Aji Industrial Estate, Rajkot, Gujarat, 360003, India",
+        "district": "Rajkot",
+        "state": "Gujarat",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Rajkot Gujarat",
+        "fetched_at": "2026-04-01T15:42:05.429584"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.7696,
+          22.4817
+        ]
+      },
+      "properties": {
+        "name": "Siya Polymers - Manufacturer & Exporter Of Pet (Polyester) Strap In Rajkot, Gujarat, India.",
+        "place_id": "ola-platform:5000060288663",
+        "address": "Siya Polymers - Manufacturer & Exporter Of Pet (Polyester) Strap In Rajkot, Gujarat, India, Gokul Industrial Estate - A, Plot No 16 - 17 B/h Khodiyar Temple, Rajkot Morbi Highway At Kagdadi, Rajkot, Gujarat, 363650, India",
+        "district": "Rajkot",
+        "state": "Gujarat",
+        "types": [
+          "pet_store"
+        ],
+        "query_used": "industrial estate Rajkot Gujarat",
+        "fetched_at": "2026-04-01T15:42:05.553548"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.7954,
+          22.2365
+        ]
+      },
+      "properties": {
+        "name": "Gayatri Plastic - Plastic Impeller - V3-V4-V5-V7-V9 Submersible Pump Bowl Impeller Parts Manufactureres Rajkot Gujarat India",
+        "place_id": "ola-platform:5000221359644",
+        "address": "Gayatri Plastic - Plastic Impeller - V3-V4-V5-V7-V9 Submersible Pump Bowl Impeller Parts Manufactureres Rajkot Gujarat India, Shri Gayatri Plastic Industries Vavadi Industrial Area, Survey No.28 Shivam Industrial Estate Vavdi Opp Shivanand Technocast, Near Falcon Pumps Road Gondal Road, NH 27, Vavdi Main Rd, Post:, Rajkot, Gujarat 360004, India",
+        "district": "Rajkot",
+        "state": "Gujarat",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial estate Rajkot Gujarat",
+        "fetched_at": "2026-04-01T15:42:05.639831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.802426,
+          22.265971
+        ]
+      },
+      "properties": {
+        "name": "Atika Industrial Estate",
+        "place_id": "ola-platform:1012283",
+        "address": "Atika Industrial Estate, Rajkot, Gujarat, India",
+        "district": "Rajkot",
+        "state": "Gujarat",
+        "types": [
+          "borough"
+        ],
+        "query_used": "industrial estate Rajkot Gujarat",
+        "fetched_at": "2026-04-01T15:42:05.675573"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.80322,
+          22.266297
+        ]
+      },
+      "properties": {
+        "name": "Mohit Industrial Estate",
+        "place_id": "ola-platform:5000047882349",
+        "address": "Mohit Industrial Estate, Rajkot, Rajkot East Taluka, Rajkot, Gujarat, 360003, India",
+        "district": "Rajkot",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Rajkot Gujarat",
+        "fetched_at": "2026-04-01T15:42:05.716154"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.685,
+          22.2494
+        ]
+      },
+      "properties": {
+        "name": "Jayson Metoda - Best 3 Star Hotel In Metoda GIDC Rajkot",
+        "place_id": "ola-platform:5000056610574",
+        "address": "Jayson Metoda - Best 3 Star Hotel In Metoda GIDC Rajkot, Metoda Plaza, Gate No. 1, Metoda GIDC Metoda - Lodhika, GIDC, Metoda, Rajkot, Vajdi, Gujarat, 360021, India",
+        "district": "Rajkot",
+        "state": "Gujarat",
+        "types": [
+          "lodging"
+        ],
+        "query_used": "MIDC Rajkot",
+        "fetched_at": "2026-04-01T15:42:05.751413"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.8285,
+          22.3117
+        ]
+      },
+      "properties": {
+        "name": "FirstCry.Com (Factory Outlet) Rajkot GreenLand Chowkdi",
+        "place_id": "ola-platform:5000059860123",
+        "address": "FirstCry.Com (Factory Outlet) Rajkot GreenLand Chowkdi, Buildcoin, Ground Floor Shop No -2, & First Floor Shop No- 101, Shree Marutinandan, GreenLand Chowkdi, Kuvadava Rd, Near 7 Square, Vrundavan Society, Rohidaspra, Rajkot, Gujarat, 360003, India",
+        "district": "Rajkot",
+        "state": "Gujarat",
+        "types": [
+          "clothing_store"
+        ],
+        "query_used": "factory area Rajkot",
+        "fetched_at": "2026-04-01T15:42:05.869067"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.79446,
+          22.25164
+        ]
+      },
+      "properties": {
+        "name": "150fit Ring Road, Fectary",
+        "place_id": "ola-platform:5000189739426",
+        "address": "150fit Ring Road, Fectary, Street No. 5, Opposite GEB Office, Khodiyar Nagar, Ambedkar Nagar, Samrat Industrial Area, Rajkot, Gujarat, 360004, India",
+        "district": "Rajkot",
+        "state": "Gujarat",
+        "types": [],
+        "query_used": "factory area Rajkot",
+        "fetched_at": "2026-04-01T15:42:05.942282"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.7995,
+          22.2846
+        ]
+      },
+      "properties": {
+        "name": "Rajkot Plastic Manufacturing Association",
+        "place_id": "ola-platform:5000063720241",
+        "address": "Rajkot Plastic Manufacturing Association, 2/48, Ahiya, Atul Complex, Gondal Rd, Near Jaynath Petrol, Opp Bombay Hotel, Vijay Plot, Bhakti Nagar, Rajkot, Gujarat, 360001, India",
+        "district": "Rajkot",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Rajkot",
+        "fetched_at": "2026-04-01T15:42:06.016063"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.803368,
+          22.268352
+        ]
+      },
+      "properties": {
+        "name": "Curtainbracket Manufacturing Rajkot",
+        "place_id": "ola-platform:5000048981399",
+        "address": "Curtainbracket Manufacturing Rajkot, Rajkot, Rajkot East Taluka, Rajkot, Gujarat, 360003, India",
+        "district": "Rajkot",
+        "state": "Gujarat",
+        "types": [
+          "food",
+          "restaurant"
+        ],
+        "query_used": "manufacturing hub Rajkot",
+        "fetched_at": "2026-04-01T15:42:06.049720"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.806719,
+          22.294965
+        ]
+      },
+      "properties": {
+        "name": "Indian Institute Of Jewellery Manufacturing Rajkot Centre",
+        "place_id": "ola-platform:5000062390252",
+        "address": "Indian Institute Of Jewellery Manufacturing Rajkot Centre, Rajkot, Rajkot East Taluka, Rajkot, Gujarat, 360003, India",
+        "district": "Rajkot",
+        "state": "Gujarat",
+        "types": [
+          "gym"
+        ],
+        "query_used": "manufacturing hub Rajkot",
+        "fetched_at": "2026-04-01T15:42:06.086128"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.83,
+          22.2871
+        ]
+      },
+      "properties": {
+        "name": "Central Manufacturing Technology Institute (CMTI)-Outreach Center (Central Manufacturing Technology Institute (CMTI)-Regional Center, Rajkot)",
+        "place_id": "ola-platform:5000067208251",
+        "address": "Central Manufacturing Technology Institute (CMTI)-Outreach Center (Central Manufacturing Technology Institute (CMTI)-Regional Center, Rajkot), Central Manufacturing Technology Institute (CMTI)-Regional Center, Rajkot, CMTI Regional Center Rajkot, NSIC Campus, Bhavnagar Rd, Bharat Nagar, Aji Industrial Estate, Rajkot, Gujarat, 360003, India",
+        "district": "Rajkot",
+        "state": "Gujarat",
+        "types": [
+          "university"
+        ],
+        "query_used": "manufacturing hub Rajkot",
+        "fetched_at": "2026-04-01T15:42:06.122068"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          70.8061,
+          22.1557
+        ]
+      },
+      "properties": {
+        "name": "AATOMIZE Manufacturing Pvt Ltd/ Atta Chakki Manufacturer/flour Mill Manufacturer",
+        "place_id": "ola-platform:5000053718311",
+        "address": "AATOMIZE Manufacturing Pvt Ltd/ Atta Chakki Manufacturer/flour Mill Manufacturer, / Pulverizer In Rajkot, Gujarat, 360024, India, Plot No. 6/7, Captain Tractor Street Padvala Main Road, Bhumi Gate, Road, Veraval, Gujarat",
+        "district": "Rajkot",
+        "state": "Gujarat",
+        "types": [
+          "food",
+          "restaurant"
+        ],
+        "query_used": "manufacturing hub Rajkot",
+        "fetched_at": "2026-04-01T15:42:06.156036"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0191,
+          23.4194
+        ]
+      },
+      "properties": {
+        "name": "R.S.B Cottex Ltd. (RSB Cottex Limited (Factory))",
+        "place_id": "ola-platform:5000176750803",
+        "address": "R.S.B Cottex Ltd. (RSB Cottex Limited (Factory)), RSB Cottex Limited (Factory), Survey No. 48/1/2, Village - Antrolivas Dloji, Talod, Gambohi Road, Taluka - Talod, District - Sabarkantha, Talod, Gujarat, 383305, India",
+        "district": "Sabarkantha",
+        "state": "Gujarat",
+        "types": [
+          "store"
+        ],
+        "query_used": "factory area Sabarkantha",
+        "fetched_at": "2026-04-01T15:42:09.178776"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8193,
+          21.2099
+        ]
+      },
+      "properties": {
+        "name": "Sabri Nagar Mubarak Masjid Surat",
+        "place_id": "ola-platform:5000045119199",
+        "address": "Sabri Nagar Mubarak Masjid Surat, Sabri Nagar Mubarak Masjid, Unnamed Road, Fatakdawadi, Sabri Nagar, Industrial Area, Singanpor, Surat, Gujarat, 395004, India",
+        "district": "Surat",
+        "state": "Gujarat",
+        "types": [
+          "lodging"
+        ],
+        "query_used": "industrial area Surat",
+        "fetched_at": "2026-04-01T15:42:11.559521"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8603,
+          21.1965
+        ]
+      },
+      "properties": {
+        "name": "Bhatiya Bhagday Industrial Surat Gujarat",
+        "place_id": "ola-platform:5000064957170",
+        "address": "Bhatiya Bhagday Industrial Surat Gujarat, Aai Mata Road, Bhatiya Bhagday Industrial Surat Gujarat, Aai Mata Rd, Bhatiya, Bhagyoday Industrial Estate, Parvat Patiya, Surat, Gujarat, 395010, India",
+        "district": "Surat",
+        "state": "Gujarat",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Surat Gujarat",
+        "fetched_at": "2026-04-01T15:42:11.645822"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.828,
+          21.2051
+        ]
+      },
+      "properties": {
+        "name": "Sign Junction Surat Gujarat",
+        "place_id": "ola-platform:5000066361854",
+        "address": "Sign Junction Surat Gujarat, Plot No 10, Karan Industrial Estate, Ved Rd, Kachhia Sheri, Sayedpura, Surat, Gujarat, 395003, India",
+        "district": "Surat",
+        "state": "Gujarat",
+        "types": [
+          "store"
+        ],
+        "query_used": "industrial estate Surat Gujarat",
+        "fetched_at": "2026-04-01T15:42:11.686725"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8472,
+          21.1643
+        ]
+      },
+      "properties": {
+        "name": "Kio Incense Stick Making Machine Manufacturer In Surat Gujarat",
+        "place_id": "ola-platform:5000054506297",
+        "address": "Kio Incense Stick Making Machine Manufacturer In Surat Gujarat, Shed No.88, New Industrial Estate, Rd Number 6, Udhana GIDC, Hari Ichchha Industrial Society, Udhna Udhyog Nagar, Udhna, Surat, Gujarat, 394210, India",
+        "district": "Surat",
+        "state": "Gujarat",
+        "types": [
+          "point_of_interest"
+        ],
+        "query_used": "industrial estate Surat Gujarat",
+        "fetched_at": "2026-04-01T15:42:11.777902"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8333,
+          21.2015
+        ]
+      },
+      "properties": {
+        "name": "MMM Fine Jewells LLP - Diamond Manufacturing Company In Surat",
+        "place_id": "ola-platform:5000044137641",
+        "address": "MMM Fine Jewells LLP - Diamond Manufacturing Company In Surat, 602, Ratnakunj Building, Ghiya Sheri, Jadakhadi, Mahidharpura, Haripura, Surat, Gujarat, 395003, India",
+        "district": "Surat",
+        "state": "Gujarat",
+        "types": [
+          "jewelry_store"
+        ],
+        "query_used": "manufacturing hub Surat",
+        "fetched_at": "2026-04-01T15:42:12.201161"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.0206,
+          22.4045
+        ]
+      },
+      "properties": {
+        "name": "Bamanbore, GIDC Industrial Area",
+        "place_id": "ola-platform:5000062188019",
+        "address": "Bamanbore, GIDC Industrial Area, Gujarat, 363520, India",
+        "district": "Surendranagar",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Surendranagar",
+        "fetched_at": "2026-04-01T15:42:14.846323"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.6614,
+          22.7444
+        ]
+      },
+      "properties": {
+        "name": "SBI SME Industrial Estate Branch Surendranagar",
+        "place_id": "ola-platform:5000049362248",
+        "address": "SBI SME Industrial Estate Branch Surendranagar, Mahajan Building, Main Rd, Opposite Mega Mall, Surendranagar, Dhrangadhra, Mulchand, Gujarat 363002, India",
+        "district": "Surendranagar",
+        "state": "Gujarat",
+        "types": [
+          "bank"
+        ],
+        "query_used": "industrial estate Surendranagar Gujarat",
+        "fetched_at": "2026-04-01T15:42:15.022674"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.4832,
+          22.97883
+        ]
+      },
+      "properties": {
+        "name": "28, GIDC Industrial Estate",
+        "place_id": "ola-platform:5000189177777",
+        "address": "28, GIDC Industrial Estate, Nandesari, Dhrangadhra, Gujarat, 363310, India",
+        "district": "Surendranagar",
+        "state": "Gujarat",
+        "types": [],
+        "query_used": "industrial estate Surendranagar Gujarat",
+        "fetched_at": "2026-04-01T15:42:15.075169"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.2112,
+          22.5923
+        ]
+      },
+      "properties": {
+        "name": "Devbhumi Industrial Estate",
+        "place_id": "ola-platform:5000057109847",
+        "address": "Devbhumi Industrial Estate, Sarvoday Society, Thangadh, Gujarat, 363530, India",
+        "district": "Surendranagar",
+        "state": "Gujarat",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Surendranagar Gujarat",
+        "fetched_at": "2026-04-01T15:42:15.120526"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          71.664489,
+          22.721213
+        ]
+      },
+      "properties": {
+        "name": "GIDC Surendranagar (Surendranagar Gidc)",
+        "place_id": "ola-platform:1008910",
+        "address": "GIDC Surendranagar (Surendranagar Gidc), Wadhwan, Gujarat, India",
+        "district": "Surendranagar",
+        "state": "Gujarat",
+        "types": [
+          "borough"
+        ],
+        "query_used": "MIDC Surendranagar",
+        "fetched_at": "2026-04-01T15:42:15.268831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8103,
+          21.2195
+        ]
+      },
+      "properties": {
+        "name": "Tapi Enclave",
+        "place_id": "ola-platform:5000056842482",
+        "address": "Tapi Enclave, Bharimata Road, Causeway, Singanpore, Industrial Area, Singanpor, Surat, Gujarat, 395004, India",
+        "district": "Tapi",
+        "state": "Gujarat",
+        "types": [
+          "premise",
+          "subpremise"
+        ],
+        "query_used": "industrial area Tapi",
+        "fetched_at": "2026-04-01T15:42:18.499095"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8108,
+          21.2192
+        ]
+      },
+      "properties": {
+        "name": "Tapi Enclave Bharimata",
+        "place_id": "ola-platform:5000047813328",
+        "address": "Tapi Enclave Bharimata, Tapi Enclave, Beside Mohan Dada Ni Wadi, Bharimata Village, Causeway Rd, Industrial Area, Singanpor, Surat, Gujarat, 395004, India",
+        "district": "Tapi",
+        "state": "Gujarat",
+        "types": [
+          "premise",
+          "subpremise"
+        ],
+        "query_used": "industrial area Tapi",
+        "fetched_at": "2026-04-01T15:42:18.572065"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8134,
+          21.2203
+        ]
+      },
+      "properties": {
+        "name": "Tapi Govind Niwas",
+        "place_id": "ola-platform:5000220619144",
+        "address": "Tapi Govind Niwas, Bhari Mata Rd, Fatakdawadi, Sabri Nagar, Industrial Area, Singanpor, Surat, Gujarat 395004, India",
+        "district": "Tapi",
+        "state": "Gujarat",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial area Tapi",
+        "fetched_at": "2026-04-01T15:42:18.648627"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.810761,
+          21.214152
+        ]
+      },
+      "properties": {
+        "name": "Tapi River View Point",
+        "place_id": "ola-platform:5000206474347",
+        "address": "Tapi River View Point, Ved Rd, Industrial Area, Singanpor, Surat, Gujarat 395004",
+        "district": "Tapi",
+        "state": "Gujarat",
+        "types": [
+          "tourist_attraction",
+          "natural_feature"
+        ],
+        "query_used": "industrial area Tapi",
+        "fetched_at": "2026-04-01T15:42:18.712459"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8728,
+          21.22
+        ]
+      },
+      "properties": {
+        "name": "Tapi Industrial Estate",
+        "place_id": "ola-platform:5000048694408",
+        "address": "Tapi Industrial Estate, Varachha Main Rd, Kapodra Patiya, Surat, Gujarat, 395006, India",
+        "district": "Tapi",
+        "state": "Gujarat",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Tapi Gujarat",
+        "fetched_at": "2026-04-01T15:42:18.840862"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.929264,
+          20.361106
+        ]
+      },
+      "properties": {
+        "name": "GIDC Vapi (Vapi Gidc)",
+        "place_id": "ola-platform:1011430",
+        "address": "GIDC Vapi (Vapi Gidc), Chanod, Gujarat, India",
+        "district": "Tapi",
+        "state": "Gujarat",
+        "types": [
+          "borough"
+        ],
+        "query_used": "MIDC Tapi",
+        "fetched_at": "2026-04-01T15:42:19.019062"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0881,
+          22.2504
+        ]
+      },
+      "properties": {
+        "name": "Bhoj - Padra - Vadodara Rd",
+        "place_id": "ola-platform:5000201757971",
+        "address": "Bhoj - Padra - Vadodara Rd, Industrial Area, Padra, Gujarat, 391440, India",
+        "district": "Vadodara",
+        "state": "Gujarat",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Vadodara",
+        "fetched_at": "2026-04-01T15:42:21.755108"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.20006,
+          22.26546
+        ]
+      },
+      "properties": {
+        "name": "35 C, Vadodara",
+        "place_id": "ola-platform:5000197120170",
+        "address": "35 C, Vadodara, GIDC Industrial Area, Manjalpur, Vadodara, Gujarat, 390011, India",
+        "district": "Vadodara",
+        "state": "Gujarat",
+        "types": [],
+        "query_used": "industrial area Vadodara",
+        "fetched_at": "2026-04-01T15:42:21.827857"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.19566,
+          22.25929
+        ]
+      },
+      "properties": {
+        "name": "325, Vadodara",
+        "place_id": "ola-platform:5000202440022",
+        "address": "325, Vadodara, Marutidham Society, GIDC Industrial Area, Makarpura, Vadodara, Gujarat, 390011, India",
+        "district": "Vadodara",
+        "state": "Gujarat",
+        "types": [],
+        "query_used": "industrial area Vadodara",
+        "fetched_at": "2026-04-01T15:42:21.885253"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1806,
+          22.1276
+        ]
+      },
+      "properties": {
+        "name": "Godrej Calibration Services - Vadodara Lab",
+        "place_id": "ola-platform:5000048948085",
+        "address": "Godrej Calibration Services - Vadodara Lab, 126, Por GIDC, Por, 126, Por GIDC Internal Road 1, GIDC Industrial Area, Raman Gamdi, Gujarat, 391243, India",
+        "district": "Vadodara",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Vadodara",
+        "fetched_at": "2026-04-01T15:42:21.955076"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.185552,
+          22.129589
+        ]
+      },
+      "properties": {
+        "name": "61 GIDC Por Ramangamdi Vadodara (Shree Sponge Steel And Forging Ltd)",
+        "place_id": "ola-platform:5000040474662",
+        "address": "61 GIDC Por Ramangamdi Vadodara (Shree Sponge Steel And Forging Ltd), GIDC Por Factory Road, Por Ramangamdi, Por, Vadodara Rural Taluka, Vadodara, Gujarat, 391243, India",
+        "district": "Vadodara",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Vadodara",
+        "fetched_at": "2026-04-01T15:42:22.019684"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.3778,
+          22.2893
+        ]
+      },
+      "properties": {
+        "name": "Recliner Sofa In Vadodara (Theatre Solutions India P Limited)",
+        "place_id": "ola-platform:5000064319322",
+        "address": "Recliner Sofa In Vadodara (Theatre Solutions India P Limited), Theatre Solutions 391760, India P Limited, 651B, G.I.D.C. Industrial Estate, Waghodia, Gujarat",
+        "district": "Vadodara",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Vadodara Gujarat",
+        "fetched_at": "2026-04-01T15:42:22.070208"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1659,
+          22.3303
+        ]
+      },
+      "properties": {
+        "name": "Popular Genset - Kirloskar DG Set Generator Dealer (Sales, Hiring, Buy Back) Vadodara, Gujarat",
+        "place_id": "ola-platform:5000057404590",
+        "address": "Popular Genset - Kirloskar DG Set Generator Dealer (Sales, Hiring, Buy Back) Vadodara, Gujarat, C-14/62, Krishna Industrial Estate, Opposite BIDC, BIDC Gorwa Estate, Gorwa, BIDC Gorwa Estate, Gorwa, Vadodara, Gujarat, 390003, India",
+        "district": "Vadodara",
+        "state": "Gujarat",
+        "types": [
+          "point_of_interest"
+        ],
+        "query_used": "industrial estate Vadodara Gujarat",
+        "fetched_at": "2026-04-01T15:42:22.124817"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1802,
+          22.2583
+        ]
+      },
+      "properties": {
+        "name": "SitaRam Engimach - Bag Punching Machine Manufacturers In Vadodara, Gujarat",
+        "place_id": "ola-platform:5000052265811",
+        "address": "SitaRam Engimach - Bag Punching Machine Manufacturers In Vadodara, Gujarat, A-93/24, Shreeji Industrial Estate, Makarpura GIDC, Makarpura, Vadodara, Gujarat, 390010, India",
+        "district": "Vadodara",
+        "state": "Gujarat",
+        "types": [
+          "department_store"
+        ],
+        "query_used": "industrial estate Vadodara Gujarat",
+        "fetched_at": "2026-04-01T15:42:22.171095"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1616,
+          22.3396
+        ]
+      },
+      "properties": {
+        "name": "Aaliya Residency, Near D-Cabin, Chhani Industrial Estate",
+        "place_id": "ola-platform:5000038779475",
+        "address": "Aaliya Residency, Near D-Cabin, Chhani Industrial Estate, Gorwa, Vadodara, Gujarat, 390003, India",
+        "district": "Vadodara",
+        "state": "Gujarat",
+        "types": [
+          "general_contractor"
+        ],
+        "query_used": "industrial estate Vadodara Gujarat",
+        "fetched_at": "2026-04-01T15:42:22.215375"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1671,
+          22.3286
+        ]
+      },
+      "properties": {
+        "name": "Anuptech Equipments Pvt Ltd, B-35, Krishna Industrial Estate",
+        "place_id": "ola-platform:5000178015565",
+        "address": "Anuptech Equipments Pvt Ltd, B-35, Krishna Industrial Estate, Opposite BIDC, BIDC Gorwa Estate, Gorwa, Vadodara, Gujarat, 390003, India",
+        "district": "Vadodara",
+        "state": "Gujarat",
+        "types": [
+          "atm"
+        ],
+        "query_used": "industrial estate Vadodara Gujarat",
+        "fetched_at": "2026-04-01T15:42:22.261196"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2366,
+          22.3167
+        ]
+      },
+      "properties": {
+        "name": "Atul Bakery | Factory | Sardar Estate, Vadodara",
+        "place_id": "ola-platform:5000066934171",
+        "address": "Atul Bakery | Factory | Sardar Estate, Vadodara, Plot No.23, Road No.5, Ajwa Rd, Sardar Estate, Sayaji Park Society, Vadodara, Gujarat, 390006, India",
+        "district": "Vadodara",
+        "state": "Gujarat",
+        "types": [
+          "bakery"
+        ],
+        "query_used": "factory area Vadodara",
+        "fetched_at": "2026-04-01T15:42:22.359314"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9276,
+          22.1524
+        ]
+      },
+      "properties": {
+        "name": "Vadodara Light Factory, Philips India Limited",
+        "place_id": "ola-platform:5000043099909",
+        "address": "Vadodara Light Factory, Philips India Limited, Vadodara - Jambusar Hwy, Gujarat, 391430, India",
+        "district": "Vadodara",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "factory area Vadodara",
+        "fetched_at": "2026-04-01T15:42:22.406244"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1136,
+          22.4207
+        ]
+      },
+      "properties": {
+        "name": "Wallnut Building Solutions - Vadodara Factory",
+        "place_id": "ola-platform:5000036227934",
+        "address": "Wallnut Building Solutions - Vadodara Factory, Durga Industrial Estate, NH 08, Plot No.59-60, Gujarat, 391350, India",
+        "district": "Vadodara",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "factory area Vadodara",
+        "fetched_at": "2026-04-01T15:42:22.451633"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1801,
+          22.2545
+        ]
+      },
+      "properties": {
+        "name": "Hanuram Foods, Makarpura, Vadodara (Hanuram Foods - Makarpura (Factory Outlet))",
+        "place_id": "ola-platform:5000177981454",
+        "address": "Hanuram Foods, Makarpura, Vadodara (Hanuram Foods - Makarpura (Factory Outlet)), Hanuram Foods - Makarpura (Factory Outlet), 464, G.C.E.L. Main Road G.I.D.C. Industrial Estate, Near Police Station, Makarpura GIDC, Makarpura, Vadodara, Gujarat, 390010, India",
+        "district": "Vadodara",
+        "state": "Gujarat",
+        "types": [
+          "restaurant",
+          "meal_takeaway",
+          "meal_delivery"
+        ],
+        "query_used": "factory area Vadodara",
+        "fetched_at": "2026-04-01T15:42:22.507302"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1618,
+          22.308
+        ]
+      },
+      "properties": {
+        "name": "Ice Cream Factory & Shahi Darbar, Gotri, Vadodara",
+        "place_id": "ola-platform:5000046964964",
+        "address": "Ice Cream Factory & Shahi Darbar, Gotri, Vadodara, Ice Cream Factory & Shahi Darbar, SB 1-4, Arundeep Complex, 31, Race Course Rd, Opp. To Adarsh Hospital, Haribhakti Extension, Paris Nagar, Vadiwadi, Vadodara, Gujarat, 390007, India",
+        "district": "Vadodara",
+        "state": "Gujarat",
+        "types": [
+          "food",
+          "restaurant"
+        ],
+        "query_used": "factory area Vadodara",
+        "fetched_at": "2026-04-01T15:42:22.558639"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1844,
+          22.1199
+        ]
+      },
+      "properties": {
+        "name": "CMC Manufacturing Co. Pvt. Ltd Vadodara",
+        "place_id": "ola-platform:5000044546305",
+        "address": "CMC Manufacturing Co. Pvt. Ltd Vadodara, P-64, Por Industrial Park, Vadodara, Gujarat, 391243, India",
+        "district": "Vadodara",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Vadodara",
+        "fetched_at": "2026-04-01T15:42:22.607307"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.1969,
+          22.4374
+        ]
+      },
+      "properties": {
+        "name": "Vadodara Windows Pvt. Ltd. Manufacturing Plant",
+        "place_id": "ola-platform:5000047038674",
+        "address": "Vadodara Windows Pvt. Ltd. Manufacturing Plant, Plot E-33, Manjusar G.I.D.C, Savli Dist, Vadodara, Gujarat, 391776, India",
+        "district": "Vadodara",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Vadodara",
+        "fetched_at": "2026-04-01T15:42:22.668449"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.106,
+          22.3727
+        ]
+      },
+      "properties": {
+        "name": "Reliance Industries Limited, Vadodara Manufacturing Division",
+        "place_id": "ola-platform:5000221208450",
+        "address": "Reliance Industries Limited, Vadodara Manufacturing Division, RIL Baroda Complex P. O. Petrochemicals, Karachiya, Dhanora, Vadodara, Gujarat 391346, India",
+        "district": "Vadodara",
+        "state": "Gujarat",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "manufacturing hub Vadodara",
+        "fetched_at": "2026-04-01T15:42:22.726396"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.2112,
+          22.2845
+        ]
+      },
+      "properties": {
+        "name": "Titan Additive : Additive Manufacturing Service Bureau | Vadodara, Gujarat",
+        "place_id": "ola-platform:5000048907589",
+        "address": "Titan Additive : Additive Manufacturing Service Bureau | Vadodara, Gujarat, Allied Pharma Compound, Zenith School, Char Rasta, Bhatia Chawl, Moghul Wada, Vadodara, Gujarat, 390017, India",
+        "district": "Vadodara",
+        "state": "Gujarat",
+        "types": [
+          "local_government_office"
+        ],
+        "query_used": "manufacturing hub Vadodara",
+        "fetched_at": "2026-04-01T15:42:22.837084"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9363,
+          20.3678
+        ]
+      },
+      "properties": {
+        "name": "334, Industrial Area Rd",
+        "place_id": "ola-platform:5000183215463",
+        "address": "334, Industrial Area Rd, Phase 3, GIDC, Vapi, Gujarat, 396191, India",
+        "district": "Valsad",
+        "state": "Gujarat",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Valsad",
+        "fetched_at": "2026-04-01T15:42:25.149375"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.947,
+          20.3732
+        ]
+      },
+      "properties": {
+        "name": "3rd Phase, GIDC Industrial Area",
+        "place_id": "ola-platform:5000184576087",
+        "address": "3rd Phase, GIDC Industrial Area, Phase 3, GIDC, Vapi, Gujarat, 396191, India",
+        "district": "Valsad",
+        "state": "Gujarat",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Valsad",
+        "fetched_at": "2026-04-01T15:42:25.204082"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9363,
+          20.3678
+        ]
+      },
+      "properties": {
+        "name": "195, Industrial Area Rd",
+        "place_id": "ola-platform:5000189140392",
+        "address": "195, Industrial Area Rd, Phase 3, GIDC, Vapi, Gujarat, 396191, India",
+        "district": "Valsad",
+        "state": "Gujarat",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Valsad",
+        "fetched_at": "2026-04-01T15:42:25.239529"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.945154,
+          20.536027
+        ]
+      },
+      "properties": {
+        "name": "Atul Industrial Estate",
+        "place_id": "ola-platform:5000038128497",
+        "address": "Atul Industrial Estate, Atul BioScience Limited, Valsad, Valsad Taluka, Valsad, Gujarat, 396020, India",
+        "district": "Valsad",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Valsad Gujarat",
+        "fetched_at": "2026-04-01T15:42:25.279619"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.971411,
+          20.619728
+        ]
+      },
+      "properties": {
+        "name": "State Bank Of India Gundlav Industrial Estate Branch",
+        "place_id": "ola-platform:5000058128288",
+        "address": "State Bank Of India Gundlav Industrial Estate Branch, Pushp Dental Clinic, Sh701, Valsad, Valsad Taluka, Valsad, Gujarat, 396002, India",
+        "district": "Valsad",
+        "state": "Gujarat",
+        "types": [
+          "bank"
+        ],
+        "query_used": "industrial estate Valsad Gujarat",
+        "fetched_at": "2026-04-01T15:42:25.410252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.736624,
+          19.803246
+        ]
+      },
+      "properties": {
+        "name": "Valsad District Cooperation Milk Production Union Ltd",
+        "place_id": "ola-platform:5000056196606",
+        "address": "Valsad District Cooperation Milk Production Union Ltd, MIDC Salwad - Boisar, Boisar, Palghar Taluka, Palghar, Maharashtra, 401501, India",
+        "district": "Valsad",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "MIDC Valsad",
+        "fetched_at": "2026-04-01T15:42:25.466482"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9518,
+          20.5711
+        ]
+      },
+      "properties": {
+        "name": "Sugar Factory, Valsad",
+        "place_id": "ola-platform:5000068967334",
+        "address": "Sugar Factory, Valsad, Gujarat, 396020, India",
+        "district": "Valsad",
+        "state": "Gujarat",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Valsad",
+        "fetched_at": "2026-04-01T15:42:25.574302"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.92171,
+          20.647583
+        ]
+      },
+      "properties": {
+        "name": "Taj Pharmaceuticals Manufacturing Unit",
+        "place_id": "ola-platform:5000068208296",
+        "address": "Taj Pharmaceuticals Manufacturing Unit, Valsad, Valsad Taluka, Valsad, Gujarat, 396030, India",
+        "district": "Valsad",
+        "state": "Gujarat",
+        "types": [
+          "drugstore",
+          "pharmacy"
+        ],
+        "query_used": "manufacturing hub Valsad",
+        "fetched_at": "2026-04-01T15:42:25.883902"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.93088,
+          20.616258
+        ]
+      },
+      "properties": {
+        "name": "Perfect Lamp Machine Manufacturing India",
+        "place_id": "ola-platform:5000061825574",
+        "address": "Perfect Lamp Machine Manufacturing India, Valsad, Valsad Taluka, Valsad, Gujarat, 396001, India",
+        "district": "Valsad",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Valsad",
+        "fetched_at": "2026-04-01T15:42:25.930206"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.968216,
+          20.621387
+        ]
+      },
+      "properties": {
+        "name": "Paper Bag Manufacturing Company",
+        "place_id": "ola-platform:5000037868538",
+        "address": "Paper Bag Manufacturing Company, Sh701, Valsad, Valsad Taluka, Valsad, Gujarat, 396002, India",
+        "district": "Valsad",
+        "state": "Gujarat",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Valsad",
+        "fetched_at": "2026-04-01T15:42:25.979460"
+      }
+    }
+  ]
+}

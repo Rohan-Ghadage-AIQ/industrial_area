@@ -1,0 +1,2864 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8774,
+          30.9045
+        ]
+      },
+      "properties": {
+        "name": "Ludhiana Amritsar Road Carriers",
+        "place_id": "ola-platform:5000055739722",
+        "address": "Ludhiana Amritsar Road Carriers, Shop No. 31, GuruNanak Market, Transport Nagar, Industrial Area- A, Ludhiana, Punjab, 141008, India",
+        "district": "Amritsar",
+        "state": "Punjab",
+        "types": [
+          "moving_company"
+        ],
+        "query_used": "industrial area Amritsar",
+        "fetched_at": "2026-04-01T15:55:57.643700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8779,
+          30.9004
+        ]
+      },
+      "properties": {
+        "name": "The Amritsar Transport Co. Pvt. Ltd.",
+        "place_id": "ola-platform:5000068781371",
+        "address": "The Amritsar Transport Co. Pvt. Ltd, 27-A, ATC House, Extension Adjoining Transport Nagar, Transport Nagar, Industrial Area- A, Ludhiana, Punjab, 141008, India",
+        "district": "Amritsar",
+        "state": "Punjab",
+        "types": [
+          "moving_company"
+        ],
+        "query_used": "industrial area Amritsar",
+        "fetched_at": "2026-04-01T15:55:57.674013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.81633,
+          31.63462
+        ]
+      },
+      "properties": {
+        "name": "33-34-35-36 Industrial Estate P.O Rayon & Silk Mills",
+        "place_id": "ola-platform:5000193476188",
+        "address": "33-34-35-36 Industrial Estate P.O Rayon & Silk Mills, Shori Nagar, Amritsar, Punjab, 143005, India",
+        "district": "Amritsar",
+        "state": "Punjab",
+        "types": [],
+        "query_used": "industrial estate Amritsar Punjab",
+        "fetched_at": "2026-04-01T15:55:57.738753"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.9179,
+          31.7052
+        ]
+      },
+      "properties": {
+        "name": "Jagdamba Industrial Estate",
+        "place_id": "ola-platform:5000040159304",
+        "address": "Jagdamba Industrial Estate, Bal Kalan, Punjab, 143008, India",
+        "district": "Amritsar",
+        "state": "Punjab",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Amritsar Punjab",
+        "fetched_at": "2026-04-01T15:55:57.759339"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.8096,
+          31.6295
+        ]
+      },
+      "properties": {
+        "name": "Oswal Factory Outlet Amritsar",
+        "place_id": "ola-platform:5000065246485",
+        "address": "Oswal Factory Outlet Amritsar, Lata Art Gallery, Grand Trunk Rd, Opposite To O.C.M. Mills Gate, Modren Colony, Chheharta, Amritsar, Punjab, 143105, India",
+        "district": "Amritsar",
+        "state": "Punjab",
+        "types": [
+          "clothing_store"
+        ],
+        "query_used": "factory area Amritsar",
+        "fetched_at": "2026-04-01T15:55:57.885386"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.9823,
+          31.584
+        ]
+      },
+      "properties": {
+        "name": "Countryside Factory Outlets Amritsar - Best Shopping Place| Best Brands Mall| Best Mall| Best Brands Outlet In Amritsar",
+        "place_id": "ola-platform:5000222239267",
+        "address": "Countryside Factory Outlets Amritsar - Best Shopping Place| Best Brands Mall| Best Mall| Best Brands Outlet In Amritsar, VPO Manawala, Kalan, Grand Trunk Rd, Near To Delhi Public School, Amritsar, Rakh Jhita, Punjab 143022, India",
+        "district": "Amritsar",
+        "state": "Punjab",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "factory area Amritsar",
+        "fetched_at": "2026-04-01T15:55:57.906034"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.84212,
+          30.66723
+        ]
+      },
+      "properties": {
+        "name": "36, Industrial Area Phase",
+        "place_id": "ola-platform:5000188926911",
+        "address": "36, Industrial Area Phase, 1, Barwala, Panchkula, Haryana, 134113, India",
+        "district": "Barnala",
+        "state": "Punjab",
+        "types": [],
+        "query_used": "industrial area Barnala",
+        "fetched_at": "2026-04-01T15:56:00.615281"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.95418,
+          30.60617
+        ]
+      },
+      "properties": {
+        "name": "136, HSIIDC Industrial Area",
+        "place_id": "ola-platform:5000192079174",
+        "address": "136, HSIIDC Industrial Area, Barwala, Haryana, 134118, India",
+        "district": "Barnala",
+        "state": "Punjab",
+        "types": [],
+        "query_used": "industrial area Barnala",
+        "fetched_at": "2026-04-01T15:56:00.636969"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9535,
+          30.6027
+        ]
+      },
+      "properties": {
+        "name": "Barwala Industrial Estate",
+        "place_id": "ola-platform:5000199563626",
+        "address": "Barwala Industrial Estate, Alipur, Haryana, 134118, India",
+        "district": "Barnala",
+        "state": "Punjab",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Barnala Punjab",
+        "fetched_at": "2026-04-01T15:56:00.755102"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.485,
+          30.3294
+        ]
+      },
+      "properties": {
+        "name": "Skechers Factory Outlet - Barnala, Punjab",
+        "place_id": "ola-platform:5000044004478",
+        "address": "Skechers Factory Outlet - Barnala, Punjab, 14, 15, 16, Eaton Plaza Bathinda To Barnala Road, NH 7, Handiaya, Punjab, 148107, India",
+        "district": "Barnala",
+        "state": "Punjab",
+        "types": [
+          "shoe_store"
+        ],
+        "query_used": "factory area Barnala",
+        "fetched_at": "2026-04-01T15:56:00.850504"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.0638,
+          30.2255
+        ]
+      },
+      "properties": {
+        "name": "NH-7 Highway Barnala Road Bhuchoo Khurd Bathinda",
+        "place_id": "ola-platform:5000037230044",
+        "address": "NH-7 Highway Barnala Road Bhuchoo Khurd Bathinda, NH-7 Factory Outlet Shop No-7, Bucho Khurd, Punjab, 151101, India",
+        "district": "Barnala",
+        "state": "Punjab",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "factory area Barnala",
+        "fetched_at": "2026-04-01T15:56:00.873371"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.9573,
+          30.1736
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000037844016",
+        "address": "Industrial Area, Ganpati Enclave, Bathinda, Punjab, 151001, India",
+        "district": "Bathinda",
+        "state": "Punjab",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Bathinda",
+        "fetched_at": "2026-04-01T15:56:03.990764"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.96053,
+          30.18539
+        ]
+      },
+      "properties": {
+        "name": "1267, Matidas Nagar ITI Industrial Area",
+        "place_id": "ola-platform:5000187322105",
+        "address": "1267, Matidas Nagar ITI Industrial Area, Bhai Mati Das Nagar, Bathinda, Punjab, 151001, India",
+        "district": "Bathinda",
+        "state": "Punjab",
+        "types": [],
+        "query_used": "industrial area Bathinda",
+        "fetched_at": "2026-04-01T15:56:04.016013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.96109,
+          30.18639
+        ]
+      },
+      "properties": {
+        "name": "1140, Matidas Nagar ITI Industrial Area",
+        "place_id": "ola-platform:5000185223106",
+        "address": "1140, Matidas Nagar ITI Industrial Area, Bhai Mati Das Nagar, Bathinda, Punjab, 151001, India",
+        "district": "Bathinda",
+        "state": "Punjab",
+        "types": [],
+        "query_used": "industrial area Bathinda",
+        "fetched_at": "2026-04-01T15:56:04.039699"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.95973,
+          30.18618
+        ]
+      },
+      "properties": {
+        "name": "1178, Matidas Nagar ITI Industrial Area",
+        "place_id": "ola-platform:5000189816916",
+        "address": "1178, Matidas Nagar ITI Industrial Area, Bhai Mati Das Nagar, Bathinda, Punjab, 151001, India",
+        "district": "Bathinda",
+        "state": "Punjab",
+        "types": [],
+        "query_used": "industrial area Bathinda",
+        "fetched_at": "2026-04-01T15:56:04.061745"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.957397,
+          30.187605
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate Bathinda Post Office",
+        "place_id": "ola-platform:5000049632807",
+        "address": "Industrial Estate Bathinda Post Office, Hazi Ratan Nagar, Bathinda, Bathinda Tahsil, Bathinda, Punjab, 151001, India",
+        "district": "Bathinda",
+        "state": "Punjab",
+        "types": [
+          "post_office"
+        ],
+        "query_used": "industrial estate Bathinda Punjab",
+        "fetched_at": "2026-04-01T15:56:04.085492"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.9246,
+          30.2132
+        ]
+      },
+      "properties": {
+        "name": "Tezab Factory Wali Gali Paras Ram Nagar Bathinda",
+        "place_id": "ola-platform:5000061463530",
+        "address": "Tezab Factory Wali Gali Paras Ram Nagar Bathinda, Unnamed Road, Partap Nagar, Bathinda, Punjab, 151001, India",
+        "district": "Bathinda",
+        "state": "Punjab",
+        "types": [
+          "general_contractor"
+        ],
+        "query_used": "factory area Bathinda",
+        "fetched_at": "2026-04-01T15:56:04.176056"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.0625,
+          30.2237
+        ]
+      },
+      "properties": {
+        "name": "Sagar Ratna Nh7 (Sagar Ratna-Factory Outlet Nh7 Bhucho Bathinda)",
+        "place_id": "ola-platform:5000061527010",
+        "address": "Sagar Ratna Nh7 (Sagar Ratna-Factory Outlet Nh7 Bhucho Bathinda), Sagar Ratna-Factory Outlet Nh7 Bhucho Bathinda, Shop No 65 National Highway 7 Bucho Khurd, Distt, Bathinda, Punjab, 151101, India",
+        "district": "Bathinda",
+        "state": "Punjab",
+        "types": [
+          "restaurant",
+          "meal_takeaway",
+          "meal_delivery"
+        ],
+        "query_used": "factory area Bathinda",
+        "fetched_at": "2026-04-01T15:56:04.199723"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.9398,
+          30.2027
+        ]
+      },
+      "properties": {
+        "name": "Eridanus HealthCare - Specialized In Neuropsychiatric Range For Pharma Franchise And Manufacturing",
+        "place_id": "ola-platform:5000067278552",
+        "address": "Eridanus HealthCare - Specialized In Neuropsychiatric Range For Pharma Franchise And Manufacturing, 3361 Mohhalla Serian, Bibi Wala Rd, Telian Wala Mohalla, Old City, Bathinda, Punjab, 151005, India",
+        "district": "Bathinda",
+        "state": "Punjab",
+        "types": [
+          "drugstore",
+          "pharmacy"
+        ],
+        "query_used": "manufacturing hub Bathinda",
+        "fetched_at": "2026-04-01T15:56:04.294309"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.7087,
+          30.6843
+        ]
+      },
+      "properties": {
+        "name": "Faridkot Rd",
+        "place_id": "ola-platform:5000185689919",
+        "address": "Faridkot Rd, Industrial Area, Faridkot, Punjab, 151203, India",
+        "district": "Faridkot",
+        "state": "Punjab",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Faridkot",
+        "fetched_at": "2026-04-01T15:56:09.053525"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.7082,
+          30.6843
+        ]
+      },
+      "properties": {
+        "name": "Faridkot Sadiq Road",
+        "place_id": "ola-platform:5000188772374",
+        "address": "Faridkot Sadiq Road, Faridkot Sadiq Rd, Industrial Area, Faridkot, Punjab, 151203, India",
+        "district": "Faridkot",
+        "state": "Punjab",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Faridkot",
+        "fetched_at": "2026-04-01T15:56:09.078503"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.710845,
+          30.684158
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Faridkot",
+        "place_id": "ola-platform:1051452",
+        "address": "Industrial Area Faridkot, Faridkot, Punjab, India",
+        "district": "Faridkot",
+        "state": "Punjab",
+        "types": [
+          "borough"
+        ],
+        "query_used": "industrial area Faridkot",
+        "fetched_at": "2026-04-01T15:56:09.101887"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.7087,
+          30.6843
+        ]
+      },
+      "properties": {
+        "name": "Sadiq Rd, Industrial Area",
+        "place_id": "ola-platform:5000191021159",
+        "address": "Sadiq Rd, Industrial Area, Faridkot, Punjab, 151203, India",
+        "district": "Faridkot",
+        "state": "Punjab",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Faridkot",
+        "fetched_at": "2026-04-01T15:56:09.123318"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.950515,
+          30.526085
+        ]
+      },
+      "properties": {
+        "name": "Friends Manufacturing Plant",
+        "place_id": "ola-platform:5000062799568",
+        "address": "Friends Manufacturing Plant, Bargari, Jaitu Tahsil, Faridkot, Punjab, 151208, India",
+        "district": "Faridkot",
+        "state": "Punjab",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Faridkot",
+        "fetched_at": "2026-04-01T15:56:09.460209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.29134,
+          30.664234
+        ]
+      },
+      "properties": {
+        "name": "PIMT Focal Point Industrial Area",
+        "place_id": "ola-platform:5000063058499",
+        "address": "PIMT Focal Point Industrial Area, Grand Trunk Road, Mandi Gobindgarh, Amloh Tahsil, Fatehgarh Sahib, Punjab, 147301, India",
+        "district": "Fatehgarh Sahib",
+        "state": "Punjab",
+        "types": [
+          "university"
+        ],
+        "query_used": "industrial area Fatehgarh Sahib",
+        "fetched_at": "2026-04-01T15:56:12.212413"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.1762,
+          30.177
+        ]
+      },
+      "properties": {
+        "name": "Cotton Gining Factory",
+        "place_id": "ola-platform:5000040838106",
+        "address": "Cotton Gining Factory, On Fazilka Road, Abohar, Punjab, 152116, India",
+        "district": "Fazilka",
+        "state": "Punjab",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Fazilka",
+        "fetched_at": "2026-04-01T15:56:15.984094"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.19575,
+          30.142937
+        ]
+      },
+      "properties": {
+        "name": "K.K Punjabi Fancy Juttis Manufacturing Store",
+        "place_id": "ola-platform:5000048114727",
+        "address": "K.K Punjabi Fancy Juttis Manufacturing Store, Abohar, Abohar Tahsil, Fazilka, Punjab, 152116, India",
+        "district": "Fazilka",
+        "state": "Punjab",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Fazilka",
+        "fetched_at": "2026-04-01T15:56:16.067882"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.624784,
+          30.947115
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Ferozepur City Post Office",
+        "place_id": "ola-platform:5000066830074",
+        "address": "Industrial Area Ferozepur City Post Office, Happy Clinic, Sh20, Housing Board Colony, Firozpur, Firozpur Tahsil, Firozpur, Punjab, 152002, India",
+        "district": "Ferozepur",
+        "state": "Punjab",
+        "types": [
+          "post_office"
+        ],
+        "query_used": "industrial area Ferozepur",
+        "fetched_at": "2026-04-01T15:56:19.566316"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.6221,
+          30.9474
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000187070097",
+        "address": "Industrial Area, Kucha Lala Amar Nath Kalra, Phase 2, Model Town, Firozpur, Punjab, 152002, India",
+        "district": "Ferozepur",
+        "state": "Punjab",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Ferozepur",
+        "fetched_at": "2026-04-01T15:56:19.603168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.62143,
+          30.9475
+        ]
+      },
+      "properties": {
+        "name": "43, Industrial Area",
+        "place_id": "ola-platform:5000187931954",
+        "address": "43, Industrial Area, Model Town, Firozpur, Punjab, 152002, India",
+        "district": "Ferozepur",
+        "state": "Punjab",
+        "types": [],
+        "query_used": "industrial area Ferozepur",
+        "fetched_at": "2026-04-01T15:56:19.642384"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.62277,
+          30.94862
+        ]
+      },
+      "properties": {
+        "name": "2, Industrial Area",
+        "place_id": "ola-platform:5000194304715",
+        "address": "2, Industrial Area, Model Town, Firozpur, Punjab, 152002, India",
+        "district": "Ferozepur",
+        "state": "Punjab",
+        "types": [],
+        "query_used": "industrial area Ferozepur",
+        "fetched_at": "2026-04-01T15:56:19.674474"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.62298,
+          30.94729
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000188471844",
+        "address": "Industrial Area, Model Town, Firozpur, Punjab, 152002, India",
+        "district": "Ferozepur",
+        "state": "Punjab",
+        "types": [],
+        "query_used": "industrial area Ferozepur",
+        "fetched_at": "2026-04-01T15:56:19.707634"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.19022,
+          31.82102
+        ]
+      },
+      "properties": {
+        "name": "20-B, Industrial Area- A",
+        "place_id": "ola-platform:5000189064699",
+        "address": "20-B, Industrial Area- A, Batala, Punjab, 143505, India",
+        "district": "Gurdaspur",
+        "state": "Punjab",
+        "types": [],
+        "query_used": "industrial area Gurdaspur",
+        "fetched_at": "2026-04-01T15:56:23.890076"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.20359,
+          31.81952
+        ]
+      },
+      "properties": {
+        "name": "13-A, Industrial Area- A",
+        "place_id": "ola-platform:5000198846145",
+        "address": "13-A, Industrial Area- A, Batala, Punjab, 143505, India",
+        "district": "Gurdaspur",
+        "state": "Punjab",
+        "types": [],
+        "query_used": "industrial area Gurdaspur",
+        "fetched_at": "2026-04-01T15:56:23.934656"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.18899,
+          31.82242
+        ]
+      },
+      "properties": {
+        "name": "13-A, Industrial Estate",
+        "place_id": "ola-platform:5000190616305",
+        "address": "13-A, Industrial Estate, Batala, Punjab, 143505, India",
+        "district": "Gurdaspur",
+        "state": "Punjab",
+        "types": [],
+        "query_used": "industrial estate Gurdaspur Punjab",
+        "fetched_at": "2026-04-01T15:56:24.037323"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2028,
+          31.8186
+        ]
+      },
+      "properties": {
+        "name": "5-B, Industrial Estate",
+        "place_id": "ola-platform:5000196024651",
+        "address": "5-B, Industrial Estate, Batala, Punjab, 143505, India",
+        "district": "Gurdaspur",
+        "state": "Punjab",
+        "types": [],
+        "query_used": "industrial estate Gurdaspur Punjab",
+        "fetched_at": "2026-04-01T15:56:24.067338"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.18942,
+          31.82098
+        ]
+      },
+      "properties": {
+        "name": "29BF, Industrial Estate",
+        "place_id": "ola-platform:5000199841396",
+        "address": "29BF, Industrial Estate, Batala, Punjab, 143505, India",
+        "district": "Gurdaspur",
+        "state": "Punjab",
+        "types": [],
+        "query_used": "industrial estate Gurdaspur Punjab",
+        "fetched_at": "2026-04-01T15:56:24.098593"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.4318,
+          32.052
+        ]
+      },
+      "properties": {
+        "name": "Durgaji Flour Mills 34 Industrial Estate Near New Grain Market",
+        "place_id": "ola-platform:5000190315902",
+        "address": "Durgaji Flour Mills 34 Industrial Estate Near New Grain Market, NH 15, Civil Lines, Gurdaspur, Ram Nagar, Punjab, 143521, India",
+        "district": "Gurdaspur",
+        "state": "Punjab",
+        "types": [],
+        "query_used": "industrial estate Gurdaspur Punjab",
+        "fetched_at": "2026-04-01T15:56:24.126109"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.4153,
+          32.0433
+        ]
+      },
+      "properties": {
+        "name": "Gupta Manufacturing",
+        "place_id": "ola-platform:5000048231078",
+        "address": "Gupta Manufacturing, Railway Rd, Civil Lines, Gurdaspur, Punjab, 143521, India",
+        "district": "Gurdaspur",
+        "state": "Punjab",
+        "types": [
+          "store"
+        ],
+        "query_used": "manufacturing hub Gurdaspur",
+        "fetched_at": "2026-04-01T15:56:24.347858"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.88993,
+          31.52454
+        ]
+      },
+      "properties": {
+        "name": "54, Industrial Area-B",
+        "place_id": "ola-platform:5000201313290",
+        "address": "54, Industrial Area-B, Hoshiarpur, Punjab, 146001, India",
+        "district": "Hoshiarpur",
+        "state": "Punjab",
+        "types": [],
+        "query_used": "industrial area Hoshiarpur",
+        "fetched_at": "2026-04-01T15:56:28.051797"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.76985,
+          31.20234
+        ]
+      },
+      "properties": {
+        "name": "45, Industrial Area",
+        "place_id": "ola-platform:5000190228744",
+        "address": "45, Industrial Area, Hoshiarpur, Phagwara, Punjab, 144401, India",
+        "district": "Hoshiarpur",
+        "state": "Punjab",
+        "types": [],
+        "query_used": "industrial area Hoshiarpur",
+        "fetched_at": "2026-04-01T15:56:28.101368"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8869,
+          31.5215
+        ]
+      },
+      "properties": {
+        "name": "Maruti Suzuki True Value (Hoshiarpur Automobiles, Hoshiarpur, Industrial Area)",
+        "place_id": "ola-platform:5000055174169",
+        "address": "Maruti Suzuki True Value (Hoshiarpur Automobiles, Hoshiarpur, Industrial Area), Opp. ITI, Industrial Area, Hoshiarpur, Punjab 146001, India",
+        "district": "Hoshiarpur",
+        "state": "Punjab",
+        "types": [
+          "car_dealer"
+        ],
+        "query_used": "industrial area Hoshiarpur",
+        "fetched_at": "2026-04-01T15:56:28.147698"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.297134,
+          31.324299
+        ]
+      },
+      "properties": {
+        "name": "Bathu Bathri Industrial Area",
+        "place_id": "ola-platform:5000054259056",
+        "address": "Bathu Bathri Industrial Area, Walia Survey, Garhshankar Tahsil, Hoshiarpur, Punjab, 174301, India",
+        "district": "Hoshiarpur",
+        "state": "Punjab",
+        "types": [
+          "landmark"
+        ],
+        "query_used": "industrial area Hoshiarpur",
+        "fetched_at": "2026-04-01T15:56:28.190023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.959,
+          31.5863
+        ]
+      },
+      "properties": {
+        "name": "Factory Area Chohal Post Office",
+        "place_id": "ola-platform:5000050549305",
+        "address": "Factory Area Chohal Post Office, Hoshiarpur, Punjab, 146024, India",
+        "district": "Hoshiarpur",
+        "state": "Punjab",
+        "types": [
+          "post_office"
+        ],
+        "query_used": "factory area Hoshiarpur",
+        "fetched_at": "2026-04-01T15:56:28.350244"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.96613,
+          31.5924
+        ]
+      },
+      "properties": {
+        "name": "Plot No.56, Near Soap Factory",
+        "place_id": "ola-platform:5000202597314",
+        "address": "Plot No.56, Near Soap Factory, Plot No.56, Near Soap Factory, VPO Chohal, Hoshiarpur, Chohal, Punjab, 146024, India",
+        "district": "Hoshiarpur",
+        "state": "Punjab",
+        "types": [],
+        "query_used": "factory area Hoshiarpur",
+        "fetched_at": "2026-04-01T15:56:28.380816"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.0769,
+          31.3056
+        ]
+      },
+      "properties": {
+        "name": "KPL Factory",
+        "place_id": "ola-platform:5000177327820",
+        "address": "KPL Factory, Saila Khurd, Railway Rd, Hoshiarpur, Punjab, 146109, India",
+        "district": "Hoshiarpur",
+        "state": "Punjab",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Hoshiarpur",
+        "fetched_at": "2026-04-01T15:56:28.437553"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.0769,
+          31.3056
+        ]
+      },
+      "properties": {
+        "name": "Kuantum Paper Mill (KPL Factory)",
+        "place_id": "ola-platform:5000220913816",
+        "address": "Kuantum Paper Mill (KPL Factory), Saila Khurd, Railway Rd, Hoshiarpur, Punjab 146109, India",
+        "district": "Hoshiarpur",
+        "state": "Punjab",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "factory area Hoshiarpur",
+        "fetched_at": "2026-04-01T15:56:28.462363"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.886154,
+          31.521241
+        ]
+      },
+      "properties": {
+        "name": "Allied Trading And Manufacturing Company",
+        "place_id": "ola-platform:5000054507652",
+        "address": "Allied Trading And Manufacturing Company, Hoshiarpur, Hoshiarpur Tahsil, Hoshiarpur, Punjab, 146001, India",
+        "district": "Hoshiarpur",
+        "state": "Punjab",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Hoshiarpur",
+        "fetched_at": "2026-04-01T15:56:28.490779"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.844826,
+          31.499874
+        ]
+      },
+      "properties": {
+        "name": "Sonalika Tractor Factory (Sonalika International Manufacturing Plant)",
+        "place_id": "ola-platform:5000039937268",
+        "address": "Sonalika Tractor Factory (Sonalika International Manufacturing Plant), Hoshiarpur - Jallandhar Road, Deowal, Hoshiarpur Tahsil, Hoshiarpur, Punjab, 146022, India",
+        "district": "Hoshiarpur",
+        "state": "Punjab",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Hoshiarpur",
+        "fetched_at": "2026-04-01T15:56:28.520358"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.910178,
+          31.536256
+        ]
+      },
+      "properties": {
+        "name": "Himachal Manufacturing Traders",
+        "place_id": "ola-platform:5000057028037",
+        "address": "Himachal Manufacturing Traders, Model Town, Hoshiarpur, Hoshiarpur Tahsil, Hoshiarpur, Punjab, 146001, India",
+        "district": "Hoshiarpur",
+        "state": "Punjab",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "manufacturing hub Hoshiarpur",
+        "fetched_at": "2026-04-01T15:56:28.556519"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.9126,
+          31.5313
+        ]
+      },
+      "properties": {
+        "name": "Eastern Manufacturing Co.",
+        "place_id": "ola-platform:5000036371457",
+        "address": "Eastern Manufacturing Co, Railway Rd, Opp. CoOperative Bank, Market, Hoshiarpur, Punjab, 146001, India",
+        "district": "Hoshiarpur",
+        "state": "Punjab",
+        "types": [
+          "bicycle_store"
+        ],
+        "query_used": "manufacturing hub Hoshiarpur",
+        "fetched_at": "2026-04-01T15:56:28.585683"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.843796,
+          31.497778
+        ]
+      },
+      "properties": {
+        "name": "Sonalika International Manufacturing Plant",
+        "place_id": "ola-platform:5000049359194",
+        "address": "Sonalika International Manufacturing Plant, Pandori, Hoshiarpur Tahsil, Hoshiarpur, Punjab, 146022, India",
+        "district": "Hoshiarpur",
+        "state": "Punjab",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Hoshiarpur",
+        "fetched_at": "2026-04-01T15:56:28.611643"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8836,
+          30.8988
+        ]
+      },
+      "properties": {
+        "name": "Jalandhar ByPass",
+        "place_id": "ola-platform:5000186949185",
+        "address": "Jalandhar ByPass, Industrial Area- A, Ludhiana, Punjab, 141008, India",
+        "district": "Jalandhar",
+        "state": "Punjab",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Jalandhar",
+        "fetched_at": "2026-04-01T15:56:31.490689"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5736,
+          31.3466
+        ]
+      },
+      "properties": {
+        "name": "Jalandhar City",
+        "place_id": "ola-platform:5000201420856",
+        "address": "Jalandhar City, Shiv Nagar, Industrial Area, Jalandhar, Punjab, 144001, India",
+        "district": "Jalandhar",
+        "state": "Punjab",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Jalandhar",
+        "fetched_at": "2026-04-01T15:56:31.548556"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8796,
+          30.9101
+        ]
+      },
+      "properties": {
+        "name": "22, Jalandhar ByPass",
+        "place_id": "ola-platform:5000196879292",
+        "address": "22, Jalandhar ByPass, Industrial Area- A, Ludhiana, Punjab, 141008, India",
+        "district": "Jalandhar",
+        "state": "Punjab",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Jalandhar",
+        "fetched_at": "2026-04-01T15:56:31.600022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8796,
+          30.9101
+        ]
+      },
+      "properties": {
+        "name": "79, Jalandhar ByPass",
+        "place_id": "ola-platform:5000190803803",
+        "address": "79, Jalandhar ByPass, Industrial Area- A, Ludhiana, Punjab, 141008, India",
+        "district": "Jalandhar",
+        "state": "Punjab",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Jalandhar",
+        "fetched_at": "2026-04-01T15:56:31.635777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8796,
+          30.9101
+        ]
+      },
+      "properties": {
+        "name": "36, Jalandhar ByPass",
+        "place_id": "ola-platform:5000189835718",
+        "address": "36, Jalandhar ByPass, Industrial Area- A, Ludhiana, Punjab, 141008, India",
+        "district": "Jalandhar",
+        "state": "Punjab",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Jalandhar",
+        "fetched_at": "2026-04-01T15:56:31.673115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.604,
+          31.3418
+        ]
+      },
+      "properties": {
+        "name": "New Industrial Estate A 58. Punjab Jalandhar",
+        "place_id": "ola-platform:5000043517831",
+        "address": "New Industrial Estate A 58. Punjab Jalandhar, Lamba Pind, Jalandhar, Punjab, 144001, India",
+        "district": "Jalandhar",
+        "state": "Punjab",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Jalandhar Punjab",
+        "fetched_at": "2026-04-01T15:56:31.707347"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5574,
+          31.3641
+        ]
+      },
+      "properties": {
+        "name": "TechPro, Jalandhar",
+        "place_id": "ola-platform:5000063105327",
+        "address": "TechPro, Jalandhar, Gurbchan Nagar Factory Area, Opp Verka Milk Plant, G. T. Roadbye Pass, Salempur, Jalandhar, Punjab, 144027, India",
+        "district": "Jalandhar",
+        "state": "Punjab",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "factory area Jalandhar",
+        "fetched_at": "2026-04-01T15:56:31.928458"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.4766,
+          31.0809
+        ]
+      },
+      "properties": {
+        "name": "The Nakodar CoOperative Sugar Mill Factory Area",
+        "place_id": "ola-platform:5000061550701",
+        "address": "The Nakodar CoOperative Sugar Mill Factory Area, Jalandhar, Punjab, 144040, India",
+        "district": "Jalandhar",
+        "state": "Punjab",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Jalandhar",
+        "fetched_at": "2026-04-01T15:56:31.962495"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5131,
+          31.3278
+        ]
+      },
+      "properties": {
+        "name": "Factory Area",
+        "place_id": "ola-platform:5000055540273",
+        "address": "Factory Area, Pushpa Gujral Science City, Jalandhar, Punjab, 144002, India",
+        "district": "Jalandhar",
+        "state": "Punjab",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Jalandhar",
+        "fetched_at": "2026-04-01T15:56:32.109444"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.923,
+          30.9661
+        ]
+      },
+      "properties": {
+        "name": "Garment Factory Jalandhar Bye Pass",
+        "place_id": "ola-platform:5000068639032",
+        "address": "Garment Factory Jalandhar Bye Pass, Jalandhar Bye Pass, Punjab, 141007, India",
+        "district": "Jalandhar",
+        "state": "Punjab",
+        "types": [
+          "bus_station"
+        ],
+        "query_used": "factory area Jalandhar",
+        "fetched_at": "2026-04-01T15:56:32.154325"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5887,
+          31.2963
+        ]
+      },
+      "properties": {
+        "name": "MMD Jalandhar (Moti Mahal Delux)",
+        "place_id": "ola-platform:5000044574419",
+        "address": "MMD Jalandhar (Moti Mahal Delux), Moti Mahal Delux, SCO-117, Phase 2, Urban Estate Phase II, Jalandhar, Punjab, 144022, India",
+        "district": "Jalandhar",
+        "state": "Punjab",
+        "types": [
+          "restaurant",
+          "meal_takeaway",
+          "meal_delivery"
+        ],
+        "query_used": "factory area Jalandhar",
+        "fetched_at": "2026-04-01T15:56:32.191811"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5439,
+          31.3299
+        ]
+      },
+      "properties": {
+        "name": "Tracer Manufacturing Hub",
+        "place_id": "ola-platform:5000050588288",
+        "address": "Tracer Manufacturing Hub, 375, Leather Complex Rd, Basti Bawa Khel, Jalandhar, Punjab, 144002, India",
+        "district": "Jalandhar",
+        "state": "Punjab",
+        "types": [
+          "point_of_interest"
+        ],
+        "query_used": "manufacturing hub Jalandhar",
+        "fetched_at": "2026-04-01T15:56:32.226439"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5124,
+          31.337
+        ]
+      },
+      "properties": {
+        "name": "Harbans Tools Manufacturing Company",
+        "place_id": "ola-platform:5000058846987",
+        "address": "Harbans Tools Manufacturing Company, Try Square, Try Square Angle Cut, Try Square Heavy, Bevel Square, Steel Foot Rool Jalandhar, Sangal Sohal Road, Wariyana, Complex, Jalandhar, Punjab, 144002, India",
+        "district": "Jalandhar",
+        "state": "Punjab",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Jalandhar",
+        "fetched_at": "2026-04-01T15:56:32.253505"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.76956,
+          31.20145
+        ]
+      },
+      "properties": {
+        "name": "1, Industrial Area",
+        "place_id": "ola-platform:5000189195147",
+        "address": "1, Industrial Area, Kapurthala, Phagwara, Punjab, 144401, India",
+        "district": "Kapurthala",
+        "state": "Punjab",
+        "types": [],
+        "query_used": "industrial area Kapurthala",
+        "fetched_at": "2026-04-01T15:56:35.226007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.38585,
+          31.36516
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000191533243",
+        "address": "Industrial Area, New Abadi, Kapurthala, Punjab, 144601, India",
+        "district": "Kapurthala",
+        "state": "Punjab",
+        "types": [],
+        "query_used": "industrial area Kapurthala",
+        "fetched_at": "2026-04-01T15:56:35.325516"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7698,
+          31.2023
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000184103690",
+        "address": "Industrial Area, Phagwara, Punjab, 144401, India",
+        "district": "Kapurthala",
+        "state": "Punjab",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Kapurthala",
+        "fetched_at": "2026-04-01T15:56:35.380175"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.76895,
+          31.20234
+        ]
+      },
+      "properties": {
+        "name": "Sony Industrial Area",
+        "place_id": "ola-platform:5000045435545",
+        "address": "Sony Industrial Area, Tibbi, Chachoki, Phagwara Tahsil, Kapurthala, Punjab, 144401, India",
+        "district": "Kapurthala",
+        "state": "Punjab",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "industrial area Kapurthala",
+        "fetched_at": "2026-04-01T15:56:35.416265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7712,
+          31.2026
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000059986080",
+        "address": "Industrial Area, Hayer Palace Rd, Industrial Area, Phagwara, Punjab, 144401, India",
+        "district": "Kapurthala",
+        "state": "Punjab",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Kapurthala",
+        "fetched_at": "2026-04-01T15:56:35.438252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.342265,
+          31.326194
+        ]
+      },
+      "properties": {
+        "name": "Rail Coach Factory Halt Railway Station",
+        "place_id": "ola-platform:5000205201003",
+        "address": "Rail Coach Factory Halt Railway Station, RCF Colony, Kapurthala, Kapurthala Tahsil, Kapurthala, Punjab, 144620, India",
+        "district": "Kapurthala",
+        "state": "Punjab",
+        "types": [
+          "railway_station"
+        ],
+        "query_used": "MIDC Kapurthala",
+        "fetched_at": "2026-04-01T15:56:35.595544"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3558,
+          31.4354
+        ]
+      },
+      "properties": {
+        "name": "ITC Foods Factory, Kapurthala",
+        "place_id": "ola-platform:5000176810752",
+        "address": "ITC Foods Factory, Kapurthala, ITC, Kapurthala, Jhal Thikriwala, Punjab, 144601, India",
+        "district": "Kapurthala",
+        "state": "Punjab",
+        "types": [
+          "food",
+          "restaurant"
+        ],
+        "query_used": "factory area Kapurthala",
+        "fetched_at": "2026-04-01T15:56:35.647181"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3382,
+          31.3158
+        ]
+      },
+      "properties": {
+        "name": "Admin Block, Rail Coach Factory, Kapurthala",
+        "place_id": "ola-platform:5000049237142",
+        "address": "Admin Block, Rail Coach Factory, Kapurthala, Rail Coach Factory Colony, Kapurthala, Hussainpur, Rasulpur Chisty, Rawal, Punjab, 144602, India",
+        "district": "Kapurthala",
+        "state": "Punjab",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Kapurthala",
+        "fetched_at": "2026-04-01T15:56:35.677387"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3438,
+          31.3192
+        ]
+      },
+      "properties": {
+        "name": "Rail Coach Factory Kapurthala",
+        "place_id": "ola-platform:5000064449319",
+        "address": "Rail Coach Factory Kapurthala, 693-D, Type-2, Hussainpur, Rawal, Punjab, 144602, India",
+        "district": "Kapurthala",
+        "state": "Punjab",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Kapurthala",
+        "fetched_at": "2026-04-01T15:56:35.704218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3401,
+          31.3112
+        ]
+      },
+      "properties": {
+        "name": "Rail Coach Factory Kapurthala",
+        "place_id": "ola-platform:5000220625038",
+        "address": "Rail Coach Factory Kapurthala, RCF Main Road, Hussainpur, Rawal, Mangaroda, Punjab 144602, India",
+        "district": "Kapurthala",
+        "state": "Punjab",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "factory area Kapurthala",
+        "fetched_at": "2026-04-01T15:56:35.729215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5315,
+          31.3542
+        ]
+      },
+      "properties": {
+        "name": "Kapurthala Rail Coach Factory Station",
+        "place_id": "ola-platform:5000040555433",
+        "address": "Kapurthala Rail Coach Factory Station, Nandanpur, Punjab, 144013, India",
+        "district": "Kapurthala",
+        "state": "Punjab",
+        "types": [
+          "gas_station"
+        ],
+        "query_used": "factory area Kapurthala",
+        "fetched_at": "2026-04-01T15:56:35.754496"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3583,
+          31.4351
+        ]
+      },
+      "properties": {
+        "name": "Integrated Foods Manufacturing Facility For ITC Limited (ITC Kapurthala)",
+        "place_id": "ola-platform:5000042064980",
+        "address": "Integrated Foods Manufacturing Facility For ITC Limited (ITC Kapurthala), Jhal Thikriwala, Punjab, 144601, India",
+        "district": "Kapurthala",
+        "state": "Punjab",
+        "types": [
+          "food",
+          "restaurant"
+        ],
+        "query_used": "manufacturing hub Kapurthala",
+        "fetched_at": "2026-04-01T15:56:35.782296"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.39097,
+          31.377747
+        ]
+      },
+      "properties": {
+        "name": "Fabro India Manufacturing Co.",
+        "place_id": "ola-platform:5000050367764",
+        "address": "Fabro India Manufacturing Co, Mdr48, Kapurthala, Kapurthala Tahsil, Kapurthala, Punjab, 144601, India",
+        "district": "Kapurthala",
+        "state": "Punjab",
+        "types": [
+          "hardware_store"
+        ],
+        "query_used": "manufacturing hub Kapurthala",
+        "fetched_at": "2026-04-01T15:56:35.810492"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.554,
+          31.3355
+        ]
+      },
+      "properties": {
+        "name": "Juneja Manufacturing Co.",
+        "place_id": "ola-platform:5000061734353",
+        "address": "Juneja Manufacturing Co, Village Variana, Kapurthala Road, P. O Basti, Opp. Sports College, Mithu Basti, Adarsh Nagar, Jalandhar, Punjab, 144008, India",
+        "district": "Kapurthala",
+        "state": "Punjab",
+        "types": [
+          "point_of_interest"
+        ],
+        "query_used": "manufacturing hub Kapurthala",
+        "fetched_at": "2026-04-01T15:56:35.836594"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.3966,
+          31.3647
+        ]
+      },
+      "properties": {
+        "name": "Kapsyn Manufacturing Company",
+        "place_id": "ola-platform:5000040293256",
+        "address": "Kapsyn Manufacturing Company, New Abadi, Kapurthala, Punjab, 144601, India",
+        "district": "Kapurthala",
+        "state": "Punjab",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Kapurthala",
+        "fetched_at": "2026-04-01T15:56:35.864857"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.772232,
+          31.220905
+        ]
+      },
+      "properties": {
+        "name": "Prince Manufacturing",
+        "place_id": "ola-platform:5000060007203",
+        "address": "Prince Manufacturing, Phagwara, Phagwara Tahsil, Kapurthala, Punjab, 144401, India",
+        "district": "Kapurthala",
+        "state": "Punjab",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "manufacturing hub Kapurthala",
+        "fetched_at": "2026-04-01T15:56:35.888964"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.7423,
+          30.6671
+        ]
+      },
+      "properties": {
+        "name": "Ludhiana CHD. Line",
+        "place_id": "ola-platform:5000190916410",
+        "address": "Ludhiana CHD. Line, Industrial Area, Industrial Area Mohali Phase 9, Sahibzada Ajit Singh Nagar, Punjab, 160062, India",
+        "district": "Ludhiana",
+        "state": "Punjab",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Ludhiana",
+        "fetched_at": "2026-04-01T15:56:38.710472"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.85852,
+          30.88578
+        ]
+      },
+      "properties": {
+        "name": "1045, Ludhiana - Sangrur Rd",
+        "place_id": "ola-platform:5000188188897",
+        "address": "1045, Ludhiana - Sangrur Rd, Industrial Area-B, Ludhiana, Punjab, 141003, India",
+        "district": "Ludhiana",
+        "state": "Punjab",
+        "types": [],
+        "query_used": "industrial area Ludhiana",
+        "fetched_at": "2026-04-01T15:56:38.746018"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.85852,
+          30.88586
+        ]
+      },
+      "properties": {
+        "name": "819, Ludhiana - Sangrur Rd",
+        "place_id": "ola-platform:5000187042485",
+        "address": "819, Ludhiana - Sangrur Rd, Industrial Area-B, Ludhiana, Punjab, 141003, India",
+        "district": "Ludhiana",
+        "state": "Punjab",
+        "types": [],
+        "query_used": "industrial area Ludhiana",
+        "fetched_at": "2026-04-01T15:56:38.785623"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.85852,
+          30.8859
+        ]
+      },
+      "properties": {
+        "name": "707, Ludhiana - Sangrur Rd",
+        "place_id": "ola-platform:5000196980426",
+        "address": "707, Ludhiana - Sangrur Rd, Industrial Area-B, Ludhiana, Punjab, 141003, India",
+        "district": "Ludhiana",
+        "state": "Punjab",
+        "types": [],
+        "query_used": "industrial area Ludhiana",
+        "fetched_at": "2026-04-01T15:56:38.823666"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.85864,
+          30.88647
+        ]
+      },
+      "properties": {
+        "name": "16, Ludhiana - Sangrur Rd",
+        "place_id": "ola-platform:5000188804797",
+        "address": "16, Ludhiana - Sangrur Rd, Industrial Area-B, Ludhiana, Punjab, 141003, India",
+        "district": "Ludhiana",
+        "state": "Punjab",
+        "types": [],
+        "query_used": "industrial area Ludhiana",
+        "fetched_at": "2026-04-01T15:56:38.861805"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8942,
+          30.9174
+        ]
+      },
+      "properties": {
+        "name": "Amarpuri Gaispura Ludhiana Punjab",
+        "place_id": "ola-platform:5000046626271",
+        "address": "Amarpuri Gaispura Ludhiana Punjab, B, Main Industrial Estate, 29, Street Number 3, Geeta Nagar, Amarpuri, Giaspura, Ludhiana, Punjab, 141008, India",
+        "district": "Ludhiana",
+        "state": "Punjab",
+        "types": [
+          "point_of_interest"
+        ],
+        "query_used": "industrial estate Ludhiana Punjab",
+        "fetched_at": "2026-04-01T15:56:38.902440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.865444,
+          30.891838
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:5000068211453",
+        "address": "Industrial Estate, Ludhiana, Ludhiana (West) Tahsil, Ludhiana, Punjab, 141003, India",
+        "district": "Ludhiana",
+        "state": "Punjab",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Ludhiana Punjab",
+        "fetched_at": "2026-04-01T15:56:38.944650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.841312,
+          30.95518
+        ]
+      },
+      "properties": {
+        "name": "Mahavirji Industrial Estate",
+        "place_id": "ola-platform:5000060475585",
+        "address": "Mahavirji Industrial Estate, Bahadarke, Ludhiana (West) Tahsil, Ludhiana, Punjab, 141008, India",
+        "district": "Ludhiana",
+        "state": "Punjab",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Ludhiana Punjab",
+        "fetched_at": "2026-04-01T15:56:38.980262"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.03429,
+          30.877395
+        ]
+      },
+      "properties": {
+        "name": "Bhagpur Industrial Estate",
+        "place_id": "ola-platform:5000038092366",
+        "address": "Bhagpur Industrial Estate, Odr17, Kohara, Ludhiana (East) Tahsil, Ludhiana, Punjab, 141112, India",
+        "district": "Ludhiana",
+        "state": "Punjab",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Ludhiana Punjab",
+        "fetched_at": "2026-04-01T15:56:39.018733"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8665,
+          30.8921
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:5000191787567",
+        "address": "Industrial Estate, Miller Ganj, Ludhiana, Punjab, 141003, India",
+        "district": "Ludhiana",
+        "state": "Punjab",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Ludhiana Punjab",
+        "fetched_at": "2026-04-01T15:56:39.054785"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.93599,
+          30.87443
+        ]
+      },
+      "properties": {
+        "name": "Deepak Factory Area Tea Stall",
+        "place_id": "ola-platform:5000037439998",
+        "address": "Deepak Factory Area Tea Stall, Focal Point Phase 6, Focal Point, Ludhiana, Punjab, 141010, India",
+        "district": "Ludhiana",
+        "state": "Punjab",
+        "types": [
+          "food",
+          "restaurant"
+        ],
+        "query_used": "factory area Ludhiana",
+        "fetched_at": "2026-04-01T15:56:39.123561"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8923,
+          30.8808
+        ]
+      },
+      "properties": {
+        "name": "Monte Carlo Factory Outlet Ludhiana",
+        "place_id": "ola-platform:5000045815623",
+        "address": "Monte Carlo Factory Outlet Ludhiana, Monte Carlo, Grand Trunk Rd, Industrial Area C, Sherpur, Ludhiana, Punjab, 141014, India",
+        "district": "Ludhiana",
+        "state": "Punjab",
+        "types": [
+          "clothing_store"
+        ],
+        "query_used": "factory area Ludhiana",
+        "fetched_at": "2026-04-01T15:56:39.155643"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.0281,
+          30.8603
+        ]
+      },
+      "properties": {
+        "name": "Skechers Factory Outlet - Kohara, Ludhiana",
+        "place_id": "ola-platform:5000060912813",
+        "address": "Skechers Factory Outlet - Kohara, Ludhiana, Skechers Outlet, Shop No 7/8/9, Shopping Complex, Kohara, Punjab, 141112, India",
+        "district": "Ludhiana",
+        "state": "Punjab",
+        "types": [
+          "shoe_store"
+        ],
+        "query_used": "factory area Ludhiana",
+        "fetched_at": "2026-04-01T15:56:39.193526"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8422,
+          30.8993
+        ]
+      },
+      "properties": {
+        "name": "Freedom Mattress Factory Outlet Ludhiana",
+        "place_id": "ola-platform:5000064379300",
+        "address": "Freedom Mattress Factory Outlet Ludhiana, Jawaharnagar, Ludhiana, Punjab, 141002, India",
+        "district": "Ludhiana",
+        "state": "Punjab",
+        "types": [
+          "furniture_store"
+        ],
+        "query_used": "factory area Ludhiana",
+        "fetched_at": "2026-04-01T15:56:39.230061"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8974,
+          30.8822
+        ]
+      },
+      "properties": {
+        "name": "Aggarwal Manufacturing Co. Ludhiana",
+        "place_id": "ola-platform:5000066879177",
+        "address": "Aggarwal Manufacturing Co. Ludhiana, Focal Point, Ludhiana, Punjab, 141010, India",
+        "district": "Ludhiana",
+        "state": "Punjab",
+        "types": [
+          "point_of_interest"
+        ],
+        "query_used": "manufacturing hub Ludhiana",
+        "fetched_at": "2026-04-01T15:56:39.293339"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8864,
+          30.8228
+        ]
+      },
+      "properties": {
+        "name": "Gill Furniture House - Best Furniture Showroom In Ludhiana/bed/almirah/sofa/dining Table Manufacturing Showroom In Ludhiana",
+        "place_id": "ola-platform:5000221199159",
+        "address": "Gill Furniture House - Best Furniture Showroom In Ludhiana/bed/almirah/sofa/dining Table Manufacturing Showroom In Ludhiana, Rania Road, Sangowal, Punjab 141122, India",
+        "district": "Ludhiana",
+        "state": "Punjab",
+        "types": [
+          "furniture_store"
+        ],
+        "query_used": "manufacturing hub Ludhiana",
+        "fetched_at": "2026-04-01T15:56:39.327540"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.0975,
+          30.8483
+        ]
+      },
+      "properties": {
+        "name": "Sel Manufacturing Company Limited, Village Lal Kalan Near Neelon Canal Bridge, Ludhiana",
+        "place_id": "ola-platform:5000043525730",
+        "address": "Sel Manufacturing Company Limited, Village Lal Kalan Near Neelon Canal Bridge, Ludhiana, Punjab, 141421, India",
+        "district": "Ludhiana",
+        "state": "Punjab",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Ludhiana",
+        "fetched_at": "2026-04-01T15:56:39.359164"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8557,
+          30.8848
+        ]
+      },
+      "properties": {
+        "name": "Aico Auto Industries - Best Hex Nuts, Tapper Nut, U Bolt Nut, Nylock Nuts, Castle Nuts, Steel Bush Manufacturing In Ludhiana",
+        "place_id": "ola-platform:5000037968655",
+        "address": "Aico Auto Industries - Best Hex Nuts, Tapper Nut, U Bolt Nut, Nylock Nuts, Castle Nuts, Steel Bush Manufacturing In Ludhiana, 1424, Street Number 12, 3 R, Dasmesh Nagar, New Kartar Nagar, Ludhiana, Punjab, 141003, India",
+        "district": "Ludhiana",
+        "state": "Punjab",
+        "types": [
+          "hardware_store"
+        ],
+        "query_used": "manufacturing hub Ludhiana",
+        "fetched_at": "2026-04-01T15:56:39.391404"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.873258,
+          30.512126
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000062050387",
+        "address": "Industrial Area, Malerkotla, Malerkotla Tahsil, Malerkotla, Punjab, 148023, India",
+        "district": "Malerkotla",
+        "state": "Punjab",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Malerkotla",
+        "fetched_at": "2026-04-01T15:56:41.799885"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.87314,
+          30.51207
+        ]
+      },
+      "properties": {
+        "name": "74, Industrial Area",
+        "place_id": "ola-platform:5000186203680",
+        "address": "74, Industrial Area, Malerkotla, Punjab, 148023, India",
+        "district": "Malerkotla",
+        "state": "Punjab",
+        "types": [],
+        "query_used": "industrial area Malerkotla",
+        "fetched_at": "2026-04-01T15:56:41.826105"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.56771,
+          31.35134
+        ]
+      },
+      "properties": {
+        "name": "56, Industrial Area",
+        "place_id": "ola-platform:5000198270353",
+        "address": "56, Industrial Area, Malerkotla, Jalandhar, Punjab, 144001, India",
+        "district": "Malerkotla",
+        "state": "Punjab",
+        "types": [],
+        "query_used": "industrial area Malerkotla",
+        "fetched_at": "2026-04-01T15:56:41.850079"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5752,
+          31.3486
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000035159775",
+        "address": "Industrial Area, Chahal Industrial Corporation, Industrial Area, Malerkotla, Punjab, 144001, India",
+        "district": "Malerkotla",
+        "state": "Punjab",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Malerkotla",
+        "fetched_at": "2026-04-01T15:56:41.872824"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8795,
+          30.5105
+        ]
+      },
+      "properties": {
+        "name": "Arihant Spaining Mills Malarkotla Punjab.",
+        "place_id": "ola-platform:5000050863013",
+        "address": "Arihant Spaining Mills Malarkotla Punjab, A-6 Industrial Estate, Somsons Colony, Malerkotla, Punjab, 148023, India",
+        "district": "Malerkotla",
+        "state": "Punjab",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Malerkotla Punjab",
+        "fetched_at": "2026-04-01T15:56:41.919352"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.00682,
+          30.48032
+        ]
+      },
+      "properties": {
+        "name": "Perfect Manufacturing Industries",
+        "place_id": "ola-platform:5000177140249",
+        "address": "Perfect Manufacturing Industries, Malerkotla Road Amargarh Amargarh Amargarh, 148022, India",
+        "district": "Malerkotla",
+        "state": "Punjab",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "manufacturing hub Malerkotla",
+        "fetched_at": "2026-04-01T15:56:42.411917"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.692548,
+          30.711451
+        ]
+      },
+      "properties": {
+        "name": "Medpark Hospital, Mohali",
+        "place_id": "ola-platform:5000328388394",
+        "address": "Medpark Hospital, Mohali, F 205 Phase 8b Phase 8B Industrial Area Sector 74 Sahibzada Ajit Singh Nagar Punjab 140307",
+        "district": "Moga",
+        "state": "Punjab",
+        "types": [
+          "hospital"
+        ],
+        "query_used": "industrial area Moga",
+        "fetched_at": "2026-04-01T15:56:48.029703"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5732,
+          31.3525
+        ]
+      },
+      "properties": {
+        "name": "Moga Sokra Pharmacy",
+        "place_id": "ola-platform:5000221417929",
+        "address": "Moga Sokra Pharmacy, E-2, Industrial Area, Jalandhar, Punjab 144001, India",
+        "district": "Moga",
+        "state": "Punjab",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial area Moga",
+        "fetched_at": "2026-04-01T15:56:48.102283"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8796,
+          30.9008
+        ]
+      },
+      "properties": {
+        "name": "Moga Road Service & Transport Co.",
+        "place_id": "ola-platform:5000057206846",
+        "address": "Moga Road Service & Transport Co, Shop No. 1, 1st Floor, Transport Nagar, Industrial Area- A, Ludhiana, Punjab, 141008, India",
+        "district": "Moga",
+        "state": "Punjab",
+        "types": [
+          "moving_company"
+        ],
+        "query_used": "industrial area Moga",
+        "fetched_at": "2026-04-01T15:56:48.135985"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.194336,
+          30.819931
+        ]
+      },
+      "properties": {
+        "name": "Deepa Daudharia Truck Trailer Tipper Body Manufacturing Company Moga Punjab",
+        "place_id": "ola-platform:5000035869879",
+        "address": "Deepa Daudharia Truck Trailer Tipper Body Manufacturing Company Moga Punjab, Moga, Moga Tahsil, Moga, Punjab, 142001, India",
+        "district": "Moga",
+        "state": "Punjab",
+        "types": [
+          "car_repair"
+        ],
+        "query_used": "manufacturing hub Moga",
+        "fetched_at": "2026-04-01T15:56:48.429474"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.58509,
+          31.34429
+        ]
+      },
+      "properties": {
+        "name": "Pathankot Rd",
+        "place_id": "ola-platform:5000183698803",
+        "address": "Pathankot Rd, Shiv Nagar, Industrial Area, Jalandhar, Punjab, 144001, India",
+        "district": "Pathankot",
+        "state": "Punjab",
+        "types": [],
+        "query_used": "industrial area Pathankot",
+        "fetched_at": "2026-04-01T15:56:51.508187"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5859,
+          31.346
+        ]
+      },
+      "properties": {
+        "name": "The Jalandhar Central CoOperative Bank Ltd. - Industrial Area",
+        "place_id": "ola-platform:5000064970370",
+        "address": "The Jalandhar Central CoOperative Bank Ltd. - Industrial Area, Pathankot Rd, Tanda Road, Opp. K.M.V. Marg, Near Domino's, Aman Nagar, Jalandhar, Punjab, 144001, India",
+        "district": "Pathankot",
+        "state": "Punjab",
+        "types": [
+          "finance"
+        ],
+        "query_used": "industrial area Pathankot",
+        "fetched_at": "2026-04-01T15:56:51.541270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5844,
+          31.3536
+        ]
+      },
+      "properties": {
+        "name": "Chawla Manufacturing Industries",
+        "place_id": "ola-platform:5000068378479",
+        "address": "Chawla Manufacturing Industries, No.83, Pathankot Byepass, Aman Nagar, Jalandhar, Punjab, 144001, India",
+        "district": "Pathankot",
+        "state": "Punjab",
+        "types": [
+          "store"
+        ],
+        "query_used": "manufacturing hub Pathankot",
+        "fetched_at": "2026-04-01T15:56:51.972831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5974,
+          31.3515
+        ]
+      },
+      "properties": {
+        "name": "Ajay Manufacturing Company - Bench Vice - Grease Bucket Pump",
+        "place_id": "ola-platform:5000058688791",
+        "address": "Ajay Manufacturing Company - Bench Vice - Grease Bucket Pump, B-22 Industrial Estate, Near Pathankot Chowk, Div Colony, Industrial Development Colony, Jalandhar, Punjab, 144025, India",
+        "district": "Pathankot",
+        "state": "Punjab",
+        "types": [
+          "gas_station"
+        ],
+        "query_used": "manufacturing hub Pathankot",
+        "fetched_at": "2026-04-01T15:56:52.009359"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.33301,
+          30.05044
+        ]
+      },
+      "properties": {
+        "name": "52, Patiala Rd",
+        "place_id": "ola-platform:5000192192667",
+        "address": "52, Patiala Rd, Industrial Area, Cheeka, Haryana, 136034, India",
+        "district": "Patiala",
+        "state": "Punjab",
+        "types": [],
+        "query_used": "industrial area Patiala",
+        "fetched_at": "2026-04-01T15:56:54.390697"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.864031,
+          30.899898
+        ]
+      },
+      "properties": {
+        "name": "Sbi;state Bank Of Patiala (State Bank Of India)",
+        "place_id": "ola-platform:5000039070723",
+        "address": "Sbi;state Bank Of Patiala (State Bank Of India), Industrial Area'a'Chowk Sufian, Ludhiana, 141003INDUSTRIAL Area, 1, Ludhiana, Punjab, 141003",
+        "district": "Patiala",
+        "state": "Punjab",
+        "types": [
+          "bank"
+        ],
+        "query_used": "industrial area Patiala",
+        "fetched_at": "2026-04-01T15:56:54.431352"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.39987,
+          30.36784
+        ]
+      },
+      "properties": {
+        "name": "17-B Patiala Industrial Estate",
+        "place_id": "ola-platform:5000189249230",
+        "address": "17-B Patiala Industrial Estate, Sirhind Rd, Ekta Colony, Green Park Colony, Patiala, Punjab, 147004, India",
+        "district": "Patiala",
+        "state": "Punjab",
+        "types": [],
+        "query_used": "industrial estate Patiala Punjab",
+        "fetched_at": "2026-04-01T15:56:54.514750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.402,
+          30.3599
+        ]
+      },
+      "properties": {
+        "name": "State Bank Of India Patiala Industrial Estate",
+        "place_id": "ola-platform:5000047678137",
+        "address": "State Bank Of India Patiala Industrial Estate, New Grain Market, Sirhind Rd, Harman Colony, Phase I, Harinder Nagar, Patiala, Punjab, 147004, India",
+        "district": "Patiala",
+        "state": "Punjab",
+        "types": [
+          "bank"
+        ],
+        "query_used": "industrial estate Patiala Punjab",
+        "fetched_at": "2026-04-01T15:56:54.550077"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6259,
+          30.4696
+        ]
+      },
+      "properties": {
+        "name": "Vividha Industrial Estate",
+        "place_id": "ola-platform:5000047304219",
+        "address": "Vividha Industrial Estate, Patiala, Punjab, 140402, India",
+        "district": "Patiala",
+        "state": "Punjab",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Patiala Punjab",
+        "fetched_at": "2026-04-01T15:56:54.632953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.402881,
+          30.344537
+        ]
+      },
+      "properties": {
+        "name": "Factory Area",
+        "place_id": "ola-platform:1050557",
+        "address": "Factory Area, Patiala, Punjab, India",
+        "district": "Patiala",
+        "state": "Punjab",
+        "types": [
+          "borough"
+        ],
+        "query_used": "factory area Patiala",
+        "fetched_at": "2026-04-01T15:56:54.712489"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.401471,
+          30.346757
+        ]
+      },
+      "properties": {
+        "name": "BTC Company 14 Factory Area",
+        "place_id": "ola-platform:5000055871429",
+        "address": "BTC Company 14 Factory Area, Patiala, Patiala Tahsil, Patiala, Punjab, 147007, India",
+        "district": "Patiala",
+        "state": "Punjab",
+        "types": [
+          "premise"
+        ],
+        "query_used": "factory area Patiala",
+        "fetched_at": "2026-04-01T15:56:54.744633"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.401556,
+          30.347076
+        ]
+      },
+      "properties": {
+        "name": "Factory Area Complaint Centre",
+        "place_id": "ola-platform:5000063918573",
+        "address": "Factory Area Complaint Centre, Patiala, Patiala Tahsil, Patiala, Punjab, 147007, India",
+        "district": "Patiala",
+        "state": "Punjab",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "factory area Patiala",
+        "fetched_at": "2026-04-01T15:56:54.789395"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.40114,
+          30.348717
+        ]
+      },
+      "properties": {
+        "name": "Upkar Nagar Factory Area",
+        "place_id": "ola-platform:5000067836740",
+        "address": "Upkar Nagar Factory Area, Patiala, Patiala Tahsil, Patiala, Punjab, 147007, India",
+        "district": "Patiala",
+        "state": "Punjab",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Patiala",
+        "fetched_at": "2026-04-01T15:56:54.834154"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.373474,
+          30.328377
+        ]
+      },
+      "properties": {
+        "name": "Patiala Distillery Manufacturing Ltd.",
+        "place_id": "ola-platform:5000066710835",
+        "address": "Patiala Distillery Manufacturing Ltd, Patiala, Patiala Tahsil, Patiala, Punjab, 147007, India",
+        "district": "Patiala",
+        "state": "Punjab",
+        "types": [
+          "bar"
+        ],
+        "query_used": "manufacturing hub Patiala",
+        "fetched_at": "2026-04-01T15:56:54.909174"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3444,
+          31.3779
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Rd",
+        "place_id": "ola-platform:5000198738079",
+        "address": "Industrial Area Rd, Naya Nangal, Punjab, 140126, India",
+        "district": "Rupnagar",
+        "state": "Punjab",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Rupnagar",
+        "fetched_at": "2026-04-01T15:56:57.658130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.363665,
+          31.37559
+        ]
+      },
+      "properties": {
+        "name": "Factory Area Nangal Post Office",
+        "place_id": "ola-platform:5000049440846",
+        "address": "Factory Area Nangal Post Office, Swami Gupta Nand Marg, Nangal Tahsil, Rupnagar, Punjab, 140124, India",
+        "district": "Rupnagar",
+        "state": "Punjab",
+        "types": [
+          "post_office"
+        ],
+        "query_used": "factory area Rupnagar",
+        "fetched_at": "2026-04-01T15:56:57.932125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6873,
+          30.7117
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area SAS Nagar",
+        "place_id": "ola-platform:5000056916046",
+        "address": "Industrial Area SAS Nagar, iON Digital Zone IDZ Mohali Plot No E-260, Focal Point, B A, Near Old SBI Building, Phase 8B, Industrial Area, Sector 74, Sahibzada Ajit Singh Nagar, Punjab, 140307, India",
+        "district": "SAS Nagar",
+        "state": "Punjab",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area SAS Nagar",
+        "fetched_at": "2026-04-01T15:57:00.712480"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7911,
+          30.2188
+        ]
+      },
+      "properties": {
+        "name": "Vaid Dhanvantari Ayurveda- Best Ayurvedic Third Party Manufacturer | Herbal Medicine Manufacturing Company In India",
+        "place_id": "ola-platform:5000057508923",
+        "address": "Vaid Dhanvantari Ayurveda- Best Ayurvedic Third Party Manufacturer | Herbal Medicine Manufacturing Company In India, Sangrur - Ubhawal Rd, Near Bansal Brick Kiln, Sangrur, Punjab, 148002, India",
+        "district": "Sangrur",
+        "state": "Punjab",
+        "types": [
+          "health"
+        ],
+        "query_used": "manufacturing hub Sangrur",
+        "fetched_at": "2026-04-01T15:57:04.824345"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8019,
+          30.12876
+        ]
+      },
+      "properties": {
+        "name": "Jhanil Health Care Private Limited - Stevia Manufacturing Company India",
+        "place_id": "ola-platform:5000050692316",
+        "address": "Jhanil Health Care Private Limited - Stevia Manufacturing Company India, Sunam, Sunam Tahsil, Sangrur, Punjab, 148028, India",
+        "district": "Sangrur",
+        "state": "Punjab",
+        "types": [
+          "health"
+        ],
+        "query_used": "manufacturing hub Sangrur",
+        "fetched_at": "2026-04-01T15:57:04.852979"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.70998,
+          30.64293
+        ]
+      },
+      "properties": {
+        "name": "1304, Sector 82 JLPL Industrial Area SBS Nagar",
+        "place_id": "ola-platform:5000188039233",
+        "address": "1304, Sector 82 JLPL Industrial Area SBS Nagar, JLPL Industrial Area, Manauli, Punjab, 140306, India",
+        "district": "SBS Nagar",
+        "state": "Punjab",
+        "types": [],
+        "query_used": "industrial area SBS Nagar",
+        "fetched_at": "2026-04-01T15:57:07.182706"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.51134,
+          30.16522
+        ]
+      },
+      "properties": {
+        "name": "Plot No.C-90 91, Near Focal Point Industrial Area",
+        "place_id": "ola-platform:5000184140393",
+        "address": "Plot No.C-90 91, Near Focal Point Industrial Area, Malout, Punjab, 152107, India",
+        "district": "Sri Muktsar Sahib",
+        "state": "Punjab",
+        "types": [],
+        "query_used": "industrial area Sri Muktsar Sahib",
+        "fetched_at": "2026-04-01T15:57:10.076441"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1494,
+          31.3515
+        ]
+      },
+      "properties": {
+        "name": "JNV Tarn Taran (Jawahar Navodaya Vidyalaya JNV, Goindwal Sahib)",
+        "place_id": "ola-platform:5000039978266",
+        "address": "JNV Tarn Taran (Jawahar Navodaya Vidyalaya JNV, Goindwal Sahib), Jawahar Navodaya Vidyalaya JNV, Goindwal Sahib, Industrial Area, Phase-1, Khakh, Goindwal Sahib, Goindwal, Punjab, 143422, India",
+        "district": "Tarn Taran",
+        "state": "Punjab",
+        "types": [
+          "school",
+          "premise",
+          "primary_school"
+        ],
+        "query_used": "industrial area Tarn Taran",
+        "fetched_at": "2026-04-01T15:57:13.199648"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.86149,
+          30.89501
+        ]
+      },
+      "properties": {
+        "name": "502, Tarundeep Market",
+        "place_id": "ola-platform:5000194375744",
+        "address": "502, Tarundeep Market, Industrial Area-B, Ludhiana, Punjab, 141003, India",
+        "district": "Tarn Taran",
+        "state": "Punjab",
+        "types": [],
+        "query_used": "industrial area Tarn Taran",
+        "fetched_at": "2026-04-01T15:57:13.325537"
+      }
+    }
+  ]
+}

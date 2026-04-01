@@ -1,0 +1,1062 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.9898,
+          19.0745
+        ]
+      },
+      "properties": {
+        "name": "Plot No 10, Geedam Road Industrial Area",
+        "place_id": "ola-platform:5000188442518",
+        "address": "Plot No 10, Geedam Road Industrial Area, Parpa, Chhattisgarh, 494001, India",
+        "district": "Bastar",
+        "state": "Chhattisgarh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Bastar",
+        "fetched_at": "2026-04-01T15:39:01.140883"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.1386,
+          22.0432
+        ]
+      },
+      "properties": {
+        "name": "Sirgitti Industrial Area",
+        "place_id": "ola-platform:5000191193996",
+        "address": "Sirgitti Industrial Area, 118-A, Sector-B, Tifra, Bilaspur, Chhattisgarh, 495223, India",
+        "district": "Bilaspur",
+        "state": "Chhattisgarh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Bilaspur",
+        "fetched_at": "2026-04-01T15:39:14.893489"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.16341,
+          22.04105
+        ]
+      },
+      "properties": {
+        "name": "30a, Industrial Area",
+        "place_id": "ola-platform:5000195034763",
+        "address": "30a, Industrial Area, Bilaspur, Chhattisgarh, 495223, India",
+        "district": "Bilaspur",
+        "state": "Chhattisgarh",
+        "types": [],
+        "query_used": "industrial area Bilaspur",
+        "fetched_at": "2026-04-01T15:39:14.922465"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.12482,
+          22.07304
+        ]
+      },
+      "properties": {
+        "name": "27-A, Industrial Area",
+        "place_id": "ola-platform:5000192538327",
+        "address": "27-A, Industrial Area, Tifra, Bilaspur, Chhattisgarh, 495223, India",
+        "district": "Bilaspur",
+        "state": "Chhattisgarh",
+        "types": [],
+        "query_used": "industrial area Bilaspur",
+        "fetched_at": "2026-04-01T15:39:14.946525"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.1119,
+          22.064
+        ]
+      },
+      "properties": {
+        "name": "Sirgitti Industrial Area",
+        "place_id": "ola-platform:5000193386428",
+        "address": "Sirgitti Industrial Area, Sector D Main Rd, Sector D, Tifra, Bilaspur, Chhattisgarh, 495223, India",
+        "district": "Bilaspur",
+        "state": "Chhattisgarh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Bilaspur",
+        "fetched_at": "2026-04-01T15:39:14.969530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.129828,
+          22.045852
+        ]
+      },
+      "properties": {
+        "name": "Sirgitti Industrial Area",
+        "place_id": "ola-platform:5000058993026",
+        "address": "Sirgitti Industrial Area, Bilaspur, Bilaspur Tahsil, Bilaspur, Chhattisgarh, 495223, India",
+        "district": "Bilaspur",
+        "state": "Chhattisgarh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Bilaspur",
+        "fetched_at": "2026-04-01T15:39:14.994951"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.1303,
+          22.0719
+        ]
+      },
+      "properties": {
+        "name": "Anand Plastic Industries 18 B Industrial Estate Tifra Bilaspur Chattisgarh",
+        "place_id": "ola-platform:5000066700637",
+        "address": "Anand Plastic Industries 18 B Industrial Estate Tifra Bilaspur Chattisgarh, Anand Plastic Industries 18 B Industrial Estate, Tifra, Bilaspur, Chhattisgarh, 495223, India",
+        "district": "Bilaspur",
+        "state": "Chhattisgarh",
+        "types": [
+          "storage"
+        ],
+        "query_used": "industrial estate Bilaspur Chhattisgarh",
+        "fetched_at": "2026-04-01T15:39:15.019525"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.4118,
+          21.8962
+        ]
+      },
+      "properties": {
+        "name": "Pandit Sundarlal Sharma Vishwavidyalay Chhattisgarh Bilaspur Adhyayan Kendra Raigarh",
+        "place_id": "ola-platform:5000066049864",
+        "address": "Pandit Sundarlal Sharma Vishwavidyalay Chhattisgarh Bilaspur Adhyayan Kendra Raigarh, 2, Industrial Estate, Near Raigarh Stadium, Housing Board Colony, Vinoba Nagar, Raigarh, Chhattisgarh, 496001, India",
+        "district": "Bilaspur",
+        "state": "Chhattisgarh",
+        "types": [
+          "university"
+        ],
+        "query_used": "industrial estate Bilaspur Chhattisgarh",
+        "fetched_at": "2026-04-01T15:39:15.038937"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.1748,
+          22.0699
+        ]
+      },
+      "properties": {
+        "name": "Thyrocare Diagnostic Lab | Blood Test Centre - Bilaspur Industrial Estate, Bilaspur",
+        "place_id": "ola-platform:5000219952985",
+        "address": "Thyrocare Diagnostic Lab | Blood Test Centre - Bilaspur Industrial Estate, Bilaspur, Shishmahal Parisar, Raghvendra Bhawan Chowk, Tarbahar Chowk, Bilaspurcgh, Chhattisgarh 495004, India",
+        "district": "Bilaspur",
+        "state": "Chhattisgarh",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial estate Bilaspur Chhattisgarh",
+        "fetched_at": "2026-04-01T15:39:15.062231"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.13008,
+          22.07363
+        ]
+      },
+      "properties": {
+        "name": "6A, Industrial Estate",
+        "place_id": "ola-platform:5000184803367",
+        "address": "6A, Industrial Estate, Tifra, Bilaspur, Chhattisgarh, 495223, India",
+        "district": "Bilaspur",
+        "state": "Chhattisgarh",
+        "types": [],
+        "query_used": "industrial estate Bilaspur Chhattisgarh",
+        "fetched_at": "2026-04-01T15:39:15.084366"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.1299,
+          22.0723
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:5000197150171",
+        "address": "Industrial Estate, 21-A, Tifra, Bilaspur, Chhattisgarh, 495223, India",
+        "district": "Bilaspur",
+        "state": "Chhattisgarh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Bilaspur Chhattisgarh",
+        "fetched_at": "2026-04-01T15:39:15.104643"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.1276,
+          22.1402
+        ]
+      },
+      "properties": {
+        "name": "Fly Ash Brick Factory",
+        "place_id": "ola-platform:5000185568731",
+        "address": "Fly Ash Brick Factory, Koni, Bilaspur, Chhattisgarh, 495009, India",
+        "district": "Bilaspur",
+        "state": "Chhattisgarh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Bilaspur",
+        "fetched_at": "2026-04-01T15:39:15.153426"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.1328,
+          22.1222
+        ]
+      },
+      "properties": {
+        "name": "Gudakhu Factory",
+        "place_id": "ola-platform:5000201162152",
+        "address": "Gudakhu Factory, Nh111, Koni, Bilaspur, Chhattisgarh, 495009, India",
+        "district": "Bilaspur",
+        "state": "Chhattisgarh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Bilaspur",
+        "fetched_at": "2026-04-01T15:39:15.178073"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.549388,
+          20.717239
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:1111189",
+        "address": "Industrial Area, Dhamtari, Chhattisgarh, India",
+        "district": "Dhamtari",
+        "state": "Chhattisgarh",
+        "types": [
+          "borough"
+        ],
+        "query_used": "industrial area Dhamtari",
+        "fetched_at": "2026-04-01T15:39:20.125148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.5504,
+          20.71674
+        ]
+      },
+      "properties": {
+        "name": "NH 30, Industrial Area",
+        "place_id": "ola-platform:5000191085675",
+        "address": "NH 30, Industrial Area, Dhamtari, Chhattisgarh, 493776, India",
+        "district": "Dhamtari",
+        "state": "Chhattisgarh",
+        "types": [],
+        "query_used": "industrial area Dhamtari",
+        "fetched_at": "2026-04-01T15:39:20.156321"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.5444,
+          20.7112
+        ]
+      },
+      "properties": {
+        "name": "Ram Industrial Area",
+        "place_id": "ola-platform:5000042892249",
+        "address": "Ram Industrial Area, Lal Bagicha Rd, Sant Lahari Nagar, Dhamtari, Chhattisgarh, 493776, India",
+        "district": "Dhamtari",
+        "state": "Chhattisgarh",
+        "types": [
+          "place_of_worship"
+        ],
+        "query_used": "industrial area Dhamtari",
+        "fetched_at": "2026-04-01T15:39:20.186445"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.5506,
+          20.7174
+        ]
+      },
+      "properties": {
+        "name": "DDU Industrial Area",
+        "place_id": "ola-platform:5000062566892",
+        "address": "DDU Industrial Area, DDU, Raipur - Jagdalpur - Vishakhapatnam Rd, Industrial Area, Dhamtari, Chhattisgarh, 493776, India",
+        "district": "Dhamtari",
+        "state": "Chhattisgarh",
+        "types": [
+          "school",
+          "premise",
+          "primary_school"
+        ],
+        "query_used": "industrial area Dhamtari",
+        "fetched_at": "2026-04-01T15:39:20.219544"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6566,
+          21.2172
+        ]
+      },
+      "properties": {
+        "name": "Brand Factory (Fashion Factory)",
+        "place_id": "ola-platform:5000051799028",
+        "address": "Brand Factory (Fashion Factory), Fashion Factory, 492001, New Dhamtari Rd, Amrapali Society, Pachpedi Naka, Raipur, Chhattisgarh",
+        "district": "Dhamtari",
+        "state": "Chhattisgarh",
+        "types": [
+          "clothing_store"
+        ],
+        "query_used": "factory area Dhamtari",
+        "fetched_at": "2026-04-01T15:39:20.405976"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.958429,
+          20.356297
+        ]
+      },
+      "properties": {
+        "name": "Riable T Shirts Manufacturing Company",
+        "place_id": "ola-platform:5000041016870",
+        "address": "Riable T Shirts Manufacturing Company, Nagari, Nagri Tahsil, Dhamtari, Chhattisgarh, 493778, India",
+        "district": "Dhamtari",
+        "state": "Chhattisgarh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Dhamtari",
+        "fetched_at": "2026-04-01T15:39:20.532529"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.3716,
+          21.2259
+        ]
+      },
+      "properties": {
+        "name": "State Bank Of India Industrial Estate Bhilai",
+        "place_id": "ola-platform:5000055023326",
+        "address": "State Bank Of India Industrial Estate Bhilai, P O Bhilai Bhilai, Dist, Fauji Nagar, Durg, Chhattisgarh, 490026, India",
+        "district": "Durg",
+        "state": "Chhattisgarh",
+        "types": [
+          "bank"
+        ],
+        "query_used": "industrial estate Durg Chhattisgarh",
+        "fetched_at": "2026-04-01T15:39:23.011991"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.37976,
+          21.22291
+        ]
+      },
+      "properties": {
+        "name": "9i, Industrial Estate",
+        "place_id": "ola-platform:5000195714085",
+        "address": "9i, Industrial Estate, Bhilai, Chhattisgarh, 490026, India",
+        "district": "Durg",
+        "state": "Chhattisgarh",
+        "types": [],
+        "query_used": "industrial estate Durg Chhattisgarh",
+        "fetched_at": "2026-04-01T15:39:23.037981"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.38018,
+          21.22221
+        ]
+      },
+      "properties": {
+        "name": "8, Industrial Estate",
+        "place_id": "ola-platform:5000190171133",
+        "address": "8, Industrial Estate, Bhilai, Chhattisgarh, 490026, India",
+        "district": "Durg",
+        "state": "Chhattisgarh",
+        "types": [],
+        "query_used": "industrial estate Durg Chhattisgarh",
+        "fetched_at": "2026-04-01T15:39:23.062131"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.37702,
+          21.22296
+        ]
+      },
+      "properties": {
+        "name": "2, Industrial Estate",
+        "place_id": "ola-platform:5000193650652",
+        "address": "2, Industrial Estate, Bhilai, Chhattisgarh, 490026, India",
+        "district": "Durg",
+        "state": "Chhattisgarh",
+        "types": [],
+        "query_used": "industrial estate Durg Chhattisgarh",
+        "fetched_at": "2026-04-01T15:39:23.085901"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.4753,
+          22.0162
+        ]
+      },
+      "properties": {
+        "name": "Kapan Industrial Area, Kapan CG",
+        "place_id": "ola-platform:5000067497924",
+        "address": "Kapan Industrial Area, Kapan CG, Chhattisgarh, 495552, India",
+        "district": "Janjgir-Champa",
+        "state": "Chhattisgarh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Janjgir-Champa",
+        "fetched_at": "2026-04-01T15:39:32.035577"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.5502,
+          20.7178
+        ]
+      },
+      "properties": {
+        "name": "Kanker Rodves",
+        "place_id": "ola-platform:5000039633188",
+        "address": "Kanker Rodves, Yatayat Chowki Ke Baju New, I, Bus Stop, Industrial Area, Dhamtari, Chhattisgarh, 493776, India",
+        "district": "Kanker",
+        "state": "Chhattisgarh",
+        "types": [
+          "travel_agency"
+        ],
+        "query_used": "industrial area Kanker",
+        "fetched_at": "2026-04-01T15:39:41.451223"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.750408,
+          22.361092
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:1002960",
+        "address": "Industrial Area, Korba, Chhattisgarh, India",
+        "district": "Korba",
+        "state": "Chhattisgarh",
+        "types": [
+          "borough"
+        ],
+        "query_used": "industrial area Korba",
+        "fetched_at": "2026-04-01T15:39:47.758993"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.74649,
+          22.35935
+        ]
+      },
+      "properties": {
+        "name": "Kharmora, Industrial Area",
+        "place_id": "ola-platform:5000201014274",
+        "address": "Kharmora, Industrial Area, Korba, Chhattisgarh, 495678, India",
+        "district": "Korba",
+        "state": "Chhattisgarh",
+        "types": [],
+        "query_used": "industrial area Korba",
+        "fetched_at": "2026-04-01T15:39:47.809797"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.05282,
+          21.17959
+        ]
+      },
+      "properties": {
+        "name": "27, Industrial Area",
+        "place_id": "ola-platform:5000196454023",
+        "address": "27, Industrial Area, Birkoni, Chhattisgarh, 493445, India",
+        "district": "Mahasamund",
+        "state": "Chhattisgarh",
+        "types": [],
+        "query_used": "industrial area Mahasamund",
+        "fetched_at": "2026-04-01T15:39:53.794342"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.05279,
+          21.17682
+        ]
+      },
+      "properties": {
+        "name": "67-71, Industrial Area",
+        "place_id": "ola-platform:5000201030942",
+        "address": "67-71, Industrial Area, Birkoni, Chhattisgarh, 493445, India",
+        "district": "Mahasamund",
+        "state": "Chhattisgarh",
+        "types": [],
+        "query_used": "industrial area Mahasamund",
+        "fetched_at": "2026-04-01T15:39:53.844850"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.383715,
+          21.872515
+        ]
+      },
+      "properties": {
+        "name": "BTS Industrial Area",
+        "place_id": "ola-platform:5000044327440",
+        "address": "BTS Industrial Area, Nh153, Raigarh Tahsil, Raigarh, Chhattisgarh, 496001, India",
+        "district": "Raigarh",
+        "state": "Chhattisgarh",
+        "types": [
+          "school",
+          "premise",
+          "primary_school"
+        ],
+        "query_used": "industrial area Raigarh",
+        "fetched_at": "2026-04-01T15:40:03.968932"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3955,
+          21.8756
+        ]
+      },
+      "properties": {
+        "name": ", Industrial Area",
+        "place_id": "ola-platform:5000219875413",
+        "address": ", Industrial Area, Jharsuguda - Raigarh Rd, Industrial Area, Raigarh, Chhattisgarh 496001, India",
+        "district": "Raigarh",
+        "state": "Chhattisgarh",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial area Raigarh",
+        "fetched_at": "2026-04-01T15:40:04.008795"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3882,
+          21.8778
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000185578929",
+        "address": "Industrial Area, Raigarh, Chhattisgarh, 496001, India",
+        "district": "Raigarh",
+        "state": "Chhattisgarh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Raigarh",
+        "fetched_at": "2026-04-01T15:40:04.050256"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.38108,
+          21.87996
+        ]
+      },
+      "properties": {
+        "name": "Nh49, Industrial Area",
+        "place_id": "ola-platform:5000201142794",
+        "address": "Nh49, Industrial Area, Raigarh, Chhattisgarh, 496001, India",
+        "district": "Raigarh",
+        "state": "Chhattisgarh",
+        "types": [],
+        "query_used": "industrial area Raigarh",
+        "fetched_at": "2026-04-01T15:40:04.090995"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3917,
+          21.8792
+        ]
+      },
+      "properties": {
+        "name": "SH 1, Industrial Area",
+        "place_id": "ola-platform:5000195823219",
+        "address": "SH 1, Industrial Area, Raigarh, Chhattisgarh, 496001, India",
+        "district": "Raigarh",
+        "state": "Chhattisgarh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Raigarh",
+        "fetched_at": "2026-04-01T15:40:04.131138"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.642974,
+          21.308026
+        ]
+      },
+      "properties": {
+        "name": "Rawabhata Industrial Area",
+        "place_id": "ola-platform:1003126",
+        "address": "Rawabhata Industrial Area, Raipur, Chhattisgarh, India",
+        "district": "Raipur",
+        "state": "Chhattisgarh",
+        "types": [
+          "borough"
+        ],
+        "query_used": "industrial area Raipur",
+        "fetched_at": "2026-04-01T15:40:07.042414"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6446,
+          21.3121
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000193123894",
+        "address": "Industrial Area, Bhanpuri, Raipur, Chhattisgarh, 492003, India",
+        "district": "Raipur",
+        "state": "Chhattisgarh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Raipur",
+        "fetched_at": "2026-04-01T15:40:07.117278"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6048,
+          21.2732
+        ]
+      },
+      "properties": {
+        "name": "New Industrial Area",
+        "place_id": "ola-platform:5000193754988",
+        "address": "New Industrial Area, Gogaon, Raipur, Chhattisgarh, 492003, India",
+        "district": "Raipur",
+        "state": "Chhattisgarh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Raipur",
+        "fetched_at": "2026-04-01T15:40:07.162464"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.639404,
+          21.31501
+        ]
+      },
+      "properties": {
+        "name": "Rawabhata Industrial Estate",
+        "place_id": "ola-platform:5000068064022",
+        "address": "Rawabhata Industrial Estate, Raipur, Raipur Tahsil, Raipur, Chhattisgarh, 492003, India",
+        "district": "Raipur",
+        "state": "Chhattisgarh",
+        "types": [
+          "travel_agency"
+        ],
+        "query_used": "industrial estate Raipur Chhattisgarh",
+        "fetched_at": "2026-04-01T15:40:07.219344"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6375,
+          21.317
+        ]
+      },
+      "properties": {
+        "name": "Rawabhata Industrial Estate",
+        "place_id": "ola-platform:5000064640804",
+        "address": "Rawabhata Industrial Estate, Bilaspur Rd, Rawabhata, Transport Nagar, Birgoan, Raipur, Chhattisgarh, 492003, India",
+        "district": "Raipur",
+        "state": "Chhattisgarh",
+        "types": [
+          "moving_company"
+        ],
+        "query_used": "industrial estate Raipur Chhattisgarh",
+        "fetched_at": "2026-04-01T15:40:07.304799"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6634,
+          21.2314
+        ]
+      },
+      "properties": {
+        "name": "Skechers Factory Outlet - Silver Plaza, Raipur",
+        "place_id": "ola-platform:5000054445739",
+        "address": "Skechers Factory Outlet - Silver Plaza, Raipur, Shop No. 3, 4, 5, 17, 18, 19, Ground Floor, MM Silver Plaza, Ring Road No. 1, Opposite To Udyog Bhawan, Mahaveer Nagar, Raipur, Chhattisgarh, 492001, India",
+        "district": "Raipur",
+        "state": "Chhattisgarh",
+        "types": [
+          "shoe_store"
+        ],
+        "query_used": "factory area Raipur",
+        "fetched_at": "2026-04-01T15:40:07.449843"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.628891,
+          21.251559
+        ]
+      },
+      "properties": {
+        "name": "Naya Raipur Electronics Manufacturing Custer",
+        "place_id": "ola-platform:5000051468610",
+        "address": "Naya Raipur Electronics Manufacturing Custer, Raipur, Raipur Tahsil, Raipur, Chhattisgarh, 492001, India",
+        "district": "Raipur",
+        "state": "Chhattisgarh",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "manufacturing hub Raipur",
+        "fetched_at": "2026-04-01T15:40:07.589335"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.5606,
+          21.3185
+        ]
+      },
+      "properties": {
+        "name": "(Manufacturing Unit",
+        "place_id": "ola-platform:5000176590942",
+        "address": "(Manufacturing Unit, Prime Ispat Limited, (Manufacturing Unit- Bana, Raipur), Bana, Hirapur - Urla Road, Near Guma, Raipur, Chhattisgarh, 492099, India",
+        "district": "Raipur",
+        "state": "Chhattisgarh",
+        "types": [
+          "storage"
+        ],
+        "query_used": "manufacturing hub Raipur",
+        "fetched_at": "2026-04-01T15:40:07.628698"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.6422,
+          21.3177
+        ]
+      },
+      "properties": {
+        "name": "Celesty Icecream Raipur Manufacturing Unit",
+        "place_id": "ola-platform:5000056423729",
+        "address": "Celesty Icecream Raipur Manufacturing Unit, Rawabhata, Industrial Area, Bhanpuri, Raipur, Chhattisgarh, 492003, India",
+        "district": "Raipur",
+        "state": "Chhattisgarh",
+        "types": [
+          "food",
+          "restaurant"
+        ],
+        "query_used": "manufacturing hub Raipur",
+        "fetched_at": "2026-04-01T15:40:07.702438"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.019,
+          21.0983
+        ]
+      },
+      "properties": {
+        "name": "99, Industrial Estate Main Road",
+        "place_id": "ola-platform:5000196744474",
+        "address": "99, Industrial Estate Main Road, Mamta Nagar, Rajnandgaon, Chhattisgarh, 491441, India",
+        "district": "Rajnandgaon",
+        "state": "Chhattisgarh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Rajnandgaon Chhattisgarh",
+        "fetched_at": "2026-04-01T15:40:10.080787"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.0191,
+          21.09739
+        ]
+      },
+      "properties": {
+        "name": "37, Industrial Estate Main Road",
+        "place_id": "ola-platform:5000183374470",
+        "address": "37, Industrial Estate Main Road, Mamta Nagar, Rajnandgaon, Chhattisgarh, 491441, India",
+        "district": "Rajnandgaon",
+        "state": "Chhattisgarh",
+        "types": [],
+        "query_used": "industrial estate Rajnandgaon Chhattisgarh",
+        "fetched_at": "2026-04-01T15:40:10.116590"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.0192,
+          21.1
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate Main Road",
+        "place_id": "ola-platform:5000190315891",
+        "address": "Industrial Estate Main Road, Mamta Nagar, Rajnandgaon, Chhattisgarh, 491441, India",
+        "district": "Rajnandgaon",
+        "state": "Chhattisgarh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Rajnandgaon Chhattisgarh",
+        "fetched_at": "2026-04-01T15:40:10.151342"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.01952,
+          21.10073
+        ]
+      },
+      "properties": {
+        "name": "3, Industrial Estate Main Road",
+        "place_id": "ola-platform:5000196948774",
+        "address": "3, Industrial Estate Main Road, Mamta Nagar, Rajnandgaon, Chhattisgarh, 491441, India",
+        "district": "Rajnandgaon",
+        "state": "Chhattisgarh",
+        "types": [],
+        "query_used": "industrial estate Rajnandgaon Chhattisgarh",
+        "fetched_at": "2026-04-01T15:40:10.184276"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.019,
+          21.0983
+        ]
+      },
+      "properties": {
+        "name": "65, Industrial Estate Main Road",
+        "place_id": "ola-platform:5000198869895",
+        "address": "65, Industrial Estate Main Road, Mamta Nagar, Rajnandgaon, Chhattisgarh, 491441, India",
+        "district": "Rajnandgaon",
+        "state": "Chhattisgarh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Rajnandgaon Chhattisgarh",
+        "fetched_at": "2026-04-01T15:40:10.215827"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.194544,
+          23.214239
+        ]
+      },
+      "properties": {
+        "name": "Rang Factory",
+        "place_id": "ola-platform:5000056302581",
+        "address": "Rang Factory, Manendragarh, Manendragarh Tahsil, Manendragarh-Chirimiri-Bharatpur, Chhattisgarh, 497442, India",
+        "district": "Manendragarh-Chirmiri-Bharatpur",
+        "state": "Chhattisgarh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "factory area Manendragarh-Chirmiri-Bharatpur",
+        "fetched_at": "2026-04-01T15:40:31.445637"
+      }
+    }
+  ]
+}

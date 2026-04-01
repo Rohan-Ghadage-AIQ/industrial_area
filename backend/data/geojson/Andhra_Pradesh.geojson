@@ -1,0 +1,3207 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.94243,
+          15.14339
+        ]
+      },
+      "properties": {
+        "name": "1, Anantapur Rd",
+        "place_id": "ola-platform:5000194913140",
+        "address": "1, Anantapur Rd, Mundargi Industrial Area, Ballari, Karnataka, 583101, India",
+        "district": "Anantapur",
+        "state": "Andhra Pradesh",
+        "types": [],
+        "query_used": "industrial area Anantapur",
+        "fetched_at": "2026-04-01T15:32:14.571257"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.94333,
+          15.14316
+        ]
+      },
+      "properties": {
+        "name": "8, Anantapur Rd",
+        "place_id": "ola-platform:5000198516790",
+        "address": "8, Anantapur Rd, Mundargi Industrial Area, Ballari, Karnataka, 583101, India",
+        "district": "Anantapur",
+        "state": "Andhra Pradesh",
+        "types": [],
+        "query_used": "industrial area Anantapur",
+        "fetched_at": "2026-04-01T15:32:14.597735"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.95302,
+          15.14007
+        ]
+      },
+      "properties": {
+        "name": "6C, Anantapur Rd",
+        "place_id": "ola-platform:5000190865062",
+        "address": "6C, Anantapur Rd, Venkateswara Nagar, Bellary Industrial Area, Ballari, Karnataka, 583101, India",
+        "district": "Anantapur",
+        "state": "Andhra Pradesh",
+        "types": [],
+        "query_used": "industrial area Anantapur",
+        "fetched_at": "2026-04-01T15:32:14.619473"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5873,
+          14.701
+        ]
+      },
+      "properties": {
+        "name": "Anantapur Dalda Factory",
+        "place_id": "ola-platform:5000192825166",
+        "address": "Anantapur Dalda Factory, A.Narayana Puram, Anantapur, Andhra Pradesh, 515004, India",
+        "district": "Anantapur",
+        "state": "Andhra Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Anantapur",
+        "fetched_at": "2026-04-01T15:32:14.816399"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6165,
+          14.1636
+        ]
+      },
+      "properties": {
+        "name": "Helipad Kia Factory",
+        "place_id": "ola-platform:5000048904407",
+        "address": "Helipad Kia Factory, Anantapuram, Andhra Pradesh, 515164, India",
+        "district": "Anantapur",
+        "state": "Andhra Pradesh",
+        "types": [
+          "airport"
+        ],
+        "query_used": "factory area Anantapur",
+        "fetched_at": "2026-04-01T15:32:14.895580"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.010994,
+          14.90829
+        ]
+      },
+      "properties": {
+        "name": "Handloom Pure Silk Manufacturing Unit",
+        "place_id": "ola-platform:5000047803571",
+        "address": "Handloom Pure Silk Manufacturing Unit, Aaditya Hospital, C.B. Road, Tadipatri, Tadpatri, Anantapur, Andhra Pradesh, 515411, India",
+        "district": "Anantapur",
+        "state": "Andhra Pradesh",
+        "types": [
+          "clothing_store"
+        ],
+        "query_used": "manufacturing hub Anantapur",
+        "fetched_at": "2026-04-01T15:32:14.952524"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4269,
+          14.0927
+        ]
+      },
+      "properties": {
+        "name": "Lakki Paper Cup Manufacturing",
+        "place_id": "ola-platform:5000220820479",
+        "address": "Lakki Paper Cup Manufacturing, Lakki Vagdevi Sweets, AnnaPurna Talkies, Tadipatri, Anantapur, Roddam, Andhra Pradesh 515123, India",
+        "district": "Anantapur",
+        "state": "Andhra Pradesh",
+        "types": [
+          "bakery"
+        ],
+        "query_used": "manufacturing hub Anantapur",
+        "fetched_at": "2026-04-01T15:32:14.970359"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.128017,
+          13.220843
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:1109984",
+        "address": "Industrial Estate, Chittoor, Andhra Pradesh, India",
+        "district": "Chittoor",
+        "state": "Andhra Pradesh",
+        "types": [
+          "borough"
+        ],
+        "query_used": "industrial area Chittoor",
+        "fetched_at": "2026-04-01T15:32:17.152451"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0816,
+          13.2037
+        ]
+      },
+      "properties": {
+        "name": "Nutrine Factory",
+        "place_id": "ola-platform:5000197811889",
+        "address": "Nutrine Factory, 26-47/7, Nutrine Factory, Greamspet, Chittoor, Andhra Pradesh, 517128, India",
+        "district": "Chittoor",
+        "state": "Andhra Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Chittoor",
+        "fetched_at": "2026-04-01T15:32:17.409663"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1032,
+          13.2351
+        ]
+      },
+      "properties": {
+        "name": "Sugar Factory Rd",
+        "place_id": "ola-platform:5000188155428",
+        "address": "Sugar Factory Rd, Chowtapalli, Chittoor, Andhra Pradesh, 517004, India",
+        "district": "Chittoor",
+        "state": "Andhra Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Chittoor",
+        "fetched_at": "2026-04-01T15:32:17.434740"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10873,
+          13.23517
+        ]
+      },
+      "properties": {
+        "name": "Sugar Factory Rd",
+        "place_id": "ola-platform:5000184459321",
+        "address": "Sugar Factory Rd, Chittoor, Doddi Palli, Andhra Pradesh, 517127, India",
+        "district": "Chittoor",
+        "state": "Andhra Pradesh",
+        "types": [],
+        "query_used": "factory area Chittoor",
+        "fetched_at": "2026-04-01T15:32:17.459694"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1063,
+          13.2362
+        ]
+      },
+      "properties": {
+        "name": "21-631, Sugar Factory Rd",
+        "place_id": "ola-platform:5000191830968",
+        "address": "21-631, Sugar Factory Rd, Sampath Nagar, Doddi Palli, Chittoor, Andhra Pradesh, 517127, India",
+        "district": "Chittoor",
+        "state": "Andhra Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Chittoor",
+        "fetched_at": "2026-04-01T15:32:17.484320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4701,
+          13.6396
+        ]
+      },
+      "properties": {
+        "name": "DSC Manufacturing Private Limited",
+        "place_id": "ola-platform:5000066258858",
+        "address": "DSC Manufacturing Private Limited, Chittoor, Andhra Pradesh, 517352, India",
+        "district": "Chittoor",
+        "state": "Andhra Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Chittoor",
+        "fetched_at": "2026-04-01T15:32:17.509946"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.341199,
+          12.750662
+        ]
+      },
+      "properties": {
+        "name": "Sundar Brand Shirts Manufacturing Unit",
+        "place_id": "ola-platform:5000066876890",
+        "address": "Sundar Brand Shirts Manufacturing Unit, Old Pet, Kuppam, Chittoor, Andhra Pradesh, 517426, India",
+        "district": "Chittoor",
+        "state": "Andhra Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Chittoor",
+        "fetched_at": "2026-04-01T15:32:17.557324"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.7964,
+          16.9582
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:5000190867738",
+        "address": "Industrial Estate, Dhavaleswaram, Rajamahendravaram, Andhra Pradesh, 533101, India",
+        "district": "East Godavari",
+        "state": "Andhra Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate East Godavari Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:32:20.198609"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.80023,
+          16.96505
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:5000192443963",
+        "address": "Industrial Estate, Bommuru, Rajamahendravaram, Andhra Pradesh, 533101, India",
+        "district": "East Godavari",
+        "state": "Andhra Pradesh",
+        "types": [],
+        "query_used": "industrial estate East Godavari Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:32:20.228033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.7929,
+          16.95084
+        ]
+      },
+      "properties": {
+        "name": "NH 216A, Industrial Estate",
+        "place_id": "ola-platform:5000198366499",
+        "address": "NH 216A, Industrial Estate, Vemagiri, Rajamahendravaram, Andhra Pradesh, 533125, India",
+        "district": "East Godavari",
+        "state": "Andhra Pradesh",
+        "types": [],
+        "query_used": "industrial estate East Godavari Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:32:20.261336"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.7975,
+          16.9573
+        ]
+      },
+      "properties": {
+        "name": "311, Industrial Estate",
+        "place_id": "ola-platform:5000193736153",
+        "address": "311, Industrial Estate, Dhavaleswaram, Rajamahendravaram, Andhra Pradesh, 533101, India",
+        "district": "East Godavari",
+        "state": "Andhra Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate East Godavari Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:32:20.287198"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.7942,
+          16.9596
+        ]
+      },
+      "properties": {
+        "name": "NH 216A, Industrial Estate",
+        "place_id": "ola-platform:5000186466761",
+        "address": "NH 216A, Industrial Estate, Dhavaleswaram, Rajamahendravaram, Andhra Pradesh, 533101, India",
+        "district": "East Godavari",
+        "state": "Andhra Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate East Godavari Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:32:20.315973"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.43884,
+          16.325333
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate Post Office",
+        "place_id": "ola-platform:5000044549155",
+        "address": "Industrial Estate Post Office, Guntur Municipal Corporation, Guntur, Andhra Pradesh, 522034, India",
+        "district": "Guntur",
+        "state": "Andhra Pradesh",
+        "types": [
+          "post_office"
+        ],
+        "query_used": "industrial estate Guntur Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:32:22.675162"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6306,
+          16.2379
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:5000183307317",
+        "address": "Industrial Estate, Sulthanabad, Tenali, Andhra Pradesh, 522201, India",
+        "district": "Guntur",
+        "state": "Andhra Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Guntur Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:32:22.700247"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.62853,
+          16.24298
+        ]
+      },
+      "properties": {
+        "name": "20, Industrial Estate",
+        "place_id": "ola-platform:5000194394180",
+        "address": "20, Industrial Estate, Sulthanabad, Tenali, Andhra Pradesh, 522201, India",
+        "district": "Guntur",
+        "state": "Andhra Pradesh",
+        "types": [],
+        "query_used": "industrial estate Guntur Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:32:22.725820"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.5737,
+          16.4582
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:5000188772912",
+        "address": "Industrial Estate, Amaravati, Andhra Pradesh, 522502, India",
+        "district": "Guntur",
+        "state": "Andhra Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Guntur Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:32:22.751593"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4316,
+          16.3182
+        ]
+      },
+      "properties": {
+        "name": "Guntur Cake Factory",
+        "place_id": "ola-platform:5000057113425",
+        "address": "Guntur Cake Factory, Main Road, Opposite Reddy Water Plant, Near Sai Baba Temple, Chaitanyapuri, Venugopalnagar, Koritepadu, Guntur, Andhra Pradesh, 522007, India",
+        "district": "Guntur",
+        "state": "Andhra Pradesh",
+        "types": [
+          "bakery"
+        ],
+        "query_used": "factory area Guntur",
+        "fetched_at": "2026-04-01T15:32:22.829729"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7144,
+          16.5987
+        ]
+      },
+      "properties": {
+        "name": "ALEAP Industrial Estate",
+        "place_id": "ola-platform:5000050187827",
+        "address": "ALEAP Industrial Estate, Vijayawada, Surampalli, Surampalli Auto Nagar (ALEAP), Andhra Pradesh, 521212, India",
+        "district": "Krishna",
+        "state": "Andhra Pradesh",
+        "types": [
+          "storage"
+        ],
+        "query_used": "industrial estate Krishna Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:32:25.359675"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6779,
+          16.5019
+        ]
+      },
+      "properties": {
+        "name": "JRD TaTa Industrial Estate",
+        "place_id": "ola-platform:5000053925129",
+        "address": "JRD TaTa Industrial Estate, 3rd Cross Rd, Auto Nagar, Vijayawada, Andhra Pradesh, 520007, India",
+        "district": "Krishna",
+        "state": "Andhra Pradesh",
+        "types": [
+          "storage"
+        ],
+        "query_used": "industrial estate Krishna Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:32:25.378696"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7124,
+          16.5995
+        ]
+      },
+      "properties": {
+        "name": "ALEAP Industrial Estate",
+        "place_id": "ola-platform:5000044878070",
+        "address": "ALEAP Industrial Estate, Sh236, Andhra Pradesh, 521212, India",
+        "district": "Krishna",
+        "state": "Andhra Pradesh",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Krishna Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:32:25.401361"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.1513,
+          16.2011
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate Rd",
+        "place_id": "ola-platform:5000201791402",
+        "address": "Industrial Estate Rd, Valandapalem, Machilipatnam, Andhra Pradesh, 521001, India",
+        "district": "Krishna",
+        "state": "Andhra Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Krishna Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:32:25.423922"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.01488,
+          15.823953
+        ]
+      },
+      "properties": {
+        "name": "Sovereign Agro Industrial Area Foods",
+        "place_id": "ola-platform:5000038747533",
+        "address": "Sovereign Agro Industrial Area Foods, Kurnool - Ballari Road, Kallur, Kurnool, Andhra Pradesh, 518003, India",
+        "district": "Kurnool",
+        "state": "Andhra Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Kurnool",
+        "fetched_at": "2026-04-01T15:32:27.911021"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.03941,
+          15.83911
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area & Out Sri Raghavendra Sers",
+        "place_id": "ola-platform:5000052424573",
+        "address": "Industrial Area & Out Sri Raghavendra Sers, Sri Surya Kiran Super Speciality Spine Clinic, Pump House Road, Stantanpuram, Kurnool, Andhra Pradesh, 518004, India",
+        "district": "Kurnool",
+        "state": "Andhra Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Kurnool",
+        "fetched_at": "2026-04-01T15:32:27.935440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1236,
+          15.6659
+        ]
+      },
+      "properties": {
+        "name": "Orvakal Industrial Area",
+        "place_id": "ola-platform:5000222096184",
+        "address": "Orvakal Industrial Area, Orvakal, Andhra Pradesh 518002, India",
+        "district": "Kurnool",
+        "state": "Andhra Pradesh",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial area Kurnool",
+        "fetched_at": "2026-04-01T15:32:27.950598"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.02432,
+          15.80808
+        ]
+      },
+      "properties": {
+        "name": "23, Industrial Estate Rd",
+        "place_id": "ola-platform:5000198985900",
+        "address": "23, Industrial Estate Rd, Kallur, Kurnool, Andhra Pradesh, 518003, India",
+        "district": "Kurnool",
+        "state": "Andhra Pradesh",
+        "types": [],
+        "query_used": "industrial estate Kurnool Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:32:27.989768"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.9999,
+          15.7588
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate Rd",
+        "place_id": "ola-platform:5000200758298",
+        "address": "Industrial Estate Rd, Laxmipuram, Andhra Pradesh, 518218, India",
+        "district": "Kurnool",
+        "state": "Andhra Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Kurnool Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:32:28.042191"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.038907,
+          15.813463
+        ]
+      },
+      "properties": {
+        "name": "Oasis Fertility - Best IVF Centre In Kurnool",
+        "place_id": "ola-platform:5000328390395",
+        "address": "Oasis Fertility - Best IVF Centre In Kurnool, No 50/760/A-118-C-1, Viswa BharathI Hospital Line, Door, Nearby Sri Mahanandi Nilayam, Gayathri Estates, Kurnool, Andhra Pradesh 518002",
+        "district": "Kurnool",
+        "state": "Andhra Pradesh",
+        "types": [
+          "hospital"
+        ],
+        "query_used": "MIDC Kurnool",
+        "fetched_at": "2026-04-01T15:32:28.089569"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0391,
+          15.7613
+        ]
+      },
+      "properties": {
+        "name": "Design And Manufacturing (Indian Institute Of Information Technology, Design & Manufacturing, Kurnool)",
+        "place_id": "ola-platform:5000054680095",
+        "address": "Design And Manufacturing (Indian Institute Of Information Technology, Design & Manufacturing, Kurnool), 518002, Indian Institute Of Information Technology, Design & Manufacturing, Kurnool, Jagannathagattu Hill, Kurnool, Andhra Pradesh",
+        "district": "Kurnool",
+        "state": "Andhra Pradesh",
+        "types": [
+          "university"
+        ],
+        "query_used": "manufacturing hub Kurnool",
+        "fetched_at": "2026-04-01T15:32:28.206448"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0364,
+          15.76183
+        ]
+      },
+      "properties": {
+        "name": "Indian Institute Of Information Technology Design And Manufacturing Kurnool",
+        "place_id": "ola-platform:5000052273882",
+        "address": "Indian Institute Of Information Technology Design And Manufacturing Kurnool, Indian Institute Of Information Technology Design And Manufacturing, Kurnool, Jagannatha Gattu Road, Dinnedevarapadu, Kurnool, Andhra Pradesh, 518002, India",
+        "district": "Kurnool",
+        "state": "Andhra Pradesh",
+        "types": [
+          "university"
+        ],
+        "query_used": "manufacturing hub Kurnool",
+        "fetched_at": "2026-04-01T15:32:28.224760"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0295,
+          15.7783
+        ]
+      },
+      "properties": {
+        "name": "Mak Industries Tissue Paper Manufacturing",
+        "place_id": "ola-platform:5000220022730",
+        "address": "Mak Industries Tissue Paper Manufacturing, Kurnool, Andhra Pradesh 518002, India",
+        "district": "Kurnool",
+        "state": "Andhra Pradesh",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "manufacturing hub Kurnool",
+        "fetched_at": "2026-04-01T15:32:28.242319"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9563,
+          14.4184
+        ]
+      },
+      "properties": {
+        "name": "Vedayapalem Industrial Estate",
+        "place_id": "ola-platform:5000196832963",
+        "address": "Vedayapalem Industrial Estate, Vedayapalem, Nellore, Andhra Pradesh, 524004, India",
+        "district": "Nellore",
+        "state": "Andhra Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Nellore Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:32:30.625882"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9578,
+          14.41627
+        ]
+      },
+      "properties": {
+        "name": "Mdr85, Vedayapalem Industrial Estate",
+        "place_id": "ola-platform:5000196358971",
+        "address": "Mdr85, Vedayapalem Industrial Estate, Vedayapalem, Nellore, Andhra Pradesh, 524004, India",
+        "district": "Nellore",
+        "state": "Andhra Pradesh",
+        "types": [],
+        "query_used": "industrial estate Nellore Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:32:30.649729"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.95417,
+          14.41806
+        ]
+      },
+      "properties": {
+        "name": "Vedayapalem Industrial Estate",
+        "place_id": "ola-platform:5000188758575",
+        "address": "Vedayapalem Industrial Estate, Netaji Nagar, Nellore, Andhra Pradesh, 524004, India",
+        "district": "Nellore",
+        "state": "Andhra Pradesh",
+        "types": [],
+        "query_used": "industrial estate Nellore Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:32:30.670582"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.95921,
+          14.41942
+        ]
+      },
+      "properties": {
+        "name": "25/9/532, Industrial Estate",
+        "place_id": "ola-platform:5000197224866",
+        "address": "25/9/532, Industrial Estate, Postal Colony, Vedayapalem, Nellore, Andhra Pradesh, 524004, India",
+        "district": "Nellore",
+        "state": "Andhra Pradesh",
+        "types": [],
+        "query_used": "industrial estate Nellore Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:32:30.690738"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.95844,
+          14.42001
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:5000185868896",
+        "address": "Industrial Estate, Postal Colony, Vedayapalem, Nellore, Andhra Pradesh, 524004, India",
+        "district": "Nellore",
+        "state": "Andhra Pradesh",
+        "types": [],
+        "query_used": "industrial estate Nellore Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:32:30.714685"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.02074,
+          14.4568
+        ]
+      },
+      "properties": {
+        "name": "1/A-5/54, Ice Factory Area",
+        "place_id": "ola-platform:5000196836704",
+        "address": "1/A-5/54, Ice Factory Area, South Raju Palem, Nellore, Andhra Pradesh, 524002, India",
+        "district": "Nellore",
+        "state": "Andhra Pradesh",
+        "types": [],
+        "query_used": "factory area Nellore",
+        "fetched_at": "2026-04-01T15:32:30.757256"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.01703,
+          14.4492
+        ]
+      },
+      "properties": {
+        "name": "1B/2/796, Ice Factory Area",
+        "place_id": "ola-platform:5000184328367",
+        "address": "1B/2/796, Ice Factory Area, South Raju Palem, Nellore, Andhra Pradesh, 524002, India",
+        "district": "Nellore",
+        "state": "Andhra Pradesh",
+        "types": [],
+        "query_used": "factory area Nellore",
+        "fetched_at": "2026-04-01T15:32:30.780907"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.01821,
+          14.45643
+        ]
+      },
+      "properties": {
+        "name": "1/A-6-47, Ice Factory Area",
+        "place_id": "ola-platform:5000188470509",
+        "address": "1/A-6-47, Ice Factory Area, South Raju Palem, Nellore, Andhra Pradesh, 524002, India",
+        "district": "Nellore",
+        "state": "Andhra Pradesh",
+        "types": [],
+        "query_used": "factory area Nellore",
+        "fetched_at": "2026-04-01T15:32:30.805942"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.02012,
+          14.45674
+        ]
+      },
+      "properties": {
+        "name": "1/A-5-66, Ice Factory Area",
+        "place_id": "ola-platform:5000191239110",
+        "address": "1/A-5-66, Ice Factory Area, South Raju Palem, Nellore, Andhra Pradesh, 524002, India",
+        "district": "Nellore",
+        "state": "Andhra Pradesh",
+        "types": [],
+        "query_used": "factory area Nellore",
+        "fetched_at": "2026-04-01T15:32:30.826151"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.02025,
+          14.45676
+        ]
+      },
+      "properties": {
+        "name": "1/A-5-64, Ice Factory Area",
+        "place_id": "ola-platform:5000201601157",
+        "address": "1/A-5-64, Ice Factory Area, South Raju Palem, Nellore, Andhra Pradesh, 524002, India",
+        "district": "Nellore",
+        "state": "Andhra Pradesh",
+        "types": [],
+        "query_used": "factory area Nellore",
+        "fetched_at": "2026-04-01T15:32:30.848634"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.26913,
+          15.73615
+        ]
+      },
+      "properties": {
+        "name": "1/126, Industrial Estate",
+        "place_id": "ola-platform:5000200697817",
+        "address": "1/126, Industrial Estate, Markapur, Andhra Pradesh, 523316, India",
+        "district": "Prakasam",
+        "state": "Andhra Pradesh",
+        "types": [],
+        "query_used": "industrial estate Prakasam Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:32:33.959864"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.29263,
+          15.72728
+        ]
+      },
+      "properties": {
+        "name": "1193-B, Industrial Estate",
+        "place_id": "ola-platform:5000191778890",
+        "address": "1193-B, Industrial Estate, Markapur, Goguladinne, Andhra Pradesh, 523371, India",
+        "district": "Prakasam",
+        "state": "Andhra Pradesh",
+        "types": [],
+        "query_used": "industrial estate Prakasam Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:32:33.992116"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.8624,
+          18.2958
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Kusalapuram",
+        "place_id": "ola-platform:5000059974149",
+        "address": "Industrial Area Kusalapuram, Kushalapuram, Srikakulam, Andhra Pradesh, 532005, India",
+        "district": "Srikakulam",
+        "state": "Andhra Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Srikakulam",
+        "fetched_at": "2026-04-01T15:32:36.927049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.4335,
+          18.777
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Palasa",
+        "place_id": "ola-platform:5000220866387",
+        "address": "Industrial Area Palasa, Kasibugga, Andhra Pradesh 532221, India",
+        "district": "Srikakulam",
+        "state": "Andhra Pradesh",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial area Srikakulam",
+        "fetched_at": "2026-04-01T15:32:36.965461"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.4329,
+          18.7771
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area- Ananthapuram",
+        "place_id": "ola-platform:5000040417171",
+        "address": "Industrial Area- Ananthapuram, Old Nh5 Rd, Sasanam, Andhra Pradesh, 532221, India",
+        "district": "Srikakulam",
+        "state": "Andhra Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Srikakulam",
+        "fetched_at": "2026-04-01T15:32:36.990271"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.43327,
+          18.77834
+        ]
+      },
+      "properties": {
+        "name": "Plot No 31, Industrial Area",
+        "place_id": "ola-platform:5000187410613",
+        "address": "Plot No 31, Industrial Area, Palasa, Kasibugga, Andhra Pradesh, 532221, India",
+        "district": "Srikakulam",
+        "state": "Andhra Pradesh",
+        "types": [],
+        "query_used": "industrial area Srikakulam",
+        "fetched_at": "2026-04-01T15:32:37.019663"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.0845,
+          17.6639
+        ]
+      },
+      "properties": {
+        "name": "Parwada Industrial Area",
+        "place_id": "ola-platform:5000045119866",
+        "address": "Parwada Industrial Area, Visakhapatnam, Andhra Pradesh, 531019, India",
+        "district": "Visakhapatnam",
+        "state": "Andhra Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Visakhapatnam",
+        "fetched_at": "2026-04-01T15:32:39.677384"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2622,
+          17.7388
+        ]
+      },
+      "properties": {
+        "name": "TaTa Motors Cars Service Centre - Siva Sankar Motors, Industrial Area",
+        "place_id": "ola-platform:5000061727427",
+        "address": "TaTa Motors Cars Service Centre - Siva Sankar Motors, Industrial Area, Plot No C24 Industrial Este, 104 Area Industrial Area, Opposite WeighBridge, Industrial Estate, Gavara Kanchara Palem, Kancharapalem, Visakhapatnam, Andhra Pradesh, 530007, India",
+        "district": "Visakhapatnam",
+        "state": "Andhra Pradesh",
+        "types": [
+          "car_repair"
+        ],
+        "query_used": "industrial area Visakhapatnam",
+        "fetched_at": "2026-04-01T15:32:39.711371"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.260666,
+          17.74342
+        ]
+      },
+      "properties": {
+        "name": "TaTa Motors Cars Service Centre - Siva Sankar Motors, Industrial Area",
+        "place_id": "ola-platform:5000048810253",
+        "address": "TaTa Motors Cars Service Centre - Siva Sankar Motors, Industrial Area, Hema Abode, Anakapalli - Visakhapatnam - Anandapuram Main Road, Birla Gate, Kancharapalem, Visakhapatnam, Visakhapatnam (Urban), Visakhapatnam, Andhra Pradesh, 530007, India",
+        "district": "Visakhapatnam",
+        "state": "Andhra Pradesh",
+        "types": [
+          "local_government_office"
+        ],
+        "query_used": "industrial area Visakhapatnam",
+        "fetched_at": "2026-04-01T15:32:39.737280"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.17595,
+          17.696167
+        ]
+      },
+      "properties": {
+        "name": "Auto Nagar Industrial Area",
+        "place_id": "ola-platform:5000036815305",
+        "address": "Auto Nagar Industrial Area, Auto Nagar, Gajuwaka, Visakhapatnam, Andhra Pradesh, 530012, India",
+        "district": "Visakhapatnam",
+        "state": "Andhra Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Visakhapatnam",
+        "fetched_at": "2026-04-01T15:32:39.767215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.20605,
+          17.66267
+        ]
+      },
+      "properties": {
+        "name": "3A, AIE Industrial Area",
+        "place_id": "ola-platform:5000187589354",
+        "address": "3A, AIE Industrial Area, Pedagantyada, Visakhapatnam, Andhra Pradesh, 530044, India",
+        "district": "Visakhapatnam",
+        "state": "Andhra Pradesh",
+        "types": [],
+        "query_used": "industrial area Visakhapatnam",
+        "fetched_at": "2026-04-01T15:32:39.801184"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2633,
+          17.7391
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:5000198816948",
+        "address": "Industrial Estate, Sankurupeta, Gavara Kanchara Palem, Kancharapalem, Visakhapatnam, Andhra Pradesh, 530007, India",
+        "district": "Visakhapatnam",
+        "state": "Andhra Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Visakhapatnam Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:32:39.880709"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2651,
+          17.7382
+        ]
+      },
+      "properties": {
+        "name": "Post Office (Industrial Estate)",
+        "place_id": "ola-platform:5000067829534",
+        "address": "Post Office (Industrial Estate), Industrial Estate, Sankurupeta, Gavara Kanchara Palem, Kancharapalem, Visakhapatnam, Andhra Pradesh, 530007, India",
+        "district": "Visakhapatnam",
+        "state": "Andhra Pradesh",
+        "types": [
+          "post_office"
+        ],
+        "query_used": "industrial estate Visakhapatnam Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:32:39.907299"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.2634,
+          17.7386
+        ]
+      },
+      "properties": {
+        "name": "Maruti Suzuki Jayabheri Automobiles Pvt Ltd Service Centre And Spare Parts (Maruti Suzuki Service (Jayabheri Automotives))",
+        "place_id": "ola-platform:5000048827124",
+        "address": "Maruti Suzuki Jayabheri Automobiles Pvt Ltd Service Centre And Spare Parts (Maruti Suzuki Service (Jayabheri Automotives)), Maruti Suzuki Service (Jayabheri Automotives), Plot No. A-9, Industrial Estate, Gavara Kanchara Palem, Kancharapalem, Visakhapatnam, Andhra Pradesh, 530007, India",
+        "district": "Visakhapatnam",
+        "state": "Andhra Pradesh",
+        "types": [
+          "car_repair"
+        ],
+        "query_used": "industrial estate Visakhapatnam Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:32:39.936400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3015,
+          17.7431
+        ]
+      },
+      "properties": {
+        "name": "Fun Factory VSC - Kids Play Area",
+        "place_id": "ola-platform:5000069068487",
+        "address": "Fun Factory VSC - Kids Play Area, Kids Indoor Playground & Play Zone In Vizag, Vishwanadh Sports Club, Port Trust Diamond Jubilee Stadium, Akkayyapalem Main Rd, Balayya Sastri Layout, Kailasapuram, Visakhapatnam, Andhra Pradesh, 530024, India",
+        "district": "Visakhapatnam",
+        "state": "Andhra Pradesh",
+        "types": [
+          "gym",
+          "stadium"
+        ],
+        "query_used": "factory area Visakhapatnam",
+        "fetched_at": "2026-04-01T15:32:40.023962"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3042,
+          17.7209
+        ]
+      },
+      "properties": {
+        "name": "Vizag Dosa Factory",
+        "place_id": "ola-platform:5000055435275",
+        "address": "Vizag Dosa Factory, Old South Jail Road, Central Park, Back Side Road, Dwaraka Nagar, Visakhapatnam, Andhra Pradesh, 530004, India",
+        "district": "Visakhapatnam",
+        "state": "Andhra Pradesh",
+        "types": [
+          "restaurant",
+          "meal_takeaway",
+          "meal_delivery"
+        ],
+        "query_used": "factory area Visakhapatnam",
+        "fetched_at": "2026-04-01T15:32:40.088690"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3171,
+          17.7251
+        ]
+      },
+      "properties": {
+        "name": "Sports Factory || Sports Store In Vizag||sports Shop In Vizag||#swimwear#sportswear#yogamats#skateboards#chessboard#carromboard#dartboard#kids Scooter#face Masks#badminton Racquets#dumbbells#compression Wear#smart Bands",
+        "place_id": "ola-platform:5000059884000",
+        "address": "Sports Factory || Sports Store In Vizag||sports Shop In Vizag||#swimwear#sportswear#yogamats#skateboards#chessboard#carromboard#dartboard#kids Scooter#face Masks#badminton Racquets#dumbbells#compression Wear#smart Bands, Sports Factory, Balaji's Mangalagiri Chambers, D.No:9-14-3/5, 1D/1, Ground Floor, VIP Road Balaji Nagar, Waltair Uplands, Siripuram Landmark:beside, Tycoon/heritage Restaurant, Balaji Nagar, Asilmetta, Visakhapatnam, Andhra Pradesh, 530003, India",
+        "district": "Visakhapatnam",
+        "state": "Andhra Pradesh",
+        "types": [
+          "shoe_store"
+        ],
+        "query_used": "factory area Visakhapatnam",
+        "fetched_at": "2026-04-01T15:32:40.121199"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.44539,
+          18.1406
+        ]
+      },
+      "properties": {
+        "name": "Plot No 3 And 4, Saripalli Industrial Area",
+        "place_id": "ola-platform:5000198572424",
+        "address": "Plot No 3 And 4, Saripalli Industrial Area, Industrial Development Area, Vizianagaram, Nellimarla, Andhra Pradesh, 535217, India",
+        "district": "Vizianagaram",
+        "state": "Andhra Pradesh",
+        "types": [],
+        "query_used": "industrial area Vizianagaram",
+        "fetched_at": "2026-04-01T15:32:43.187061"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.447573,
+          18.157234
+        ]
+      },
+      "properties": {
+        "name": "ATM Saripalli Industrial Area",
+        "place_id": "ola-platform:5000054473701",
+        "address": "ATM Saripalli Industrial Area, Nellimarla, Vizianagaram District, Andhra Pradesh, 535217, India",
+        "district": "Vizianagaram",
+        "state": "Andhra Pradesh",
+        "types": [
+          "atm"
+        ],
+        "query_used": "industrial area Vizianagaram",
+        "fetched_at": "2026-04-01T15:32:43.227111"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.44464,
+          18.14973
+        ]
+      },
+      "properties": {
+        "name": "9-2834, Industrial Area",
+        "place_id": "ola-platform:5000195254766",
+        "address": "9-2834, Industrial Area, VenuGopala Puram, Nellimarla, Andhra Pradesh, 535217, India",
+        "district": "Vizianagaram",
+        "state": "Andhra Pradesh",
+        "types": [],
+        "query_used": "industrial area Vizianagaram",
+        "fetched_at": "2026-04-01T15:32:43.253741"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.44207,
+          18.15124
+        ]
+      },
+      "properties": {
+        "name": "9-4517, Industrial Area",
+        "place_id": "ola-platform:5000202452164",
+        "address": "9-4517, Industrial Area, VenuGopala Puram, Nellimarla, Andhra Pradesh, 535217, India",
+        "district": "Vizianagaram",
+        "state": "Andhra Pradesh",
+        "types": [],
+        "query_used": "industrial area Vizianagaram",
+        "fetched_at": "2026-04-01T15:32:43.283929"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.44197,
+          18.15071
+        ]
+      },
+      "properties": {
+        "name": "9-6058, Industrial Area",
+        "place_id": "ola-platform:5000195508817",
+        "address": "9-6058, Industrial Area, VenuGopala Puram, Nellimarla, Andhra Pradesh, 535217, India",
+        "district": "Vizianagaram",
+        "state": "Andhra Pradesh",
+        "types": [],
+        "query_used": "industrial area Vizianagaram",
+        "fetched_at": "2026-04-01T15:32:43.312407"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.388804,
+          18.088715
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate Sub Post Office",
+        "place_id": "ola-platform:5000050933665",
+        "address": "Industrial Estate Sub Post Office, Dadi Honda, V T Agraharam Road, V T Agraharam, Gandhi Nagar, Gokavanipeta, Vizianagaram Mandal, Vizianagaram District, Andhra Pradesh, 535004, India",
+        "district": "Vizianagaram",
+        "state": "Andhra Pradesh",
+        "types": [
+          "post_office"
+        ],
+        "query_used": "industrial estate Vizianagaram Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:32:43.392286"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3868,
+          18.0868
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:5000054993380",
+        "address": "Industrial Estate, VT Agraharam, Vizianagaram, Andhra Pradesh, 535004, India",
+        "district": "Vizianagaram",
+        "state": "Andhra Pradesh",
+        "types": [
+          "bus_station",
+          "transit_station"
+        ],
+        "query_used": "industrial estate Vizianagaram Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:32:43.416252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3876,
+          18.0882
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:5000190517430",
+        "address": "Industrial Estate, VT Agraharam, Vizianagaram, Andhra Pradesh, 535004, India",
+        "district": "Vizianagaram",
+        "state": "Andhra Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Vizianagaram Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:32:43.442370"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.39016,
+          18.06673
+        ]
+      },
+      "properties": {
+        "name": "Micro Cellular Rubber Manufacturing Unit",
+        "place_id": "ola-platform:5000193900237",
+        "address": "Micro Cellular Rubber Manufacturing Unit, Vizianagaram - Tagarapuvalasa Rd, Vizianagaram, Andhra Pradesh, 535005, India",
+        "district": "Vizianagaram",
+        "state": "Andhra Pradesh",
+        "types": [],
+        "query_used": "MIDC Vizianagaram",
+        "fetched_at": "2026-04-01T15:32:43.467528"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.40829,
+          18.10341
+        ]
+      },
+      "properties": {
+        "name": "S-130/9, Ice Factory Area",
+        "place_id": "ola-platform:5000188175750",
+        "address": "S-130/9, Ice Factory Area, Natraj Colony, Vizianagaram, Dharmapuri, Andhra Pradesh, 535002, India",
+        "district": "Vizianagaram",
+        "state": "Andhra Pradesh",
+        "types": [],
+        "query_used": "factory area Vizianagaram",
+        "fetched_at": "2026-04-01T15:32:43.495587"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.4101,
+          18.1032
+        ]
+      },
+      "properties": {
+        "name": "Ice Factory Area",
+        "place_id": "ola-platform:5000187654192",
+        "address": "Ice Factory Area, Sai Nath Colony, Vizianagaram, Andhra Pradesh, 535002, India",
+        "district": "Vizianagaram",
+        "state": "Andhra Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Vizianagaram",
+        "fetched_at": "2026-04-01T15:32:43.522141"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.4084,
+          18.1038
+        ]
+      },
+      "properties": {
+        "name": "100 Feet Ring Rd, Ice Factory Area",
+        "place_id": "ola-platform:5000197510959",
+        "address": "100 Feet Ring Rd, Ice Factory Area, Shirdi Sai Nagar, Vizianagaram, Andhra Pradesh, 535002, India",
+        "district": "Vizianagaram",
+        "state": "Andhra Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Vizianagaram",
+        "fetched_at": "2026-04-01T15:32:43.545865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.4102,
+          18.1032
+        ]
+      },
+      "properties": {
+        "name": "100 Feet Ring Rd, Ice Factory Area",
+        "place_id": "ola-platform:5000190887759",
+        "address": "100 Feet Ring Rd, Ice Factory Area, Sai Nath Colony, Vizianagaram, Andhra Pradesh, 535002, India",
+        "district": "Vizianagaram",
+        "state": "Andhra Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Vizianagaram",
+        "fetched_at": "2026-04-01T15:32:43.572755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.40864,
+          18.10364
+        ]
+      },
+      "properties": {
+        "name": "SH 143, Ice Factory Area",
+        "place_id": "ola-platform:5000193837372",
+        "address": "SH 143, Ice Factory Area, Jonnaguddi Area, Vizianagaram, Dharmapuri, Andhra Pradesh, 535002, India",
+        "district": "Vizianagaram",
+        "state": "Andhra Pradesh",
+        "types": [],
+        "query_used": "factory area Vizianagaram",
+        "fetched_at": "2026-04-01T15:32:43.605673"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.7079,
+          16.4511
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000056251980",
+        "address": "Industrial Area, Navarasapuram, Andhra Pradesh, 534275, India",
+        "district": "West Godavari",
+        "state": "Andhra Pradesh",
+        "types": [
+          "park"
+        ],
+        "query_used": "industrial area West Godavari",
+        "fetched_at": "2026-04-01T15:32:46.439965"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.5428,
+          16.5495
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000221434774",
+        "address": "Industrial Area, Narasayyaagraharam, Bhimavaram, Andhra Pradesh 534201, India",
+        "district": "West Godavari",
+        "state": "Andhra Pradesh",
+        "types": [
+          "car_repair"
+        ],
+        "query_used": "industrial area West Godavari",
+        "fetched_at": "2026-04-01T15:32:46.463382"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.5447,
+          16.5486
+        ]
+      },
+      "properties": {
+        "name": "SVR Nest, Industrial Estate, Bhimavaram 3",
+        "place_id": "ola-platform:5000056147412",
+        "address": "SVR Nest, Industrial Estate, Bhimavaram 3, Narasayyaagraharam, Bhimavaram, Andhra Pradesh, 534201, India",
+        "district": "West Godavari",
+        "state": "Andhra Pradesh",
+        "types": [
+          "real_estate_agency"
+        ],
+        "query_used": "industrial estate West Godavari Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:32:46.546954"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.5435,
+          16.5501
+        ]
+      },
+      "properties": {
+        "name": "Sri Srinivasa Heavens, Industrial Estate, Bhimavaram 3",
+        "place_id": "ola-platform:5000045029151",
+        "address": "Sri Srinivasa Heavens, Industrial Estate, Bhimavaram 3, Flat No. 105, SME, Narasayyaagraharam, Bhimavaram, Andhra Pradesh, 534201, India",
+        "district": "West Godavari",
+        "state": "Andhra Pradesh",
+        "types": [
+          "real_estate_agency"
+        ],
+        "query_used": "industrial estate West Godavari Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:32:46.714181"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.5453,
+          16.5503
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:5000200923353",
+        "address": "Industrial Estate, D. No. 8-7-29/5, Narasayyaagraharam, Bhimavaram, Andhra Pradesh, 534201, India",
+        "district": "West Godavari",
+        "state": "Andhra Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate West Godavari Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:32:46.782607"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.8387,
+          14.4546
+        ]
+      },
+      "properties": {
+        "name": "Cotton Mill Factory Industrial Estate Kadapa",
+        "place_id": "ola-platform:5000055835804",
+        "address": "Cotton Mill Factory Industrial Estate Kadapa, Aravind Nagar, Kadapa, Andhra Pradesh, 516002, India",
+        "district": "YSR Kadapa",
+        "state": "Andhra Pradesh",
+        "types": [
+          "storage"
+        ],
+        "query_used": "industrial estate YSR Kadapa Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:32:49.620409"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.8375,
+          14.4513
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate Post Office Kadapa",
+        "place_id": "ola-platform:5000035426230",
+        "address": "Industrial Estate Post Office Kadapa, Railway Station Road, Industrial Estate Beside District Judge Bungalow, Railway Colony, Kadapa, Andhra Pradesh, 516004, India",
+        "district": "YSR Kadapa",
+        "state": "Andhra Pradesh",
+        "types": [
+          "post_office"
+        ],
+        "query_used": "industrial estate YSR Kadapa Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:32:49.647542"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.84002,
+          14.455123
+        ]
+      },
+      "properties": {
+        "name": "Mpps Industrial Estate",
+        "place_id": "ola-platform:5000035418459",
+        "address": "Mpps Industrial Estate, Kadapa Rural, Kadapa, YSR District, Andhra Pradesh, 516002, India",
+        "district": "YSR Kadapa",
+        "state": "Andhra Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate YSR Kadapa Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:32:49.674675"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.7748,
+          14.4936
+        ]
+      },
+      "properties": {
+        "name": "Koparthy Industrial Estate",
+        "place_id": "ola-platform:5000192000619",
+        "address": "Koparthy Industrial Estate, Kadapa, Andhra Pradesh, 516003, India",
+        "district": "YSR Kadapa",
+        "state": "Andhra Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate YSR Kadapa Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:32:49.699605"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.83556,
+          14.45337
+        ]
+      },
+      "properties": {
+        "name": "8/244 Mahaveer Road, Industrial Estate",
+        "place_id": "ola-platform:5000193370757",
+        "address": "8/244 Mahaveer Road, Industrial Estate, Aravind Nagar, Kadapa, Andhra Pradesh, 516002, India",
+        "district": "YSR Kadapa",
+        "state": "Andhra Pradesh",
+        "types": [],
+        "query_used": "industrial estate YSR Kadapa Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:32:49.725510"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.836742,
+          14.449401
+        ]
+      },
+      "properties": {
+        "name": "Shirdi Sai Electricals Manufacturing Division",
+        "place_id": "ola-platform:5000054720414",
+        "address": "Shirdi Sai Electricals Manufacturing Division, Kadapa Rural, China Masalareddipalle, Chinthakommadinne, YSR District, Andhra Pradesh, 516004, India",
+        "district": "YSR Kadapa",
+        "state": "Andhra Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub YSR Kadapa",
+        "fetched_at": "2026-04-01T15:32:49.884961"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5192,
+          13.5626
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate - Rachaveetivaripall Rd",
+        "place_id": "ola-platform:5000201799589",
+        "address": "Industrial Estate - Rachaveetivaripall Rd, Kammapalle, Madanapalle, Andhra Pradesh, 517325, India",
+        "district": "Annamayya",
+        "state": "Andhra Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Annamayya Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:32:52.967196"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5169,
+          13.5627
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate Rd",
+        "place_id": "ola-platform:5000202497873",
+        "address": "Industrial Estate Rd, Kammapalle, Madanapalle, Andhra Pradesh, 517325, India",
+        "district": "Annamayya",
+        "state": "Andhra Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Annamayya Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:32:52.985919"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.521,
+          13.563
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate Rd",
+        "place_id": "ola-platform:5000197472879",
+        "address": "Industrial Estate Rd, Isukanutipalle, Kammapalle, Madanapalle, Andhra Pradesh, 517325, India",
+        "district": "Annamayya",
+        "state": "Andhra Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Annamayya Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:32:53.004558"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5226,
+          13.5635
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate - Rachaveetivaripall Rd",
+        "place_id": "ola-platform:5000192837525",
+        "address": "Industrial Estate - Rachaveetivaripall Rd, Isukanutipalle, Kammapalle, Madanapalle, Andhra Pradesh, 517325, India",
+        "district": "Annamayya",
+        "state": "Andhra Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Annamayya Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:32:53.025401"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.512,
+          13.5638
+        ]
+      },
+      "properties": {
+        "name": "Old Industrial Estate, Madanapalle",
+        "place_id": "ola-platform:5000051687769",
+        "address": "Old Industrial Estate, Madanapalle, Tirupati Rd, Kammapalle, Madanapalle, Andhra Pradesh, 517325, India",
+        "district": "Annamayya",
+        "state": "Andhra Pradesh",
+        "types": [
+          "store"
+        ],
+        "query_used": "industrial estate Annamayya Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:32:53.043186"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.48329,
+          15.90184
+        ]
+      },
+      "properties": {
+        "name": "The Bapatla Industrial Estate",
+        "place_id": "ola-platform:5000062538082",
+        "address": "The Bapatla Industrial Estate, Bapatla, Andhra Pradesh, 522102, India",
+        "district": "Bapatla",
+        "state": "Andhra Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Bapatla Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:32:56.445561"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.304444,
+          15.783635
+        ]
+      },
+      "properties": {
+        "name": "Bharat Cashew Manufacturing Company",
+        "place_id": "ola-platform:5000066030321",
+        "address": "Bharat Cashew Manufacturing Company, Bandla Bapaiah School, Ravuru Road, Chirala Rural, Vetapalem, Bapatla, Andhra Pradesh, 523187, India",
+        "district": "Bapatla",
+        "state": "Andhra Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Bapatla",
+        "fetched_at": "2026-04-01T15:32:56.769776"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.07312,
+          16.70559
+        ]
+      },
+      "properties": {
+        "name": "1-51, Industrial Area",
+        "place_id": "ola-platform:5000190541149",
+        "address": "1-51, Industrial Area, Satrampadu, Eluru, Andhra Pradesh, 534007, India",
+        "district": "Eluru",
+        "state": "Andhra Pradesh",
+        "types": [],
+        "query_used": "industrial area Eluru",
+        "fetched_at": "2026-04-01T15:32:59.240470"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.07299,
+          16.70672
+        ]
+      },
+      "properties": {
+        "name": "1-20-7, Industrial Area",
+        "place_id": "ola-platform:5000198279629",
+        "address": "1-20-7, Industrial Area, Satrampadu, Eluru, Andhra Pradesh, 534007, India",
+        "district": "Eluru",
+        "state": "Andhra Pradesh",
+        "types": [],
+        "query_used": "industrial area Eluru",
+        "fetched_at": "2026-04-01T15:32:59.267841"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.0729,
+          16.70558
+        ]
+      },
+      "properties": {
+        "name": "1-77/1, Industrial Area",
+        "place_id": "ola-platform:5000195418041",
+        "address": "1-77/1, Industrial Area, Satrampadu, Eluru, Andhra Pradesh, 534007, India",
+        "district": "Eluru",
+        "state": "Andhra Pradesh",
+        "types": [],
+        "query_used": "industrial area Eluru",
+        "fetched_at": "2026-04-01T15:32:59.285893"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.07183,
+          16.70659
+        ]
+      },
+      "properties": {
+        "name": "25-12-71, Industrial Area",
+        "place_id": "ola-platform:5000196253762",
+        "address": "25-12-71, Industrial Area, Satrampadu, Eluru, Andhra Pradesh, 534007, India",
+        "district": "Eluru",
+        "state": "Andhra Pradesh",
+        "types": [],
+        "query_used": "industrial area Eluru",
+        "fetched_at": "2026-04-01T15:32:59.303051"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.06983,
+          16.70753
+        ]
+      },
+      "properties": {
+        "name": "25-12-81, Industrial Area",
+        "place_id": "ola-platform:5000190739613",
+        "address": "25-12-81, Industrial Area, Satrampadu, Eluru, Andhra Pradesh, 534007, India",
+        "district": "Eluru",
+        "state": "Andhra Pradesh",
+        "types": [],
+        "query_used": "industrial area Eluru",
+        "fetched_at": "2026-04-01T15:32:59.320167"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.0699,
+          16.7045
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate Sub Post Office",
+        "place_id": "ola-platform:5000063576893",
+        "address": "Industrial Estate Sub Post Office, Satrampadu, Eluru, Andhra Pradesh, 534007, India",
+        "district": "Eluru",
+        "state": "Andhra Pradesh",
+        "types": [
+          "post_office"
+        ],
+        "query_used": "industrial estate Eluru Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:32:59.344366"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.0699,
+          16.7051
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:5000202434221",
+        "address": "Industrial Estate, Ambica Durbar Bathi, Satrampadu, Eluru, Andhra Pradesh, 534007, India",
+        "district": "Eluru",
+        "state": "Andhra Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Eluru Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:32:59.368323"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.102454,
+          16.70769
+        ]
+      },
+      "properties": {
+        "name": "Midcity Travels",
+        "place_id": "ola-platform:5000036952758",
+        "address": "Midcity Travels, Eluru - Kaikaluru Road, Agraharam, Powerpet, Eluru, Eluru District, Andhra Pradesh, 534001, India",
+        "district": "Eluru",
+        "state": "Andhra Pradesh",
+        "types": [
+          "travel_agency"
+        ],
+        "query_used": "MIDC Eluru",
+        "fetched_at": "2026-04-01T15:32:59.430443"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.104556,
+          16.707978
+        ]
+      },
+      "properties": {
+        "name": "Midcity Juice Shop",
+        "place_id": "ola-platform:5000067791627",
+        "address": "Midcity Juice Shop, Agraharam, Powerpet, Eluru, Eluru District, Andhra Pradesh, 534001, India",
+        "district": "Eluru",
+        "state": "Andhra Pradesh",
+        "types": [
+          "restaurant",
+          "meal_takeaway",
+          "meal_delivery"
+        ],
+        "query_used": "MIDC Eluru",
+        "fetched_at": "2026-04-01T15:32:59.455820"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6852,
+          16.5248
+        ]
+      },
+      "properties": {
+        "name": "S2 Furniture Factory",
+        "place_id": "ola-platform:5000065222093",
+        "address": "S2 Furniture Factory, #7-151, Bside Venkammatalli Temple, Eluru Rd, Ramavarapadu, Vijayawada, Andhra Pradesh, 520004, India",
+        "district": "Eluru",
+        "state": "Andhra Pradesh",
+        "types": [
+          "furniture_store"
+        ],
+        "query_used": "factory area Eluru",
+        "fetched_at": "2026-04-01T15:32:59.502047"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.22813,
+          16.80117
+        ]
+      },
+      "properties": {
+        "name": "Oil Thavud Factory",
+        "place_id": "ola-platform:5000198165290",
+        "address": "Oil Thavud Factory, Eluru Gundugolanu Kovvur Rd, Muppavaram, Sriramavaram, Andhra Pradesh, 534427, India",
+        "district": "Eluru",
+        "state": "Andhra Pradesh",
+        "types": [],
+        "query_used": "factory area Eluru",
+        "fetched_at": "2026-04-01T15:32:59.523967"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6563,
+          16.524
+        ]
+      },
+      "properties": {
+        "name": "Rajesh FootWear Manufacturing Unit",
+        "place_id": "ola-platform:5000040856084",
+        "address": "Rajesh FootWear Manufacturing Unit, Eluru Rd, Santhi Nagar, Machavaram, Vijayawada, Andhra Pradesh, 520004, India",
+        "district": "Eluru",
+        "state": "Andhra Pradesh",
+        "types": [
+          "shoe_store"
+        ],
+        "query_used": "manufacturing hub Eluru",
+        "fetched_at": "2026-04-01T15:32:59.594563"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6528,
+          16.5196
+        ]
+      },
+      "properties": {
+        "name": "Alankar Tubular Furniture Manufacturing Co",
+        "place_id": "ola-platform:5000041934163",
+        "address": "Alankar Tubular Furniture Manufacturing Co, Eluru Rd, Divine Nagar, Machavaram, Vijayawada, Andhra Pradesh, 520004, India",
+        "district": "Eluru",
+        "state": "Andhra Pradesh",
+        "types": [
+          "furniture_store"
+        ],
+        "query_used": "manufacturing hub Eluru",
+        "fetched_at": "2026-04-01T15:32:59.618715"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.2751,
+          17.0152
+        ]
+      },
+      "properties": {
+        "name": "ONGC Kakinada Industrial Area",
+        "place_id": "ola-platform:5000053875543",
+        "address": "ONGC Kakinada Industrial Area, ONGC, Samalkota, Kakinada - Uppada Beach Rd, Kakinada Industrial Area, Kakinada, Andhra Pradesh, 533005, India",
+        "district": "Kakinada",
+        "state": "Andhra Pradesh",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial area Kakinada",
+        "fetched_at": "2026-04-01T15:33:01.978974"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.276023,
+          17.008314
+        ]
+      },
+      "properties": {
+        "name": "Kakinada Industrial Area",
+        "place_id": "ola-platform:1109895",
+        "address": "Kakinada Industrial Area, Kakinada, Andhra Pradesh, India",
+        "district": "Kakinada",
+        "state": "Andhra Pradesh",
+        "types": [
+          "borough"
+        ],
+        "query_used": "industrial area Kakinada",
+        "fetched_at": "2026-04-01T15:33:02.007887"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.2728,
+          17.0084
+        ]
+      },
+      "properties": {
+        "name": "ATR Kakinada Industrial Area",
+        "place_id": "ola-platform:5000049171138",
+        "address": "ATR Kakinada Industrial Area, Kakinada Industrial Area, Kakinada, Andhra Pradesh, 533005, India",
+        "district": "Kakinada",
+        "state": "Andhra Pradesh",
+        "types": [
+          "storage"
+        ],
+        "query_used": "industrial area Kakinada",
+        "fetched_at": "2026-04-01T15:33:02.034005"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.28186,
+          17.016388
+        ]
+      },
+      "properties": {
+        "name": "TaTa Motors Cars Service Centre - Marudhara Motors, Light Industrial Area",
+        "place_id": "ola-platform:5000040498655",
+        "address": "TaTa Motors Cars Service Centre - Marudhara Motors, Light Industrial Area, Parakala, Suryaraopeta, Kakinada (Rural), Kakinada, Andhra Pradesh, 533005, India",
+        "district": "Kakinada",
+        "state": "Andhra Pradesh",
+        "types": [
+          "car_dealer"
+        ],
+        "query_used": "industrial area Kakinada",
+        "fetched_at": "2026-04-01T15:33:02.062173"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.27223,
+          16.99258
+        ]
+      },
+      "properties": {
+        "name": "Gfcl Rd, Kakinada Industrial Area",
+        "place_id": "ola-platform:5000201302677",
+        "address": "Gfcl Rd, Kakinada Industrial Area, Kakinada, Andhra Pradesh, 533005, India",
+        "district": "Kakinada",
+        "state": "Andhra Pradesh",
+        "types": [],
+        "query_used": "industrial area Kakinada",
+        "fetched_at": "2026-04-01T15:33:02.093556"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.2745,
+          17.0163
+        ]
+      },
+      "properties": {
+        "name": "Weatherford Oil Tools Middle East",
+        "place_id": "ola-platform:5000039092166",
+        "address": "Weatherford Oil Tools Middle East, Kakinada Industrial Area, Kakinada, Andhra Pradesh 533005, India",
+        "district": "Kakinada",
+        "state": "Andhra Pradesh",
+        "types": [
+          "hardware_store"
+        ],
+        "query_used": "MIDC Kakinada",
+        "fetched_at": "2026-04-01T15:33:02.258268"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.240067,
+          16.973068
+        ]
+      },
+      "properties": {
+        "name": "The Bajji Factory",
+        "place_id": "ola-platform:5000213969580",
+        "address": "The Bajji Factory, Shop 2, Madhava Nagar, Saurarao Peta, Kakinada Locality, Kakinada, 533003, India",
+        "district": "Kakinada",
+        "state": "Andhra Pradesh",
+        "types": [
+          "restaurant",
+          "meal_takeaway",
+          "meal_delivery"
+        ],
+        "query_used": "factory area Kakinada",
+        "fetched_at": "2026-04-01T15:33:02.298609"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.2097,
+          17.0025
+        ]
+      },
+      "properties": {
+        "name": "Fresh Catch Exports- SeaFood Factory",
+        "place_id": "ola-platform:5000056184745",
+        "address": "Fresh Catch Exports- SeaFood Factory, Plot 14, 15, APIIC Industrial Park, Auto Nagar, Sarpavaram, Kakinada, E.G. AP, Auto Nagar, Kakinada, Valluru, Andhra Pradesh, 533005, India",
+        "district": "Kakinada",
+        "state": "Andhra Pradesh",
+        "types": [
+          "moving_company"
+        ],
+        "query_used": "factory area Kakinada",
+        "fetched_at": "2026-04-01T15:33:02.317289"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.245,
+          16.9574
+        ]
+      },
+      "properties": {
+        "name": "Chinni Thalli Car Seat Covers Manufacturing",
+        "place_id": "ola-platform:5000040704897",
+        "address": "Chinni Thalli Car Seat Covers Manufacturing, Aditya Women's College Degree, Sambhamurthy Nagar 5th Street, Ayodhya Nagar, Kakinada, Andhra Pradesh, 533003, India",
+        "district": "Kakinada",
+        "state": "Andhra Pradesh",
+        "types": [
+          "store"
+        ],
+        "query_used": "manufacturing hub Kakinada",
+        "fetched_at": "2026-04-01T15:33:02.445628"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.03382,
+          16.82317
+        ]
+      },
+      "properties": {
+        "name": "40-1-20, Artos Factory Area",
+        "place_id": "ola-platform:5000202180406",
+        "address": "40-1-20, Artos Factory Area, Shanthi Nagar, Ramachandrapuram, Andhra Pradesh, 533256, India",
+        "district": "Konaseema",
+        "state": "Andhra Pradesh",
+        "types": [],
+        "query_used": "factory area Konaseema",
+        "fetched_at": "2026-04-01T15:33:05.332088"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.836081,
+          16.465959
+        ]
+      },
+      "properties": {
+        "name": "Saritha Bag Manufacturing Industries",
+        "place_id": "ola-platform:5000056162085",
+        "address": "Saritha Bag Manufacturing Industries, Nh216, Razole, Dr. B. R. Ambedkar Konaseema, Andhra Pradesh, 533242, India",
+        "district": "Konaseema",
+        "state": "Andhra Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Konaseema",
+        "fetched_at": "2026-04-01T15:33:05.451355"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.993295,
+          16.496192
+        ]
+      },
+      "properties": {
+        "name": "Paper Sweet Manufacturing Place",
+        "place_id": "ola-platform:5000054011132",
+        "address": "Paper Sweet Manufacturing Place, Allavaram - Rellugedda - Turpulanka - Mogalamuru Road, Rellugadda, Allavaram, Dr. B. R. Ambedkar Konaseema, Andhra Pradesh, 533217, India",
+        "district": "Konaseema",
+        "state": "Andhra Pradesh",
+        "types": [
+          "bakery",
+          "restaurant"
+        ],
+        "query_used": "manufacturing hub Konaseema",
+        "fetched_at": "2026-04-01T15:33:05.475428"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4709,
+          15.466
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000197310102",
+        "address": "Industrial Area, Nandyala, Andhra Pradesh, 518502, India",
+        "district": "Nandyal",
+        "state": "Andhra Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Nandyal",
+        "fetched_at": "2026-04-01T15:33:08.363980"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.47191,
+          15.4675
+        ]
+      },
+      "properties": {
+        "name": "SH 48, Industrial Area",
+        "place_id": "ola-platform:5000199228349",
+        "address": "SH 48, Industrial Area, Nandyala, Andhra Pradesh, 518502, India",
+        "district": "Nandyal",
+        "state": "Andhra Pradesh",
+        "types": [],
+        "query_used": "industrial area Nandyal",
+        "fetched_at": "2026-04-01T15:33:08.407102"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.47203,
+          15.4695
+        ]
+      },
+      "properties": {
+        "name": "Mdr102, Industrial Area",
+        "place_id": "ola-platform:5000198265966",
+        "address": "Mdr102, Industrial Area, Nandyala, Andhra Pradesh, 518502, India",
+        "district": "Nandyal",
+        "state": "Andhra Pradesh",
+        "types": [],
+        "query_used": "industrial area Nandyal",
+        "fetched_at": "2026-04-01T15:33:08.443643"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.47729,
+          15.46473
+        ]
+      },
+      "properties": {
+        "name": "30/343, Industrial Area",
+        "place_id": "ola-platform:5000187254115",
+        "address": "30/343, Industrial Area, Noonepalli, Nandyala, Andhra Pradesh, 518502, India",
+        "district": "Nandyal",
+        "state": "Andhra Pradesh",
+        "types": [],
+        "query_used": "industrial area Nandyal",
+        "fetched_at": "2026-04-01T15:33:08.480253"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.47293,
+          15.47025
+        ]
+      },
+      "properties": {
+        "name": "26-441-2, Industrial Area",
+        "place_id": "ola-platform:5000184754094",
+        "address": "26-441-2, Industrial Area, Noonepalli, Nandyala, Andhra Pradesh, 518501, India",
+        "district": "Nandyal",
+        "state": "Andhra Pradesh",
+        "types": [],
+        "query_used": "industrial area Nandyal",
+        "fetched_at": "2026-04-01T15:33:08.509081"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.46427,
+          15.46767
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate Plot No:f1&f2",
+        "place_id": "ola-platform:5000192368391",
+        "address": "Industrial Estate Plot No:f1&f2, Kranti Nagar, Nandyala, Andhra Pradesh, 518502, India",
+        "district": "Nandyal",
+        "state": "Andhra Pradesh",
+        "types": [],
+        "query_used": "industrial estate Nandyal Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:33:08.537135"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6715,
+          16.4926
+        ]
+      },
+      "properties": {
+        "name": "Jawaharlal Nehru Auto Nagar Industrial Estate, Vijayawada",
+        "place_id": "ola-platform:5000047918722",
+        "address": "Jawaharlal Nehru Auto Nagar Industrial Estate, Vijayawada, Auto Nagar, Vijayawada, Andhra Pradesh, 520007, India",
+        "district": "NTR",
+        "state": "Andhra Pradesh",
+        "types": [
+          "car_repair"
+        ],
+        "query_used": "industrial estate NTR Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:33:13.198581"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.67274,
+          16.49378
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:5000058000664",
+        "address": "Industrial Estate, Patamata, Vijayawada, NTR, Andhra Pradesh, 520007, India",
+        "district": "NTR",
+        "state": "Andhra Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate NTR Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:33:13.239314"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.677649,
+          16.493506
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:5000059131772",
+        "address": "Industrial Estate, Kanuru, Tadigadapa, Penamaluru, Krishna, Andhra Pradesh, 520007, India",
+        "district": "NTR",
+        "state": "Andhra Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate NTR Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:33:13.281969"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.6709,
+          16.492
+        ]
+      },
+      "properties": {
+        "name": "The Vijayawada Industrial Estate Manufacturers Association",
+        "place_id": "ola-platform:5000065316471",
+        "address": "The Vijayawada Industrial Estate Manufacturers Association, Flat No:12, Industrial Estate, Auto Nagar, Vijayawada, Andhra Pradesh, 520007, India",
+        "district": "NTR",
+        "state": "Andhra Pradesh",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate NTR Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:33:13.320066"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7292,
+          12.9812
+        ]
+      },
+      "properties": {
+        "name": "Sri Sathya Sai Super Speciality Hospital",
+        "place_id": "ola-platform:5000192131647",
+        "address": "Sri Sathya Sai Super Speciality Hospital, 8th Rd, KIADB Export Promotion Industrial Area, Whitefield, Bengaluru, Karnataka, 560066, India",
+        "district": "Sri Sathya Sai",
+        "state": "Andhra Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Sri Sathya Sai",
+        "fetched_at": "2026-04-01T15:33:22.310595"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7294,
+          12.9827
+        ]
+      },
+      "properties": {
+        "name": "Sri Sathya Sai Super Speciality Hospital Reception Block",
+        "place_id": "ola-platform:5000188165253",
+        "address": "Sri Sathya Sai Super Speciality Hospital Reception Block, Sri Sathya Sai Super Speciality Hospital, KIADB Export Promotion Industrial Area, Whitefield, Bengaluru, Karnataka, 560066, India",
+        "district": "Sri Sathya Sai",
+        "state": "Andhra Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Sri Sathya Sai",
+        "fetched_at": "2026-04-01T15:33:22.347707"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7287,
+          12.9831
+        ]
+      },
+      "properties": {
+        "name": "Sri Sathya Sai Super Speciality Hospital Complex",
+        "place_id": "ola-platform:5000201620276",
+        "address": "Sri Sathya Sai Super Speciality Hospital Complex, Sri Sathya Sai Super Speciality Hospital, KIADB Export Promotion Industrial Area, Whitefield, Bengaluru, Karnataka, 560066, India",
+        "district": "Sri Sathya Sai",
+        "state": "Andhra Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Sri Sathya Sai",
+        "fetched_at": "2026-04-01T15:33:22.387336"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7302,
+          12.9814
+        ]
+      },
+      "properties": {
+        "name": "Sri Sathya Sai Super Speciality Hospital Store Room",
+        "place_id": "ola-platform:5000191150309",
+        "address": "Sri Sathya Sai Super Speciality Hospital Store Room, Sri Sathya Sai Super Speciality Hospital, KIADB Export Promotion Industrial Area, Whitefield, Bengaluru, Karnataka, 560066, India",
+        "district": "Sri Sathya Sai",
+        "state": "Andhra Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Sri Sathya Sai",
+        "fetched_at": "2026-04-01T15:33:22.422894"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.73,
+          12.9824
+        ]
+      },
+      "properties": {
+        "name": "Canteen, Sri Sathya Sai Super Speciality Hospital",
+        "place_id": "ola-platform:5000188456480",
+        "address": "Canteen, Sri Sathya Sai Super Speciality Hospital, Whitefield, KIADB Export Promotion Industrial Area, Bengaluru, Karnataka, 560066, India",
+        "district": "Sri Sathya Sai",
+        "state": "Andhra Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Sri Sathya Sai",
+        "fetched_at": "2026-04-01T15:33:22.457834"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5132,
+          13.7254
+        ]
+      },
+      "properties": {
+        "name": "SBI Branch Industrial Estate Hindupur",
+        "place_id": "ola-platform:5000222168226",
+        "address": "SBI Branch Industrial Estate Hindupur, Andhra Pradesh Industrial Infrastructure Corporation Industrial Park, Thumkunta, Hindupur, Gollapuram, Andhra Pradesh 515211, India",
+        "district": "Sri Sathya Sai",
+        "state": "Andhra Pradesh",
+        "types": [
+          "bank"
+        ],
+        "query_used": "industrial estate Sri Sathya Sai Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:33:22.498849"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4987,
+          13.7246
+        ]
+      },
+      "properties": {
+        "name": "State Bank Of India-Industrial Estate",
+        "place_id": "ola-platform:5000049510240",
+        "address": "State Bank Of India-Industrial Estate, SH 9, Thumakunta, Andhra Pradesh, 515211, India",
+        "district": "Sri Sathya Sai",
+        "state": "Andhra Pradesh",
+        "types": [
+          "bank"
+        ],
+        "query_used": "industrial estate Sri Sathya Sai Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:33:22.532251"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5132,
+          13.7254
+        ]
+      },
+      "properties": {
+        "name": "State Bank Of India Industrial Estate Hindupur",
+        "place_id": "ola-platform:5000065338491",
+        "address": "State Bank Of India Industrial Estate Hindupur, APIIC Growth Centre, Thumkunta Hindupur, Anantapur, Gollapuram, Andhra Pradesh, 515211, India",
+        "district": "Sri Sathya Sai",
+        "state": "Andhra Pradesh",
+        "types": [
+          "bank"
+        ],
+        "query_used": "industrial estate Sri Sathya Sai Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:33:22.567516"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1713,
+          14.1101
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:5000189708417",
+        "address": "Industrial Estate, S/15-B, SH 34, Apiic(industrial Area), Kadiri, Andhra Pradesh, 515591, India",
+        "district": "Sri Sathya Sai",
+        "state": "Andhra Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Sri Sathya Sai Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:33:22.607701"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1566,
+          13.1283
+        ]
+      },
+      "properties": {
+        "name": "Bengaluru - Tirupati Hwy",
+        "place_id": "ola-platform:5000194380129",
+        "address": "Bengaluru - Tirupati Hwy, Tamaka Industrial Area, Tamaka, Karnataka, 563101, India",
+        "district": "Tirupati",
+        "state": "Andhra Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Tirupati",
+        "fetched_at": "2026-04-01T15:33:25.366005"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.899,
+          17.6718
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area (Mini) Anganwadi Center",
+        "place_id": "ola-platform:5000041909246",
+        "address": "Industrial Area (Mini) Anganwadi Center, Adarsa Nager Colony, Industrial Area Road, Bhadrachalam, Bhadradri Kothagudem, Telangana, 507111, India",
+        "district": "Alluri Sitharama Raju",
+        "state": "Andhra Pradesh",
+        "types": [
+          "school"
+        ],
+        "query_used": "industrial area Alluri Sitharama Raju",
+        "fetched_at": "2026-04-01T15:33:29.467323"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.8975,
+          17.6744
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000051173780",
+        "address": "Industrial Area, Nagababu St, Korrajula Gutta, Bhadrachalam, Andhra Pradesh, 507111, India",
+        "district": "Alluri Sitharama Raju",
+        "state": "Andhra Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Alluri Sitharama Raju",
+        "fetched_at": "2026-04-01T15:33:29.511248"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.8967,
+          17.6754
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Rd",
+        "place_id": "ola-platform:5000197818745",
+        "address": "Industrial Area Rd, Venkateshwara Colony, Bhadrachalam, Telangana, 507111, India",
+        "district": "Alluri Sitharama Raju",
+        "state": "Andhra Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Alluri Sitharama Raju",
+        "fetched_at": "2026-04-01T15:33:29.554448"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.89633,
+          17.67713
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Rd",
+        "place_id": "ola-platform:5000196203102",
+        "address": "Industrial Area Rd, Ashok Nagar Colony, Bhadrachalam, Kolanugudem, Andhra Pradesh, 507111, India",
+        "district": "Alluri Sitharama Raju",
+        "state": "Andhra Pradesh",
+        "types": [],
+        "query_used": "industrial area Alluri Sitharama Raju",
+        "fetched_at": "2026-04-01T15:33:29.600076"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.897,
+          17.67409
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Rd",
+        "place_id": "ola-platform:5000198379019",
+        "address": "Industrial Area Rd, Ashok Nagar Colony, Bhadrachalam, Andhra Pradesh, 507111, India",
+        "district": "Alluri Sitharama Raju",
+        "state": "Andhra Pradesh",
+        "types": [],
+        "query_used": "industrial area Alluri Sitharama Raju",
+        "fetched_at": "2026-04-01T15:33:29.640880"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.0536,
+          17.6918
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:5000069071999",
+        "address": "Industrial Estate, Nh16, Konda Koppaka, Koppaka, Andhra Pradesh, 531019, India",
+        "district": "Anakapalli",
+        "state": "Andhra Pradesh",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Anakapalli Andhra Pradesh",
+        "fetched_at": "2026-04-01T15:33:33.184449"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.995,
+          17.7162
+        ]
+      },
+      "properties": {
+        "name": "Old Sugar Factory Rd",
+        "place_id": "ola-platform:5000187672319",
+        "address": "Old Sugar Factory Rd, Thummapala, Anakapalle, Andhra Pradesh, 531032, India",
+        "district": "Anakapalli",
+        "state": "Andhra Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Anakapalli",
+        "fetched_at": "2026-04-01T15:33:33.568828"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.858238,
+          17.552384
+        ]
+      },
+      "properties": {
+        "name": "Tirumala Manufacturing Engineering Services",
+        "place_id": "ola-platform:5000043106505",
+        "address": "Tirumala Manufacturing Engineering Services, Yelamanchili - Gajuwaka Road, State Bank Colony, Elamanchilli, Yelamanchili, Anakapalli, Andhra Pradesh, 531055, India",
+        "district": "Anakapalli",
+        "state": "Andhra Pradesh",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "manufacturing hub Anakapalli",
+        "fetched_at": "2026-04-01T15:33:33.812848"
+      }
+    }
+  ]
+}

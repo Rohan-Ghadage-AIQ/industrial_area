@@ -1,0 +1,49 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.000048,
+          24.318815
+        ]
+      },
+      "properties": {
+        "name": "Kumarghat Industrial Area",
+        "place_id": "ola-platform:5000041382956",
+        "address": "Kumarghat Industrial Area, Kailashahar, Gournagar, Unakoti, Tripura, 799279, India",
+        "district": "Unakoti",
+        "state": "Tripura",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Unakoti",
+        "fetched_at": "2026-04-01T16:03:06.634563"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2677,
+          23.7963
+        ]
+      },
+      "properties": {
+        "name": "Badharghat Industrial Area",
+        "place_id": "ola-platform:5000049795314",
+        "address": "Badharghat Industrial Area, Unnamed Road, Badharghat, Agartala, Tripura, 799003, India",
+        "district": "West Tripura",
+        "state": "Tripura",
+        "types": [
+          "local_government_office"
+        ],
+        "query_used": "industrial area West Tripura",
+        "fetched_at": "2026-04-01T16:03:09.084432"
+      }
+    }
+  ]
+}

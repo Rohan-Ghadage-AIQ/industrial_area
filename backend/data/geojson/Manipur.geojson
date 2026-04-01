@@ -1,0 +1,94 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.767088,
+          24.660863
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate Bishnupur",
+        "place_id": "ola-platform:5000044310692",
+        "address": "Industrial Estate Bishnupur, Tiddim Road, Yumnam Khunou, Nambol Tehsil, Bishnupur District, Manipur, 795126, India",
+        "district": "Bishnupur",
+        "state": "Manipur",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Bishnupur Manipur",
+        "fetched_at": "2026-04-01T15:51:28.136318"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.7672,
+          24.6612
+        ]
+      },
+      "properties": {
+        "name": "Tera-Urak Industrial Estate",
+        "place_id": "ola-platform:5000061364659",
+        "address": "Tera-Urak Industrial Estate, Bishnupur, Manipur, 795134, India",
+        "district": "Bishnupur",
+        "state": "Manipur",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Bishnupur Manipur",
+        "fetched_at": "2026-04-01T15:51:28.159079"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.966784,
+          24.828789
+        ]
+      },
+      "properties": {
+        "name": "TNG Industrial Estate",
+        "place_id": "ola-platform:5000066222814",
+        "address": "TNG Industrial Estate, Porompat, Imphal East, Manipur, 795002, India",
+        "district": "Imphal East",
+        "state": "Manipur",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Imphal East Manipur",
+        "fetched_at": "2026-04-01T15:51:36.949410"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.913953,
+          24.802679
+        ]
+      },
+      "properties": {
+        "name": "Takyel Industrial Estate",
+        "place_id": "ola-platform:5000042089853",
+        "address": "Takyel Industrial Estate, Industry Road, Imphal, Lamphelpat, Imphal West, Manipur, 795004, India",
+        "district": "Imphal West",
+        "state": "Manipur",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Imphal West Manipur",
+        "fetched_at": "2026-04-01T15:51:39.656178"
+      }
+    }
+  ]
+}

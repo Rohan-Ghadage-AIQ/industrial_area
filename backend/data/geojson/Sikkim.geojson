@@ -1,0 +1,49 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4953,
+          27.1934
+        ]
+      },
+      "properties": {
+        "name": "Titan Company, Watch Manufacturing And Assembly Unit",
+        "place_id": "ola-platform:5000065766153",
+        "address": "Titan Company, Watch Manufacturing And Assembly Unit, Baghey Khola, Majitar, Sikkim, 737134, India",
+        "district": "East Sikkim",
+        "state": "Sikkim",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub East Sikkim",
+        "fetched_at": "2026-04-01T15:59:31.057208"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3679,
+          26.7399
+        ]
+      },
+      "properties": {
+        "name": "North East Ferro Alloy Factory",
+        "place_id": "ola-platform:5000197090418",
+        "address": "North East Ferro Alloy Factory, Guria, West Bengal, 734010, India",
+        "district": "North Sikkim",
+        "state": "Sikkim",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area North Sikkim",
+        "fetched_at": "2026-04-01T15:59:33.543517"
+      }
+    }
+  ]
+}

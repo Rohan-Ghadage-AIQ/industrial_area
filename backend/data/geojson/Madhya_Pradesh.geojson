@@ -1,0 +1,4026 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.029,
+          23.728
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000064993999",
+        "address": "Industrial Area, Baijnath MahaDev, ByPass Road, Opposite District Jail, Chhawani, Madhya Pradesh, 465441, India",
+        "district": "Agar Malwa",
+        "state": "Madhya Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Agar Malwa",
+        "fetched_at": "2026-04-01T15:47:17.550029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.834,
+          22.734
+        ]
+      },
+      "properties": {
+        "name": "Maa Agarbatii Manufacturing",
+        "place_id": "ola-platform:5000048968639",
+        "address": "Maa Agarbatii Manufacturing, 335/336A, Ward 4, Vasundhara, Vindhyanchal Nagar, Indore, Madhya Pradesh, 452005, India",
+        "district": "Agar Malwa",
+        "state": "Madhya Pradesh",
+        "types": [
+          "point_of_interest"
+        ],
+        "query_used": "manufacturing hub Agar Malwa",
+        "fetched_at": "2026-04-01T15:47:17.845153"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.13229,
+          21.80877
+        ]
+      },
+      "properties": {
+        "name": "M P E B 0FFC, Garra Industrial Area",
+        "place_id": "ola-platform:5000191666289",
+        "address": "M P E B 0FFC, Garra Industrial Area, Garra, Madhya Pradesh, 481331, India",
+        "district": "Balaghat",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial area Balaghat",
+        "fetched_at": "2026-04-01T15:47:28.188645"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1512,
+          21.8033
+        ]
+      },
+      "properties": {
+        "name": "Garra Industrial Area",
+        "place_id": "ola-platform:5000196240845",
+        "address": "Garra Industrial Area, Garra, Madhya Pradesh, 481331, India",
+        "district": "Balaghat",
+        "state": "Madhya Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Balaghat",
+        "fetched_at": "2026-04-01T15:47:28.218566"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.923042,
+          22.024728
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000036149428",
+        "address": "Industrial Area, Sh39a, Segaon, Barwani, Barwani Tahsil, Barwani, Madhya Pradesh, 451551, India",
+        "district": "Barwani",
+        "state": "Madhya Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Barwani",
+        "fetched_at": "2026-04-01T15:47:31.226979"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.2731,
+          21.9529
+        ]
+      },
+      "properties": {
+        "name": "New Industrial Area At Relwa Khurd & Khajuri",
+        "place_id": "ola-platform:5000185545164",
+        "address": "New Industrial Area At Relwa Khurd & Khajuri, New Industrial Area Relwa Khurd & Khajuri, New Industrial Area At Relwa Khurd & Khajuri, Tehsil, Rajpur, Madhya Pradesh, 451447, India",
+        "district": "Barwani",
+        "state": "Madhya Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Barwani",
+        "fetched_at": "2026-04-01T15:47:31.255213"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.920083,
+          22.031183
+        ]
+      },
+      "properties": {
+        "name": "Parag Cement Bricks Manufacturing",
+        "place_id": "ola-platform:5000047520157",
+        "address": "Parag Cement Bricks Manufacturing, Nh347b, Segaon, Barwani, Barwani Tahsil, Barwani, Madhya Pradesh, 451551, India",
+        "district": "Barwani",
+        "state": "Madhya Pradesh",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "manufacturing hub Barwani",
+        "fetched_at": "2026-04-01T15:47:31.588940"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8815,
+          21.8967
+        ]
+      },
+      "properties": {
+        "name": "Betul Press Steel Industries (Best Profile Structure)",
+        "place_id": "ola-platform:5000060258216",
+        "address": "Betul Press Steel Industries (Best Profile Structure), Betul, Industrial Area, Kosmi, Madhya Pradesh, 460001, India",
+        "district": "Betul",
+        "state": "Madhya Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Betul",
+        "fetched_at": "2026-04-01T15:47:34.442543"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.2102,
+          26.2408
+        ]
+      },
+      "properties": {
+        "name": "12-A, Bhind Rd",
+        "place_id": "ola-platform:5000190018076",
+        "address": "12-A, Bhind Rd, Pushpa Rajendra Mahor, Parshad Ward No 21, Industrial Area, Goverdhan Colony, Maharajpura, Gwalior, Madhya Pradesh, 474005, India",
+        "district": "Bhind",
+        "state": "Madhya Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Bhind",
+        "fetched_at": "2026-04-01T15:47:37.025860"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4512,
+          23.2546
+        ]
+      },
+      "properties": {
+        "name": "IISER Bhopal Mess",
+        "place_id": "ola-platform:5000192146868",
+        "address": "IISER Bhopal Mess, Govindpura Industrial Area, Bhopal, Madhya Pradesh, 462061, India",
+        "district": "Bhopal",
+        "state": "Madhya Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Bhopal",
+        "fetched_at": "2026-04-01T15:47:39.806763"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4564,
+          23.25267
+        ]
+      },
+      "properties": {
+        "name": "Valvoline Cummins Pvt Ltd Plote No.13 A J K Road Opposite Maruti Showroom Industrial Area Govindpura Bhopal",
+        "place_id": "ola-platform:5000190495681",
+        "address": "Valvoline Cummins Pvt Ltd Plote No.13 A J K Road Opposite Maruti Showroom Industrial Area Govindpura Bhopal, CPRI Colony, Govindpura Industrial Area, Bhopal, Madhya Pradesh, 462022, India",
+        "district": "Bhopal",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial area Bhopal",
+        "fetched_at": "2026-04-01T15:47:39.838290"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.03506,
+          22.92306
+        ]
+      },
+      "properties": {
+        "name": "65/2/1 Bhopal, Bye Pass Road",
+        "place_id": "ola-platform:5000194874999",
+        "address": "65/2/1 Bhopal, Bye Pass Road, Industrial Area No.2, Dewas, Madhya Pradesh, 455001, India",
+        "district": "Bhopal",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial area Bhopal",
+        "fetched_at": "2026-04-01T15:47:39.873022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4514,
+          23.2544
+        ]
+      },
+      "properties": {
+        "name": "JD Office ITOT Bhopal",
+        "place_id": "ola-platform:5000221243637",
+        "address": "JD Office ITOT Bhopal, 2, Sector C Rd, Govindpura Industrial Area, Bhopal, Madhya Pradesh 462061, India",
+        "district": "Bhopal",
+        "state": "Madhya Pradesh",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial area Bhopal",
+        "fetched_at": "2026-04-01T15:47:39.940839"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.444017,
+          23.259015
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate Post Office",
+        "place_id": "ola-platform:5000051893799",
+        "address": "Industrial Estate Post Office, MPEB Colony, Bhopal, Huzur Tahsil, Bhopal, Madhya Pradesh, 462023, India",
+        "district": "Bhopal",
+        "state": "Madhya Pradesh",
+        "types": [
+          "post_office"
+        ],
+        "query_used": "industrial estate Bhopal Madhya Pradesh",
+        "fetched_at": "2026-04-01T15:47:39.974920"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.451908,
+          23.264233
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:5000037456778",
+        "address": "Industrial Estate, Industrial Area Slums, Chhatrasal Nagar, Bhopal, Huzur Tahsil, Bhopal, Madhya Pradesh, 462061, India",
+        "district": "Bhopal",
+        "state": "Madhya Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Bhopal Madhya Pradesh",
+        "fetched_at": "2026-04-01T15:47:39.993058"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4494,
+          23.25274
+        ]
+      },
+      "properties": {
+        "name": "6/2, Industrial Estate",
+        "place_id": "ola-platform:5000201547991",
+        "address": "6/2, Industrial Estate, Govindpura, Bhopal, Madhya Pradesh, 462061, India",
+        "district": "Bhopal",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial estate Bhopal Madhya Pradesh",
+        "fetched_at": "2026-04-01T15:47:40.017244"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.44879,
+          23.25288
+        ]
+      },
+      "properties": {
+        "name": "5/2, Industrial Estate",
+        "place_id": "ola-platform:5000190252148",
+        "address": "5/2, Industrial Estate, Govindpura, Bhopal, Madhya Pradesh, 462061, India",
+        "district": "Bhopal",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial estate Bhopal Madhya Pradesh",
+        "fetched_at": "2026-04-01T15:47:40.037200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.460599,
+          23.240022
+        ]
+      },
+      "properties": {
+        "name": "Factory Area",
+        "place_id": "ola-platform:5000060706002",
+        "address": "Factory Area, Bharat Heavy Electrical Limited, Bhel Township, Bhopal, Huzur Tahsil, Bhopal, Madhya Pradesh, 462021, India",
+        "district": "Bhopal",
+        "state": "Madhya Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "factory area Bhopal",
+        "fetched_at": "2026-04-01T15:47:40.072696"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4126,
+          23.2599
+        ]
+      },
+      "properties": {
+        "name": "Dwarka Nagar Coach Factory Bhopal",
+        "place_id": "ola-platform:5000047516322",
+        "address": "Dwarka Nagar Coach Factory Bhopal, Nehru Nagar, Kewra Bagh, Peer Gate Area, Bhopal, Madhya Pradesh, 462001, India",
+        "district": "Bhopal",
+        "state": "Madhya Pradesh",
+        "types": [
+          "school",
+          "premise",
+          "primary_school"
+        ],
+        "query_used": "factory area Bhopal",
+        "fetched_at": "2026-04-01T15:47:40.114871"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.405272,
+          23.30368
+        ]
+      },
+      "properties": {
+        "name": "BFF Bhopal Food Factory, JP Nagar, Bhopal (BFF- Bhopal Food Factory)",
+        "place_id": "ola-platform:5000176971979",
+        "address": "BFF Bhopal Food Factory, JP Nagar, Bhopal (BFF- Bhopal Food Factory), Shop 1, Ashirwad Complex, Karond Chouraha, JP Nagar, Bhopal, 462038, India",
+        "district": "Bhopal",
+        "state": "Madhya Pradesh",
+        "types": [
+          "restaurant",
+          "meal_takeaway",
+          "meal_delivery"
+        ],
+        "query_used": "factory area Bhopal",
+        "fetched_at": "2026-04-01T15:47:40.136231"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.223246,
+          21.321956
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:1032529",
+        "address": "Industrial Area, Burhanpur, Madhya Pradesh, India",
+        "district": "Burhanpur",
+        "state": "Madhya Pradesh",
+        "types": [
+          "borough"
+        ],
+        "query_used": "industrial area Burhanpur",
+        "fetched_at": "2026-04-01T15:47:42.776708"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2308,
+          21.3254
+        ]
+      },
+      "properties": {
+        "name": "Burhanpur Industrial Area",
+        "place_id": "ola-platform:5000188546818",
+        "address": "Burhanpur Industrial Area, Industrial Area, Burhanpur, Madhya Pradesh, 450331, India",
+        "district": "Burhanpur",
+        "state": "Madhya Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Burhanpur",
+        "fetched_at": "2026-04-01T15:47:42.809570"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.23227,
+          21.32535
+        ]
+      },
+      "properties": {
+        "name": "15, Burhanpur Industrial Area",
+        "place_id": "ola-platform:5000191353289",
+        "address": "15, Burhanpur Industrial Area, Industrial Area, Burhanpur, Madhya Pradesh, 450331, India",
+        "district": "Burhanpur",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial area Burhanpur",
+        "fetched_at": "2026-04-01T15:47:42.851288"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.23318,
+          21.32546
+        ]
+      },
+      "properties": {
+        "name": "NH 753L, Burhanpur Industrial Area",
+        "place_id": "ola-platform:5000196154941",
+        "address": "NH 753L, Burhanpur Industrial Area, Teressa, Burhanpur, Madhya Pradesh, 450331, India",
+        "district": "Burhanpur",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial area Burhanpur",
+        "fetched_at": "2026-04-01T15:47:42.883475"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2315,
+          21.3234
+        ]
+      },
+      "properties": {
+        "name": "MP SH 27, Burhanpur Industrial Area",
+        "place_id": "ola-platform:5000198598202",
+        "address": "MP SH 27, Burhanpur Industrial Area, Industrial Area, Burhanpur, Madhya Pradesh, 450331, India",
+        "district": "Burhanpur",
+        "state": "Madhya Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Burhanpur",
+        "fetched_at": "2026-04-01T15:47:42.915200"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5983,
+          24.9348
+        ]
+      },
+      "properties": {
+        "name": "Bailgadi Industrial Area",
+        "place_id": "ola-platform:5000055775501",
+        "address": "Bailgadi Industrial Area, Chhatarpur, Madhya Pradesh, 471001, India",
+        "district": "Chhatarpur",
+        "state": "Madhya Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Chhatarpur",
+        "fetched_at": "2026-04-01T15:47:45.718697"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5798,
+          24.9264
+        ]
+      },
+      "properties": {
+        "name": "Semi Urban Industrial Area",
+        "place_id": "ola-platform:5000046151580",
+        "address": "Semi Urban Industrial Area, Chetgiri Colony, Narayanpura, Chhatarpur, Madhya Pradesh, 471001, India",
+        "district": "Chhatarpur",
+        "state": "Madhya Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Chhatarpur",
+        "fetched_at": "2026-04-01T15:47:45.748741"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.9588,
+          22.086
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Lahgadua",
+        "place_id": "ola-platform:5000053521903",
+        "address": "Industrial Area Lahgadua, Lahgadua, Madhya Pradesh, 480001, India",
+        "district": "Chhindwara",
+        "state": "Madhya Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Chhindwara",
+        "fetched_at": "2026-04-01T15:47:49.166490"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.44821,
+          23.820296
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:1033962",
+        "address": "Industrial Area, Damoh, Madhya Pradesh, India",
+        "district": "Damoh",
+        "state": "Madhya Pradesh",
+        "types": [
+          "borough"
+        ],
+        "query_used": "industrial area Damoh",
+        "fetched_at": "2026-04-01T15:47:52.049928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.44726,
+          23.81989
+        ]
+      },
+      "properties": {
+        "name": "MP SH 37, Industrial Area",
+        "place_id": "ola-platform:5000199869943",
+        "address": "MP SH 37, Industrial Area, Damoh, Madhya Pradesh, 470661, India",
+        "district": "Damoh",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial area Damoh",
+        "fetched_at": "2026-04-01T15:47:52.087634"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4471,
+          23.82
+        ]
+      },
+      "properties": {
+        "name": "NH 34, Industrial Area",
+        "place_id": "ola-platform:5000202036911",
+        "address": "NH 34, Industrial Area, Damoh, Madhya Pradesh, 470661, India",
+        "district": "Damoh",
+        "state": "Madhya Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Damoh",
+        "fetched_at": "2026-04-01T15:47:52.128185"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4572,
+          23.7909
+        ]
+      },
+      "properties": {
+        "name": "256, Industrial Area",
+        "place_id": "ola-platform:5000198335749",
+        "address": "256, Industrial Area, Marutaal, Kuluwa, Madhya Pradesh, 470661, India",
+        "district": "Damoh",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial area Damoh",
+        "fetched_at": "2026-04-01T15:47:52.162093"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4498,
+          23.829
+        ]
+      },
+      "properties": {
+        "name": "Leather Factory Rd",
+        "place_id": "ola-platform:5000202430527",
+        "address": "Leather Factory Rd, Madiya Pangarha, Damoh, Madhya Pradesh, 470661, India",
+        "district": "Damoh",
+        "state": "Madhya Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Damoh",
+        "fetched_at": "2026-04-01T15:47:52.404975"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.0279,
+          22.9424
+        ]
+      },
+      "properties": {
+        "name": "Madhu Milan Chourahe Dewas Industrial Area",
+        "place_id": "ola-platform:5000047014315",
+        "address": "Madhu Milan Chourahe Dewas Industrial Area, AB Rd, Police Colony, Industrial Area No. 1, Dewas, Madhya Pradesh, 455001, India",
+        "district": "Dewas",
+        "state": "Madhya Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Dewas",
+        "fetched_at": "2026-04-01T15:47:57.582173"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.0246,
+          22.9278
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area No.2, Dewas",
+        "place_id": "ola-platform:5000199775221",
+        "address": "Industrial Area No.2, Dewas, Madhya Pradesh, 455001, India",
+        "district": "Dewas",
+        "state": "Madhya Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Dewas",
+        "fetched_at": "2026-04-01T15:47:57.605859"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.01857,
+          22.94113
+        ]
+      },
+      "properties": {
+        "name": "Dewas Industrial Area 1",
+        "place_id": "ola-platform:5000049104548",
+        "address": "Dewas Industrial Area 1, Babariya, Dewas, Dewas Nagar Tahsil, Dewas, Madhya Pradesh, 455001, India",
+        "district": "Dewas",
+        "state": "Madhya Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Dewas",
+        "fetched_at": "2026-04-01T15:47:57.632929"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.0468,
+          22.9769
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area, Ujjain Road, Dewas",
+        "place_id": "ola-platform:5000037802295",
+        "address": "Industrial Area, Ujjain Road, Dewas, Industrial Area, Ujjain Dewas Rd, Amlavati, Dewas, Madhya Pradesh, 455001, India",
+        "district": "Dewas",
+        "state": "Madhya Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Dewas",
+        "fetched_at": "2026-04-01T15:47:57.669899"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8195,
+          23.15
+        ]
+      },
+      "properties": {
+        "name": "Nagziri Industrial Area Dewas Road",
+        "place_id": "ola-platform:5000201967087",
+        "address": "Nagziri Industrial Area Dewas Road, Amul Industries, Parsvnath City, Ujjain, Madhya Pradesh, 456010, India",
+        "district": "Dewas",
+        "state": "Madhya Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Dewas",
+        "fetched_at": "2026-04-01T15:47:57.714377"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.0297,
+          22.9431
+        ]
+      },
+      "properties": {
+        "name": "Bank Of India - Industrial Estate Branch",
+        "place_id": "ola-platform:5000221279483",
+        "address": "Bank Of India - Industrial Estate Branch, No:3-A, A.K.V.N. Complex, A.B.Rd, Madhumilan Rd, Industrial Area, Police Colony, Industrial Area No. 3, Dewas, Madhya Pradesh 455001, India",
+        "district": "Dewas",
+        "state": "Madhya Pradesh",
+        "types": [
+          "atm"
+        ],
+        "query_used": "industrial estate Dewas Madhya Pradesh",
+        "fetched_at": "2026-04-01T15:47:57.740979"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.0294,
+          22.9427
+        ]
+      },
+      "properties": {
+        "name": "Indian Post (Industrial Estate)",
+        "place_id": "ola-platform:5000059438156",
+        "address": "Indian Post (Industrial Estate), AKVN Complex, AB Rd, Madhumilan Square, Police Colony, Industrial Area No. 3, Dewas, Madhya Pradesh, 455001, India",
+        "district": "Dewas",
+        "state": "Madhya Pradesh",
+        "types": [
+          "post_office"
+        ],
+        "query_used": "industrial estate Dewas Madhya Pradesh",
+        "fetched_at": "2026-04-01T15:47:57.776289"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.11575,
+          22.970472
+        ]
+      },
+      "properties": {
+        "name": "John Deere Tractors Manufacturing Plant",
+        "place_id": "ola-platform:5000038899763",
+        "address": "John Deere Tractors Manufacturing Plant, Dewas - Bhopal Corridor, Jetpura, Dewas, Dewas Nagar Tahsil, Dewas, Madhya Pradesh, 455001, India",
+        "district": "Dewas",
+        "state": "Madhya Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Dewas",
+        "fetched_at": "2026-04-01T15:47:58.207822"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.31781,
+          22.60132
+        ]
+      },
+      "properties": {
+        "name": "Vitomed HealthCare Pvt.Ltd Plot No. 15 Industrial Estate",
+        "place_id": "ola-platform:5000192263782",
+        "address": "Vitomed HealthCare Pvt.Ltd Plot No. 15 Industrial Estate, Sunder Ban Colony, Dhar, Madhya Pradesh, 454001, India",
+        "district": "Dhar",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial estate Dhar Madhya Pradesh",
+        "fetched_at": "2026-04-01T15:48:00.352523"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.85493,
+          22.73707
+        ]
+      },
+      "properties": {
+        "name": "58-59, Pologround Industrial Estate",
+        "place_id": "ola-platform:5000194531894",
+        "address": "58-59, Pologround Industrial Estate, Malti Vanaspati, Dhar, Indore, Madhya Pradesh, 452033, India",
+        "district": "Dhar",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial estate Dhar Madhya Pradesh",
+        "fetched_at": "2026-04-01T15:48:00.383233"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1775,
+          26.1619
+        ]
+      },
+      "properties": {
+        "name": "Dainik Bhaskar Printing Press Gwalior",
+        "place_id": "ola-platform:5000221821208",
+        "address": "Dainik Bhaskar Printing Press Gwalior, Plot No 12-A, Jhansi Rd, Industrial Area, Baraghta, Gwalior, Madhya Pradesh 474001, India",
+        "district": "Gwalior",
+        "state": "Madhya Pradesh",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial area Gwalior",
+        "fetched_at": "2026-04-01T15:48:08.757825"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1776,
+          26.1622
+        ]
+      },
+      "properties": {
+        "name": "Steel Co Furniture Store/shop In Gwalior",
+        "place_id": "ola-platform:5000221228646",
+        "address": "Steel Co Furniture Store/shop In Gwalior, Jhansi Rd, Next To Dainik Bhaskar, Barahghata Industrial Area, Gwalior, Madhya Pradesh 474001, India",
+        "district": "Gwalior",
+        "state": "Madhya Pradesh",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial area Gwalior",
+        "fetched_at": "2026-04-01T15:48:08.804561"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1698,
+          26.2128
+        ]
+      },
+      "properties": {
+        "name": "State Bank Of India Industrial Estate (Gwalior)",
+        "place_id": "ola-platform:5000046014310",
+        "address": "State Bank Of India Industrial Estate (Gwalior), Tansen Rd, P B. No.7, Hazira, Lashkar, Gwalior, Madhya Pradesh, 474002, India",
+        "district": "Gwalior",
+        "state": "Madhya Pradesh",
+        "types": [
+          "bank"
+        ],
+        "query_used": "industrial estate Gwalior Madhya Pradesh",
+        "fetched_at": "2026-04-01T15:48:08.845273"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1799,
+          26.2333
+        ]
+      },
+      "properties": {
+        "name": "State Bank Of India Industrial Estate (Gwalior) (SBI Branch Tansen Nagar)",
+        "place_id": "ola-platform:5000222290796",
+        "address": "State Bank Of India Industrial Estate (Gwalior) (SBI Branch Tansen Nagar), P B, Tansen Rd, Hazira, Tansen Nagar, Gwalior, Madhya Pradesh 474002, India",
+        "district": "Gwalior",
+        "state": "Madhya Pradesh",
+        "types": [
+          "bank"
+        ],
+        "query_used": "industrial estate Gwalior Madhya Pradesh",
+        "fetched_at": "2026-04-01T15:48:08.887108"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.186,
+          26.2252
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate Area",
+        "place_id": "ola-platform:5000192027609",
+        "address": "Industrial Estate Area, Industrial Area, New Colony, Birla Nagar, Gwalior, Madhya Pradesh, 474002, India",
+        "district": "Gwalior",
+        "state": "Madhya Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Gwalior Madhya Pradesh",
+        "fetched_at": "2026-04-01T15:48:08.928938"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1852,
+          26.2253
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:5000192416740",
+        "address": "Industrial Estate, Industrial Area, New Colony, Birla Nagar, Gwalior, Madhya Pradesh, 474002, India",
+        "district": "Gwalior",
+        "state": "Madhya Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Gwalior Madhya Pradesh",
+        "fetched_at": "2026-04-01T15:48:08.971609"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1817,
+          26.2268
+        ]
+      },
+      "properties": {
+        "name": "State Bank Of India Industrial Estate Branch",
+        "place_id": "ola-platform:5000220775639",
+        "address": "State Bank Of India Industrial Estate Branch, Tansen Road, P B. No.7HAZIRAGWALIOR, 1, Gwalior, Madhya Pradesh, 474002",
+        "district": "Gwalior",
+        "state": "Madhya Pradesh",
+        "types": [
+          "bank"
+        ],
+        "query_used": "industrial estate Gwalior Madhya Pradesh",
+        "fetched_at": "2026-04-01T15:48:09.017586"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1499,
+          26.2006
+        ]
+      },
+      "properties": {
+        "name": "Gwalior Gota Factory",
+        "place_id": "ola-platform:5000061643095",
+        "address": "Gwalior Gota Factory, Dahi Mandi, Topi Bazar, Sarafa Bazar, Lashkar, Gwalior, Madhya Pradesh, 474001, India",
+        "district": "Gwalior",
+        "state": "Madhya Pradesh",
+        "types": [
+          "store"
+        ],
+        "query_used": "factory area Gwalior",
+        "fetched_at": "2026-04-01T15:48:09.109310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1899,
+          26.2388
+        ]
+      },
+      "properties": {
+        "name": "Birla Factory",
+        "place_id": "ola-platform:5000183508617",
+        "address": "Birla Factory, Birlanagar, Gwalior, JC Mill Rd, Birla Nagar, Gwalior, Madhya Pradesh, 474004, India",
+        "district": "Gwalior",
+        "state": "Madhya Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Gwalior",
+        "fetched_at": "2026-04-01T15:48:09.195677"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.21664,
+          26.24978
+        ]
+      },
+      "properties": {
+        "name": "Factory Rd",
+        "place_id": "ola-platform:5000199870882",
+        "address": "Factory Rd, Gayatri Nagar, Gwalior, Madhya Pradesh, 474005, India",
+        "district": "Gwalior",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "factory area Gwalior",
+        "fetched_at": "2026-04-01T15:48:09.243049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.14287,
+          26.2517
+        ]
+      },
+      "properties": {
+        "name": "Adity9575726964 Gali Number 9th Murti Factory Road Motijheel",
+        "place_id": "ola-platform:5000189197148",
+        "address": "Adity9575726964 Gali Number 9th Murti Factory Road Motijheel, Moti Jheel, Gwalior, Madhya Pradesh, 474010, India",
+        "district": "Gwalior",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "factory area Gwalior",
+        "fetched_at": "2026-04-01T15:48:09.296146"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.25612,
+          26.30663
+        ]
+      },
+      "properties": {
+        "name": "FRP Products Manufacturing Gwalior",
+        "place_id": "ola-platform:5000037393434",
+        "address": "FRP Products Manufacturing Gwalior, Chak Raipur, Laxmangarh, Murar Tahsil, Gwalior, Madhya Pradesh, 474020, India",
+        "district": "Gwalior",
+        "state": "Madhya Pradesh",
+        "types": [
+          "real_estate_agency"
+        ],
+        "query_used": "manufacturing hub Gwalior",
+        "fetched_at": "2026-04-01T15:48:09.336836"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1616,
+          26.2252
+        ]
+      },
+      "properties": {
+        "name": "Haritam Naturals|100 Natural Cooking Oil|best Wooden Cold Press Oil|organic Product Manufacturing Company In Gwalior",
+        "place_id": "ola-platform:5000048235116",
+        "address": "Haritam Naturals|100 Natural Cooking Oil|best Wooden Cold Press Oil|organic Product Manufacturing Company In Gwalior, Infront Of, Near Urvai Gate, Sector-4, Vinay Nagar, Gwalior, Madhya Pradesh, 474012, India",
+        "district": "Gwalior",
+        "state": "Madhya Pradesh",
+        "types": [
+          "store"
+        ],
+        "query_used": "manufacturing hub Gwalior",
+        "fetched_at": "2026-04-01T15:48:09.383158"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.156645,
+          26.194667
+        ]
+      },
+      "properties": {
+        "name": "Pink Glow Cosmetic Manufacturing Unit",
+        "place_id": "ola-platform:5000038052289",
+        "address": "Pink Glow Cosmetic Manufacturing Unit, Gwalior, Gird Tahsil, Gwalior, Madhya Pradesh, 474009, India",
+        "district": "Gwalior",
+        "state": "Madhya Pradesh",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "manufacturing hub Gwalior",
+        "fetched_at": "2026-04-01T15:48:09.425197"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8361,
+          22.7641
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Mohasa-Babai Phase-I Hoshangabad",
+        "place_id": "ola-platform:5000221383423",
+        "address": "Industrial Area Mohasa-Babai Phase-I Hoshangabad, Madhawan, Muhasa, Madhya Pradesh 461661, India",
+        "district": "Hoshangabad",
+        "state": "Madhya Pradesh",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial area Hoshangabad",
+        "fetched_at": "2026-04-01T15:48:15.196462"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7356,
+          22.745
+        ]
+      },
+      "properties": {
+        "name": "Kishanpura Industrial Area",
+        "place_id": "ola-platform:5000201351889",
+        "address": "Kishanpura Industrial Area, Housing Board Colony, Narmadapuram, Madhya Pradesh, 461001, India",
+        "district": "Hoshangabad",
+        "state": "Madhya Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Hoshangabad",
+        "fetched_at": "2026-04-01T15:48:15.239705"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.73391,
+          22.7466
+        ]
+      },
+      "properties": {
+        "name": "13, Industrial Area-B",
+        "place_id": "ola-platform:5000200373395",
+        "address": "13, Industrial Area-B, Narmadapuram, Madhya Pradesh, 461001, India",
+        "district": "Hoshangabad",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial area Hoshangabad",
+        "fetched_at": "2026-04-01T15:48:15.280851"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.456833,
+          23.182862
+        ]
+      },
+      "properties": {
+        "name": "Cheese Factory, Hoshangabad Road, Bhopal",
+        "place_id": "ola-platform:5000176666496",
+        "address": "Cheese Factory, Hoshangabad Road, Bhopal, Counter 5, Second Floor, Aashima Mall, Hoshangabad Road, Bhopal, 462026, India",
+        "district": "Hoshangabad",
+        "state": "Madhya Pradesh",
+        "types": [
+          "restaurant",
+          "meal_takeaway",
+          "meal_delivery"
+        ],
+        "query_used": "factory area Hoshangabad",
+        "fetched_at": "2026-04-01T15:48:15.481450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.457045,
+          23.186052
+        ]
+      },
+      "properties": {
+        "name": "Bhopal Food Factory",
+        "place_id": "ola-platform:5000206487179",
+        "address": "Bhopal Food Factory, Plot 3 A, Ground Floor, Rajat Vihar Colony, Danish Nagar, Hoshangabad Road, Bhopal, 462026, India",
+        "district": "Hoshangabad",
+        "state": "Madhya Pradesh",
+        "types": [
+          "restaurant",
+          "meal_takeaway",
+          "meal_delivery"
+        ],
+        "query_used": "factory area Hoshangabad",
+        "fetched_at": "2026-04-01T15:48:15.560103"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4597,
+          23.1748
+        ]
+      },
+      "properties": {
+        "name": "Worldwide Small Diamond Manufacturing Private Limited",
+        "place_id": "ola-platform:5000065228107",
+        "address": "Worldwide Small Diamond Manufacturing Private Limited, Wsdm Pvt Ltd Bhopal, 2nd Floor, Phoenix Corporate Park, Opposite Vrindavan Marriage Garden Hoshangabad Road Bhopal Madhya Pradesh In 462047, Narmadapuram Rd, Bhopal, Madhya Pradesh",
+        "district": "Hoshangabad",
+        "state": "Madhya Pradesh",
+        "types": [
+          "jewelry_store"
+        ],
+        "query_used": "manufacturing hub Hoshangabad",
+        "fetched_at": "2026-04-01T15:48:15.676069"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.693,
+          22.6189
+        ]
+      },
+      "properties": {
+        "name": "Pithampur Indore ByPass Road",
+        "place_id": "ola-platform:5000186018639",
+        "address": "Pithampur Indore ByPass Road, Pithampur Indore ByPass Rd, Pithampur Industrial Area, Pithampur, Madhya Pradesh, 454775, India",
+        "district": "Indore",
+        "state": "Madhya Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Indore",
+        "fetched_at": "2026-04-01T15:48:18.019565"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.60297,
+          21.83874
+        ]
+      },
+      "properties": {
+        "name": "Khargone - Indore Hwy",
+        "place_id": "ola-platform:5000195261730",
+        "address": "Khargone - Indore Hwy, Industrial Area, Bardiya, Khargone, Madhya Pradesh, 451001, India",
+        "district": "Indore",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial area Indore",
+        "fetched_at": "2026-04-01T15:48:18.051194"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.693,
+          22.6189
+        ]
+      },
+      "properties": {
+        "name": "Pithampur Indore ByPass Rd",
+        "place_id": "ola-platform:5000184973670",
+        "address": "Pithampur Indore ByPass Rd, Pithampur Industrial Area, Pithampur, Madhya Pradesh, 454775, India",
+        "district": "Indore",
+        "state": "Madhya Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Indore",
+        "fetched_at": "2026-04-01T15:48:18.080866"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8651,
+          22.726
+        ]
+      },
+      "properties": {
+        "name": "Bank Of Baroda Industrial Estate Indore Branch",
+        "place_id": "ola-platform:5000219832126",
+        "address": "Bank Of Baroda Industrial Estate Indore Branch, 61/1, Snehlataganj Rd, Snehlataganj, Indore, Madhya Pradesh 452003, India",
+        "district": "Indore",
+        "state": "Madhya Pradesh",
+        "types": [
+          "bank"
+        ],
+        "query_used": "industrial estate Indore Madhya Pradesh",
+        "fetched_at": "2026-04-01T15:48:18.143387"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8584,
+          22.7379
+        ]
+      },
+      "properties": {
+        "name": "Pologround Industrial Estate",
+        "place_id": "ola-platform:5000183531802",
+        "address": "Pologround Industrial Estate, Nanda Nagar, Malti Vanaspati, Indore, Madhya Pradesh, 452033, India",
+        "district": "Indore",
+        "state": "Madhya Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Indore Madhya Pradesh",
+        "fetched_at": "2026-04-01T15:48:18.172792"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8657,
+          22.7866
+        ]
+      },
+      "properties": {
+        "name": "Tirupati Industrial Estate",
+        "place_id": "ola-platform:5000041292195",
+        "address": "Tirupati Industrial Estate, Jain Mandir Rd, Kumedi, Indore, Madhya Pradesh, 453771, India",
+        "district": "Indore",
+        "state": "Madhya Pradesh",
+        "types": [
+          "supermarket"
+        ],
+        "query_used": "industrial estate Indore Madhya Pradesh",
+        "fetched_at": "2026-04-01T15:48:18.207947"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8553,
+          22.7361
+        ]
+      },
+      "properties": {
+        "name": "Polo Ground Industrial Estate",
+        "place_id": "ola-platform:5000201747484",
+        "address": "Polo Ground Industrial Estate, Pologround Industrial Estate, Malti Vanaspati, Indore, Madhya Pradesh, 452033, India",
+        "district": "Indore",
+        "state": "Madhya Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Indore Madhya Pradesh",
+        "fetched_at": "2026-04-01T15:48:18.236284"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8408,
+          22.7273
+        ]
+      },
+      "properties": {
+        "name": "Indore Wire Factory (Panchmukhi Circle)",
+        "place_id": "ola-platform:5000057965621",
+        "address": "Indore Wire Factory (Panchmukhi Circle), Industrial Area Laxmibai Nagar, Laxmi Bai Nagar, Indore, Madhya Pradesh, 452028, India",
+        "district": "Indore",
+        "state": "Madhya Pradesh",
+        "types": [
+          "bus_station",
+          "transit_station"
+        ],
+        "query_used": "factory area Indore",
+        "fetched_at": "2026-04-01T15:48:18.334871"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.80425,
+          22.64385
+        ]
+      },
+      "properties": {
+        "name": "23-24 Abhinav Industries Poha Factory",
+        "place_id": "ola-platform:5000197970587",
+        "address": "23-24 Abhinav Industries Poha Factory, Industrial Area, Extn, Rau, Indore, Madhya Pradesh, 453331, India",
+        "district": "Indore",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "factory area Indore",
+        "fetched_at": "2026-04-01T15:48:18.370909"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.84782,
+          22.76307
+        ]
+      },
+      "properties": {
+        "name": "92, Opposite Metalman Pipe Factory",
+        "place_id": "ola-platform:5000191598968",
+        "address": "92, Opposite Metalman Pipe Factory, Saidham Colony, Sanwer Road Industrial Area, Indore, Madhya Pradesh, 452042, India",
+        "district": "Indore",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "factory area Indore",
+        "fetched_at": "2026-04-01T15:48:18.402925"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8612,
+          22.6871
+        ]
+      },
+      "properties": {
+        "name": "PUMA Factory Outlet Indore",
+        "place_id": "ola-platform:5000066492343",
+        "address": "PUMA Factory Outlet Indore, Aditya Nagar, Vishnu Puri Colony, Indore, Madhya Pradesh, 452014, India",
+        "district": "Indore",
+        "state": "Madhya Pradesh",
+        "types": [
+          "clothing_store"
+        ],
+        "query_used": "factory area Indore",
+        "fetched_at": "2026-04-01T15:48:18.436326"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5935,
+          22.5882
+        ]
+      },
+      "properties": {
+        "name": "Encube Ethicals Indore Manufacturing Plant",
+        "place_id": "ola-platform:5000176580202",
+        "address": "Encube Ethicals Indore Manufacturing Plant, Plot No -113, Smart Industrial Park Natrip, Pithampur, Madhya Pradesh, 454774, India",
+        "district": "Indore",
+        "state": "Madhya Pradesh",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "manufacturing hub Indore",
+        "fetched_at": "2026-04-01T15:48:18.469476"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.85771,
+          22.71958
+        ]
+      },
+      "properties": {
+        "name": "All Indore Light Manufacturing",
+        "place_id": "ola-platform:5000041594097",
+        "address": "All Indore Light Manufacturing, Risi Nagar, Tilak Path, Indore, Madhya Pradesh, 452031, India",
+        "district": "Indore",
+        "state": "Madhya Pradesh",
+        "types": [
+          "electronics_store"
+        ],
+        "query_used": "manufacturing hub Indore",
+        "fetched_at": "2026-04-01T15:48:18.531411"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8545,
+          22.6986
+        ]
+      },
+      "properties": {
+        "name": "Raj Bags Manufacturing Indore",
+        "place_id": "ola-platform:5000064973121",
+        "address": "Raj Bags Manufacturing Indore, 64, Manik Bagh Rd, Scheme 102, Nandanvan Colony, Indore, Madhya Pradesh, 452014, India",
+        "district": "Indore",
+        "state": "Madhya Pradesh",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "manufacturing hub Indore",
+        "fetched_at": "2026-04-01T15:48:18.565029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.978,
+          23.2309
+        ]
+      },
+      "properties": {
+        "name": "Richhai Industrial Area",
+        "place_id": "ola-platform:5000189981707",
+        "address": "Richhai Industrial Area, Ruchia, Jabalpur, Madhya Pradesh, 482010, India",
+        "district": "Jabalpur",
+        "state": "Madhya Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Jabalpur",
+        "fetched_at": "2026-04-01T15:48:20.786522"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.96576,
+          23.19794
+        ]
+      },
+      "properties": {
+        "name": "Shed No-41 Industrial Area",
+        "place_id": "ola-platform:5000193584115",
+        "address": "Shed No-41 Industrial Area, Kanchanpur, Adhartal, Jabalpur, Vehicle Fac. Jabalpur, Madhya Pradesh, 482004, India",
+        "district": "Jabalpur",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial area Jabalpur",
+        "fetched_at": "2026-04-01T15:48:20.852727"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.974,
+          23.2198
+        ]
+      },
+      "properties": {
+        "name": "Rechai Industrial Area",
+        "place_id": "ola-platform:5000197856505",
+        "address": "Rechai Industrial Area, Richhai Industrial Area, Ruchia, Jabalpur, Madhya Pradesh, 482010, India",
+        "district": "Jabalpur",
+        "state": "Madhya Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Jabalpur",
+        "fetched_at": "2026-04-01T15:48:20.909033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9747,
+          23.2278
+        ]
+      },
+      "properties": {
+        "name": "14-A, Richhai Industrial Area",
+        "place_id": "ola-platform:5000195449525",
+        "address": "14-A, Richhai Industrial Area, Richhai, Jabalpur, Madhya Pradesh, 482010, India",
+        "district": "Jabalpur",
+        "state": "Madhya Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Jabalpur",
+        "fetched_at": "2026-04-01T15:48:20.954922"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.97981,
+          23.23005
+        ]
+      },
+      "properties": {
+        "name": "41, Richhai Industrial Area",
+        "place_id": "ola-platform:5000187752778",
+        "address": "41, Richhai Industrial Area, Ruchia, Jabalpur, Madhya Pradesh, 482010, India",
+        "district": "Jabalpur",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial area Jabalpur",
+        "fetched_at": "2026-04-01T15:48:21.003284"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.96356,
+          23.19783
+        ]
+      },
+      "properties": {
+        "name": "4 B Industrial Estate Adhartal I",
+        "place_id": "ola-platform:5000184510256",
+        "address": "4 B Industrial Estate Adhartal I, Kanchanpur, Jabalpur, Vehicle Fac. Jabalpur, Madhya Pradesh, 482004, India",
+        "district": "Jabalpur",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial estate Jabalpur Madhya Pradesh",
+        "fetched_at": "2026-04-01T15:48:21.176870"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.952569,
+          23.201119
+        ]
+      },
+      "properties": {
+        "name": "State Bank Of India Industrial Estate Adhartal Branch",
+        "place_id": "ola-platform:5000057095337",
+        "address": "State Bank Of India Industrial Estate Adhartal Branch, Jabalpur, Adhartal Tahsil, Jabalpur, Madhya Pradesh, 482004, India",
+        "district": "Jabalpur",
+        "state": "Madhya Pradesh",
+        "types": [
+          "bank"
+        ],
+        "query_used": "industrial estate Jabalpur Madhya Pradesh",
+        "fetched_at": "2026-04-01T15:48:21.222152"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9837,
+          23.2174
+        ]
+      },
+      "properties": {
+        "name": "Madai Vehicle Factory Jabalpur",
+        "place_id": "ola-platform:5000059952714",
+        "address": "Madai Vehicle Factory Jabalpur, Jabalpur Madai Vehicle Factory Jabalpur, Vehicle Factory Estate, Shobhapur, Jabalpur, Madhya Pradesh, 482011, India",
+        "district": "Jabalpur",
+        "state": "Madhya Pradesh",
+        "types": [
+          "school",
+          "premise",
+          "primary_school"
+        ],
+        "query_used": "factory area Jabalpur",
+        "fetched_at": "2026-04-01T15:48:21.268668"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9864,
+          23.1814
+        ]
+      },
+      "properties": {
+        "name": "Khamariya Factory Jabalpur",
+        "place_id": "ola-platform:5000057785108",
+        "address": "Khamariya Factory Jabalpur, Central Ordinance Depot Area, Jabalpur, Madhya Pradesh, 482001, India",
+        "district": "Jabalpur",
+        "state": "Madhya Pradesh",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Jabalpur",
+        "fetched_at": "2026-04-01T15:48:21.315953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9776,
+          23.2059
+        ]
+      },
+      "properties": {
+        "name": "Vehicle Factory Jabalpur",
+        "place_id": "ola-platform:5000053787231",
+        "address": "Vehicle Factory Jabalpur, Vehicle Factory Rd, Sector 2, Shobhapur, Jabalpur, Madhya Pradesh, 482009, India",
+        "district": "Jabalpur",
+        "state": "Madhya Pradesh",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Jabalpur",
+        "fetched_at": "2026-04-01T15:48:21.358880"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9777,
+          23.2067
+        ]
+      },
+      "properties": {
+        "name": "Vehicle Factory Jabalpur Gate No :6",
+        "place_id": "ola-platform:5000040004169",
+        "address": "Vehicle Factory Jabalpur Gate No :6, Vehicle Factory Estate, Shobhapur, Jabalpur, Madhya Pradesh, 482009, India",
+        "district": "Jabalpur",
+        "state": "Madhya Pradesh",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Jabalpur",
+        "fetched_at": "2026-04-01T15:48:21.392477"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9784,
+          23.2159
+        ]
+      },
+      "properties": {
+        "name": "Ordnance Factory Jabalpur (Grey Iron Foundry)",
+        "place_id": "ola-platform:5000056503501",
+        "address": "Ordnance Factory Jabalpur (Grey Iron Foundry), Vehicle Factory Estate, Shobhapur, Jabalpur, Madhya Pradesh, 482009, India",
+        "district": "Jabalpur",
+        "state": "Madhya Pradesh",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Jabalpur",
+        "fetched_at": "2026-04-01T15:48:21.427425"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.94581,
+          23.192266
+        ]
+      },
+      "properties": {
+        "name": "Jabalpur Cement Pipe Manufacturing Company",
+        "place_id": "ola-platform:5000060574066",
+        "address": "Jabalpur Cement Pipe Manufacturing Company, Jabalpur, Adhartal Tahsil, Jabalpur, Madhya Pradesh, 482004, India",
+        "district": "Jabalpur",
+        "state": "Madhya Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Jabalpur",
+        "fetched_at": "2026-04-01T15:48:21.450010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9433,
+          23.1835
+        ]
+      },
+      "properties": {
+        "name": "Book & Files Manufacturing Jabalpur",
+        "place_id": "ola-platform:5000057204728",
+        "address": "Book & Files Manufacturing Jabalpur, 5/2, Sindhi Camp, Jabalpur, Madhya Pradesh, 482002, India",
+        "district": "Jabalpur",
+        "state": "Madhya Pradesh",
+        "types": [
+          "book_store"
+        ],
+        "query_used": "manufacturing hub Jabalpur",
+        "fetched_at": "2026-04-01T15:48:21.488905"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.026505,
+          23.176046
+        ]
+      },
+      "properties": {
+        "name": "Indian Institute Of Information Technology, Design And Manufacturing, Jabalpur",
+        "place_id": "ola-platform:5000064571622",
+        "address": "Indian Institute Of Information Technology, Design And Manufacturing, Jabalpur, Indian Institute Of Information Technology Design And Manufacturing Jabalpur, Airport Road, Cantonment, Ranjhi Tahsil, Jabalpur, Madhya Pradesh, 482001, India",
+        "district": "Jabalpur",
+        "state": "Madhya Pradesh",
+        "types": [
+          "university"
+        ],
+        "query_used": "manufacturing hub Jabalpur",
+        "fetched_at": "2026-04-01T15:48:21.516208"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9287,
+          23.1898
+        ]
+      },
+      "properties": {
+        "name": "Priyanka Garments Shirt Manufacturing Shanti Nagar, Jabalpur",
+        "place_id": "ola-platform:5000049228167",
+        "address": "Priyanka Garments Shirt Manufacturing Shanti Nagar, Jabalpur, 413, Shanti Nagar Rd, Damoh Naka, Shanti Nagar, Jabalpur, Madhya Pradesh, 482002, India",
+        "district": "Jabalpur",
+        "state": "Madhya Pradesh",
+        "types": [
+          "clothing_store"
+        ],
+        "query_used": "manufacturing hub Jabalpur",
+        "fetched_at": "2026-04-01T15:48:21.544454"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.9218,
+          23.1854
+        ]
+      },
+      "properties": {
+        "name": "T- Shirt Manufacturing And Printing In Jabalpur. (MP)",
+        "place_id": "ola-platform:5000063661563",
+        "address": "T- Shirt Manufacturing And Printing In Jabalpur. (MP), 2895/p23, In Front Of Kamal Bhawan, Shiv Nagar, Damoh Naka, Jabalpur, Madhya Pradesh, 482002, India",
+        "district": "Jabalpur",
+        "state": "Madhya Pradesh",
+        "types": [
+          "clothing_store"
+        ],
+        "query_used": "manufacturing hub Jabalpur",
+        "fetched_at": "2026-04-01T15:48:21.580336"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.55569,
+          22.91296
+        ]
+      },
+      "properties": {
+        "name": "52/A, Industrial Area",
+        "place_id": "ola-platform:5000194040539",
+        "address": "52/A, Industrial Area, Megh Nagar, Bedawali, Madhya Pradesh, 457779, India",
+        "district": "Jhabua",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial area Jhabua",
+        "fetched_at": "2026-04-01T15:48:23.677785"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4018,
+          23.8979
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Lamtara, Distt. Katni",
+        "place_id": "ola-platform:5000052373423",
+        "address": "Industrial Area Lamtara, Distt. Katni, Chaka, Khadauli, Madhya Pradesh, 483501, India",
+        "district": "Katni",
+        "state": "Madhya Pradesh",
+        "types": [
+          "real_estate_agency"
+        ],
+        "query_used": "industrial area Katni",
+        "fetched_at": "2026-04-01T15:48:26.436682"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.40449,
+          23.89969
+        ]
+      },
+      "properties": {
+        "name": "41, Industrial Area",
+        "place_id": "ola-platform:5000185541563",
+        "address": "41, Industrial Area, Katni, Madhya Pradesh, 483501, India",
+        "district": "Katni",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial area Katni",
+        "fetched_at": "2026-04-01T15:48:26.482360"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4067,
+          23.8994
+        ]
+      },
+      "properties": {
+        "name": "Lamtra Industrial Area (Lamtara Industrial Area)",
+        "place_id": "ola-platform:5000058170802",
+        "address": "Lamtra Industrial Area (Lamtara Industrial Area), Lamtara Industrial Area, Chaka, Katni, Madhya Pradesh, 483501, India",
+        "district": "Katni",
+        "state": "Madhya Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Katni",
+        "fetched_at": "2026-04-01T15:48:26.528993"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.40056,
+          23.8342
+        ]
+      },
+      "properties": {
+        "name": "30-A, Govindpura Industrial Area",
+        "place_id": "ola-platform:5000198352743",
+        "address": "30-A, Govindpura Industrial Area, Bargawan, Katni, Madhya Pradesh, 483504, India",
+        "district": "Katni",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial area Katni",
+        "fetched_at": "2026-04-01T15:48:26.563909"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3893,
+          23.8343
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000038455328",
+        "address": "Industrial Area, Gole Bazar, Katni, Madhya Pradesh, 483504, India",
+        "district": "Katni",
+        "state": "Madhya Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Katni",
+        "fetched_at": "2026-04-01T15:48:26.594341"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3702,
+          23.866
+        ]
+      },
+      "properties": {
+        "name": "State Bank Of India Industrial Estate Lamtara Katni",
+        "place_id": "ola-platform:5000066834861",
+        "address": "State Bank Of India Industrial Estate Lamtara Katni, Ward No.1, Near Kuthla Thana Pureni, Maihar Road Post & Tehsil:, Katni, Madhya Pradesh, 483501, India",
+        "district": "Katni",
+        "state": "Madhya Pradesh",
+        "types": [
+          "bank"
+        ],
+        "query_used": "industrial estate Katni Madhya Pradesh",
+        "fetched_at": "2026-04-01T15:48:26.634392"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4019,
+          23.8166
+        ]
+      },
+      "properties": {
+        "name": "Kendriya Vidyalaya Ordinance Factory Katni",
+        "place_id": "ola-platform:5000055070729",
+        "address": "Kendriya Vidyalaya Ordinance Factory Katni, PM Shir Kendriya Vidyalaya Ordinance Factory Katni, Ordnance Factory Estate, Mangal Nagar, Katni, Madhya Pradesh, 483504, India",
+        "district": "Katni",
+        "state": "Madhya Pradesh",
+        "types": [
+          "school",
+          "premise",
+          "primary_school"
+        ],
+        "query_used": "factory area Katni",
+        "fetched_at": "2026-04-01T15:48:26.893479"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3959,
+          23.8086
+        ]
+      },
+      "properties": {
+        "name": "Ordnance Factory Katni",
+        "place_id": "ola-platform:5000046080755",
+        "address": "Ordnance Factory Katni, Madhav Nagar, Katni, Madhya Pradesh, 483504, India",
+        "district": "Katni",
+        "state": "Madhya Pradesh",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Katni",
+        "fetched_at": "2026-04-01T15:48:26.930197"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4073,
+          23.8368
+        ]
+      },
+      "properties": {
+        "name": "Rubber Factory Rd",
+        "place_id": "ola-platform:5000190141908",
+        "address": "Rubber Factory Rd, Shastri Colony, Katni, Madhya Pradesh, 483504, India",
+        "district": "Katni",
+        "state": "Madhya Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Katni",
+        "fetched_at": "2026-04-01T15:48:26.965856"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.4058,
+          23.8339
+        ]
+      },
+      "properties": {
+        "name": "Rubber Factory Main Rd",
+        "place_id": "ola-platform:5000193155394",
+        "address": "Rubber Factory Main Rd, Shastri Colony, Katni, Madhya Pradesh, 483504, India",
+        "district": "Katni",
+        "state": "Madhya Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Katni",
+        "fetched_at": "2026-04-01T15:48:27.001641"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.65714,
+          22.58796
+        ]
+      },
+      "properties": {
+        "name": "Ah47, Pithampur Industrial Area",
+        "place_id": "ola-platform:5000200363595",
+        "address": "Ah47, Pithampur Industrial Area, Khandwa, Madhya Pradesh, 454774, India",
+        "district": "Khandwa",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial area Khandwa",
+        "fetched_at": "2026-04-01T15:48:29.736822"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.6584,
+          22.58908
+        ]
+      },
+      "properties": {
+        "name": "Nh52, Pithampur Industrial Area",
+        "place_id": "ola-platform:5000195786037",
+        "address": "Nh52, Pithampur Industrial Area, Khandwa, Madhya Pradesh, 454774, India",
+        "district": "Khandwa",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial area Khandwa",
+        "fetched_at": "2026-04-01T15:48:29.799275"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.64855,
+          22.58572
+        ]
+      },
+      "properties": {
+        "name": "01, Pithampur Industrial Area",
+        "place_id": "ola-platform:5000189897910",
+        "address": "01, Pithampur Industrial Area, 01, Pithampur Industrial Area, Khandwa, Madhya Pradesh, 454774, India",
+        "district": "Khandwa",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial area Khandwa",
+        "fetched_at": "2026-04-01T15:48:29.864483"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.5988,
+          22.6338
+        ]
+      },
+      "properties": {
+        "name": "L&t Construction TLT Factory Pithampur",
+        "place_id": "ola-platform:5000041582403",
+        "address": "L&t Construction TLT Factory Pithampur, Pithampur Industrial Area, Khandwa, Madhya Pradesh, 454775, India",
+        "district": "Khandwa",
+        "state": "Madhya Pradesh",
+        "types": [
+          "premise",
+          "general_contractor"
+        ],
+        "query_used": "factory area Khandwa",
+        "fetched_at": "2026-04-01T15:48:30.477090"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.23047,
+          21.31936
+        ]
+      },
+      "properties": {
+        "name": "Khargone - Burhanpur Hwy",
+        "place_id": "ola-platform:5000195033262",
+        "address": "Khargone - Burhanpur Hwy, Industrial Area, Burhanpur, Madhya Pradesh, 450331, India",
+        "district": "Khargone",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial area Khargone",
+        "fetched_at": "2026-04-01T15:48:33.686557"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.6028,
+          21.8427
+        ]
+      },
+      "properties": {
+        "name": "Chittorgarh - Khargone - Bhusawal Hwy",
+        "place_id": "ola-platform:5000194240653",
+        "address": "Chittorgarh - Khargone - Bhusawal Hwy, Industrial Area, Bardiya, Khargone, Madhya Pradesh, 451440, India",
+        "district": "Khargone",
+        "state": "Madhya Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Khargone",
+        "fetched_at": "2026-04-01T15:48:33.804330"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.60006,
+          21.85185
+        ]
+      },
+      "properties": {
+        "name": "Chittorgarh - Khargone - Bhusawal Hwy",
+        "place_id": "ola-platform:5000191641800",
+        "address": "Chittorgarh - Khargone - Bhusawal Hwy, Industrial Area, Bardiya, Khaltaka, Khargone, Madhya Pradesh, 451440, India",
+        "district": "Khargone",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial area Khargone",
+        "fetched_at": "2026-04-01T15:48:33.871129"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.23081,
+          21.32253
+        ]
+      },
+      "properties": {
+        "name": "Khargone - Burhanpur Hwy",
+        "place_id": "ola-platform:5000201095569",
+        "address": "Khargone - Burhanpur Hwy, Burhanpur Industrial Area, Teressa, Burhanpur, Madhya Pradesh, 450331, India",
+        "district": "Khargone",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial area Khargone",
+        "fetched_at": "2026-04-01T15:48:33.932122"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.6213,
+          21.82576
+        ]
+      },
+      "properties": {
+        "name": "Vedanti Shivling Manufacturing",
+        "place_id": "ola-platform:5000048505376",
+        "address": "Vedanti Shivling Manufacturing, Nh347b, Kajalpura, Khargone, Khargone Tahsil, Khargone, Madhya Pradesh, 451001, India",
+        "district": "Khargone",
+        "state": "Madhya Pradesh",
+        "types": [
+          "place_of_worship"
+        ],
+        "query_used": "manufacturing hub Khargone",
+        "fetched_at": "2026-04-01T15:48:34.550170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.0596,
+          24.0875
+        ]
+      },
+      "properties": {
+        "name": "59, Govindpura Industrial Area",
+        "place_id": "ola-platform:5000200335028",
+        "address": "59, Govindpura Industrial Area, Mandsaur, Madhya Pradesh, 458001, India",
+        "district": "Mandsaur",
+        "state": "Madhya Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Mandsaur",
+        "fetched_at": "2026-04-01T15:48:40.091147"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.04873,
+          24.06972
+        ]
+      },
+      "properties": {
+        "name": "9/10, Govindpura Industrial Area",
+        "place_id": "ola-platform:5000184751569",
+        "address": "9/10, Govindpura Industrial Area, Mandsaur, Madhya Pradesh, 458002, India",
+        "district": "Mandsaur",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial area Mandsaur",
+        "fetched_at": "2026-04-01T15:48:40.145919"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.05737,
+          24.08789
+        ]
+      },
+      "properties": {
+        "name": "14/A, Industrial Area",
+        "place_id": "ola-platform:5000195622293",
+        "address": "14/A, Industrial Area, Mandsaur, Madhya Pradesh, 458001, India",
+        "district": "Mandsaur",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial area Mandsaur",
+        "fetched_at": "2026-04-01T15:48:40.200394"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.05903,
+          24.08958
+        ]
+      },
+      "properties": {
+        "name": "67, Industrial Area",
+        "place_id": "ola-platform:5000186115660",
+        "address": "67, Industrial Area, Mandsaur, Lalghati, Madhya Pradesh, 458001, India",
+        "district": "Mandsaur",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial area Mandsaur",
+        "fetched_at": "2026-04-01T15:48:40.255344"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.9764,
+          26.4998
+        ]
+      },
+      "properties": {
+        "name": "Sheetla Service Station Morena",
+        "place_id": "ola-platform:5000067811466",
+        "address": "Sheetla Service Station Morena, Industrial Area, AB Rd, Amba ByPass, Morena, Madhya Pradesh, 476001, India",
+        "district": "Morena",
+        "state": "Madhya Pradesh",
+        "types": [
+          "car_repair"
+        ],
+        "query_used": "industrial area Morena",
+        "fetched_at": "2026-04-01T15:48:43.631736"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.86807,
+          24.48021
+        ]
+      },
+      "properties": {
+        "name": "51, Industrial Area",
+        "place_id": "ola-platform:5000194759306",
+        "address": "51, Industrial Area, Jaju Nagar, Neemuch, Madhya Pradesh, 458441, India",
+        "district": "Neemuch",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial area Neemuch",
+        "fetched_at": "2026-04-01T15:48:50.491957"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.86585,
+          24.47987
+        ]
+      },
+      "properties": {
+        "name": "14-C, Industrial Area",
+        "place_id": "ola-platform:5000190034536",
+        "address": "14-C, Industrial Area, Jaju Nagar, Neemuch, Madhya Pradesh, 458441, India",
+        "district": "Neemuch",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial area Neemuch",
+        "fetched_at": "2026-04-01T15:48:50.616764"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.86431,
+          24.48285
+        ]
+      },
+      "properties": {
+        "name": "03, Industrial Area",
+        "place_id": "ola-platform:5000194057149",
+        "address": "03, Industrial Area, Jaju Nagar, Neemuch, Madhya Pradesh, 458441, India",
+        "district": "Neemuch",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial area Neemuch",
+        "fetched_at": "2026-04-01T15:48:50.667693"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.86381,
+          24.48148
+        ]
+      },
+      "properties": {
+        "name": "8B, Industrial Area",
+        "place_id": "ola-platform:5000189656049",
+        "address": "8B, Industrial Area, Jaju Nagar, Neemuch, Madhya Pradesh, 458441, India",
+        "district": "Neemuch",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial area Neemuch",
+        "fetched_at": "2026-04-01T15:48:50.707444"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.86969,
+          24.47756
+        ]
+      },
+      "properties": {
+        "name": "62-A, Industrial Area",
+        "place_id": "ola-platform:5000192603000",
+        "address": "62-A, Industrial Area, Schme No. 36 - B, Jaju Nagar, Neemuch, Madhya Pradesh, 458441, India",
+        "district": "Neemuch",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial area Neemuch",
+        "fetched_at": "2026-04-01T15:48:50.755106"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.866965,
+          24.479912
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:5000067809207",
+        "address": "Industrial Estate, Neemuch, Neemuch Nagar Tehsil, Neemuch, Madhya Pradesh, 458441, India",
+        "district": "Neemuch",
+        "state": "Madhya Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Neemuch Madhya Pradesh",
+        "fetched_at": "2026-04-01T15:48:50.799731"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.87132,
+          24.46091
+        ]
+      },
+      "properties": {
+        "name": "281, Near Ice Factory",
+        "place_id": "ola-platform:5000201252515",
+        "address": "281, Near Ice Factory, Scheme No 3, Neemuch Chawni, Neemuch, Madhya Pradesh, 458441, India",
+        "district": "Neemuch",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "factory area Neemuch",
+        "fetched_at": "2026-04-01T15:48:50.990867"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.87093,
+          24.46008
+        ]
+      },
+      "properties": {
+        "name": "14, Near Ice Factory",
+        "place_id": "ola-platform:5000201209576",
+        "address": "14, Near Ice Factory, Sindhi Colony, Neemuch, Madhya Pradesh, 458441, India",
+        "district": "Neemuch",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "factory area Neemuch",
+        "fetched_at": "2026-04-01T15:48:51.032096"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.87097,
+          24.4601
+        ]
+      },
+      "properties": {
+        "name": "13, Near Ice Factory",
+        "place_id": "ola-platform:5000184354247",
+        "address": "13, Near Ice Factory, Sindhi Colony, Neemuch, Madhya Pradesh, 458441, India",
+        "district": "Neemuch",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "factory area Neemuch",
+        "fetched_at": "2026-04-01T15:48:51.065810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.87115,
+          24.46032
+        ]
+      },
+      "properties": {
+        "name": "9, Near Ice Factory",
+        "place_id": "ola-platform:5000191716628",
+        "address": "9, Near Ice Factory, Sindhi Colony, Neemuch, Madhya Pradesh, 458441, India",
+        "district": "Neemuch",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "factory area Neemuch",
+        "fetched_at": "2026-04-01T15:48:51.106682"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.87101,
+          24.46014
+        ]
+      },
+      "properties": {
+        "name": "12, Near Ice Factory",
+        "place_id": "ola-platform:5000198291373",
+        "address": "12, Near Ice Factory, Sindhi Colony, Neemuch, Madhya Pradesh, 458441, India",
+        "district": "Neemuch",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "factory area Neemuch",
+        "fetched_at": "2026-04-01T15:48:51.164963"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.81292,
+          24.588818
+        ]
+      },
+      "properties": {
+        "name": "CSC Stree Swabhimaan Sanitary Pad Manufacturing Unit Khor",
+        "place_id": "ola-platform:5000066945198",
+        "address": "CSC Stree Swabhimaan Sanitary Pad Manufacturing Unit Khor, Rathod Hospital, Md2104, Khor, Jawad Tehsil, Neemuch, Madhya Pradesh, 458470, India",
+        "district": "Neemuch",
+        "state": "Madhya Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Neemuch",
+        "fetched_at": "2026-04-01T15:48:51.213621"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.44772,
+          23.25867
+        ]
+      },
+      "properties": {
+        "name": "E-41, Raisen Rd",
+        "place_id": "ola-platform:5000190114365",
+        "address": "E-41, Raisen Rd, Industrial Estate, Industrial Area, Govindpura, Bhopal, Madhya Pradesh, 462061, India",
+        "district": "Raisen",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial area Raisen",
+        "fetched_at": "2026-04-01T15:49:00.378043"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4502,
+          23.2537
+        ]
+      },
+      "properties": {
+        "name": "4/2, Raisen Rd",
+        "place_id": "ola-platform:5000186369610",
+        "address": "4/2, Raisen Rd, Govindpura Industrial Area, Bhopal, Madhya Pradesh, 462061, India",
+        "district": "Raisen",
+        "state": "Madhya Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Raisen",
+        "fetched_at": "2026-04-01T15:49:00.437515"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4547,
+          23.2516
+        ]
+      },
+      "properties": {
+        "name": "Raisen Rd, CPRI Colony",
+        "place_id": "ola-platform:5000196612348",
+        "address": "Raisen Rd, CPRI Colony, Govindpura Industrial Area, Bhopal, Madhya Pradesh, 462060, India",
+        "district": "Raisen",
+        "state": "Madhya Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Raisen",
+        "fetched_at": "2026-04-01T15:49:00.478159"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4514,
+          23.2625
+        ]
+      },
+      "properties": {
+        "name": "5/1, Raisen Rd",
+        "place_id": "ola-platform:5000191539770",
+        "address": "5/1, Raisen Rd, Govindpura Industrial Area, Bhopal, Madhya Pradesh No, 462061, India",
+        "district": "Raisen",
+        "state": "Madhya Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Raisen",
+        "fetched_at": "2026-04-01T15:49:00.524373"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.43953,
+          23.27085
+        ]
+      },
+      "properties": {
+        "name": "7 116/7, Raisen Road Adampura Building No",
+        "place_id": "ola-platform:5000191377248",
+        "address": "7 116/7, Raisen Road Adampura Building No, 7, Govindpura Industrial Area, Bhopal, Madhya Pradesh, 462023, India",
+        "district": "Raisen",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial area Raisen",
+        "fetched_at": "2026-04-01T15:49:00.577269"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.044283,
+          23.358721
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Ratlam",
+        "place_id": "ola-platform:1032866",
+        "address": "Industrial Area Ratlam, Ratlam, Madhya Pradesh, India",
+        "district": "Ratlam",
+        "state": "Madhya Pradesh",
+        "types": [
+          "borough"
+        ],
+        "query_used": "industrial area Ratlam",
+        "fetched_at": "2026-04-01T15:49:36.958252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.03554,
+          23.35652
+        ]
+      },
+      "properties": {
+        "name": "379, Industrial Area",
+        "place_id": "ola-platform:5000189229825",
+        "address": "379, Industrial Area, Ratlam, Madhya Pradesh, 457001, India",
+        "district": "Ratlam",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial area Ratlam",
+        "fetched_at": "2026-04-01T15:49:37.014599"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.02606,
+          23.35427
+        ]
+      },
+      "properties": {
+        "name": "Nh927a, Industrial Area",
+        "place_id": "ola-platform:5000194271443",
+        "address": "Nh927a, Industrial Area, Ratlam, Madhya Pradesh, 457001, India",
+        "district": "Ratlam",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial area Ratlam",
+        "fetched_at": "2026-04-01T15:49:37.064429"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.04312,
+          23.34968
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Ratlam",
+        "place_id": "ola-platform:5000193623964",
+        "address": "Industrial Area Ratlam, Alkapuri, Ratlam, Madhya Pradesh, 457001, India",
+        "district": "Ratlam",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial area Ratlam",
+        "fetched_at": "2026-04-01T15:49:37.106089"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.05568,
+          23.3583
+        ]
+      },
+      "properties": {
+        "name": "Ddt/15, Industrial Area",
+        "place_id": "ola-platform:5000197908670",
+        "address": "Ddt/15, Industrial Area, Ratlam, Borwana, Madhya Pradesh, 457001, India",
+        "district": "Ratlam",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial area Ratlam",
+        "fetched_at": "2026-04-01T15:49:37.151168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.030722,
+          23.343216
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate Police Station",
+        "place_id": "ola-platform:5000064759015",
+        "address": "Industrial Estate Police Station, Nayagaon, Ratlam, Ratlam Nagar Tahsil, Ratlam, Madhya Pradesh, 457001, India",
+        "district": "Ratlam",
+        "state": "Madhya Pradesh",
+        "types": [
+          "police"
+        ],
+        "query_used": "industrial estate Ratlam Madhya Pradesh",
+        "fetched_at": "2026-04-01T15:49:37.199782"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.1027,
+          23.6207
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate Jaora",
+        "place_id": "ola-platform:5000196112175",
+        "address": "Industrial Estate Jaora, Jaora, Madhya Pradesh, 457226, India",
+        "district": "Ratlam",
+        "state": "Madhya Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Ratlam Madhya Pradesh",
+        "fetched_at": "2026-04-01T15:49:37.248884"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.919,
+          24.5832
+        ]
+      },
+      "properties": {
+        "name": "Yash Foods Satna",
+        "place_id": "ola-platform:5000038313667",
+        "address": "Yash Foods Satna, Ramsathan Road, Near Durga Mandir, Industrial Area, Matehna, Satna, Koihai, Madhya Pradesh, 485005, India",
+        "district": "Satna",
+        "state": "Madhya Pradesh",
+        "types": [
+          "food",
+          "restaurant"
+        ],
+        "query_used": "industrial area Satna",
+        "fetched_at": "2026-04-01T15:50:13.799908"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0744,
+          23.2216
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000052135305",
+        "address": "Industrial Area, Industrial Colony, Sehore, Madhya Pradesh, 466001, India",
+        "district": "Sehore",
+        "state": "Madhya Pradesh",
+        "types": [
+          "store"
+        ],
+        "query_used": "industrial area Sehore",
+        "fetched_at": "2026-04-01T15:50:17.359194"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.075344,
+          23.222612
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000039724661",
+        "address": "Industrial Area, Md3205, Sehore, Sehore Nagar Tahsil, Sehore, Madhya Pradesh, 466001, India",
+        "district": "Sehore",
+        "state": "Madhya Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Sehore",
+        "fetched_at": "2026-04-01T15:50:17.414461"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.126747,
+          23.212229
+        ]
+      },
+      "properties": {
+        "name": "Pachama Industrial Area",
+        "place_id": "ola-platform:5000065790247",
+        "address": "Pachama Industrial Area, Sh28, Panchawan, Pachama, Sehore Tahsil, Sehore, Madhya Pradesh, 466001, India",
+        "district": "Sehore",
+        "state": "Madhya Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Sehore",
+        "fetched_at": "2026-04-01T15:50:17.463922"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1021,
+          23.1526
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Sehore",
+        "place_id": "ola-platform:5000220151023",
+        "address": "Industrial Area Sehore, Industrial Area Road, Jahangirpura, Madhya Pradesh 466001, India",
+        "district": "Sehore",
+        "state": "Madhya Pradesh",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial area Sehore",
+        "fetched_at": "2026-04-01T15:50:17.559832"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0744,
+          23.2079
+        ]
+      },
+      "properties": {
+        "name": "Sugar Factory Sehore (BSI)",
+        "place_id": "ola-platform:5000047937294",
+        "address": "Sugar Factory Sehore (BSI), Narendra Nagar, Near Sharda Vidhyapith, Subeshnagar, Sehore, Madhya Pradesh, 466001, India",
+        "district": "Sehore",
+        "state": "Madhya Pradesh",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Sehore",
+        "fetched_at": "2026-04-01T15:50:17.796606"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0726,
+          23.2076
+        ]
+      },
+      "properties": {
+        "name": "Sugar Factory",
+        "place_id": "ola-platform:5000183396418",
+        "address": "Sugar Factory, Subeshnagar, Sehore, Madhya Pradesh, 466001, India",
+        "district": "Sehore",
+        "state": "Madhya Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Sehore",
+        "fetched_at": "2026-04-01T15:50:17.897599"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.203,
+          23.1354
+        ]
+      },
+      "properties": {
+        "name": "Cattle Feed Factory Pachama",
+        "place_id": "ola-platform:5000040505810",
+        "address": "Cattle Feed Factory Pachama, Sehore - Bhopal Rd, Pachama, Madhya Pradesh, 466111, India",
+        "district": "Sehore",
+        "state": "Madhya Pradesh",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Sehore",
+        "fetched_at": "2026-04-01T15:50:17.945670"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5151,
+          22.97
+        ]
+      },
+      "properties": {
+        "name": "Sel Manufacturing Co Ltd",
+        "place_id": "ola-platform:5000060776350",
+        "address": "Sel Manufacturing Co Ltd, Sehore, Madhya Pradesh, 466118, India",
+        "district": "Sehore",
+        "state": "Madhya Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Sehore",
+        "fetched_at": "2026-04-01T15:50:18.042360"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0991,
+          23.1657
+        ]
+      },
+      "properties": {
+        "name": "ITC Fibre Innovations Limited (Manufacturing Unit)",
+        "place_id": "ola-platform:5000220934499",
+        "address": "ITC Fibre Innovations Limited (Manufacturing Unit), Sehore, Madhya Pradesh 466001, India",
+        "district": "Sehore",
+        "state": "Madhya Pradesh",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "manufacturing hub Sehore",
+        "fetched_at": "2026-04-01T15:50:18.092852"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.72478,
+          23.02204
+        ]
+      },
+      "properties": {
+        "name": "Sel Manufacturing Company Ltd.",
+        "place_id": "ola-platform:5000042279485",
+        "address": "Sel Manufacturing Company Ltd, Ashta, Ashta Tahsil, Sehore, Madhya Pradesh, 466116, India",
+        "district": "Sehore",
+        "state": "Madhya Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Sehore",
+        "fetched_at": "2026-04-01T15:50:18.142036"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.500237,
+          22.983334
+        ]
+      },
+      "properties": {
+        "name": "Sel Manufacturing Company Ltd",
+        "place_id": "ola-platform:5000066801257",
+        "address": "Sel Manufacturing Company Ltd, Dewas - Bhopal Corridor, Shakukhera, Dodi, Jawar Tahsil, Sehore, Madhya Pradesh, 466118, India",
+        "district": "Sehore",
+        "state": "Madhya Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Sehore",
+        "fetched_at": "2026-04-01T15:50:18.189231"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.56129,
+          22.105529
+        ]
+      },
+      "properties": {
+        "name": "Seoni Industrial Area",
+        "place_id": "ola-platform:5000057030439",
+        "address": "Seoni Industrial Area, Bubaria, Seoni, Seoni Tahsil, Seoni, Madhya Pradesh, 480661, India",
+        "district": "Seoni",
+        "state": "Madhya Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Seoni",
+        "fetched_at": "2026-04-01T15:50:20.418960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.538579,
+          22.144934
+        ]
+      },
+      "properties": {
+        "name": "Style X India Manufacturing And Corporate Office",
+        "place_id": "ola-platform:5000037822784",
+        "address": "Style X India Manufacturing And Corporate Office, Nagjhir, Seoni, Seoni Tahsil, Seoni, Madhya Pradesh, 480661, India",
+        "district": "Seoni",
+        "state": "Madhya Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Seoni",
+        "fetched_at": "2026-04-01T15:50:21.278652"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.149843,
+          23.279597
+        ]
+      },
+      "properties": {
+        "name": "Gadroli Industrial Area",
+        "place_id": "ola-platform:5000061330813",
+        "address": "Gadroli Industrial Area, Maksi, Shajapur Tahsil, Shajapur, Madhya Pradesh, 456770, India",
+        "district": "Shajapur",
+        "state": "Madhya Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Shajapur",
+        "fetched_at": "2026-04-01T15:50:26.664646"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.15336,
+          23.24442
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Maksi",
+        "place_id": "ola-platform:5000060319420",
+        "address": "Industrial Area Maksi, Maksi, Shajapur Tahsil, Shajapur, Madhya Pradesh, 465106, India",
+        "district": "Shajapur",
+        "state": "Madhya Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Shajapur",
+        "fetched_at": "2026-04-01T15:50:26.722963"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.720053,
+          23.347518
+        ]
+      },
+      "properties": {
+        "name": "Satendi Industrial Area",
+        "place_id": "ola-platform:5000036914208",
+        "address": "Satendi Industrial Area, Nh752c, Jamner, Amlay, Shujalpur Tahsil, Shajapur, Madhya Pradesh, 465333, India",
+        "district": "Shajapur",
+        "state": "Madhya Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Shajapur",
+        "fetched_at": "2026-04-01T15:50:26.785953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6543,
+          25.405
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Shivpuri",
+        "place_id": "ola-platform:5000185547658",
+        "address": "Industrial Area Shivpuri, Industrial Area Fatehpuri, Shivpuri, Madhya Pradesh, 473551, India",
+        "district": "Shivpuri",
+        "state": "Madhya Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Shivpuri",
+        "fetched_at": "2026-04-01T15:50:32.905538"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.65313,
+          25.43296
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000064863169",
+        "address": "Industrial Area, Indraprasth Nagar, Shivpuri, Shivpuri Nagartahsil, Shivpuri, Madhya Pradesh, 473551, India",
+        "district": "Shivpuri",
+        "state": "Madhya Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Shivpuri",
+        "fetched_at": "2026-04-01T15:50:32.964895"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.640618,
+          25.385127
+        ]
+      },
+      "properties": {
+        "name": "Barodi Industrial Area",
+        "place_id": "ola-platform:5000054201964",
+        "address": "Barodi Industrial Area, Ah47, Ludhawali, Barodi, Shivpuri Nagartahsil, Shivpuri, Madhya Pradesh, 473551, India",
+        "district": "Shivpuri",
+        "state": "Madhya Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Shivpuri",
+        "fetched_at": "2026-04-01T15:50:33.067291"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.6579,
+          25.4016
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Fatehpuri",
+        "place_id": "ola-platform:5000192860385",
+        "address": "Industrial Area Fatehpuri, Shivpuri, Madhya Pradesh, 473551, India",
+        "district": "Shivpuri",
+        "state": "Madhya Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Shivpuri",
+        "fetched_at": "2026-04-01T15:50:33.118264"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.630787,
+          24.048341
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000048184165",
+        "address": "Industrial Area, Waidhan, Singrauli Tahsil, Singrauli, Madhya Pradesh, 486889, India",
+        "district": "Singrauli",
+        "state": "Madhya Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Singrauli",
+        "fetched_at": "2026-04-01T15:50:40.058333"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.51093,
+          24.05551
+        ]
+      },
+      "properties": {
+        "name": "KNB Sleeper Manufacturing Point",
+        "place_id": "ola-platform:5000037201116",
+        "address": "KNB Sleeper Manufacturing Point, Manik Chauri, Singrauli Tahsil, Singrauli, Madhya Pradesh, 486886, India",
+        "district": "Singrauli",
+        "state": "Madhya Pradesh",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "manufacturing hub Singrauli",
+        "fetched_at": "2026-04-01T15:50:40.771494"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.0466,
+          22.97604
+        ]
+      },
+      "properties": {
+        "name": "3A-4A, Ujjain Rd",
+        "place_id": "ola-platform:5000194900367",
+        "address": "3A-4A, Ujjain Rd, Industrial Area No. 3, Dewas, Madhya Pradesh, 455001, India",
+        "district": "Ujjain",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial area Ujjain",
+        "fetched_at": "2026-04-01T15:50:47.054235"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.04665,
+          22.9744
+        ]
+      },
+      "properties": {
+        "name": "6, Ujjain Rd",
+        "place_id": "ola-platform:5000191667818",
+        "address": "6, Ujjain Rd, Industrial Area, Amlavati, Dewas, Madhya Pradesh, 455001, India",
+        "district": "Ujjain",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial area Ujjain",
+        "fetched_at": "2026-04-01T15:50:47.115964"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.04636,
+          22.98108
+        ]
+      },
+      "properties": {
+        "name": "513 Nosrabad Colony, Ujjain Rd",
+        "place_id": "ola-platform:5000185323007",
+        "address": "513 Nosrabad Colony, Ujjain Rd, Industrial Area No. 3, Dewas, Madhya Pradesh, 455001, India",
+        "district": "Ujjain",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial area Ujjain",
+        "fetched_at": "2026-04-01T15:50:47.174003"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.81661,
+          23.14907
+        ]
+      },
+      "properties": {
+        "name": "3A, Ujjain Dewas Rd",
+        "place_id": "ola-platform:5000188540489",
+        "address": "3A, Ujjain Dewas Rd, Industrial Area, Nagziri, Ujjain, Madhya Pradesh, 456010, India",
+        "district": "Ujjain",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial area Ujjain",
+        "fetched_at": "2026-04-01T15:50:47.234196"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.04624,
+          22.97541
+        ]
+      },
+      "properties": {
+        "name": "5/0, Ujjain Dewas Rd",
+        "place_id": "ola-platform:5000185537265",
+        "address": "5/0, Ujjain Dewas Rd, Industrial Area No. 3, Dewas, Madhya Pradesh, 455001, India",
+        "district": "Ujjain",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial area Ujjain",
+        "fetched_at": "2026-04-01T15:50:47.294214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.85136,
+          22.74016
+        ]
+      },
+      "properties": {
+        "name": "Ujjain Rd, Pologround Industrial Estate",
+        "place_id": "ola-platform:5000201152625",
+        "address": "Ujjain Rd, Pologround Industrial Estate, Nanda Nagar, Banganga, Indore, Madhya Pradesh, 452033, India",
+        "district": "Ujjain",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial estate Ujjain Madhya Pradesh",
+        "fetched_at": "2026-04-01T15:50:47.347996"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.85263,
+          22.73996
+        ]
+      },
+      "properties": {
+        "name": "Ujjain Rd, Pologround Industrial Estate",
+        "place_id": "ola-platform:5000191185843",
+        "address": "Ujjain Rd, Pologround Industrial Estate, Jai Hind Nagar, Banganga, Indore, Madhya Pradesh, 452033, India",
+        "district": "Ujjain",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial estate Ujjain Madhya Pradesh",
+        "fetched_at": "2026-04-01T15:50:47.396565"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.04657,
+          22.97803
+        ]
+      },
+      "properties": {
+        "name": "11, Ujjain Rd",
+        "place_id": "ola-platform:5000200038073",
+        "address": "11, Ujjain Rd, Behind Old Haldi Factory, Industrial Area, Dewas, Madhya Pradesh, 455001, India",
+        "district": "Ujjain",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "factory area Ujjain",
+        "fetched_at": "2026-04-01T15:50:47.604333"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7237,
+          23.2601
+        ]
+      },
+      "properties": {
+        "name": "J K Cement Ujjain Factory (JK Cements Main Gate)",
+        "place_id": "ola-platform:5000051506960",
+        "address": "J K Cement Ujjain Factory (JK Cements Main Gate), JK Cements Main Gate, Madhavgarh, Madhya Pradesh, 456003, India",
+        "district": "Ujjain",
+        "state": "Madhya Pradesh",
+        "types": [
+          "general_contractor"
+        ],
+        "query_used": "factory area Ujjain",
+        "fetched_at": "2026-04-01T15:50:47.655264"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8258,
+          23.1348
+        ]
+      },
+      "properties": {
+        "name": "All-Natural Ice Cream Factory",
+        "place_id": "ola-platform:5000191731367",
+        "address": "All-Natural Ice Cream Factory, Sh18, Abhilasha Colony, Ujjain, Madhya Pradesh, 456010, India",
+        "district": "Ujjain",
+        "state": "Madhya Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Ujjain",
+        "fetched_at": "2026-04-01T15:50:47.759614"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8326,
+          23.1332
+        ]
+      },
+      "properties": {
+        "name": "Artificial Limbs Manufacturing Corporation (Alimco), Ujjain.",
+        "place_id": "ola-platform:5000060815730",
+        "address": "Artificial Limbs Manufacturing Corporation (Alimco), Ujjain, Artificial Limbs Manufacturing Corporation (ALIMCO), Ujjain, Artificial Limbs Manufacturing Corporation (ALIMCO), Ujjain, Plot No. 16 2, Dewas Road Manpura, Abhilasha Colony, Ujjain, Madhya Pradesh, 456010, India",
+        "district": "Ujjain",
+        "state": "Madhya Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Ujjain",
+        "fetched_at": "2026-04-01T15:50:47.874558"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.77732,
+          23.05364
+        ]
+      },
+      "properties": {
+        "name": "Plot 17, Umariya Dungariya AKVN Industrial Area Phase",
+        "place_id": "ola-platform:5000199259219",
+        "address": "Plot 17, Umariya Dungariya AKVN Industrial Area Phase, 2, Jabalpur, Umariya, Madhya Pradesh, 483113, India",
+        "district": "Umaria",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial area Umaria",
+        "fetched_at": "2026-04-01T15:50:51.824495"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.78808,
+          23.05431
+        ]
+      },
+      "properties": {
+        "name": "Plot No 85, 86 Industrial Area Umariya",
+        "place_id": "ola-platform:5000197254047",
+        "address": "Plot No 85, 86 Industrial Area Umariya, Plot No 85, 86 Industrial Area Umariya, Dungariya, Dugariya, Madhya Pradesh, 483113, India",
+        "district": "Umaria",
+        "state": "Madhya Pradesh",
+        "types": [],
+        "query_used": "industrial area Umaria",
+        "fetched_at": "2026-04-01T15:50:51.894561"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.7858,
+          23.0585
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Umaria Dungaria, Distt. Jabalpur",
+        "place_id": "ola-platform:5000220181246",
+        "address": "Industrial Area Umaria Dungaria, Distt. Jabalpur, Dugariya, Madhya Pradesh 483113, India",
+        "district": "Umaria",
+        "state": "Madhya Pradesh",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial area Umaria",
+        "fetched_at": "2026-04-01T15:50:52.088215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8239,
+          23.5256
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Vidisha",
+        "place_id": "ola-platform:5000063853266",
+        "address": "Industrial Area Vidisha, 1, Dabar, Vidisha, Madhya Pradesh, 464002, India",
+        "district": "Vidisha",
+        "state": "Madhya Pradesh",
+        "types": [
+          "supermarket"
+        ],
+        "query_used": "industrial area Vidisha",
+        "fetched_at": "2026-04-01T15:50:56.855484"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7628,
+          23.5594
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Jambar Bagri",
+        "place_id": "ola-platform:5000185715138",
+        "address": "Industrial Area Jambar Bagri, AKVN Site Office, Jambar, Industrial Area Jambar Bagri, Bagri, Jambar, Madhya Pradesh, 464001, India",
+        "district": "Vidisha",
+        "state": "Madhya Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Vidisha",
+        "fetched_at": "2026-04-01T15:50:56.916059"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.9174,
+          24.6255
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Mauganj Rewa",
+        "place_id": "ola-platform:5000058845671",
+        "address": "Industrial Area Mauganj Rewa, Unnamed Road, Patehara, Madhya Pradesh, 486333, India",
+        "district": "Mauganj",
+        "state": "Madhya Pradesh",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Mauganj",
+        "fetched_at": "2026-04-01T15:51:05.720611"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.7784,
+          24.2452
+        ]
+      },
+      "properties": {
+        "name": "Udyog Dham Maihar Industrial Area",
+        "place_id": "ola-platform:5000196455948",
+        "address": "Udyog Dham Maihar Industrial Area, 12 First Floor New Collectorate Building, Udyog Dham Maihar Industrial Area, Rewa, Madhya Pradesh, 485771, India",
+        "district": "Maihar",
+        "state": "Madhya Pradesh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Maihar",
+        "fetched_at": "2026-04-01T15:51:08.970638"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.9489,
+          24.3203
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Amarpatan",
+        "place_id": "ola-platform:5000046796541",
+        "address": "Industrial Area Amarpatan, Indusrial Area, Amarpatan, Madhya Pradesh, 485775, India",
+        "district": "Maihar",
+        "state": "Madhya Pradesh",
+        "types": [
+          "supermarket"
+        ],
+        "query_used": "industrial area Maihar",
+        "fetched_at": "2026-04-01T15:51:09.050235"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.80132,
+          24.200347
+        ]
+      },
+      "properties": {
+        "name": "Maihar Cement Factory Sarlanagar",
+        "place_id": "ola-platform:12569",
+        "address": "Maihar Cement Factory Sarlanagar, Madhya Pradesh, India",
+        "district": "Maihar",
+        "state": "Madhya Pradesh",
+        "types": [
+          "locality"
+        ],
+        "query_used": "factory area Maihar",
+        "fetched_at": "2026-04-01T15:51:09.630835"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.412217,
+          23.444774
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:1032706",
+        "address": "Industrial Area, Nagda, Madhya Pradesh, India",
+        "district": "Nagda",
+        "state": "Madhya Pradesh",
+        "types": [
+          "borough"
+        ],
+        "query_used": "industrial area Nagda",
+        "fetched_at": "2026-04-01T15:51:20.821949"
+      }
+    }
+  ]
+}

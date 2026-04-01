@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7643,
+          26.1792
+        ]
+      },
+      "properties": {
+        "name": "Sabun Factory Road",
+        "place_id": "ola-platform:5000200496434",
+        "address": "Sabun Factory Road, Sabun Factory Rd, Gandhi Basti, Sarania Hills, Guwahati, Assam, 781007, India",
+        "district": "East Garo Hills",
+        "state": "Meghalaya",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area East Garo Hills",
+        "fetched_at": "2026-04-01T15:52:14.551865"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7643,
+          26.183
+        ]
+      },
+      "properties": {
+        "name": "4, Sabun Factory Rd",
+        "place_id": "ola-platform:5000198804143",
+        "address": "4, Sabun Factory Rd, Gandhi Basti, Sarania Hills, Guwahati, Assam, 781003, India",
+        "district": "East Garo Hills",
+        "state": "Meghalaya",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area East Garo Hills",
+        "fetched_at": "2026-04-01T15:52:14.565540"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8452,
+          26.0222
+        ]
+      },
+      "properties": {
+        "name": "Byrnihat Industrial Estate",
+        "place_id": "ola-platform:5000186803246",
+        "address": "Byrnihat Industrial Estate, Umtru Dam Rd, Meghalaya, 793101, India",
+        "district": "Ri Bhoi",
+        "state": "Meghalaya",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Ri Bhoi Meghalaya",
+        "fetched_at": "2026-04-01T15:52:29.390219"
+      }
+    }
+  ]
+}

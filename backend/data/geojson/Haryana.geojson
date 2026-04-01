@@ -1,0 +1,4297 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.80299,
+          30.4042
+        ]
+      },
+      "properties": {
+        "name": "784, Industrial Area",
+        "place_id": "ola-platform:5000200265002",
+        "address": "784, Industrial Area, Mandour, Ambala, Haryana, 134007, India",
+        "district": "Ambala",
+        "state": "Haryana",
+        "types": [],
+        "query_used": "industrial area Ambala",
+        "fetched_at": "2026-04-01T15:42:28.003970"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.87159,
+          30.38529
+        ]
+      },
+      "properties": {
+        "name": "105, Industrial Area",
+        "place_id": "ola-platform:5000193695657",
+        "address": "105, Industrial Area, Ambala Cantt, Haryana, 133010, India",
+        "district": "Ambala",
+        "state": "Haryana",
+        "types": [],
+        "query_used": "industrial area Ambala",
+        "fetched_at": "2026-04-01T15:42:28.021667"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8745,
+          30.333
+        ]
+      },
+      "properties": {
+        "name": "BSNL Telephone Exchange, Industrial Area, Ambala Cantt",
+        "place_id": "ola-platform:5000055050129",
+        "address": "BSNL Telephone Exchange, Industrial Area, Ambala Cantt, Pooja Vihar, Ambala Cantt, Haryana, 133006, India",
+        "district": "Ambala",
+        "state": "Haryana",
+        "types": [
+          "local_government_office"
+        ],
+        "query_used": "industrial area Ambala",
+        "fetched_at": "2026-04-01T15:42:28.036800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8818,
+          30.3349
+        ]
+      },
+      "properties": {
+        "name": "Hi-Tech Apple Grading Machine & Sorting Machine Manufacturers In Ambala, Haryana",
+        "place_id": "ola-platform:5000063054107",
+        "address": "Hi-Tech Apple Grading Machine & Sorting Machine Manufacturers In Ambala, Haryana, Plot No 22, HSIDC Industrial Estate, HSIIDC, Ambala Cantt, Haryana, 133006, India",
+        "district": "Ambala",
+        "state": "Haryana",
+        "types": [
+          "department_store"
+        ],
+        "query_used": "industrial estate Ambala Haryana",
+        "fetched_at": "2026-04-01T15:42:28.052338"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8837,
+          30.3365
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:5000059629300",
+        "address": "Industrial Estate, Unitek Industries 55, Industrial Estate, Ambala Cantt, 53, HSIDC Industrial Estate, Industrial Area, Ambala Cantt, Haryana, 133006, India",
+        "district": "Ambala",
+        "state": "Haryana",
+        "types": [
+          "storage"
+        ],
+        "query_used": "industrial estate Ambala Haryana",
+        "fetched_at": "2026-04-01T15:42:28.067773"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.84547,
+          30.34098
+        ]
+      },
+      "properties": {
+        "name": "76 Industrial Estate Ambala Cantt Second Road",
+        "place_id": "ola-platform:5000191220723",
+        "address": "76 Industrial Estate Ambala Cantt Second Road, Punjabi Mohalla, Sadar Bazar, Ambala Cantt, Haryana, 133001, India",
+        "district": "Ambala",
+        "state": "Haryana",
+        "types": [],
+        "query_used": "industrial estate Ambala Haryana",
+        "fetched_at": "2026-04-01T15:42:28.079488"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.880563,
+          30.334121
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:5000054720330",
+        "address": "Industrial Estate, Prabhu Prem Putam East Block, Ambala, Ambala Cantt, Ambala, Haryana, 133006, India",
+        "district": "Ambala",
+        "state": "Haryana",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Ambala Haryana",
+        "fetched_at": "2026-04-01T15:42:28.098738"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.85393,
+          30.32944
+        ]
+      },
+      "properties": {
+        "name": "146S, Near Goel Dhoop Factory",
+        "place_id": "ola-platform:5000183951286",
+        "address": "146S, Near Goel Dhoop Factory, Ram Nagar, Gandhi Nagar, Ambala, Ambala Sadar, Haryana, 133001, India",
+        "district": "Ambala",
+        "state": "Haryana",
+        "types": [],
+        "query_used": "factory area Ambala",
+        "fetched_at": "2026-04-01T15:42:28.254216"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.842,
+          30.3153
+        ]
+      },
+      "properties": {
+        "name": "Wannock Pharmaceuticals ! Best Third Party/contract Manufacturing Company In Ambala",
+        "place_id": "ola-platform:5000051541294",
+        "address": "Wannock Pharmaceuticals ! Best Third Party/contract Manufacturing Company In Ambala, Godown No.-9, Kuldeep Nagar, Nanak Pura, Nanhera, Ambala Cantt, Haryana, 133004, India",
+        "district": "Ambala",
+        "state": "Haryana",
+        "types": [
+          "health"
+        ],
+        "query_used": "manufacturing hub Ambala",
+        "fetched_at": "2026-04-01T15:42:28.267702"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.7974,
+          30.3615
+        ]
+      },
+      "properties": {
+        "name": "Aeon Remedies - Best PCD Pharma/third Party Manufacturing Company In Ambala/india",
+        "place_id": "ola-platform:5000056511735",
+        "address": "Aeon Remedies - Best PCD Pharma/third Party Manufacturing Company In Ambala/india, #133, Model Town Circular Rd, Model Town, Ambala, Haryana, 134003, India",
+        "district": "Ambala",
+        "state": "Haryana",
+        "types": [
+          "health"
+        ],
+        "query_used": "manufacturing hub Ambala",
+        "fetched_at": "2026-04-01T15:42:28.287433"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.844,
+          30.319
+        ]
+      },
+      "properties": {
+        "name": "See Ever HealthCare Pvt. Ltd.- Best Pcd/3rd Party Manufacturing Company In Ambala/india",
+        "place_id": "ola-platform:5000063489892",
+        "address": "See Ever HealthCare Pvt. Ltd.- Best Pcd/3rd Party Manufacturing Company In Ambala/india, Plot No. 10, Kuldeep Nagar, Arjun Nagar, Nanhera, Ambala Cantt, Haryana, 133001, India",
+        "district": "Ambala",
+        "state": "Haryana",
+        "types": [
+          "health"
+        ],
+        "query_used": "manufacturing hub Ambala",
+        "fetched_at": "2026-04-01T15:42:28.305348"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8446,
+          30.318
+        ]
+      },
+      "properties": {
+        "name": "Aconwell Pharma Pvt Ltd. - Best Pcd/3rd Party Manufacturing Company In Ambala/haryana/india",
+        "place_id": "ola-platform:5000056626226",
+        "address": "Aconwell Pharma Pvt Ltd. - Best Pcd/3rd Party Manufacturing Company In Ambala/haryana/india, 1st Floor, Khasra No-8/14/14 Arjun Nagar, Nanhera, Ambala Cantt, Haryana, 133001, India",
+        "district": "Ambala",
+        "state": "Haryana",
+        "types": [
+          "health"
+        ],
+        "query_used": "manufacturing hub Ambala",
+        "fetched_at": "2026-04-01T15:42:28.323186"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.160801,
+          28.799379
+        ]
+      },
+      "properties": {
+        "name": "Sector 26 Industrial Area",
+        "place_id": "ola-platform:1015990",
+        "address": "Sector 26 Industrial Area, Bhiwani, Haryana, India",
+        "district": "Bhiwani",
+        "state": "Haryana",
+        "types": [
+          "borough"
+        ],
+        "query_used": "industrial area Bhiwani",
+        "fetched_at": "2026-04-01T15:42:30.407346"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1537,
+          28.7991
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000188024462",
+        "address": "Industrial Area, Vikas Nagar, Bhiwani, Haryana, 127021, India",
+        "district": "Bhiwani",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Bhiwani",
+        "fetched_at": "2026-04-01T15:42:30.426946"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.156,
+          28.7989
+        ]
+      },
+      "properties": {
+        "name": "127, Industrial Area",
+        "place_id": "ola-platform:5000191591481",
+        "address": "127, Industrial Area, Vikas Nagar, Bhiwani, Haryana, 127021, India",
+        "district": "Bhiwani",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Bhiwani",
+        "fetched_at": "2026-04-01T15:42:30.448628"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.15527,
+          28.79567
+        ]
+      },
+      "properties": {
+        "name": "Nh709, Industrial Area",
+        "place_id": "ola-platform:5000188158050",
+        "address": "Nh709, Industrial Area, Vikas Nagar, Bhiwani, Haryana, 127021, India",
+        "district": "Bhiwani",
+        "state": "Haryana",
+        "types": [],
+        "query_used": "industrial area Bhiwani",
+        "fetched_at": "2026-04-01T15:42:30.467602"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3856,
+          28.6733
+        ]
+      },
+      "properties": {
+        "name": "165B, Anand Industrial Estate",
+        "place_id": "ola-platform:5000202575310",
+        "address": "165B, Anand Industrial Estate, Mohan Nagar, Ghaziabad, Uttar Pradesh, 201007, India",
+        "district": "Bhiwani",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Bhiwani Haryana",
+        "fetched_at": "2026-04-01T15:42:30.488371"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2929,
+          28.5193
+        ]
+      },
+      "properties": {
+        "name": "Block B, Mohan CoOperative Industrial Estate",
+        "place_id": "ola-platform:5000198435611",
+        "address": "Block B, Mohan CoOperative Industrial Estate, Badarpur, New Delhi, Delhi, 110076, India",
+        "district": "Bhiwani",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Bhiwani Haryana",
+        "fetched_at": "2026-04-01T15:42:30.503759"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2947,
+          28.5159
+        ]
+      },
+      "properties": {
+        "name": "Bolck B-1, Mohan CoOperative Industrial Estate",
+        "place_id": "ola-platform:5000199222348",
+        "address": "Bolck B-1, Mohan CoOperative Industrial Estate, Badarpur, New Delhi, Delhi, 110076, India",
+        "district": "Bhiwani",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Bhiwani Haryana",
+        "fetched_at": "2026-04-01T15:42:30.535015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2712,
+          28.60364
+        ]
+      },
+      "properties": {
+        "name": "Ghikada Rd 1 Prem Patasha Factory Street",
+        "place_id": "ola-platform:5000199827158",
+        "address": "Ghikada Rd 1 Prem Patasha Factory Street, Ghikada, Charkhi Dadri, Haryana, 127306, India",
+        "district": "Charkhi Dadri",
+        "state": "Haryana",
+        "types": [],
+        "query_used": "factory area Charkhi Dadri",
+        "fetched_at": "2026-04-01T15:42:33.122447"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.27,
+          28.3514
+        ]
+      },
+      "properties": {
+        "name": "Sarurpur Industrial Area",
+        "place_id": "ola-platform:5000185421859",
+        "address": "Sarurpur Industrial Area, Sector 53, Faridabad, Haryana, 121004, India",
+        "district": "Faridabad",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Faridabad",
+        "fetched_at": "2026-04-01T15:42:35.515541"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3109,
+          28.4586
+        ]
+      },
+      "properties": {
+        "name": "DLF Industrial Area",
+        "place_id": "ola-platform:5000200208136",
+        "address": "DLF Industrial Area, Sector 32, Faridabad, Haryana, 121003, India",
+        "district": "Faridabad",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Faridabad",
+        "fetched_at": "2026-04-01T15:42:35.549619"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.308,
+          28.4239
+        ]
+      },
+      "properties": {
+        "name": "Sector 20, Industrial Area",
+        "place_id": "ola-platform:5000192219088",
+        "address": "Sector 20, Industrial Area, Sector 20, Faridabad, Haryana, 121001, India",
+        "district": "Faridabad",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Faridabad",
+        "fetched_at": "2026-04-01T15:42:35.567455"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3078,
+          28.426
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000196080391",
+        "address": "Industrial Area, Sector 20, Faridabad, Haryana, 121001, India",
+        "district": "Faridabad",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Faridabad",
+        "fetched_at": "2026-04-01T15:42:35.585899"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3075,
+          28.4641
+        ]
+      },
+      "properties": {
+        "name": "Frick, DLF Industrial Area",
+        "place_id": "ola-platform:5000198827347",
+        "address": "Frick, DLF Industrial Area, Sector 35, Faridabad, Haryana, 121003, India",
+        "district": "Faridabad",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Faridabad",
+        "fetched_at": "2026-04-01T15:42:35.604647"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3139,
+          28.4546
+        ]
+      },
+      "properties": {
+        "name": "DLF Industrial Estate Faridabad",
+        "place_id": "ola-platform:5000054387854",
+        "address": "DLF Industrial Estate Faridabad, I P Colony, Block F, Spring Field Colony, Sector 32, Faridabad, Haryana, 121003, India",
+        "district": "Faridabad",
+        "state": "Haryana",
+        "types": [
+          "real_estate_agency"
+        ],
+        "query_used": "industrial estate Faridabad Haryana",
+        "fetched_at": "2026-04-01T15:42:35.634522"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3022,
+          28.4894
+        ]
+      },
+      "properties": {
+        "name": "Mohan CoOperative Industrial Estate",
+        "place_id": "ola-platform:5000187253569",
+        "address": "Mohan CoOperative Industrial Estate, Badarpur, New Delhi, 110044, India",
+        "district": "Faridabad",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Faridabad Haryana",
+        "fetched_at": "2026-04-01T15:42:35.660508"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3106,
+          28.4573
+        ]
+      },
+      "properties": {
+        "name": "Pharmacos I 19 DLF Industrial Estate Faridabad",
+        "place_id": "ola-platform:5000046387141",
+        "address": "Pharmacos I 19 DLF Industrial Estate Faridabad, 1-18, Mathura Rd, Sector 32 DLF Area, Block A, DLF Industrial Area, Sector 32, Faridabad, Haryana, 121003, India",
+        "district": "Faridabad",
+        "state": "Haryana",
+        "types": [
+          "real_estate_agency"
+        ],
+        "query_used": "industrial estate Faridabad Haryana",
+        "fetched_at": "2026-04-01T15:42:35.686307"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3104,
+          28.3215
+        ]
+      },
+      "properties": {
+        "name": "B1yb26mathura Road Mohan Coprative Industrial Estate",
+        "place_id": "ola-platform:5000052762859",
+        "address": "B1yb26mathura Road Mohan Coprative Industrial Estate, Mathura Rd, Sanjay Colony, Sector 59, Faridabad, Haryana, 121004, India",
+        "district": "Faridabad",
+        "state": "Haryana",
+        "types": [
+          "electronics_store"
+        ],
+        "query_used": "industrial estate Faridabad Haryana",
+        "fetched_at": "2026-04-01T15:42:35.714402"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.307077,
+          28.410762
+        ]
+      },
+      "properties": {
+        "name": "Faridabad Railway Station",
+        "place_id": "ola-platform:5000205205910",
+        "address": "Faridabad Railway Station, Faridabad, ITI Road, Sant Nagar, New Industrial Township, Faridabad, Haryana, 121001, India",
+        "district": "Faridabad",
+        "state": "Haryana",
+        "types": [
+          "railway_station"
+        ],
+        "query_used": "MIDC Faridabad",
+        "fetched_at": "2026-04-01T15:42:35.737036"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.31145,
+          28.41082
+        ]
+      },
+      "properties": {
+        "name": "Old Faridabad Metro Station",
+        "place_id": "ola-platform:5000205199154",
+        "address": "Old Faridabad Metro Station, Old Faridabad, Mathura Road FlyOver, Daulatabad, New Industrial Township, Faridabad, Haryana, 121002, India",
+        "district": "Faridabad",
+        "state": "Haryana",
+        "types": [
+          "metro_station"
+        ],
+        "query_used": "MIDC Faridabad",
+        "fetched_at": "2026-04-01T15:42:35.765615"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.308035,
+          28.410758
+        ]
+      },
+      "properties": {
+        "name": "Faridabad Railway Station Back Side",
+        "place_id": "ola-platform:5000205201893",
+        "address": "Faridabad Railway Station Back Side, Sector 20A, New Industrial Township, Faridabad, Haryana, 121001, India",
+        "district": "Faridabad",
+        "state": "Haryana",
+        "types": [
+          "railway_station",
+          "street_address"
+        ],
+        "query_used": "MIDC Faridabad",
+        "fetched_at": "2026-04-01T15:42:35.789390"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.30758,
+          28.386532
+        ]
+      },
+      "properties": {
+        "name": "Mahindra Finance Factory Area",
+        "place_id": "ola-platform:5000067508195",
+        "address": "Mahindra Finance Factory Area, Krishna Nagar, New Industrial Township, Faridabad, Haryana, 121001, India",
+        "district": "Faridabad",
+        "state": "Haryana",
+        "types": [
+          "bank"
+        ],
+        "query_used": "factory area Faridabad",
+        "fetched_at": "2026-04-01T15:42:35.816048"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2893,
+          28.3706
+        ]
+      },
+      "properties": {
+        "name": "Factory Area Post Office",
+        "place_id": "ola-platform:5000046165334",
+        "address": "Factory Area Post Office, Block-A, Press Colony, 8, Saran, Press Colony, Faridabad, Haryana, 121001, India",
+        "district": "Faridabad",
+        "state": "Haryana",
+        "types": [
+          "post_office"
+        ],
+        "query_used": "factory area Faridabad",
+        "fetched_at": "2026-04-01T15:42:35.837332"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3072,
+          28.3892
+        ]
+      },
+      "properties": {
+        "name": "Mahindra Finance In Faridabad Factory Area",
+        "place_id": "ola-platform:5000057865734",
+        "address": "Mahindra Finance In Faridabad Factory Area, 1st Floor, B P, No. 49, Neelam Bata Rd, Near Syndicate Bank, AC Nagar, New Industrial Township, Faridabad, Haryana, 121001, India",
+        "district": "Faridabad",
+        "state": "Haryana",
+        "types": [
+          "finance"
+        ],
+        "query_used": "factory area Faridabad",
+        "fetched_at": "2026-04-01T15:42:35.865263"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.291,
+          28.3722
+        ]
+      },
+      "properties": {
+        "name": "TrackOn Courier Pvt. Ltd. (TrackOn Courier Pvt. Ltd, Plot No. 50/51, Industrial Area, Opp. Eicher Factory)",
+        "place_id": "ola-platform:5000062498446",
+        "address": "TrackOn Courier Pvt. Ltd. (TrackOn Courier Pvt. Ltd, Plot No. 50/51, Industrial Area, Opp. Eicher Factory), TrackOn Courier Pvt. Ltd, Plot No. 50/51, Industrial Area, Opp. Eicher Factory, Eicher Chowk, Saran Village, Faridabad, Haryana, 121001, India",
+        "district": "Faridabad",
+        "state": "Haryana",
+        "types": [
+          "storage"
+        ],
+        "query_used": "factory area Faridabad",
+        "fetched_at": "2026-04-01T15:42:35.889509"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3218,
+          28.3438
+        ]
+      },
+      "properties": {
+        "name": "Verma Bags Manufacturing Hubs",
+        "place_id": "ola-platform:5000067721078",
+        "address": "Verma Bags Manufacturing Hubs, Chawla Colony, Ballabhgarh, 06, 60 Feet Road, Sector 4, Faridabad Delhi, East Chawla Colony, Sector 4, Ballabhgarh, Faridabad, Haryana, 121004, India",
+        "district": "Faridabad",
+        "state": "Haryana",
+        "types": [
+          "store"
+        ],
+        "query_used": "manufacturing hub Faridabad",
+        "fetched_at": "2026-04-01T15:42:35.913626"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3019,
+          28.374
+        ]
+      },
+      "properties": {
+        "name": "Whirlpool Of India Ltd Manufacturing Unit Faridabad",
+        "place_id": "ola-platform:5000060299448",
+        "address": "Whirlpool Of India Ltd Manufacturing Unit Faridabad, 29B, 4, 7, Rajiv Gandhi Colony, New Industrial Township, Faridabad, Haryana, 121001, India",
+        "district": "Faridabad",
+        "state": "Haryana",
+        "types": [
+          "local_government_office"
+        ],
+        "query_used": "manufacturing hub Faridabad",
+        "fetched_at": "2026-04-01T15:42:35.934275"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.309588,
+          28.297163
+        ]
+      },
+      "properties": {
+        "name": "Faridabad Furnace Manufacturing Pvt Ltd",
+        "place_id": "ola-platform:5000043532391",
+        "address": "Faridabad Furnace Manufacturing Pvt Ltd, Jhar Saitli, Faridabad, Haryana, 121004, India",
+        "district": "Faridabad",
+        "state": "Haryana",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Faridabad",
+        "fetched_at": "2026-04-01T15:42:35.958652"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.364,
+          28.3243
+        ]
+      },
+      "properties": {
+        "name": "AI Nova Lighting- IMT Faridabad - New Manufacturing Works",
+        "place_id": "ola-platform:5000039558092",
+        "address": "AI Nova Lighting- IMT Faridabad - New Manufacturing Works, Plot 119, Sector 68, Faridabad, Haryana, 121004, India",
+        "district": "Faridabad",
+        "state": "Haryana",
+        "types": [
+          "home_goods_store"
+        ],
+        "query_used": "manufacturing hub Faridabad",
+        "fetched_at": "2026-04-01T15:42:35.979507"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2918,
+          28.4099
+        ]
+      },
+      "properties": {
+        "name": "Furni Home India - Best Furniture Manufacturing Company In Faridabad",
+        "place_id": "ola-platform:5000222177507",
+        "address": "Furni Home India - Best Furniture Manufacturing Company In Faridabad, C-Block, FCA-110, Patel Chowk, NIT-4, SGM Nagar, Sector 48, Faridabad, Haryana 121001, India",
+        "district": "Faridabad",
+        "state": "Haryana",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "manufacturing hub Faridabad",
+        "fetched_at": "2026-04-01T15:42:36.003748"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.426035,
+          29.515747
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:1016979",
+        "address": "Industrial Area, Fatehabad, Haryana, India",
+        "district": "Fatehabad",
+        "state": "Haryana",
+        "types": [
+          "borough"
+        ],
+        "query_used": "industrial area Fatehabad",
+        "fetched_at": "2026-04-01T15:42:38.260835"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.42711,
+          29.51488
+        ]
+      },
+      "properties": {
+        "name": "20, Industrial Area",
+        "place_id": "ola-platform:5000188770206",
+        "address": "20, Industrial Area, Fatehabad, Haryana, 125050, India",
+        "district": "Fatehabad",
+        "state": "Haryana",
+        "types": [],
+        "query_used": "industrial area Fatehabad",
+        "fetched_at": "2026-04-01T15:42:38.302244"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.43608,
+          29.51555
+        ]
+      },
+      "properties": {
+        "name": "10, Industrial Area",
+        "place_id": "ola-platform:5000191909960",
+        "address": "10, Industrial Area, Fatehabad, Haryana, 125050, India",
+        "district": "Fatehabad",
+        "state": "Haryana",
+        "types": [],
+        "query_used": "industrial area Fatehabad",
+        "fetched_at": "2026-04-01T15:42:38.327265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.4301,
+          29.5157
+        ]
+      },
+      "properties": {
+        "name": "Sirsa Rd, Industrial Area",
+        "place_id": "ola-platform:5000195303260",
+        "address": "Sirsa Rd, Industrial Area, Fatehabad, Haryana, 125050, India",
+        "district": "Fatehabad",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Fatehabad",
+        "fetched_at": "2026-04-01T15:42:38.355051"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.44632,
+          29.51359
+        ]
+      },
+      "properties": {
+        "name": "31/14, Industrial Area",
+        "place_id": "ola-platform:5000202066506",
+        "address": "31/14, Industrial Area, Fatehabad, Haryana, 125050, India",
+        "district": "Fatehabad",
+        "state": "Haryana",
+        "types": [],
+        "query_used": "industrial area Fatehabad",
+        "fetched_at": "2026-04-01T15:42:38.382700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.89547,
+          29.72909
+        ]
+      },
+      "properties": {
+        "name": "66, Industrial Estate",
+        "place_id": "ola-platform:5000193399080",
+        "address": "66, Industrial Estate, Tohana, Haryana, 125120, India",
+        "district": "Fatehabad",
+        "state": "Haryana",
+        "types": [],
+        "query_used": "industrial estate Fatehabad Haryana",
+        "fetched_at": "2026-04-01T15:42:38.404048"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.46158,
+          29.51491
+        ]
+      },
+      "properties": {
+        "name": "#12, Gali Mungfali Factory Wali",
+        "place_id": "ola-platform:5000195915599",
+        "address": "#12, Gali Mungfali Factory Wali, Lajpat Nagar, Fatehabad, Haryana, 125050, India",
+        "district": "Fatehabad",
+        "state": "Haryana",
+        "types": [],
+        "query_used": "factory area Fatehabad",
+        "fetched_at": "2026-04-01T15:42:38.588690"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.001153,
+          28.490367
+        ]
+      },
+      "properties": {
+        "name": "Daulatabad Industrial Area",
+        "place_id": "ola-platform:1017466",
+        "address": "Daulatabad Industrial Area, Gurugram, Haryana, India",
+        "district": "Gurugram",
+        "state": "Haryana",
+        "types": [
+          "borough"
+        ],
+        "query_used": "industrial area Gurugram",
+        "fetched_at": "2026-04-01T15:42:41.175231"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9923,
+          28.449
+        ]
+      },
+      "properties": {
+        "name": "Kadipur Industrial Area",
+        "place_id": "ola-platform:5000202052318",
+        "address": "Kadipur Industrial Area, Sector 10, Gurugram, Haryana, 122001, India",
+        "district": "Gurugram",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Gurugram",
+        "fetched_at": "2026-04-01T15:42:41.207954"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0003,
+          28.4376
+        ]
+      },
+      "properties": {
+        "name": "Udyog Vihar Industrial Area Phase Vi",
+        "place_id": "ola-platform:5000189666911",
+        "address": "Udyog Vihar Industrial Area Phase Vi, Sector 37, Gurugram, Haryana, 122004, India",
+        "district": "Gurugram",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Gurugram",
+        "fetched_at": "2026-04-01T15:42:41.233963"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0096,
+          28.4851
+        ]
+      },
+      "properties": {
+        "name": "Laxman Vihar Industrial Area",
+        "place_id": "ola-platform:5000184964617",
+        "address": "Laxman Vihar Industrial Area, Sector 3A, Gurugram, Haryana, 122006, India",
+        "district": "Gurugram",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Gurugram",
+        "fetched_at": "2026-04-01T15:42:41.259796"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.999,
+          28.4413
+        ]
+      },
+      "properties": {
+        "name": "357Q, Udyog Vihar Industrial Area Phase Vi",
+        "place_id": "ola-platform:5000199689452",
+        "address": "357Q, Udyog Vihar Industrial Area Phase Vi, Sector 37, Gurugram, Haryana, 122004, India",
+        "district": "Gurugram",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Gurugram",
+        "fetched_at": "2026-04-01T15:42:41.295070"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0682,
+          28.4995
+        ]
+      },
+      "properties": {
+        "name": "Agilus Diagnostics - Reference Lab Industrial Urban Estate, Gurugram",
+        "place_id": "ola-platform:5000036352026",
+        "address": "Agilus Diagnostics - Reference Lab Industrial Urban Estate, Gurugram, Plot No.31, Second Floor Industrial Urban Estate, Electronic City, Phase IV, Udyog Vihar, Sector 18, Gurugram, Haryana, 122015, India",
+        "district": "Gurugram",
+        "state": "Haryana",
+        "types": [
+          "health"
+        ],
+        "query_used": "industrial estate Gurugram Haryana",
+        "fetched_at": "2026-04-01T15:42:41.330714"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9935,
+          28.4473
+        ]
+      },
+      "properties": {
+        "name": "DF - Furniture Factory, Gali No 7, Kadipur Industrial Area, Sector 10, Gurugram",
+        "place_id": "ola-platform:5000067510944",
+        "address": "DF - Furniture Factory, Gali No 7, Kadipur Industrial Area, Sector 10, Gurugram, Kadipur Industrial Area, Sector 10, Gurugram, Haryana, 122001, India",
+        "district": "Gurugram",
+        "state": "Haryana",
+        "types": [
+          "general_contractor"
+        ],
+        "query_used": "factory area Gurugram",
+        "fetched_at": "2026-04-01T15:42:41.447223"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9695,
+          28.39
+        ]
+      },
+      "properties": {
+        "name": "Komfifit - The Mattress Factory Outlet. Mattress Store Sector 83 Gurugram (Komfifit- The Mattress Factory Store)",
+        "place_id": "ola-platform:5000048595914",
+        "address": "Komfifit - The Mattress Factory Outlet. Mattress Store Sector 83 Gurugram (Komfifit- The Mattress Factory Store), Komfifit- The Mattress Factory Store, GF, Plot No. 81, Sector 83, Near Sapphire Mall Opp Vatika Town Square, J Street, Vatika Rd, Gurugram, Haryana, 122004, India",
+        "district": "Gurugram",
+        "state": "Haryana",
+        "types": [
+          "furniture_store"
+        ],
+        "query_used": "factory area Gurugram",
+        "fetched_at": "2026-04-01T15:42:41.502800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0086,
+          28.4849
+        ]
+      },
+      "properties": {
+        "name": "Samrat Cake Factory",
+        "place_id": "ola-platform:5000040207755",
+        "address": "Samrat Cake Factory, 12, Laxman Vihar, Sector 4, Gurugram, NCR, Laxman Vihar Industrial Area, Gurgaon Rural, Region, Gurugram, Haryana, 122006, India",
+        "district": "Gurugram",
+        "state": "Haryana",
+        "types": [
+          "bakery"
+        ],
+        "query_used": "factory area Gurugram",
+        "fetched_at": "2026-04-01T15:42:41.532798"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9998,
+          28.4919
+        ]
+      },
+      "properties": {
+        "name": "Spire Elevators - Manufacturing Unit Gurugram",
+        "place_id": "ola-platform:5000038357620",
+        "address": "Spire Elevators - Manufacturing Unit Gurugram, Spire Elevators, Plot No. 362, Street No. 69, Industrial Area, Daulatabad, Gurugram, Haryana, 122006, India",
+        "district": "Gurugram",
+        "state": "Haryana",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "manufacturing hub Gurugram",
+        "fetched_at": "2026-04-01T15:42:41.562767"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0446,
+          28.4767
+        ]
+      },
+      "properties": {
+        "name": "A.D.Rza Wooden Store And Manufacturing Gurugram",
+        "place_id": "ola-platform:5000219884000",
+        "address": "A.D.Rza Wooden Store And Manufacturing Gurugram, Old Delhi Gurugram Rd, Near WoodLand Showroom, Opp. ICICI Bank Gurugram, Rajiv Nagar, Sector 14, Gurugram, Haryana 122001, India",
+        "district": "Gurugram",
+        "state": "Haryana",
+        "types": [
+          "furniture_store"
+        ],
+        "query_used": "manufacturing hub Gurugram",
+        "fetched_at": "2026-04-01T15:42:41.589481"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9707,
+          28.4475
+        ]
+      },
+      "properties": {
+        "name": "UPVC Door Window Manufacturing Gurugram",
+        "place_id": "ola-platform:5000039374341",
+        "address": "UPVC Door Window Manufacturing Gurugram, Ramprastha City, Near BPTP, Sector 37D, Gurugram, Haryana, 122001, India",
+        "district": "Gurugram",
+        "state": "Haryana",
+        "types": [
+          "furniture_store"
+        ],
+        "query_used": "manufacturing hub Gurugram",
+        "fetched_at": "2026-04-01T15:42:41.622112"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.4999,
+          28.5117
+        ]
+      },
+      "properties": {
+        "name": "EITPL - (PCB Assembly Services In Gurugram, Electronic Manufacturing Services)",
+        "place_id": "ola-platform:5000062379662",
+        "address": "EITPL - (PCB Assembly Services In Gurugram, Electronic Manufacturing Services), Site B, E-19 -25, Surajpur Industrial Area Block E, Block E, UPSIDC Site B, Surajpur, Greater Noida, Uttar Pradesh, 201306, India",
+        "district": "Gurugram",
+        "state": "Haryana",
+        "types": [
+          "electrician"
+        ],
+        "query_used": "manufacturing hub Gurugram",
+        "fetched_at": "2026-04-01T15:42:41.645807"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0843,
+          28.5021
+        ]
+      },
+      "properties": {
+        "name": "Keihin India Manufacturing R&d Office (Hitachi Astemo Gurugram Powertrain Systems Pvt Ltd R&d Office)",
+        "place_id": "ola-platform:5000046203976",
+        "address": "Keihin India Manufacturing R&d Office (Hitachi Astemo Gurugram Powertrain Systems Pvt Ltd R&d Office), Hitachi Astemo Gurugram Powertrain Systems Pvt Ltd R&d Office, 663, Udyog Vihar Phase V Rd, Udyog Vihar 3, Phase V, Udyog Vihar, Sector 19, Gurugram, Haryana, 122016, India",
+        "district": "Gurugram",
+        "state": "Haryana",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Gurugram",
+        "fetched_at": "2026-04-01T15:42:41.679787"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5532,
+          28.8994
+        ]
+      },
+      "properties": {
+        "name": "Hisar ByPass Chowk",
+        "place_id": "ola-platform:5000199603057",
+        "address": "Hisar ByPass Chowk, HSIIDC Industrial Area, Rohtak, Haryana, 124001, India",
+        "district": "Hisar",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Hisar",
+        "fetched_at": "2026-04-01T15:42:43.622530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5449,
+          28.9003
+        ]
+      },
+      "properties": {
+        "name": "Rohtak - Hansi - Hisar Road",
+        "place_id": "ola-platform:5000200423523",
+        "address": "Rohtak - Hansi - Hisar Road, Rohtak - Hansi - Hisar Rd, HSIIDC Industrial Area, Rohtak, Haryana, 124001, India",
+        "district": "Hisar",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Hisar",
+        "fetched_at": "2026-04-01T15:42:43.651312"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5492,
+          28.9001
+        ]
+      },
+      "properties": {
+        "name": "2, Rohtak - Hansi - Hisar Rd",
+        "place_id": "ola-platform:5000202632928",
+        "address": "2, Rohtak - Hansi - Hisar Rd, Opposite LPS Plant, Shastri Nagar, HSIIDC Industrial Area, Rohtak, Haryana, 124001, India",
+        "district": "Hisar",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Hisar",
+        "fetched_at": "2026-04-01T15:42:43.678769"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5618,
+          28.8977
+        ]
+      },
+      "properties": {
+        "name": "Hisar Rd, J.P. Colony",
+        "place_id": "ola-platform:5000200079744",
+        "address": "Hisar Rd, J.P. Colony, Industrial Area, Rohtak, Haryana, 124001, India",
+        "district": "Hisar",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Hisar",
+        "fetched_at": "2026-04-01T15:42:43.700910"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.55714,
+          28.89919
+        ]
+      },
+      "properties": {
+        "name": "13, Hisar Rd",
+        "place_id": "ola-platform:5000186766255",
+        "address": "13, Hisar Rd, Industrial Area, Rohtak, Haryana, 124001, India",
+        "district": "Hisar",
+        "state": "Haryana",
+        "types": [],
+        "query_used": "industrial area Hisar",
+        "fetched_at": "2026-04-01T15:42:43.726964"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.76232,
+          29.12973
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:5000035885625",
+        "address": "Industrial Estate, Hisar, Haryana, 125044, India",
+        "district": "Hisar",
+        "state": "Haryana",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "industrial estate Hisar Haryana",
+        "fetched_at": "2026-04-01T15:42:43.751393"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.7964,
+          29.1338
+        ]
+      },
+      "properties": {
+        "name": "Hisar Hyundai - Cars And More",
+        "place_id": "ola-platform:5000064006858",
+        "address": "Hisar Hyundai - Cars And More, Hisar Hyundai, Hisar-Delhi ByPass Rd, Opposite Wine Factory, Industrial Area, Hisar, Haryana, 125006, India",
+        "district": "Hisar",
+        "state": "Haryana",
+        "types": [
+          "car_dealer"
+        ],
+        "query_used": "factory area Hisar",
+        "fetched_at": "2026-04-01T15:42:43.976912"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.71065,
+          29.16263
+        ]
+      },
+      "properties": {
+        "name": "937, Near Cooler Factory And NOTIONAL Bakery",
+        "place_id": "ola-platform:5000184757847",
+        "address": "937, Near Cooler Factory And NOTIONAL Bakery, New Rishi Nagar, Sector 14, Hisar, Haryana, 125001, India",
+        "district": "Hisar",
+        "state": "Haryana",
+        "types": [],
+        "query_used": "factory area Hisar",
+        "fetched_at": "2026-04-01T15:42:44.061013"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6768,
+          28.5749
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area (Jhajjar)",
+        "place_id": "ola-platform:5000057791363",
+        "address": "Industrial Area (Jhajjar), Jhajjar, Silani Panazalim, Haryana, 124104, India",
+        "district": "Jhajjar",
+        "state": "Haryana",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Jhajjar",
+        "fetched_at": "2026-04-01T15:42:46.275410"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.875465,
+          28.715527
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Bahadurgarh",
+        "place_id": "ola-platform:5000052506938",
+        "address": "Industrial Area Bahadurgarh, Bahadurgarh, Jhajjar, Haryana, 124508, India",
+        "district": "Jhajjar",
+        "state": "Haryana",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Jhajjar",
+        "fetched_at": "2026-04-01T15:42:46.303622"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.920666,
+          28.699214
+        ]
+      },
+      "properties": {
+        "name": "Zeco Old Industrial Area",
+        "place_id": "ola-platform:5000040234853",
+        "address": "Zeco Old Industrial Area, Bahadurgarh, Jhajjar, Haryana, 124507, India",
+        "district": "Jhajjar",
+        "state": "Haryana",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Jhajjar",
+        "fetched_at": "2026-04-01T15:42:46.327869"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9191,
+          28.701817
+        ]
+      },
+      "properties": {
+        "name": "Old Industrial Area",
+        "place_id": "ola-platform:5000048247817",
+        "address": "Old Industrial Area, Bahadurgarh, Jhajjar, Haryana, 124507, India",
+        "district": "Jhajjar",
+        "state": "Haryana",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Jhajjar",
+        "fetched_at": "2026-04-01T15:42:46.351224"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.95554,
+          28.68626
+        ]
+      },
+      "properties": {
+        "name": "MIE Industrial Area",
+        "place_id": "ola-platform:5000043895340",
+        "address": "MIE Industrial Area, Nh9, Bahadurgarh, Jhajjar, Haryana, 124507, India",
+        "district": "Jhajjar",
+        "state": "Haryana",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Jhajjar",
+        "fetched_at": "2026-04-01T15:42:46.374479"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.95469,
+          28.69161
+        ]
+      },
+      "properties": {
+        "name": "655-656 Modern Industrial Estate",
+        "place_id": "ola-platform:5000184288827",
+        "address": "655-656 Modern Industrial Estate, Part-A, MIE Part-A, Bahadurgarh, Haryana, 124507, India",
+        "district": "Jhajjar",
+        "state": "Haryana",
+        "types": [],
+        "query_used": "industrial estate Jhajjar Haryana",
+        "fetched_at": "2026-04-01T15:42:46.465254"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6584,
+          28.6043
+        ]
+      },
+      "properties": {
+        "name": "Bhanu Ice-Cream Factory (Bhanu Ice Factory)",
+        "place_id": "ola-platform:5000046774501",
+        "address": "Bhanu Ice-Cream Factory (Bhanu Ice Factory), Bhanu Ice Factory, Unnamed Road, Bhatti Gate, Jhajjar, Haryana, 124103, India",
+        "district": "Jhajjar",
+        "state": "Haryana",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Jhajjar",
+        "fetched_at": "2026-04-01T15:42:46.512506"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.95353,
+          28.686591
+        ]
+      },
+      "properties": {
+        "name": "Anand Medicaids Private Limited (Manufacturing Unit-1)",
+        "place_id": "ola-platform:5000056910781",
+        "address": "Anand Medicaids Private Limited (Manufacturing Unit-1), Mission Hospital, Jhajjar, Nh9, Bahadurgarh, Jhajjar, Haryana, 124507, India",
+        "district": "Jhajjar",
+        "state": "Haryana",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Jhajjar",
+        "fetched_at": "2026-04-01T15:42:46.609285"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.65379,
+          28.60549
+        ]
+      },
+      "properties": {
+        "name": "Anu Sales And Trading Company Cooler Manufacturing",
+        "place_id": "ola-platform:5000037478382",
+        "address": "Anu Sales And Trading Company Cooler Manufacturing, Rest House, Near MediCare Hospital, Bhatti Gate, Jhajjar, Haryana, 124103, India",
+        "district": "Jhajjar",
+        "state": "Haryana",
+        "types": [
+          "electronics_store"
+        ],
+        "query_used": "manufacturing hub Jhajjar",
+        "fetched_at": "2026-04-01T15:42:46.634526"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.77117,
+          28.51478
+        ]
+      },
+      "properties": {
+        "name": "Deepak Manufacturing Unit",
+        "place_id": "ola-platform:5000066878672",
+        "address": "Deepak Manufacturing Unit, Jhajjar, Haryana, 124103, India",
+        "district": "Jhajjar",
+        "state": "Haryana",
+        "types": [
+          "home_goods_store"
+        ],
+        "query_used": "manufacturing hub Jhajjar",
+        "fetched_at": "2026-04-01T15:42:46.657408"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.90485,
+          28.7071
+        ]
+      },
+      "properties": {
+        "name": "RK Brush Manufacturing Company",
+        "place_id": "ola-platform:5000041526381",
+        "address": "RK Brush Manufacturing Company, Bahadurgarh, Jhajjar, Haryana, 124508, India",
+        "district": "Jhajjar",
+        "state": "Haryana",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "manufacturing hub Jhajjar",
+        "fetched_at": "2026-04-01T15:42:46.685004"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.95215,
+          28.67925
+        ]
+      },
+      "properties": {
+        "name": "Chawla Hose Manufacturing",
+        "place_id": "ola-platform:5000053994985",
+        "address": "Chawla Hose Manufacturing, Bus Stand Bahadurgarh, Bahadurgarh ByPass, Bahadurgarh, Jhajjar, Haryana, 124508, India",
+        "district": "Jhajjar",
+        "state": "Haryana",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "manufacturing hub Jhajjar",
+        "fetched_at": "2026-04-01T15:42:46.708633"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3996,
+          29.7701
+        ]
+      },
+      "properties": {
+        "name": "Jind - Kaithal Rd",
+        "place_id": "ola-platform:5000199547472",
+        "address": "Jind - Kaithal Rd, Industrial Area, Kaithal, Haryana, 136027, India",
+        "district": "Jind",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Jind",
+        "fetched_at": "2026-04-01T15:42:48.993067"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3965,
+          29.77518
+        ]
+      },
+      "properties": {
+        "name": "480, Jind Rd",
+        "place_id": "ola-platform:5000188493265",
+        "address": "480, Jind Rd, Transport Nagar, Industrial Area, Kaithal, Haryana, 136027, India",
+        "district": "Jind",
+        "state": "Haryana",
+        "types": [],
+        "query_used": "industrial area Jind",
+        "fetched_at": "2026-04-01T15:42:49.054831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.292171,
+          29.315197
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:1017062",
+        "address": "Industrial Estate, Jind, Haryana, India",
+        "district": "Jind",
+        "state": "Haryana",
+        "types": [
+          "borough"
+        ],
+        "query_used": "industrial estate Jind Haryana",
+        "fetched_at": "2026-04-01T15:42:49.076802"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2945,
+          29.3172
+        ]
+      },
+      "properties": {
+        "name": "21, Industrial Estate",
+        "place_id": "ola-platform:5000189175030",
+        "address": "21, Industrial Estate, Jind, Haryana, 126102, India",
+        "district": "Jind",
+        "state": "Haryana",
+        "types": [],
+        "query_used": "industrial estate Jind Haryana",
+        "fetched_at": "2026-04-01T15:42:49.104239"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.29504,
+          29.31759
+        ]
+      },
+      "properties": {
+        "name": "Nh709a, Industrial Estate",
+        "place_id": "ola-platform:5000198841480",
+        "address": "Nh709a, Industrial Estate, Jind, Haryana, 126102, India",
+        "district": "Jind",
+        "state": "Haryana",
+        "types": [],
+        "query_used": "industrial estate Jind Haryana",
+        "fetched_at": "2026-04-01T15:42:49.133593"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.131368,
+          29.582971
+        ]
+      },
+      "properties": {
+        "name": "Haryana State Industrial And Infrastructure Development Corporation Ltd Narwana",
+        "place_id": "ola-platform:5000038487082",
+        "address": "Haryana State Industrial And Infrastructure Development Corporation Ltd Narwana, Hissar Ambala Road, Narwana, Jind, Haryana, 126116, India",
+        "district": "Jind",
+        "state": "Haryana",
+        "types": [
+          "local_government_office"
+        ],
+        "query_used": "industrial estate Jind Haryana",
+        "fetched_at": "2026-04-01T15:42:49.157944"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3053,
+          28.6746
+        ]
+      },
+      "properties": {
+        "name": "Jindal Foundary",
+        "place_id": "ola-platform:5000045378772",
+        "address": "Jindal Foundary, 421 D, Gali Number 6, Friends Colony, Patparganj Industrial Area, Shahdara, Delhi, 110095, India",
+        "district": "Jind",
+        "state": "Haryana",
+        "types": [
+          "store"
+        ],
+        "query_used": "factory area Jind",
+        "fetched_at": "2026-04-01T15:42:49.290705"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3219,
+          28.6504
+        ]
+      },
+      "properties": {
+        "name": "Jindal Manufacturing Facility (JMF)",
+        "place_id": "ola-platform:5000050699230",
+        "address": "Jindal Manufacturing Facility (JMF), 4/26 Site IV Industrial Area Sahibabad, Plot Alpha, Sahibabad Industrial Area Site 4, Sahibabad, Distt Ghaziabad U.P, Ghaziabad, Uttar Pradesh, 201010, India",
+        "district": "Jind",
+        "state": "Haryana",
+        "types": [
+          "point_of_interest"
+        ],
+        "query_used": "manufacturing hub Jind",
+        "fetched_at": "2026-04-01T15:42:49.315782"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.40767,
+          29.77508
+        ]
+      },
+      "properties": {
+        "name": "Nh152, Industrial Area",
+        "place_id": "ola-platform:5000197605350",
+        "address": "Nh152, Industrial Area, Kaithal, Haryana, 136027, India",
+        "district": "Kaithal",
+        "state": "Haryana",
+        "types": [],
+        "query_used": "industrial area Kaithal",
+        "fetched_at": "2026-04-01T15:42:51.608770"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.404,
+          29.7785
+        ]
+      },
+      "properties": {
+        "name": "Pyoda Rd, Industrial Area",
+        "place_id": "ola-platform:5000199039720",
+        "address": "Pyoda Rd, Industrial Area, Kaithal, Haryana, 136027, India",
+        "district": "Kaithal",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Kaithal",
+        "fetched_at": "2026-04-01T15:42:51.645978"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.4042,
+          29.7692
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000192837047",
+        "address": "Industrial Area, Kaithal, Haryana, 136027, India",
+        "district": "Kaithal",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Kaithal",
+        "fetched_at": "2026-04-01T15:42:51.680875"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.4002,
+          29.77957
+        ]
+      },
+      "properties": {
+        "name": "SH 11, Industrial Area",
+        "place_id": "ola-platform:5000193040444",
+        "address": "SH 11, Industrial Area, Kaithal, Haryana, 136027, India",
+        "district": "Kaithal",
+        "state": "Haryana",
+        "types": [],
+        "query_used": "industrial area Kaithal",
+        "fetched_at": "2026-04-01T15:42:51.716129"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.332613,
+          30.048905
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000056675338",
+        "address": "Industrial Area, Cheeka, Guhla, Kaithal, Haryana, 136034, India",
+        "district": "Kaithal",
+        "state": "Haryana",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Kaithal",
+        "fetched_at": "2026-04-01T15:42:51.749621"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1816,
+          28.6996
+        ]
+      },
+      "properties": {
+        "name": "A-41/1, GT Karnal Rd",
+        "place_id": "ola-platform:5000196646216",
+        "address": "A-41/1, GT Karnal Rd, Industrial Area, Dilkhush Bagh Industrial Area, Ashok Vihar, Delhi, 110009, India",
+        "district": "Karnal",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Karnal",
+        "fetched_at": "2026-04-01T15:42:54.324216"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1857,
+          28.6943
+        ]
+      },
+      "properties": {
+        "name": "B 37, GT Karnal Road Industrial Area",
+        "place_id": "ola-platform:5000184063143",
+        "address": "B 37, GT Karnal Road Industrial Area, Industrial Area, GT Karnal Road Industrial Area, Ashok Vihar, Delhi, 110007, India",
+        "district": "Karnal",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Karnal",
+        "fetched_at": "2026-04-01T15:42:54.372424"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1815,
+          28.6997
+        ]
+      },
+      "properties": {
+        "name": "A-41, GT Karnal Rd",
+        "place_id": "ola-platform:5000202234447",
+        "address": "A-41, GT Karnal Rd, Industrial Area, Dilkhush Bagh Industrial Area, Ashok Vihar, New Delhi, Delhi, 110009, India",
+        "district": "Karnal",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Karnal",
+        "fetched_at": "2026-04-01T15:42:54.425908"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1564,
+          28.7271
+        ]
+      },
+      "properties": {
+        "name": "34, GT Karnal Rd",
+        "place_id": "ola-platform:5000186968956",
+        "address": "34, GT Karnal Rd, Near Rajwada Palace, SSI Industrial Area, Jahangirpuri Industrial Area, Jahangirpuri, New Delhi, Delhi, 110033, India",
+        "district": "Karnal",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Karnal",
+        "fetched_at": "2026-04-01T15:42:54.462647"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.188,
+          28.6954
+        ]
+      },
+      "properties": {
+        "name": "GT Karnal Road",
+        "place_id": "ola-platform:5000189204196",
+        "address": "GT Karnal Road, GT Karnal Rd, Industrial Area, GT Karnal Road Industrial Area, Ashok Vihar, Delhi, 110007, India",
+        "district": "Karnal",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Karnal",
+        "fetched_at": "2026-04-01T15:42:54.500626"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9855,
+          29.5858
+        ]
+      },
+      "properties": {
+        "name": "Karnal Toll Factory",
+        "place_id": "ola-platform:5000048997215",
+        "address": "Karnal Toll Factory, Unnamed Road, Haryana, 132114, India",
+        "district": "Karnal",
+        "state": "Haryana",
+        "types": [
+          "bus_station"
+        ],
+        "query_used": "factory area Karnal",
+        "fetched_at": "2026-04-01T15:42:55.037466"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0779,
+          29.7168
+        ]
+      },
+      "properties": {
+        "name": "Magnus BioTech - Pharmaceutical Manufacturing Company Karnal, Haryana",
+        "place_id": "ola-platform:5000063655038",
+        "address": "Magnus BioTech - Pharmaceutical Manufacturing Company Karnal, Haryana, Mughal Mazra, Road, Kunjpura, Haryana, 132023, India",
+        "district": "Karnal",
+        "state": "Haryana",
+        "types": [
+          "health"
+        ],
+        "query_used": "manufacturing hub Karnal",
+        "fetched_at": "2026-04-01T15:42:55.073387"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8897,
+          29.9696
+        ]
+      },
+      "properties": {
+        "name": "31, Industrial Area Rd",
+        "place_id": "ola-platform:5000184109403",
+        "address": "31, Industrial Area Rd, Sector 2, Kurukshetra, Haryana, 136118, India",
+        "district": "Kurukshetra",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Kurukshetra",
+        "fetched_at": "2026-04-01T15:42:57.322754"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8898,
+          29.9694
+        ]
+      },
+      "properties": {
+        "name": "123, Industrial Area Rd",
+        "place_id": "ola-platform:5000199708622",
+        "address": "123, Industrial Area Rd, Sector 2, Kurukshetra, Haryana, 136118, India",
+        "district": "Kurukshetra",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Kurukshetra",
+        "fetched_at": "2026-04-01T15:42:57.362325"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8897,
+          29.9696
+        ]
+      },
+      "properties": {
+        "name": "37, Industrial Area Rd",
+        "place_id": "ola-platform:5000193659486",
+        "address": "37, Industrial Area Rd, Sector 2, Kurukshetra, Haryana, 136118, India",
+        "district": "Kurukshetra",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Kurukshetra",
+        "fetched_at": "2026-04-01T15:42:57.403262"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8898,
+          29.9696
+        ]
+      },
+      "properties": {
+        "name": "96, Industrial Area Rd",
+        "place_id": "ola-platform:5000199322077",
+        "address": "96, Industrial Area Rd, Sector 2, Kurukshetra, Haryana, 136118, India",
+        "district": "Kurukshetra",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Kurukshetra",
+        "fetched_at": "2026-04-01T15:42:57.453635"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8897,
+          29.9696
+        ]
+      },
+      "properties": {
+        "name": "28, Industrial Area Rd",
+        "place_id": "ola-platform:5000187213733",
+        "address": "28, Industrial Area Rd, Sector 2, Kurukshetra, Haryana, 136118, India",
+        "district": "Kurukshetra",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Kurukshetra",
+        "fetched_at": "2026-04-01T15:42:57.480531"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.0997,
+          28.0534
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000202043201",
+        "address": "Industrial Area, Keshav Nagar, Narnaul, Haryana, 123001, India",
+        "district": "Mahendragarh",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Mahendragarh",
+        "fetched_at": "2026-04-01T15:43:00.254443"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.0976,
+          28.05303
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000199028865",
+        "address": "Industrial Area, Keshav Nagar, Narnaul, Dayanagar, Haryana, 123001, India",
+        "district": "Mahendragarh",
+        "state": "Haryana",
+        "types": [],
+        "query_used": "industrial area Mahendragarh",
+        "fetched_at": "2026-04-01T15:43:00.294738"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.0989,
+          28.0533
+        ]
+      },
+      "properties": {
+        "name": "Gali Number 1, Industrial Area",
+        "place_id": "ola-platform:5000187494725",
+        "address": "Gali Number 1, Industrial Area, Keshav Nagar, Narnaul, Haryana, 123001, India",
+        "district": "Mahendragarh",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Mahendragarh",
+        "fetched_at": "2026-04-01T15:43:00.331382"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.056,
+          28.2093
+        ]
+      },
+      "properties": {
+        "name": "Rojkameo Industrial Area",
+        "place_id": "ola-platform:5000191004258",
+        "address": "Rojkameo Industrial Area, Raisika, Haryana, 122103, India",
+        "district": "Nuh",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Nuh",
+        "fetched_at": "2026-04-01T15:43:02.885092"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.056,
+          28.2093
+        ]
+      },
+      "properties": {
+        "name": "GPS Industrial Area",
+        "place_id": "ola-platform:5000038623371",
+        "address": "GPS Industrial Area, Rojkameo Industrial Area, Raisika, Haryana, 122103, India",
+        "district": "Nuh",
+        "state": "Haryana",
+        "types": [
+          "school",
+          "premise",
+          "primary_school"
+        ],
+        "query_used": "industrial area Nuh",
+        "fetched_at": "2026-04-01T15:43:02.911934"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3022,
+          28.2244
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Palwal Haryana",
+        "place_id": "ola-platform:5000045237237",
+        "address": "Industrial Area Palwal Haryana, Industrial Area, Pirthla, Haryana, 121102, India",
+        "district": "Palwal",
+        "state": "Haryana",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Palwal",
+        "fetched_at": "2026-04-01T15:43:05.390287"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2291,
+          28.0497
+        ]
+      },
+      "properties": {
+        "name": "Hathin Industrial Area",
+        "place_id": "ola-platform:5000054703918",
+        "address": "Hathin Industrial Area, Ward Number 13, Bass Mohalla, Hathin, Haryana, 121103, India",
+        "district": "Palwal",
+        "state": "Haryana",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Palwal",
+        "fetched_at": "2026-04-01T15:43:05.434672"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.01713,
+          28.68345
+        ]
+      },
+      "properties": {
+        "name": "Mundka Industrial Area Metro Station",
+        "place_id": "ola-platform:5000205199800",
+        "address": "Mundka Industrial Area Metro Station, Rohtak Road, Kammruddin Nagar, Mundka, Punjabi Bagh Tehsil, West Delhi, Delhi, 110041, India",
+        "district": "Palwal",
+        "state": "Haryana",
+        "types": [
+          "metro_station"
+        ],
+        "query_used": "industrial area Palwal",
+        "fetched_at": "2026-04-01T15:43:05.485274"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.316,
+          28.2206
+        ]
+      },
+      "properties": {
+        "name": "Daiki Axis India Palwal Factory",
+        "place_id": "ola-platform:5000062950714",
+        "address": "Daiki Axis India Palwal Factory, Devli, Baghola, Haryana, 121102, India",
+        "district": "Palwal",
+        "state": "Haryana",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Palwal",
+        "fetched_at": "2026-04-01T15:43:05.613844"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8392,
+          30.6737
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Phase 1",
+        "place_id": "ola-platform:5000187772629",
+        "address": "Industrial Area Phase 1, Panchkula, Haryana, 134113, India",
+        "district": "Panchkula",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Panchkula",
+        "fetched_at": "2026-04-01T15:43:08.395485"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8324,
+          30.6817
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Phase 2",
+        "place_id": "ola-platform:5000193231671",
+        "address": "Industrial Area Phase 2, Panchkula, Haryana, 140604, India",
+        "district": "Panchkula",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Panchkula",
+        "fetched_at": "2026-04-01T15:43:08.440717"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8361,
+          30.6743
+        ]
+      },
+      "properties": {
+        "name": "Abhey Pur, Industrial Area Phase 1",
+        "place_id": "ola-platform:5000187829023",
+        "address": "Abhey Pur, Industrial Area Phase 1, Panchkula, Haryana, 134113, India",
+        "district": "Panchkula",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Panchkula",
+        "fetched_at": "2026-04-01T15:43:08.553691"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8382,
+          30.6679
+        ]
+      },
+      "properties": {
+        "name": "398, Industrial Area Phase",
+        "place_id": "ola-platform:5000191200884",
+        "address": "398, Industrial Area Phase, 1, Abhepur, Panchkula, Haryana, 134113, India",
+        "district": "Panchkula",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Panchkula",
+        "fetched_at": "2026-04-01T15:43:08.594359"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8429,
+          30.6696
+        ]
+      },
+      "properties": {
+        "name": "Plot No. 50, Industrial Area Phase 1",
+        "place_id": "ola-platform:5000190861966",
+        "address": "Plot No. 50, Industrial Area Phase 1, Panchkula, Haryana, 134113, India",
+        "district": "Panchkula",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Panchkula",
+        "fetched_at": "2026-04-01T15:43:08.632206"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8381,
+          30.6993
+        ]
+      },
+      "properties": {
+        "name": "State Bank Of India Industrial Estate Panchkula",
+        "place_id": "ola-platform:5000046982421",
+        "address": "State Bank Of India Industrial Estate Panchkula, SCF No, 136, Sector 17, Panchkula, Haryana, 160102, India",
+        "district": "Panchkula",
+        "state": "Haryana",
+        "types": [
+          "bank"
+        ],
+        "query_used": "industrial estate Panchkula Haryana",
+        "fetched_at": "2026-04-01T15:43:08.665994"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.951909,
+          30.604085
+        ]
+      },
+      "properties": {
+        "name": "NSPP Barwala Industrial Estate",
+        "place_id": "ola-platform:5000061362554",
+        "address": "NSPP Barwala Industrial Estate, Alipur, Barwala, Panchkula, Haryana, 134118, India",
+        "district": "Panchkula",
+        "state": "Haryana",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Panchkula Haryana",
+        "fetched_at": "2026-04-01T15:43:08.700587"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9497,
+          30.60683
+        ]
+      },
+      "properties": {
+        "name": "HSIIDC Industrial Estate",
+        "place_id": "ola-platform:5000046282401",
+        "address": "HSIIDC Industrial Estate, Alipur, Barwala, Panchkula, Haryana, 134118, India",
+        "district": "Panchkula",
+        "state": "Haryana",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Panchkula Haryana",
+        "fetched_at": "2026-04-01T15:43:08.735025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8353,
+          30.6742
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:5000054187242",
+        "address": "Industrial Estate, Deepak Newspaper Agency, Industrial Estate, Phase-1, Panchkula, 334, Baltana Main Rd, Abhey Pur, Industrial Area Phase 1, Panchkula, Haryana, 134113, India",
+        "district": "Panchkula",
+        "state": "Haryana",
+        "types": [
+          "real_estate_agency"
+        ],
+        "query_used": "industrial estate Panchkula Haryana",
+        "fetched_at": "2026-04-01T15:43:08.789584"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8342,
+          30.6864
+        ]
+      },
+      "properties": {
+        "name": "Bell Factory",
+        "place_id": "ola-platform:5000042072121",
+        "address": "Bell Factory, Industrial Area Phase 2, Panchkula, Haryana, 134113, India",
+        "district": "Panchkula",
+        "state": "Haryana",
+        "types": [
+          "bus_station",
+          "transit_station"
+        ],
+        "query_used": "factory area Panchkula",
+        "fetched_at": "2026-04-01T15:43:08.865707"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8439,
+          30.6911
+        ]
+      },
+      "properties": {
+        "name": "806, Bel Factory Rd",
+        "place_id": "ola-platform:5000191927879",
+        "address": "806, Bel Factory Rd, Sector 10, Budanpur, Panchkula, Haryana, 134109, India",
+        "district": "Panchkula",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Panchkula",
+        "fetched_at": "2026-04-01T15:43:08.920037"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8383,
+          30.6889
+        ]
+      },
+      "properties": {
+        "name": "456, Bel Factory Rd",
+        "place_id": "ola-platform:5000193580493",
+        "address": "456, Bel Factory Rd, Sector 15, Panchkula, Haryana, 134113, India",
+        "district": "Panchkula",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Panchkula",
+        "fetched_at": "2026-04-01T15:43:08.943602"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8368,
+          30.689
+        ]
+      },
+      "properties": {
+        "name": "1035, Bel Factory Rd",
+        "place_id": "ola-platform:5000200290488",
+        "address": "1035, Bel Factory Rd, Sector 16, Panchkula, Haryana, 134109, India",
+        "district": "Panchkula",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Panchkula",
+        "fetched_at": "2026-04-01T15:43:08.973355"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8328,
+          30.682
+        ]
+      },
+      "properties": {
+        "name": "Swastik Life Sciences - Ayurvedic Pharmaceutical And Manufacturing Company In India",
+        "place_id": "ola-platform:5000068098419",
+        "address": "Swastik Life Sciences - Ayurvedic Pharmaceutical And Manufacturing Company In India, Panchkula, Plot No. 295, 1st Floor, Industrial Area Phase 2, Panchkula, Haryana, 160102, India",
+        "district": "Panchkula",
+        "state": "Haryana",
+        "types": [
+          "drugstore",
+          "pharmacy"
+        ],
+        "query_used": "manufacturing hub Panchkula",
+        "fetched_at": "2026-04-01T15:43:09.004684"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8648,
+          30.696
+        ]
+      },
+      "properties": {
+        "name": "Kiama LifeSciences | Third Party Manufacturing Pharma Company Panchkula",
+        "place_id": "ola-platform:5000036217134",
+        "address": "Kiama LifeSciences | Third Party Manufacturing Pharma Company Panchkula, SCF. No. 4 Second Floor, Sector 2, Panchkula, Haryana, 134109, India",
+        "district": "Panchkula",
+        "state": "Haryana",
+        "types": [
+          "health"
+        ],
+        "query_used": "manufacturing hub Panchkula",
+        "fetched_at": "2026-04-01T15:43:09.038977"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8302,
+          30.6812
+        ]
+      },
+      "properties": {
+        "name": "Stephen HealthCare | Third Party Pharma Manufacturing Companies In Panchkula",
+        "place_id": "ola-platform:5000059053187",
+        "address": "Stephen HealthCare | Third Party Pharma Manufacturing Companies In Panchkula, Plot No. 385, First Floor, Baltana, Industrial Area Phase 2, Panchkula, Haryana, 140604, India",
+        "district": "Panchkula",
+        "state": "Haryana",
+        "types": [
+          "health"
+        ],
+        "query_used": "manufacturing hub Panchkula",
+        "fetched_at": "2026-04-01T15:43:09.072979"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8328,
+          30.682
+        ]
+      },
+      "properties": {
+        "name": "Swastik Life Sciences - Ayurvedic Pharmaceutical And Manufacturing Company In India, Panchkula",
+        "place_id": "ola-platform:5000221252576",
+        "address": "Swastik Life Sciences - Ayurvedic Pharmaceutical And Manufacturing Company In India, Panchkula, Plot No. 295, 1st Floor, Industrial Area Phase 2, Panchkula, Haryana 160102, India",
+        "district": "Panchkula",
+        "state": "Haryana",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "manufacturing hub Panchkula",
+        "fetched_at": "2026-04-01T15:43:09.106460"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8392,
+          30.6738
+        ]
+      },
+      "properties": {
+        "name": "Ancient LifeSciences / Third Party/contract Manufacturing Company In Panchkula / Chandigarh",
+        "place_id": "ola-platform:5000177876241",
+        "address": "Ancient LifeSciences / Third Party/contract Manufacturing Company In Panchkula / Chandigarh, Plot No. - 151, Ist Floor, Industrial Area Phase 1, Panchkula, Haryana, 134113, India",
+        "district": "Panchkula",
+        "state": "Haryana",
+        "types": [
+          "health"
+        ],
+        "query_used": "manufacturing hub Panchkula",
+        "fetched_at": "2026-04-01T15:43:09.136412"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1555,
+          28.7352
+        ]
+      },
+      "properties": {
+        "name": "Delhi - Panipat Expy",
+        "place_id": "ola-platform:5000186968052",
+        "address": "Delhi - Panipat Expy, Jahangirpuri Industrial Area, Jahangirpuri, Delhi, 110042, India",
+        "district": "Panipat",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Panipat",
+        "fetched_at": "2026-04-01T15:43:11.277740"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9862,
+          29.3628
+        ]
+      },
+      "properties": {
+        "name": "Dainik Bhaskar, Panipat",
+        "place_id": "ola-platform:5000051608168",
+        "address": "Dainik Bhaskar, Panipat, Dainik Bhaskar, Plot 42-43, Sector 29, Phase II, Industrial Area, Panipat, Haryana, 132106, India",
+        "district": "Panipat",
+        "state": "Haryana",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial area Panipat",
+        "fetched_at": "2026-04-01T15:43:11.333634"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9529,
+          29.4005
+        ]
+      },
+      "properties": {
+        "name": "Hamare Yahan Har Prakar Ki Fees Milati Hai Jaisi Chahie Vaisi Aapko Mil Jayegi Unse Pipal Mandi Panipat",
+        "place_id": "ola-platform:5000057393069",
+        "address": "Hamare Yahan Har Prakar Ki Fees Milati Hai Jaisi Chahie Vaisi Aapko Mil Jayegi Unse Pipal Mandi Panipat, Pippal Mandi, Shop No 8, Industrial Area, Maandi, Panipat Taraf Ansar, Haryana, 132106, India",
+        "district": "Panipat",
+        "state": "Haryana",
+        "types": [
+          "grocery_or_supermarket"
+        ],
+        "query_used": "industrial area Panipat",
+        "fetched_at": "2026-04-01T15:43:11.381356"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9545,
+          29.4016
+        ]
+      },
+      "properties": {
+        "name": "HPCL Office, Panipat",
+        "place_id": "ola-platform:5000063463889",
+        "address": "HPCL Office, Panipat, Unnamed Rd, Industrial Area, Panipat, Panipat Taraf Ansar, Haryana, 132106, India",
+        "district": "Panipat",
+        "state": "Haryana",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Panipat",
+        "fetched_at": "2026-04-01T15:43:11.418985"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.3146,
+          28.3669
+        ]
+      },
+      "properties": {
+        "name": "Haryana Test House And Consultancy Services, 50-C, Sector Sector 25, Panipat Haryana",
+        "place_id": "ola-platform:5000039476282",
+        "address": "Haryana Test House And Consultancy Services, 50-C, Sector Sector 25, Panipat Haryana, Shop No.20, 2, YMCA Main St, Sanjay Memorial Industrial Estate, Sector 5, Faridabad, Haryana, 121004, India",
+        "district": "Panipat",
+        "state": "Haryana",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Panipat Haryana",
+        "fetched_at": "2026-04-01T15:43:11.488829"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0944,
+          28.9339
+        ]
+      },
+      "properties": {
+        "name": "Haryana & Delhi NCR (Rackly Craft (P) Limited)",
+        "place_id": "ola-platform:5000061343608",
+        "address": "Haryana & Delhi NCR (Rackly Craft (P) Limited), Rackly Craft (P) Limited, Plot No. 3, Phase -1, Sector 38, HSIIDC Rai, Industrial Estate, Sector 38, Sonipat, Haryana, 131029, India",
+        "district": "Panipat",
+        "state": "Haryana",
+        "types": [
+          "general_contractor"
+        ],
+        "query_used": "industrial estate Panipat Haryana",
+        "fetched_at": "2026-04-01T15:43:11.529855"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.90656,
+          29.47113
+        ]
+      },
+      "properties": {
+        "name": "HSIIDC Industrial Estate Panipat",
+        "place_id": "ola-platform:17642",
+        "address": "HSIIDC Industrial Estate Panipat, Haryana, India",
+        "district": "Panipat",
+        "state": "Haryana",
+        "types": [
+          "locality"
+        ],
+        "query_used": "industrial estate Panipat Haryana",
+        "fetched_at": "2026-04-01T15:43:11.561291"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.5399,
+          28.4599
+        ]
+      },
+      "properties": {
+        "name": "Panipat Kambal Factory",
+        "place_id": "ola-platform:5000043973962",
+        "address": "Panipat Kambal Factory, 09, Pal Market, Accher, Sector 36, RHO I, Greater Noida, Uttar Pradesh, 201310, India",
+        "district": "Panipat",
+        "state": "Haryana",
+        "types": [
+          "store"
+        ],
+        "query_used": "factory area Panipat",
+        "fetched_at": "2026-04-01T15:43:11.663996"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.95369,
+          29.40271
+        ]
+      },
+      "properties": {
+        "name": "54, Near Raj Factory",
+        "place_id": "ola-platform:5000185935604",
+        "address": "54, Near Raj Factory, Industrial Area, Panipat, Panipat Taraf Ansar, Haryana, 132106, India",
+        "district": "Panipat",
+        "state": "Haryana",
+        "types": [],
+        "query_used": "factory area Panipat",
+        "fetched_at": "2026-04-01T15:43:11.693064"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9328,
+          29.42529
+        ]
+      },
+      "properties": {
+        "name": "068, Near Bansal Factory",
+        "place_id": "ola-platform:5000192852390",
+        "address": "068, Near Bansal Factory, Kabri, Panipat, Haryana, 132103, India",
+        "district": "Panipat",
+        "state": "Haryana",
+        "types": [],
+        "query_used": "factory area Panipat",
+        "fetched_at": "2026-04-01T15:43:11.755178"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.801479,
+          28.230927
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Dharuhera Post Office",
+        "place_id": "ola-platform:5000061842330",
+        "address": "Industrial Area Dharuhera Post Office, Rewari, Haryana, 123110, India",
+        "district": "Rewari",
+        "state": "Haryana",
+        "types": [
+          "post_office"
+        ],
+        "query_used": "industrial area Rewari",
+        "fetched_at": "2026-04-01T15:43:14.579680"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.78483,
+          28.21237
+        ]
+      },
+      "properties": {
+        "name": "Dharuhera Industrial Area",
+        "place_id": "ola-platform:5000062673156",
+        "address": "Dharuhera Industrial Area, Dharuhera, Rewari, Haryana, 123110, India",
+        "district": "Rewari",
+        "state": "Haryana",
+        "types": [
+          "general_contractor"
+        ],
+        "query_used": "industrial area Rewari",
+        "fetched_at": "2026-04-01T15:43:14.636109"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.78535,
+          28.215237
+        ]
+      },
+      "properties": {
+        "name": "DGFC Industrial Area",
+        "place_id": "ola-platform:5000063319509",
+        "address": "DGFC Industrial Area, Dharuhera, Rewari, Haryana, 123110, India",
+        "district": "Rewari",
+        "state": "Haryana",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Rewari",
+        "fetched_at": "2026-04-01T15:43:14.674500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.787074,
+          28.205156
+        ]
+      },
+      "properties": {
+        "name": "HRMT Industrial Area",
+        "place_id": "ola-platform:5000044977268",
+        "address": "HRMT Industrial Area, Dharuhera, Rewari, Haryana, 123106, India",
+        "district": "Rewari",
+        "state": "Haryana",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "industrial area Rewari",
+        "fetched_at": "2026-04-01T15:43:14.713669"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.79242,
+          28.2056
+        ]
+      },
+      "properties": {
+        "name": "MTS Industrial Area",
+        "place_id": "ola-platform:5000046892698",
+        "address": "MTS Industrial Area, Dharuhera, Rewari, Haryana, 123106, India",
+        "district": "Rewari",
+        "state": "Haryana",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "industrial area Rewari",
+        "fetched_at": "2026-04-01T15:43:14.752304"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0933,
+          28.931
+        ]
+      },
+      "properties": {
+        "name": "HSIIDC, Rai Industrial Estate",
+        "place_id": "ola-platform:5000187125778",
+        "address": "HSIIDC, Rai Industrial Estate, 1, Phase 1, Sector 38, Sonipat, Haryana, 131029, India",
+        "district": "Rewari",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Rewari Haryana",
+        "fetched_at": "2026-04-01T15:43:14.788841"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8162,
+          28.2375
+        ]
+      },
+      "properties": {
+        "name": "Dharuhera Industrial Estate",
+        "place_id": "ola-platform:5000037628575",
+        "address": "Dharuhera Industrial Estate, Sh28, Kapriwas, Haryana, 123106, India",
+        "district": "Rewari",
+        "state": "Haryana",
+        "types": [
+          "real_estate_agency"
+        ],
+        "query_used": "industrial estate Rewari Haryana",
+        "fetched_at": "2026-04-01T15:43:14.828057"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.77714,
+          28.21563
+        ]
+      },
+      "properties": {
+        "name": "Plot No 63 Industrial Estate Dharuhera",
+        "place_id": "ola-platform:5000200564023",
+        "address": "Plot No 63 Industrial Estate Dharuhera, Dharuhera, Alamgirpur, Haryana, 123110, India",
+        "district": "Rewari",
+        "state": "Haryana",
+        "types": [],
+        "query_used": "industrial estate Rewari Haryana",
+        "fetched_at": "2026-04-01T15:43:14.871112"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.77085,
+          28.21014
+        ]
+      },
+      "properties": {
+        "name": "37, Industrial Estate",
+        "place_id": "ola-platform:5000185754364",
+        "address": "37, Industrial Estate, Dharuhera, Alamgirpur, Haryana, 123110, India",
+        "district": "Rewari",
+        "state": "Haryana",
+        "types": [],
+        "query_used": "industrial estate Rewari Haryana",
+        "fetched_at": "2026-04-01T15:43:14.908911"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6198,
+          28.1994
+        ]
+      },
+      "properties": {
+        "name": "Deep Achar Factory 3999 Shukerpura Rewari",
+        "place_id": "ola-platform:5000065116663",
+        "address": "Deep Achar Factory 3999 Shukerpura Rewari, Kayasthwara Mohalla, Rewari, Kanmajra, Haryana, 123401, India",
+        "district": "Rewari",
+        "state": "Haryana",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Rewari",
+        "fetched_at": "2026-04-01T15:43:15.024173"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.64098,
+          28.19516
+        ]
+      },
+      "properties": {
+        "name": "H.No. 610, Near HPL Factory",
+        "place_id": "ola-platform:5000195065131",
+        "address": "H.No. 610, Near HPL Factory, H.No. 610, Near HPL Factory, Uttam Nagar, Rewari, Dumawas, Haryana, 123401, India",
+        "district": "Rewari",
+        "state": "Haryana",
+        "types": [],
+        "query_used": "factory area Rewari",
+        "fetched_at": "2026-04-01T15:43:15.093185"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.550203,
+          28.895708
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:1016808",
+        "address": "Industrial Area, Rohtak, Haryana, India",
+        "district": "Rohtak",
+        "state": "Haryana",
+        "types": [
+          "borough"
+        ],
+        "query_used": "industrial area Rohtak",
+        "fetched_at": "2026-04-01T15:43:17.734760"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5481,
+          28.8951
+        ]
+      },
+      "properties": {
+        "name": "96, Industrial Area",
+        "place_id": "ola-platform:5000183236873",
+        "address": "96, Industrial Area, Rohtak, Haryana, 124001, India",
+        "district": "Rohtak",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Rohtak",
+        "fetched_at": "2026-04-01T15:43:17.839836"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.54655,
+          28.89623
+        ]
+      },
+      "properties": {
+        "name": "302, HSIIDC Industrial Area",
+        "place_id": "ola-platform:5000184779007",
+        "address": "302, HSIIDC Industrial Area, Rohtak, Haryana, 124001, India",
+        "district": "Rohtak",
+        "state": "Haryana",
+        "types": [],
+        "query_used": "industrial area Rohtak",
+        "fetched_at": "2026-04-01T15:43:17.885477"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.54706,
+          28.89205
+        ]
+      },
+      "properties": {
+        "name": "207, HSIIDC Industrial Area",
+        "place_id": "ola-platform:5000194321940",
+        "address": "207, HSIIDC Industrial Area, Rohtak, Haryana, 124001, India",
+        "district": "Rohtak",
+        "state": "Haryana",
+        "types": [],
+        "query_used": "industrial area Rohtak",
+        "fetched_at": "2026-04-01T15:43:17.923042"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.54703,
+          28.893887
+        ]
+      },
+      "properties": {
+        "name": "HSIIDC Industrial Estate",
+        "place_id": "ola-platform:5000044013632",
+        "address": "HSIIDC Industrial Estate, Rohtak, Haryana, 124001, India",
+        "district": "Rohtak",
+        "state": "Haryana",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Rohtak Haryana",
+        "fetched_at": "2026-04-01T15:43:17.966387"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0995,
+          28.9327
+        ]
+      },
+      "properties": {
+        "name": "Rai Industrial Estate",
+        "place_id": "ola-platform:5000059825338",
+        "address": "Rai Industrial Estate, Sector 38, Sonipat, Haryana, 131029, India",
+        "district": "Rohtak",
+        "state": "Haryana",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Rohtak Haryana",
+        "fetched_at": "2026-04-01T15:43:18.045033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1986,
+          28.6557
+        ]
+      },
+      "properties": {
+        "name": "WoodLand Factory Outlet",
+        "place_id": "ola-platform:5000052949743",
+        "address": "WoodLand Factory Outlet, 867, New Rohtak Rd, Block 69D, Block 67, Karol Bagh, New Delhi, Delhi, 110005, India",
+        "district": "Rohtak",
+        "state": "Haryana",
+        "types": [
+          "shoe_store"
+        ],
+        "query_used": "factory area Rohtak",
+        "fetched_at": "2026-04-01T15:43:18.146514"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8935,
+          28.7118
+        ]
+      },
+      "properties": {
+        "name": "Parle Biscuits Factory Outlet",
+        "place_id": "ola-platform:5000037545207",
+        "address": "Parle Biscuits Factory Outlet, Super Freeze 124508, India Ltd, Delhi Rohtak Corridor, Surya Nagar, Bahadurgarh, Sankhol, Haryana",
+        "district": "Rohtak",
+        "state": "Haryana",
+        "types": [
+          "food",
+          "restaurant"
+        ],
+        "query_used": "factory area Rohtak",
+        "fetched_at": "2026-04-01T15:43:18.172068"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1767,
+          28.6632
+        ]
+      },
+      "properties": {
+        "name": "WoodLand Factory Outlet Store",
+        "place_id": "ola-platform:5000063055077",
+        "address": "WoodLand Factory Outlet Store, Shop At, 6, Rohtak Rd, Karol Bagh, New Delhi, Delhi, 110005, India",
+        "district": "Rohtak",
+        "state": "Haryana",
+        "types": [
+          "shoe_store"
+        ],
+        "query_used": "factory area Rohtak",
+        "fetched_at": "2026-04-01T15:43:18.203415"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0546,
+          28.6823
+        ]
+      },
+      "properties": {
+        "name": "Okoyama Electric, Factory Outlet - Nangloi",
+        "place_id": "ola-platform:5000057915804",
+        "address": "Okoyama Electric, Factory Outlet - Nangloi, Front Side, A-29, Bata Showroom, Ratan Park, Rohtak Rd, Opp. Metro Pillar No. 433, Near Dominos, Gulshan Park, Nangloi, Delhi, 110041, India",
+        "district": "Rohtak",
+        "state": "Haryana",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Rohtak",
+        "fetched_at": "2026-04-01T15:43:18.236707"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6133,
+          28.8863
+        ]
+      },
+      "properties": {
+        "name": "United Manufacturing Co",
+        "place_id": "ola-platform:5000053143534",
+        "address": "United Manufacturing Co, No 191, 192, Rohtak - Delhi Rd, Model Town, Bahadurgarh, Rohtak, Haryana, 124001, India",
+        "district": "Rohtak",
+        "state": "Haryana",
+        "types": [
+          "point_of_interest"
+        ],
+        "query_used": "manufacturing hub Rohtak",
+        "fetched_at": "2026-04-01T15:43:18.269533"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.177,
+          28.6631
+        ]
+      },
+      "properties": {
+        "name": "Shakti Pulley Manufacturing Company",
+        "place_id": "ola-platform:5000048714760",
+        "address": "Shakti Pulley Manufacturing Company, Plot No-28, 6, Rohtak Rd, Block 9, Anand Parbat Industrial Area, Anand Parbat, New Delhi, Delhi, 110005, India",
+        "district": "Rohtak",
+        "state": "Haryana",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Rohtak",
+        "fetched_at": "2026-04-01T15:43:18.386156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1985,
+          28.6553
+        ]
+      },
+      "properties": {
+        "name": "Miri Piri Polyhouse & Greenhouse Manufacturing Industries",
+        "place_id": "ola-platform:5000059852197",
+        "address": "Miri Piri Polyhouse & Greenhouse Manufacturing Industries, 25, New Rohtak Rd, Block 57, Karol Bagh, New Delhi, Delhi, 110005, India",
+        "district": "Rohtak",
+        "state": "Haryana",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "manufacturing hub Rohtak",
+        "fetched_at": "2026-04-01T15:43:18.414593"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.0748,
+          29.5357
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Sirsa",
+        "place_id": "ola-platform:5000037214702",
+        "address": "Industrial Area Sirsa, Kheirpur, Sirsa, Haryana, 125055, India",
+        "district": "Sirsa",
+        "state": "Haryana",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Sirsa",
+        "fetched_at": "2026-04-01T15:43:20.492302"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.764,
+          29.1314
+        ]
+      },
+      "properties": {
+        "name": "Sirsa Rd, Industrial Area",
+        "place_id": "ola-platform:5000188047801",
+        "address": "Sirsa Rd, Industrial Area, Hisar, Haryana, 125044, India",
+        "district": "Sirsa",
+        "state": "Haryana",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Sirsa",
+        "fetched_at": "2026-04-01T15:43:20.541978"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.01318,
+          29.53177
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000191527943",
+        "address": "Industrial Area, Ellenabad, Sirsa, Haryana, 125055, India",
+        "district": "Sirsa",
+        "state": "Haryana",
+        "types": [],
+        "query_used": "industrial area Sirsa",
+        "fetched_at": "2026-04-01T15:43:20.671242"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.021,
+          28.9812
+        ]
+      },
+      "properties": {
+        "name": "Railway Godowns, Sonipat Junction",
+        "place_id": "ola-platform:5000044580696",
+        "address": "Railway Godowns, Sonipat Junction, 131001, Railway Station Rd, Railway Quarters, Indira Colony, Sonipat, Haryana",
+        "district": "Sonipat",
+        "state": "Haryana",
+        "types": [
+          "storage"
+        ],
+        "query_used": "industrial area Sonipat",
+        "fetched_at": "2026-04-01T15:43:23.599668"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0139,
+          28.9763
+        ]
+      },
+      "properties": {
+        "name": "Rawal Multi Specialty Hospital (Rawal Multi Speciality Hospital - Physician In Sonipat)",
+        "place_id": "ola-platform:5000061510580",
+        "address": "Rawal Multi Specialty Hospital (Rawal Multi Speciality Hospital - Physician In Sonipat), Rawal Multi Speciality Hospital - Physician In Sonipat, O2, Old Rohtak Rd, Industrial Area, Sonipat, Haryana, 131001, India",
+        "district": "Sonipat",
+        "state": "Haryana",
+        "types": [
+          "street_address",
+          "hospital"
+        ],
+        "query_used": "industrial area Sonipat",
+        "fetched_at": "2026-04-01T15:43:23.662078"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.018,
+          28.9747
+        ]
+      },
+      "properties": {
+        "name": "Sahil Jeep Sonipat",
+        "place_id": "ola-platform:5000052138254",
+        "address": "Sahil Jeep Sonipat, E-56&57, Old Rohtak Rd, Krishna Nagar, Industrial Area, Sonipat, Haryana, 131001, India",
+        "district": "Sonipat",
+        "state": "Haryana",
+        "types": [
+          "car_dealer"
+        ],
+        "query_used": "industrial area Sonipat",
+        "fetched_at": "2026-04-01T15:43:23.712311"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2753,
+          28.5388
+        ]
+      },
+      "properties": {
+        "name": "Sonipat Haryana",
+        "place_id": "ola-platform:5000221487694",
+        "address": "Sonipat Haryana, Sanjay Colony I, Sanjay Colony, Okhla Phase II, Okhla Industrial Estate, New Delhi, Delhi 110020, India",
+        "district": "Sonipat",
+        "state": "Haryana",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial estate Sonipat Haryana",
+        "fetched_at": "2026-04-01T15:43:23.765769"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.046,
+          29.0999
+        ]
+      },
+      "properties": {
+        "name": "Barhi Industrial Area, Sonipat, Haryana",
+        "place_id": "ola-platform:5000053177247",
+        "address": "Barhi Industrial Area, Sonipat, Haryana, Plot No. 122, Phase-1, Sector-21, Industrial Estate, Barhi, Haryana, 131101, India",
+        "district": "Sonipat",
+        "state": "Haryana",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Sonipat Haryana",
+        "fetched_at": "2026-04-01T15:43:23.821121"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1321,
+          28.8722
+        ]
+      },
+      "properties": {
+        "name": "Arjan Impex Pvt Ltd (Kundli, Sonipat, Haryana)",
+        "place_id": "ola-platform:5000220013719",
+        "address": "Arjan Impex Pvt Ltd (Kundli, Sonipat, Haryana), 429 EPIP, Industrial Estate, Sector 53, Kundli, Sonipat, Haryana 131028, India",
+        "district": "Sonipat",
+        "state": "Haryana",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial estate Sonipat Haryana",
+        "fetched_at": "2026-04-01T15:43:23.872134"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0839,
+          28.9257
+        ]
+      },
+      "properties": {
+        "name": "Laser Cutting Service In Haryana Rai Sonipat Kundli (Prime Interior - Laser Cutting Bending And Sheet Metal Fabrication Service In Rai Kundli Sonipat Haryana)",
+        "place_id": "ola-platform:5000177009841",
+        "address": "Laser Cutting Service In Haryana Rai Sonipat Kundli (Prime Interior - Laser Cutting Bending And Sheet Metal Fabrication Service In Rai Kundli Sonipat Haryana), Prime Interior - Laser Cutting Bending And Sheet Metal Fabrication Service In Rai Kundli Sonipat Haryana, Plot No. 2167, Phase II, HSIIDC Industrial Estate, Sector 38, Rai, Sonipat, Haryana, 131029, India",
+        "district": "Sonipat",
+        "state": "Haryana",
+        "types": [
+          "general_contractor"
+        ],
+        "query_used": "industrial estate Sonipat Haryana",
+        "fetched_at": "2026-04-01T15:43:23.927124"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0967,
+          28.9267
+        ]
+      },
+      "properties": {
+        "name": "Celibate Biocare - Soft Gelatin Capsules Manufacturing Plant In Sonipat, Haryana",
+        "place_id": "ola-platform:5000046743851",
+        "address": "Celibate Biocare - Soft Gelatin Capsules Manufacturing Plant In Sonipat, Haryana, Plot No-1428, Industrial Estate Phase-1, HSIIDC, Sector 38, Rai, Sonipat, Haryana, 131029, India",
+        "district": "Sonipat",
+        "state": "Haryana",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Sonipat Haryana",
+        "fetched_at": "2026-04-01T15:43:23.986758"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0298,
+          29.1074
+        ]
+      },
+      "properties": {
+        "name": "Rail Coach Factory, Sonipat",
+        "place_id": "ola-platform:5000068117405",
+        "address": "Rail Coach Factory, Sonipat, Unnamed Road, Garhi Kalan, Haryana, 131101, India",
+        "district": "Sonipat",
+        "state": "Haryana",
+        "types": [
+          "museum"
+        ],
+        "query_used": "factory area Sonipat",
+        "fetched_at": "2026-04-01T15:43:24.154693"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0164,
+          29.0616
+        ]
+      },
+      "properties": {
+        "name": "Mundhra Masterbatch Pvt. Ltd. Factory Sonipat",
+        "place_id": "ola-platform:5000055658018",
+        "address": "Mundhra Masterbatch Pvt. Ltd. Factory Sonipat, Sonipat, Haryana, 131001, India",
+        "district": "Sonipat",
+        "state": "Haryana",
+        "types": [
+          "storage"
+        ],
+        "query_used": "factory area Sonipat",
+        "fetched_at": "2026-04-01T15:43:24.205403"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.034,
+          28.9907
+        ]
+      },
+      "properties": {
+        "name": "The Lift Factory (Sonipat Best Gym)",
+        "place_id": "ola-platform:5000039168636",
+        "address": "The Lift Factory (Sonipat Best Gym), Delhi Rd, Above Suzuki Scooty Showroom, Opposite Palki Banquet, Lakshmi Nagar, Sonipat, Haryana, 131001, India",
+        "district": "Sonipat",
+        "state": "Haryana",
+        "types": [
+          "gym"
+        ],
+        "query_used": "factory area Sonipat",
+        "fetched_at": "2026-04-01T15:43:24.257384"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.1046,
+          29.0777
+        ]
+      },
+      "properties": {
+        "name": "Malikpur Dhaturi Road Sonipat Near Palai Factory",
+        "place_id": "ola-platform:5000056369564",
+        "address": "Malikpur Dhaturi Road Sonipat Near Palai Factory, Malikpur, Haryana, 131027, India",
+        "district": "Sonipat",
+        "state": "Haryana",
+        "types": [
+          "clothing_store"
+        ],
+        "query_used": "factory area Sonipat",
+        "fetched_at": "2026-04-01T15:43:24.309684"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0801,
+          28.9036
+        ]
+      },
+      "properties": {
+        "name": "Ecofeed Manufacturing Facility - Sonipat",
+        "place_id": "ola-platform:5000040079432",
+        "address": "Ecofeed Manufacturing Facility - Sonipat, Khata No. 455, Khasra No. 76, Tehsil, Akbarpur Barota, Kundli, Rai, Sonipat, Haryana, 131029, India",
+        "district": "Sonipat",
+        "state": "Haryana",
+        "types": [
+          "point_of_interest"
+        ],
+        "query_used": "manufacturing hub Sonipat",
+        "fetched_at": "2026-04-01T15:43:24.422226"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0192,
+          28.9763
+        ]
+      },
+      "properties": {
+        "name": "Sonipat Springs Manufacturing",
+        "place_id": "ola-platform:5000043004906",
+        "address": "Sonipat Springs Manufacturing, HSIIDC, Krishna Nagar, Industrial Area, Sonipat, Haryana, 131001, India",
+        "district": "Sonipat",
+        "state": "Haryana",
+        "types": [
+          "point_of_interest"
+        ],
+        "query_used": "manufacturing hub Sonipat",
+        "fetched_at": "2026-04-01T15:43:24.471114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0869,
+          28.9285
+        ]
+      },
+      "properties": {
+        "name": "Multivitamins Tablets",
+        "place_id": "ola-platform:5000046729950",
+        "address": "Multivitamins Tablets, Samwin Health Care- Third Party Manufacturing, Pharma PCD Franchise Company In Rai For Glutathione, Multivitamins Tablets, Plot No 11, HSIDC Rai Industrial Area, Udhyog Kunj, Sector 38, Rai, Sonipat, Haryana, 131029, India",
+        "district": "Sonipat",
+        "state": "Haryana",
+        "types": [
+          "food",
+          "restaurant"
+        ],
+        "query_used": "manufacturing hub Sonipat",
+        "fetched_at": "2026-04-01T15:43:24.513906"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.0848,
+          28.894
+        ]
+      },
+      "properties": {
+        "name": "Stufa Manufacturing Enterprise",
+        "place_id": "ola-platform:5000052348487",
+        "address": "Stufa Manufacturing Enterprise, Sector 45, Sonipat, Haryana, 131029, India",
+        "district": "Sonipat",
+        "state": "Haryana",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Sonipat",
+        "fetched_at": "2026-04-01T15:43:24.555468"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.283407,
+          30.118315
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:1124631",
+        "address": "Industrial Area, Yamunanagar, Haryana, India",
+        "district": "Yamunanagar",
+        "state": "Haryana",
+        "types": [
+          "borough"
+        ],
+        "query_used": "industrial area Yamunanagar",
+        "fetched_at": "2026-04-01T15:43:26.867490"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2763,
+          30.1335
+        ]
+      },
+      "properties": {
+        "name": "KFC Rampura Industrial Area",
+        "place_id": "ola-platform:5000045858520",
+        "address": "KFC Rampura Industrial Area, KFC, 210, Near Shiv Mandir, Lajpat Nagar, Rampura Industrial Area, Yamuna Nagar, Haryana, 135001, India",
+        "district": "Yamunanagar",
+        "state": "Haryana",
+        "types": [
+          "restaurant",
+          "meal_takeaway",
+          "meal_delivery"
+        ],
+        "query_used": "industrial area Yamunanagar",
+        "fetched_at": "2026-04-01T15:43:26.922781"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2761,
+          30.1334
+        ]
+      },
+      "properties": {
+        "name": "Max Rampura Industrial Area",
+        "place_id": "ola-platform:5000060900049",
+        "address": "Max Rampura Industrial Area, No E 26, City Mall Industrial Area, Near Bus Stand, Rampura Industrial Area, Yamuna Nagar, Haryana, 135001, India",
+        "district": "Yamunanagar",
+        "state": "Haryana",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "industrial area Yamunanagar",
+        "fetched_at": "2026-04-01T15:43:26.980617"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.28362,
+          30.120247
+        ]
+      },
+      "properties": {
+        "name": "SMRK Rampura Industrial Area",
+        "place_id": "ola-platform:5000063495330",
+        "address": "SMRK Rampura Industrial Area, Yamunanagar, Jagadhri, Yamunanagar, Haryana, 135001, India",
+        "district": "Yamunanagar",
+        "state": "Haryana",
+        "types": [
+          "hardware_store"
+        ],
+        "query_used": "industrial area Yamunanagar",
+        "fetched_at": "2026-04-01T15:43:27.040613"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.28177,
+          30.131985
+        ]
+      },
+      "properties": {
+        "name": "Sai Temple Industrial Area",
+        "place_id": "ola-platform:5000065929199",
+        "address": "Sai Temple Industrial Area, Workshop Road, Yamunanagar, Jagadhri, Yamunanagar, Haryana, 135001, India",
+        "district": "Yamunanagar",
+        "state": "Haryana",
+        "types": [
+          "place_of_worship",
+          "hindu_temple"
+        ],
+        "query_used": "industrial area Yamunanagar",
+        "fetched_at": "2026-04-01T15:43:27.093044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.328804,
+          30.191454
+        ]
+      },
+      "properties": {
+        "name": "HSIIDC Industrial Estate Manakpur",
+        "place_id": "ola-platform:1123616",
+        "address": "HSIIDC Industrial Estate Manakpur, Yamunanagar, Haryana, India",
+        "district": "Yamunanagar",
+        "state": "Haryana",
+        "types": [
+          "borough"
+        ],
+        "query_used": "industrial estate Yamunanagar Haryana",
+        "fetched_at": "2026-04-01T15:43:27.151176"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.27179,
+          30.12723
+        ]
+      },
+      "properties": {
+        "name": "2, Industrial Estate",
+        "place_id": "ola-platform:5000201998315",
+        "address": "2, Industrial Estate, Yamuna Nagar, Haryana, 135001, India",
+        "district": "Yamunanagar",
+        "state": "Haryana",
+        "types": [],
+        "query_used": "industrial estate Yamunanagar Haryana",
+        "fetched_at": "2026-04-01T15:43:27.312087"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.27249,
+          30.13126
+        ]
+      },
+      "properties": {
+        "name": "7, Industrial Estate",
+        "place_id": "ola-platform:5000191718947",
+        "address": "7, Industrial Estate, Yamuna Nagar, Haryana, 135001, India",
+        "district": "Yamunanagar",
+        "state": "Haryana",
+        "types": [],
+        "query_used": "industrial estate Yamunanagar Haryana",
+        "fetched_at": "2026-04-01T15:43:27.362141"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2098,
+          30.4816
+        ]
+      },
+      "properties": {
+        "name": "United Biscuits Private Limited - Pladis (Biscuit Factory)",
+        "place_id": "ola-platform:5000042780239",
+        "address": "United Biscuits Private Limited - Pladis (Biscuit Factory), Kala Amb, Yamunanagar Highway, District, Ogli, Himachal Pradesh, 133204, India",
+        "district": "Yamunanagar",
+        "state": "Haryana",
+        "types": [
+          "bakery"
+        ],
+        "query_used": "factory area Yamunanagar",
+        "fetched_at": "2026-04-01T15:43:27.469132"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.304003,
+          30.165479
+        ]
+      },
+      "properties": {
+        "name": "Multi Metal Manufacturing Company",
+        "place_id": "ola-platform:5000046542242",
+        "address": "Multi Metal Manufacturing Company, Jagadhari, Jagadhri, Yamunanagar, Haryana, 135003, India",
+        "district": "Yamunanagar",
+        "state": "Haryana",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "manufacturing hub Yamunanagar",
+        "fetched_at": "2026-04-01T15:43:27.761538"
+      }
+    }
+  ]
+}

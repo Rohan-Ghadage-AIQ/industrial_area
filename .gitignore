@@ -15,10 +15,6 @@ venv/
 node_modules/
 frontend/node_modules/
 
-# Data output (large files)
-backend/data/geojson/
-backend/data/progress.json
-
 # IDE
 .vscode/
 .idea/

@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.71173,
+          11.63589
+        ]
+      },
+      "properties": {
+        "name": "29/3, Near Dollygunj",
+        "place_id": "ola-platform:5000201147508",
+        "address": "29/3, Near Dollygunj, Industrial Estate, Dollygunj, Port Blair, Andaman And Nicobar Islands, 744105, India",
+        "district": "South Andaman",
+        "state": "Andaman and Nicobar Islands",
+        "types": [],
+        "query_used": "industrial estate South Andaman Andaman and Nicobar Islands",
+        "fetched_at": "2026-04-01T16:09:40.462453"
+      }
+    }
+  ]
+}

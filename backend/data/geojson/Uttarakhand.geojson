@@ -1,0 +1,1015 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.427023,
+          29.761583
+        ]
+      },
+      "properties": {
+        "name": "Dwarahat Industrial Area",
+        "place_id": "ola-platform:5000046074173",
+        "address": "Dwarahat Industrial Area, Mirai Malli, Dadholi, Dwarahat, Almora, Uttarakhand, 263653, India",
+        "district": "Almora",
+        "state": "Uttarakhand",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Almora",
+        "fetched_at": "2026-04-01T16:06:35.492965"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8566,
+          30.3681
+        ]
+      },
+      "properties": {
+        "name": "Selaqui - Cambridge And CBSE Board, Boarding/residential School Dehradun",
+        "place_id": "ola-platform:5000036321936",
+        "address": "Selaqui - Cambridge And CBSE Board, Boarding/residential School Dehradun, Chakarata Rd, Selaqui Industrial Area, Dehradun, Uttarakhand, 248011, India",
+        "district": "Dehradun",
+        "state": "Uttarakhand",
+        "types": [
+          "school",
+          "premise",
+          "primary_school"
+        ],
+        "query_used": "industrial area Dehradun",
+        "fetched_at": "2026-04-01T16:06:44.886808"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8533,
+          30.3673
+        ]
+      },
+      "properties": {
+        "name": "DPSG Dehradun - Best School Dehradun",
+        "place_id": "ola-platform:5000059209801",
+        "address": "DPSG Dehradun - Best School Dehradun, Chakrata Rd, Selaqui Industrial Area, Dehradun, Central Hope Town, Uttarakhand, 248011, India",
+        "district": "Dehradun",
+        "state": "Uttarakhand",
+        "types": [
+          "school",
+          "premise",
+          "primary_school"
+        ],
+        "query_used": "industrial area Dehradun",
+        "fetched_at": "2026-04-01T16:06:44.910827"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.16756,
+          30.12627
+        ]
+      },
+      "properties": {
+        "name": "Dehradun Khasara No 3946",
+        "place_id": "ola-platform:5000199141054",
+        "address": "Dehradun Khasara No 3946, 3947 & 3962, 3963 Industrial Area Laltappar Majri Grant Doiwala Rishikaesh, Doiwala, Laal TAPPAD, Uttarakhand, 248145, India",
+        "district": "Dehradun",
+        "state": "Uttarakhand",
+        "types": [],
+        "query_used": "industrial area Dehradun",
+        "fetched_at": "2026-04-01T16:06:44.924604"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8349,
+          30.3763
+        ]
+      },
+      "properties": {
+        "name": "Pharma Clean Room Dehradun Uttrakhand",
+        "place_id": "ola-platform:5000056795055",
+        "address": "Pharma Clean Room Dehradun Uttrakhand, Mehmud Nagar Sankarpur, Sara Industrial Rd, Estate, Rampur, Uttarakhand, 248197, India",
+        "district": "Dehradun",
+        "state": "Uttarakhand",
+        "types": [
+          "health"
+        ],
+        "query_used": "industrial estate Dehradun Uttarakhand",
+        "fetched_at": "2026-04-01T16:06:44.941025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8331,
+          30.3771
+        ]
+      },
+      "properties": {
+        "name": "Sara Industrial Estate Ltd",
+        "place_id": "ola-platform:5000189720507",
+        "address": "Sara Industrial Estate Ltd, Shankarpur, Uttarakhand, 248197, India",
+        "district": "Dehradun",
+        "state": "Uttarakhand",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Dehradun Uttarakhand",
+        "fetched_at": "2026-04-01T16:06:44.949548"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.833333,
+          30.378333
+        ]
+      },
+      "properties": {
+        "name": "Sara Industrial Estate Industrial Centres (Sara Industries)",
+        "place_id": "ola-platform:5000052026285",
+        "address": "Sara Industrial Estate Industrial Centres (Sara Industries), Vikasnagar, Dehradun, Uttarakhand, 248197, India",
+        "district": "Dehradun",
+        "state": "Uttarakhand",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Dehradun Uttarakhand",
+        "fetched_at": "2026-04-01T16:06:44.958281"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.827791,
+          30.374842
+        ]
+      },
+      "properties": {
+        "name": "Sara Industrial Estate Ltd",
+        "place_id": "ola-platform:5000063823870",
+        "address": "Sara Industrial Estate Ltd, Vikasnagar, Dehradun, Uttarakhand, 248197, India",
+        "district": "Dehradun",
+        "state": "Uttarakhand",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Dehradun Uttarakhand",
+        "fetched_at": "2026-04-01T16:06:44.967310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.02003,
+          30.30816
+        ]
+      },
+      "properties": {
+        "name": "Government Industrial Estate",
+        "place_id": "ola-platform:5000199283079",
+        "address": "Government Industrial Estate, 190, Patel Nagar, Dehradun, Uttarakhand, 248001, India",
+        "district": "Dehradun",
+        "state": "Uttarakhand",
+        "types": [],
+        "query_used": "industrial estate Dehradun Uttarakhand",
+        "fetched_at": "2026-04-01T16:06:44.976156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.02304,
+          30.3125
+        ]
+      },
+      "properties": {
+        "name": "1/17, Ice Factory Area",
+        "place_id": "ola-platform:5000195731185",
+        "address": "1/17, Ice Factory Area, 1/17, Saharanpur Rd, Laxman Chowk, Dehradun, Uttarakhand, 248001, India",
+        "district": "Dehradun",
+        "state": "Uttarakhand",
+        "types": [],
+        "query_used": "factory area Dehradun",
+        "fetched_at": "2026-04-01T16:06:44.994234"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0951,
+          30.3084
+        ]
+      },
+      "properties": {
+        "name": "Ordnance Factory Higher Secondary School",
+        "place_id": "ola-platform:5000066812763",
+        "address": "Ordnance Factory Higher Secondary School, Dehradun, Raipur, Dehradun, Uttarakhand, 248008, India",
+        "district": "Dehradun",
+        "state": "Uttarakhand",
+        "types": [
+          "school",
+          "premise",
+          "primary_school"
+        ],
+        "query_used": "factory area Dehradun",
+        "fetched_at": "2026-04-01T16:06:45.004769"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1324,
+          30.2511
+        ]
+      },
+      "properties": {
+        "name": "Ghoda Factory, Balawala Dehradun",
+        "place_id": "ola-platform:5000065502709",
+        "address": "Ghoda Factory, Balawala Dehradun, Ghoda Factory, Near, Tirthwala Mohalla, Balawala, Uttarakhand, 248008, India",
+        "district": "Dehradun",
+        "state": "Uttarakhand",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Dehradun",
+        "fetched_at": "2026-04-01T16:06:45.013644"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0376,
+          30.2893
+        ]
+      },
+      "properties": {
+        "name": "Reebok Factory Outlet Dehradun",
+        "place_id": "ola-platform:5000041966244",
+        "address": "Reebok Factory Outlet Dehradun, Reebok Factory Outlet, Haridwar ByPass Rd, Opposite Nilaya Hills, Adjacent Hotel Hi Way Inn, Saraswati Vihar, Ajabpur Khurd, Dehradun, Uttarakhand, 248001, India",
+        "district": "Dehradun",
+        "state": "Uttarakhand",
+        "types": [
+          "shoe_store"
+        ],
+        "query_used": "factory area Dehradun",
+        "fetched_at": "2026-04-01T16:06:45.021380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0467,
+          30.2818
+        ]
+      },
+      "properties": {
+        "name": "House No 80 Near Ghora Factory Tirthwal Mohalla Balawala Dehradun",
+        "place_id": "ola-platform:5000043902928",
+        "address": "House No 80 Near Ghora Factory Tirthwal Mohalla Balawala Dehradun, Deepnagar Village, Gularghati, Balawala, Dehradun, Uttarakhand, 248121, India",
+        "district": "Dehradun",
+        "state": "Uttarakhand",
+        "types": [
+          "premise",
+          "subpremise"
+        ],
+        "query_used": "factory area Dehradun",
+        "fetched_at": "2026-04-01T16:06:45.032082"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0367,
+          30.322
+        ]
+      },
+      "properties": {
+        "name": "Bagga Steel Works - Manufacturing Of Almirah & Office Furniture In Dehradun",
+        "place_id": "ola-platform:5000064000376",
+        "address": "Bagga Steel Works - Manufacturing Of Almirah & Office Furniture In Dehradun, 63, Mannu Ganj Hakikat Rai Nagar Near Radha, Krishna Mandir, Ajit Prasad Nagar, Paltan Bazaar, Dehradun, Uttarakhand, 248001, India",
+        "district": "Dehradun",
+        "state": "Uttarakhand",
+        "types": [
+          "furniture_store"
+        ],
+        "query_used": "manufacturing hub Dehradun",
+        "fetched_at": "2026-04-01T16:06:45.040447"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8565,
+          30.3706
+        ]
+      },
+      "properties": {
+        "name": "East African (India) Overseas - Unit 1",
+        "place_id": "ola-platform:5000059344368",
+        "address": "East African (India) Overseas - Unit 1, | PCD Franchise, Third Party Manufacturing | Exporter, Plot No 1 248011, Uttrakhand, Pharma City Rd, Selaqui Industrial Area, Dehradun, Central Hope Town, Uttarakhand",
+        "district": "Dehradun",
+        "state": "Uttarakhand",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "manufacturing hub Dehradun",
+        "fetched_at": "2026-04-01T16:06:45.050426"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1493,
+          29.9469
+        ]
+      },
+      "properties": {
+        "name": "Haridwar Industrial Area Road",
+        "place_id": "ola-platform:5000188274109",
+        "address": "Haridwar Industrial Area Road, Haridwar Industrial Area Rd, Railway Colony, Industrial Area, Haridwar, Uttarakhand, 249401, India",
+        "district": "Haridwar",
+        "state": "Uttarakhand",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Haridwar",
+        "fetched_at": "2026-04-01T16:06:47.147958"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1448,
+          29.9424
+        ]
+      },
+      "properties": {
+        "name": "49, Haridwar Industrial Area Rd",
+        "place_id": "ola-platform:5000196576793",
+        "address": "49, Haridwar Industrial Area Rd, 49, Haridwar Industrial Area Rd, Industrial Area, Haridwar, Uttarakhand, 249401, India",
+        "district": "Haridwar",
+        "state": "Uttarakhand",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Haridwar",
+        "fetched_at": "2026-04-01T16:06:47.168326"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1463,
+          29.9459
+        ]
+      },
+      "properties": {
+        "name": "F-54, Haridwar Industrial Area Rd",
+        "place_id": "ola-platform:5000186848313",
+        "address": "F-54, Haridwar Industrial Area Rd, F-54, Haridwar Industrial Area Rd, Industrial Area, Haridwar, Uttarakhand, 249401, India",
+        "district": "Haridwar",
+        "state": "Uttarakhand",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Haridwar",
+        "fetched_at": "2026-04-01T16:06:47.183574"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.1574,
+          29.9506
+        ]
+      },
+      "properties": {
+        "name": "9, Haridwar Industrial Area Rd",
+        "place_id": "ola-platform:5000191788015",
+        "address": "9, Haridwar Industrial Area Rd, 9, Haridwar Industrial Area Rd, Nirmala Chhawni, Industrial Area, Haridwar, Uttarakhand, 249401, India",
+        "district": "Haridwar",
+        "state": "Uttarakhand",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Haridwar",
+        "fetched_at": "2026-04-01T16:06:47.197645"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.14804,
+          29.94625
+        ]
+      },
+      "properties": {
+        "name": "D-21, Haridwar Industrial Area Rd",
+        "place_id": "ola-platform:5000192255844",
+        "address": "D-21, Haridwar Industrial Area Rd, D-21, Haridwar Industrial Area Rd, Industrial Area, Haridwar, Uttarakhand, 249401, India",
+        "district": "Haridwar",
+        "state": "Uttarakhand",
+        "types": [],
+        "query_used": "industrial area Haridwar",
+        "fetched_at": "2026-04-01T16:06:47.211445"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0626,
+          29.9673
+        ]
+      },
+      "properties": {
+        "name": "Metro Hospital & Heart Institute Haridwar Uttarakhand",
+        "place_id": "ola-platform:5000067810388",
+        "address": "Metro Hospital & Heart Institute Haridwar Uttarakhand, Plot No. F - 1, Sector 6A, Sidcul Sector 8A, Road, Integrated Industrial Estate, Sector 8A, Bhel Township, Haridwar, Uttarakhand, 249402, India",
+        "district": "Haridwar",
+        "state": "Uttarakhand",
+        "types": [
+          "street_address",
+          "hospital"
+        ],
+        "query_used": "industrial estate Haridwar Uttarakhand",
+        "fetched_at": "2026-04-01T16:06:47.227000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.06103,
+          29.965286
+        ]
+      },
+      "properties": {
+        "name": "HSN International Haridwar Uttrakhand",
+        "place_id": "ola-platform:5000065381424",
+        "address": "HSN International Haridwar Uttrakhand, Integrated Industrial Estate, Haridwār, Hardwar, Haridwar, Uttarakhand, 249402, India",
+        "district": "Haridwar",
+        "state": "Uttarakhand",
+        "types": [
+          "point_of_interest"
+        ],
+        "query_used": "industrial estate Haridwar Uttarakhand",
+        "fetched_at": "2026-04-01T16:06:47.242240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0834,
+          29.9491
+        ]
+      },
+      "properties": {
+        "name": "Haridwar Uttarakhand",
+        "place_id": "ola-platform:5000221231206",
+        "address": "Haridwar Uttarakhand, Pentagon Mall Sidcul, C1, Integrated Industrial Estate, Sector 12, Sidcul, Haridwar, Uttarakhand 249403, India",
+        "district": "Haridwar",
+        "state": "Uttarakhand",
+        "types": [
+          "bar"
+        ],
+        "query_used": "industrial estate Haridwar Uttarakhand",
+        "fetched_at": "2026-04-01T16:06:47.257508"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0645,
+          29.9597
+        ]
+      },
+      "properties": {
+        "name": "CMR Green Haridwar, Uttarakhand",
+        "place_id": "ola-platform:5000220977659",
+        "address": "CMR Green Haridwar, Uttarakhand, Sector 10, Plot-3/P2, Integrated Industrial Estate, Sector 8A, Sidcul, Haridwar, Uttarakhand 249402, India",
+        "district": "Haridwar",
+        "state": "Uttarakhand",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial estate Haridwar Uttarakhand",
+        "fetched_at": "2026-04-01T16:06:47.271855"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0626,
+          29.9673
+        ]
+      },
+      "properties": {
+        "name": "Metro Hospital & Heart Institute Haridwar Uttarakhand | Best Heart Hospital In Haridwar, Uttarakhand",
+        "place_id": "ola-platform:5000222316474",
+        "address": "Metro Hospital & Heart Institute Haridwar Uttarakhand | Best Heart Hospital In Haridwar, Uttarakhand, Plot No. F - 1, Sector 6A, Sidcul Sector 8A, Road, Integrated Industrial Estate, Sector 8A, Bhel Township, Haridwar, Uttarakhand 249402, India",
+        "district": "Haridwar",
+        "state": "Uttarakhand",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial estate Haridwar Uttarakhand",
+        "fetched_at": "2026-04-01T16:06:47.286658"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.052778,
+          29.965
+        ]
+      },
+      "properties": {
+        "name": "Mahindra Ltd Manufacturing Plant Haridwar",
+        "place_id": "ola-platform:5000062630601",
+        "address": "Mahindra Ltd Manufacturing Plant Haridwar, Roshanabad, Haridwār, Hardwar, Haridwar, Uttarakhand, 249402, India",
+        "district": "Haridwar",
+        "state": "Uttarakhand",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Haridwar",
+        "fetched_at": "2026-04-01T16:06:47.333666"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.04699,
+          29.930536
+        ]
+      },
+      "properties": {
+        "name": "Carton Manufacturing: Supremo Packaging",
+        "place_id": "ola-platform:5000044593669",
+        "address": "Carton Manufacturing: Supremo Packaging, Bahādrābād, Haridwār, Hardwar, Haridwar, Uttarakhand, 249402, India",
+        "district": "Haridwar",
+        "state": "Uttarakhand",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "manufacturing hub Haridwar",
+        "fetched_at": "2026-04-01T16:06:47.343909"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.054898,
+          29.964311
+        ]
+      },
+      "properties": {
+        "name": "Mahindra Ltd Manufacturing Plant Parking",
+        "place_id": "ola-platform:5000065002441",
+        "address": "Mahindra Ltd Manufacturing Plant Parking, Roshanabad, Haridwār, Hardwar, Haridwar, Uttarakhand, 249402, India",
+        "district": "Haridwar",
+        "state": "Uttarakhand",
+        "types": [
+          "parking"
+        ],
+        "query_used": "manufacturing hub Haridwar",
+        "fetched_at": "2026-04-01T16:06:47.353648"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.0541,
+          29.964605
+        ]
+      },
+      "properties": {
+        "name": "Mahindra Ltd Manufacturing Plant Haridwar",
+        "place_id": "ola-platform:5000053610070",
+        "address": "Mahindra Ltd Manufacturing Plant Haridwar, Roshanabad, Haridwār, Hardwar, Haridwar, Uttarakhand, 249402, India",
+        "district": "Haridwar",
+        "state": "Uttarakhand",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Haridwar",
+        "fetched_at": "2026-04-01T16:06:47.363934"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.05296,
+          29.927581
+        ]
+      },
+      "properties": {
+        "name": "Vee Tee Auto Manufacturing Company Pvt Ltd",
+        "place_id": "ola-platform:5000050628565",
+        "address": "Vee Tee Auto Manufacturing Company Pvt Ltd, Bahādrābād, Haridwār, Hardwar, Haridwar, Uttarakhand, 249402, India",
+        "district": "Haridwar",
+        "state": "Uttarakhand",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Haridwar",
+        "fetched_at": "2026-04-01T16:06:47.373606"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5512,
+          29.3572
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000221445480",
+        "address": "Industrial Area, Block Road Area, Gair Banelia, Bhimtal, Uttarakhand 263136, India",
+        "district": "Nainital",
+        "state": "Uttarakhand",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial area Nainital",
+        "fetched_at": "2026-04-01T16:06:49.687067"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.55054,
+          29.36211
+        ]
+      },
+      "properties": {
+        "name": "F 14 Industrial Area Shiksha Bhawan",
+        "place_id": "ola-platform:5000193005395",
+        "address": "F 14 Industrial Area Shiksha Bhawan, Block Road Area, Bhimtal, Bhowali Range, Uttarakhand, 263136, India",
+        "district": "Nainital",
+        "state": "Uttarakhand",
+        "types": [],
+        "query_used": "industrial area Nainital",
+        "fetched_at": "2026-04-01T16:06:49.704583"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.5012,
+          29.2051
+        ]
+      },
+      "properties": {
+        "name": "Rudrapur Industrial Area At Bansal Die Casting",
+        "place_id": "ola-platform:5000043045873",
+        "address": "Rudrapur Industrial Area At Bansal Die Casting, Unnamed Road, Nilanchal Colony, Haldwani, Chharayal Nayak, Uttarakhand, 263139, India",
+        "district": "Nainital",
+        "state": "Uttarakhand",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Nainital",
+        "fetched_at": "2026-04-01T16:06:49.716481"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.521956,
+          29.187392
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate Branch Post Office",
+        "place_id": "ola-platform:5000044879594",
+        "address": "Industrial Estate Branch Post Office, Haldwani Talli, Gaujajali Uttar, Haldwani, Nainital, Uttarakhand, 263141, India",
+        "district": "Nainital",
+        "state": "Uttarakhand",
+        "types": [
+          "post_office"
+        ],
+        "query_used": "industrial estate Nainital Uttarakhand",
+        "fetched_at": "2026-04-01T16:06:49.738590"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.4163,
+          28.3742
+        ]
+      },
+      "properties": {
+        "name": "Waipa Factory",
+        "place_id": "ola-platform:5000191910466",
+        "address": "Waipa Factory, Nainital Road, National Highway 74, Shrinathpuram, Bareilly, Uttar Pradesh, 243003, India",
+        "district": "Nainital",
+        "state": "Uttarakhand",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Nainital",
+        "fetched_at": "2026-04-01T16:06:49.777259"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.3237,
+          30.1284
+        ]
+      },
+      "properties": {
+        "name": "Thrill Factory Cafe",
+        "place_id": "ola-platform:5000044525489",
+        "address": "Thrill Factory Cafe, Near Nainital Bank, Badrinath Road, Tapovan, Laxman Jhula, Rishikesh, Uttarakhand, 249302, India",
+        "district": "Nainital",
+        "state": "Uttarakhand",
+        "types": [
+          "cafe",
+          "restaurant"
+        ],
+        "query_used": "factory area Nainital",
+        "fetched_at": "2026-04-01T16:06:49.796703"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4115,
+          29.7914
+        ]
+      },
+      "properties": {
+        "name": "Siggadi Sidcul Industrial Area",
+        "place_id": "ola-platform:5000178010263",
+        "address": "Siggadi Sidcul Industrial Area, Sigaddi Growth Centre, Lokmaripur, Uttarakhand, 246144, India",
+        "district": "Pauri Garhwal",
+        "state": "Uttarakhand",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Pauri Garhwal",
+        "fetched_at": "2026-04-01T16:06:52.075825"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.5255,
+          29.7526
+        ]
+      },
+      "properties": {
+        "name": "Mohabewala Industrial Area",
+        "place_id": "ola-platform:5000200981743",
+        "address": "Mohabewala Industrial Area, Anand Niket, Kotdwar, Uttarakhand, 246149, India",
+        "district": "Pauri Garhwal",
+        "state": "Uttarakhand",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Pauri Garhwal",
+        "fetched_at": "2026-04-01T16:06:52.092956"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4282,
+          29.7746
+        ]
+      },
+      "properties": {
+        "name": "Jasodharpur Industrial Area",
+        "place_id": "ola-platform:5000191834383",
+        "address": "Jasodharpur Industrial Area, Maganpur, Uttarakhand, 246144, India",
+        "district": "Pauri Garhwal",
+        "state": "Uttarakhand",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Pauri Garhwal",
+        "fetched_at": "2026-04-01T16:06:52.107890"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.484111,
+          29.739278
+        ]
+      },
+      "properties": {
+        "name": "TaTa Motors Cars Service Centre Oberai Motors, Balbhadrapur Industrial Area",
+        "place_id": "ola-platform:5000221281029",
+        "address": "TaTa Motors Cars Service Centre Oberai Motors, Balbhadrapur Industrial Area, No B/27/28, Balbhadrapur Industrial Area, Kotdwar - 246763",
+        "district": "Pauri Garhwal",
+        "state": "Uttarakhand",
+        "types": [
+          "car_dealer"
+        ],
+        "query_used": "industrial area Pauri Garhwal",
+        "fetched_at": "2026-04-01T16:06:52.118409"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.4304,
+          29.7741
+        ]
+      },
+      "properties": {
+        "name": "Jasodharpur Industrial Area",
+        "place_id": "ola-platform:5000187762187",
+        "address": "Jasodharpur Industrial Area, Uttarakhand, 246144, India",
+        "district": "Pauri Garhwal",
+        "state": "Uttarakhand",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Pauri Garhwal",
+        "fetched_at": "2026-04-01T16:06:52.128685"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.185869,
+          29.145573
+        ]
+      },
+      "properties": {
+        "name": "IIE Industrial Estate Bajpur 2",
+        "place_id": "ola-platform:1123632",
+        "address": "IIE Industrial Estate Bajpur 2, Uttarakhand, India",
+        "district": "Rudraprayag",
+        "state": "Uttarakhand",
+        "types": [
+          "borough"
+        ],
+        "query_used": "industrial estate Rudraprayag Uttarakhand",
+        "fetched_at": "2026-04-01T16:06:57.387494"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.28758,
+          30.12364
+        ]
+      },
+      "properties": {
+        "name": "IIE Industrial Estate",
+        "place_id": "ola-platform:5000202096924",
+        "address": "IIE Industrial Estate, D4, Munikireti, Rishikesh, Uttarakhand, 249137, India",
+        "district": "Tehri Garhwal",
+        "state": "Uttarakhand",
+        "types": [],
+        "query_used": "industrial estate Tehri Garhwal Uttarakhand",
+        "fetched_at": "2026-04-01T16:06:59.666197"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.41117,
+          29.011158
+        ]
+      },
+      "properties": {
+        "name": "Sidcul Industrial Area",
+        "place_id": "ola-platform:5000052251841",
+        "address": "Sidcul Industrial Area, Rudrapur, Kichha, Udham Singh Nagar, Uttarakhand, 263149, India",
+        "district": "Udham Singh Nagar",
+        "state": "Uttarakhand",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Udham Singh Nagar",
+        "fetched_at": "2026-04-01T16:07:01.851455"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.43109,
+          28.974907
+        ]
+      },
+      "properties": {
+        "name": "Tfts - ManPower Suppliers Sidcul Industrial Area",
+        "place_id": "ola-platform:5000064005010",
+        "address": "Tfts - ManPower Suppliers Sidcul Industrial Area, Mom's Pride School, Gangapur Road, Rudrapur, Kichha, Udham Singh Nagar, Uttarakhand, 263145, India",
+        "district": "Udham Singh Nagar",
+        "state": "Uttarakhand",
+        "types": [
+          "store"
+        ],
+        "query_used": "industrial area Udham Singh Nagar",
+        "fetched_at": "2026-04-01T16:07:01.865174"
+      }
+    }
+  ]
+}

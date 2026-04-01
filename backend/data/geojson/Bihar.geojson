@@ -1,0 +1,1879 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.41187,
+          26.115147
+        ]
+      },
+      "properties": {
+        "name": "Cement Bricks Manufacturing Center",
+        "place_id": "ola-platform:5000044671947",
+        "address": "Cement Bricks Manufacturing Center, Araria, Bihar, 854312, India",
+        "district": "Araria",
+        "state": "Bihar",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Araria",
+        "fetched_at": "2026-04-01T15:36:53.765272"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.2157,
+          24.8689
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate Barun",
+        "place_id": "ola-platform:5000044822733",
+        "address": "Industrial Estate Barun, Barun, Bihar, 824112, India",
+        "district": "Aurangabad",
+        "state": "Bihar",
+        "types": [
+          "real_estate_agency"
+        ],
+        "query_used": "industrial estate Aurangabad Bihar",
+        "fetched_at": "2026-04-01T15:36:59.608294"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.058359,
+          25.441048
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Begusarai",
+        "place_id": "ola-platform:5000065750944",
+        "address": "Industrial Area Begusarai, Barauni, Begusarai, Bihar, 851114, India",
+        "district": "Begusarai",
+        "state": "Bihar",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "industrial area Begusarai",
+        "fetched_at": "2026-04-01T15:37:04.964279"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.0523,
+          25.4419
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Barauni",
+        "place_id": "ola-platform:5000065529395",
+        "address": "Industrial Area Barauni, Bihar, 851114, India",
+        "district": "Begusarai",
+        "state": "Bihar",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Begusarai",
+        "fetched_at": "2026-04-01T15:37:04.996110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.1065,
+          25.408
+        ]
+      },
+      "properties": {
+        "name": "Vinidra Manufacturing LLP",
+        "place_id": "ola-platform:5000064931987",
+        "address": "Vinidra Manufacturing LLP, Rajapur, PO Ulao, South Of Govt Middle School, Rajapur, Begusarai, Bihar, 851117, India",
+        "district": "Begusarai",
+        "state": "Bihar",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Begusarai",
+        "fetched_at": "2026-04-01T15:37:05.362619"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.98158,
+          25.46958
+        ]
+      },
+      "properties": {
+        "name": "John Paper Cup Plate Manufacturing",
+        "place_id": "ola-platform:5000052981818",
+        "address": "John Paper Cup Plate Manufacturing, At Shokhara 2, Ward No 11, Post Barauni, Dist Begusarai, Pin Code 851112, Near Bachpan School, Bich Mohalla, Shokhara, Bihar",
+        "district": "Begusarai",
+        "state": "Bihar",
+        "types": [
+          "supermarket"
+        ],
+        "query_used": "manufacturing hub Begusarai",
+        "fetched_at": "2026-04-01T15:37:05.384911"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.0315,
+          25.26296
+        ]
+      },
+      "properties": {
+        "name": "Large Industrial Area",
+        "place_id": "ola-platform:5000195095834",
+        "address": "Large Industrial Area, Bhagalpur, Barari, Bihar, 812003, India",
+        "district": "Bhagalpur",
+        "state": "Bihar",
+        "types": [],
+        "query_used": "industrial area Bhagalpur",
+        "fetched_at": "2026-04-01T15:37:08.001887"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.02617,
+          25.26478
+        ]
+      },
+      "properties": {
+        "name": "SH 58, Large Industrial Area",
+        "place_id": "ola-platform:5000201217178",
+        "address": "SH 58, Large Industrial Area, Barari, Bhagalpur, Bihar, 812003, India",
+        "district": "Bhagalpur",
+        "state": "Bihar",
+        "types": [],
+        "query_used": "industrial area Bhagalpur",
+        "fetched_at": "2026-04-01T15:37:08.033977"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.03189,
+          25.26428
+        ]
+      },
+      "properties": {
+        "name": "Large Industrial Area",
+        "place_id": "ola-platform:5000202577908",
+        "address": "Large Industrial Area, Barari, Bhagalpur, Bihar, 812003, India",
+        "district": "Bhagalpur",
+        "state": "Bihar",
+        "types": [],
+        "query_used": "industrial area Bhagalpur",
+        "fetched_at": "2026-04-01T15:37:08.072433"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.03192,
+          25.26376
+        ]
+      },
+      "properties": {
+        "name": "812003, Large Industrial Area",
+        "place_id": "ola-platform:5000201437091",
+        "address": "812003, Large Industrial Area, Barari, Bhagalpur, Bihar, 812003, India",
+        "district": "Bhagalpur",
+        "state": "Bihar",
+        "types": [],
+        "query_used": "industrial area Bhagalpur",
+        "fetched_at": "2026-04-01T15:37:08.101215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.045029,
+          25.252209
+        ]
+      },
+      "properties": {
+        "name": "SaiRam Automobiles, Light Industrial Area",
+        "place_id": "ola-platform:5000047674092",
+        "address": "SaiRam Automobiles, Light Industrial Area, Ground Floor, Sabour Rd, Near Engineering College, Prem Nagar, Bhagalpur, Bihar 813233",
+        "district": "Bhagalpur",
+        "state": "Bihar",
+        "types": [
+          "gas_station"
+        ],
+        "query_used": "industrial area Bhagalpur",
+        "fetched_at": "2026-04-01T15:37:08.127712"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.0299,
+          25.2639
+        ]
+      },
+      "properties": {
+        "name": "Bihar State Pollution Control Board, Barari, Bhagalpur",
+        "place_id": "ola-platform:5000066704985",
+        "address": "Bihar State Pollution Control Board, Barari, Bhagalpur, Large Industrial Area, Barari, Bihar, 812003, India",
+        "district": "Bhagalpur",
+        "state": "Bihar",
+        "types": [
+          "local_government_office"
+        ],
+        "query_used": "industrial estate Bhagalpur Bihar",
+        "fetched_at": "2026-04-01T15:37:08.160375"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.9419,
+          25.2401
+        ]
+      },
+      "properties": {
+        "name": "Jamnadas Industrial Estate Phase 2",
+        "place_id": "ola-platform:5000050613496",
+        "address": "Jamnadas Industrial Estate Phase 2, Jawahar Talkies, Mulund West, Mumbai, Bhagalpur, Bihar 80, 812004, India",
+        "district": "Bhagalpur",
+        "state": "Bihar",
+        "types": [
+          "storage"
+        ],
+        "query_used": "industrial estate Bhagalpur Bihar",
+        "fetched_at": "2026-04-01T15:37:08.191676"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.02906,
+          25.264205
+        ]
+      },
+      "properties": {
+        "name": "Large Industrial Estate",
+        "place_id": "ola-platform:5000067018904",
+        "address": "Large Industrial Estate, Sabour, Bhagalpur, Bihar, 812003, India",
+        "district": "Bhagalpur",
+        "state": "Bihar",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Bhagalpur Bihar",
+        "fetched_at": "2026-04-01T15:37:08.222225"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.938,
+          25.238
+        ]
+      },
+      "properties": {
+        "name": "Papad Factory Road",
+        "place_id": "ola-platform:5000186816176",
+        "address": "Papad Factory Road, Papad Factory Rd, Champapur, Bhagalpur, Bihar, 812004, India",
+        "district": "Bhagalpur",
+        "state": "Bihar",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Bhagalpur",
+        "fetched_at": "2026-04-01T15:37:08.310032"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.75767,
+          25.586915
+        ]
+      },
+      "properties": {
+        "name": "Gidha Industrial Area",
+        "place_id": "ola-platform:5000060897836",
+        "address": "Gidha Industrial Area, Giddha, Koilwar, Bhojpur, Bihar, 802160, India",
+        "district": "Bhojpur",
+        "state": "Bihar",
+        "types": [
+          "city_hall"
+        ],
+        "query_used": "industrial area Bhojpur",
+        "fetched_at": "2026-04-01T15:37:10.837369"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.7446,
+          25.5953
+        ]
+      },
+      "properties": {
+        "name": "Giddha, Gidha Industrial Area",
+        "place_id": "ola-platform:5000187793985",
+        "address": "Giddha, Gidha Industrial Area, Giddha, Bihar, 802314, India",
+        "district": "Bhojpur",
+        "state": "Bihar",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Bhojpur",
+        "fetched_at": "2026-04-01T15:37:10.904376"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.00081,
+          25.58327
+        ]
+      },
+      "properties": {
+        "name": "Buxar - Patna Rd",
+        "place_id": "ola-platform:5000191487867",
+        "address": "Buxar - Patna Rd, Industrial Area Buxar, Balihar, Buxar, Bihar, 802101, India",
+        "district": "Buxar",
+        "state": "Bihar",
+        "types": [],
+        "query_used": "industrial area Buxar",
+        "fetched_at": "2026-04-01T15:37:13.570856"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.0045,
+          25.5844
+        ]
+      },
+      "properties": {
+        "name": "Buxar - Arrah Rd",
+        "place_id": "ola-platform:5000194390805",
+        "address": "Buxar - Arrah Rd, Industrial Area Buxar, Niranjanpur, Buxar, Bihar, 802116, India",
+        "district": "Buxar",
+        "state": "Bihar",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Buxar",
+        "fetched_at": "2026-04-01T15:37:13.602505"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.0045,
+          25.5843
+        ]
+      },
+      "properties": {
+        "name": "Buxar - Patna Rd",
+        "place_id": "ola-platform:5000193101348",
+        "address": "Buxar - Patna Rd, Industrial Area Buxar, Niranjanpur, Buxar, Bihar, 802116, India",
+        "district": "Buxar",
+        "state": "Bihar",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Buxar",
+        "fetched_at": "2026-04-01T15:37:13.632852"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.00208,
+          25.5837
+        ]
+      },
+      "properties": {
+        "name": "Buxar - Patna Rd",
+        "place_id": "ola-platform:5000194309187",
+        "address": "Buxar - Patna Rd, Industrial Area Buxar, Niranjanpur, Balihar, Buxar, Bihar, 802101, India",
+        "district": "Buxar",
+        "state": "Bihar",
+        "types": [],
+        "query_used": "industrial area Buxar",
+        "fetched_at": "2026-04-01T15:37:13.664192"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84,
+          25.5828
+        ]
+      },
+      "properties": {
+        "name": "Buxar - Arrah Rd",
+        "place_id": "ola-platform:5000193139637",
+        "address": "Buxar - Arrah Rd, Maruti Housing Colony, Industrial Area Buxar, Niranjanpur, Buxar, Bihar, 802101, India",
+        "district": "Buxar",
+        "state": "Bihar",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Buxar",
+        "fetched_at": "2026-04-01T15:37:13.693202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.924947,
+          26.145116
+        ]
+      },
+      "properties": {
+        "name": "Donar Industrial Area Entry Gate",
+        "place_id": "ola-platform:5000037640638",
+        "address": "Donar Industrial Area Entry Gate, Bahadurpur, Darbhanga, Bihar, 846009, India",
+        "district": "Darbhanga",
+        "state": "Bihar",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Darbhanga",
+        "fetched_at": "2026-04-01T15:37:16.454211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.90929,
+          26.151167
+        ]
+      },
+      "properties": {
+        "name": "Dharampur Industrial Area",
+        "place_id": "ola-platform:5000048442370",
+        "address": "Dharampur Industrial Area, Bahadurpur, Darbhanga, Bihar, 846009, India",
+        "district": "Darbhanga",
+        "state": "Bihar",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Darbhanga",
+        "fetched_at": "2026-04-01T15:37:16.485842"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.9105,
+          26.1445
+        ]
+      },
+      "properties": {
+        "name": "Donar Industrial Area",
+        "place_id": "ola-platform:5000222107274",
+        "address": "Donar Industrial Area, C-15, 16, Industrial Area, Donar, Darbhanga, Bihar 846009, India",
+        "district": "Darbhanga",
+        "state": "Bihar",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial area Darbhanga",
+        "fetched_at": "2026-04-01T15:37:16.519654"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.9266,
+          26.1464
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000054470692",
+        "address": "Industrial Area, Donar, Malpatti, Bihar, 846009, India",
+        "district": "Darbhanga",
+        "state": "Bihar",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Darbhanga",
+        "fetched_at": "2026-04-01T15:37:16.550304"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.92506,
+          26.14497
+        ]
+      },
+      "properties": {
+        "name": "Krishna Hero Workshop Industrial Area",
+        "place_id": "ola-platform:5000061381034",
+        "address": "Krishna Hero Workshop Industrial Area, Donar, Malpatti, Bihar, 846009, India",
+        "district": "Darbhanga",
+        "state": "Bihar",
+        "types": [
+          "car_repair"
+        ],
+        "query_used": "industrial area Darbhanga",
+        "fetched_at": "2026-04-01T15:37:16.578860"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.8949,
+          26.172
+        ]
+      },
+      "properties": {
+        "name": "Bela Industrial Estate",
+        "place_id": "ola-platform:5000194796259",
+        "address": "Bela Industrial Estate, Sundarpur, Darbhanga, Bihar, 846005, India",
+        "district": "Darbhanga",
+        "state": "Bihar",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Darbhanga Bihar",
+        "fetched_at": "2026-04-01T15:37:16.606426"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.93301,
+          26.146691
+        ]
+      },
+      "properties": {
+        "name": "New Industrial Estate",
+        "place_id": "ola-platform:5000056408600",
+        "address": "New Industrial Estate, Bahadurpur, Darbhanga, Bihar, 846009, India",
+        "district": "Darbhanga",
+        "state": "Bihar",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "industrial estate Darbhanga Bihar",
+        "fetched_at": "2026-04-01T15:37:16.634666"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.9106,
+          26.1517
+        ]
+      },
+      "properties": {
+        "name": "Dharampur Industrial Estate",
+        "place_id": "ola-platform:5000038046895",
+        "address": "Dharampur Industrial Estate, Kabir Chak, Road, Lakshmisagar, Darbhanga, Bihar, 846009, India",
+        "district": "Darbhanga",
+        "state": "Bihar",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Darbhanga Bihar",
+        "fetched_at": "2026-04-01T15:37:16.660528"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.90754,
+          26.16285
+        ]
+      },
+      "properties": {
+        "name": "23, Sudha Factory Road",
+        "place_id": "ola-platform:5000196276517",
+        "address": "23, Sudha Factory Road, Near Hanuman Mandir Road, Lakshmisagar, Darbhanga, Bihar, 846009, India",
+        "district": "Darbhanga",
+        "state": "Bihar",
+        "types": [],
+        "query_used": "factory area Darbhanga",
+        "fetched_at": "2026-04-01T15:37:16.719774"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.96751,
+          24.7284
+        ]
+      },
+      "properties": {
+        "name": "B-2 (P, Gaya-Dobhi Rd",
+        "place_id": "ola-platform:5000200710748",
+        "address": "B-2 (P, Gaya-Dobhi Rd, Behind Gaya, Gaya Industrial Area, Gaya, Tikuna, Bihar, 824231, India",
+        "district": "Gaya",
+        "state": "Bihar",
+        "types": [],
+        "query_used": "industrial area Gaya",
+        "fetched_at": "2026-04-01T15:37:26.245140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9655,
+          24.7295
+        ]
+      },
+      "properties": {
+        "name": "Buddha Institute Of Technology, Gaya",
+        "place_id": "ola-platform:5000049458766",
+        "address": "Buddha Institute Of Technology, Gaya, P), Industrial Area, B-2, NH 83, Gaya Industrial Area, Gaya, Tikuna, Bihar, 824231, India",
+        "district": "Gaya",
+        "state": "Bihar",
+        "types": [
+          "university"
+        ],
+        "query_used": "industrial area Gaya",
+        "fetched_at": "2026-04-01T15:37:26.309645"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9735,
+          24.973
+        ]
+      },
+      "properties": {
+        "name": "State Bank Of India Bela Industrial Estate",
+        "place_id": "ola-platform:5000041781876",
+        "address": "State Bank Of India Bela Industrial Estate, P.O. M.I.C, Bela Rd, Muzaffarpur, Bihar, 804403, India",
+        "district": "Gaya",
+        "state": "Bihar",
+        "types": [
+          "bank"
+        ],
+        "query_used": "industrial estate Gaya Bihar",
+        "fetched_at": "2026-04-01T15:37:26.395610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.26404,
+          24.944527
+        ]
+      },
+      "properties": {
+        "name": "Bright Industries Notebook Manufacturing",
+        "place_id": "ola-platform:5000066951568",
+        "address": "Bright Industries Notebook Manufacturing, Barhat, Jamui, Bihar, 811313, India",
+        "district": "Jamui",
+        "state": "Bihar",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "manufacturing hub Jamui",
+        "fetched_at": "2026-04-01T15:37:33.096442"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9942,
+          25.218
+        ]
+      },
+      "properties": {
+        "name": "Balti Factory",
+        "place_id": "ola-platform:5000039036319",
+        "address": "Balti Factory, Jehanabad, Bihar, 804408, India",
+        "district": "Jehanabad",
+        "state": "Bihar",
+        "types": [
+          "parking"
+        ],
+        "query_used": "factory area Jehanabad",
+        "fetched_at": "2026-04-01T15:37:36.315932"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9921,
+          25.2247
+        ]
+      },
+      "properties": {
+        "name": "Social Trunk Manufacturing Works (Stmw)",
+        "place_id": "ola-platform:5000050906779",
+        "address": "Social Trunk Manufacturing Works (Stmw), Kako Road, Near New Bus Stand, Godrej Shop, Ujala Colony, Jehanabad, Bihar, 804408, India",
+        "district": "Jehanabad",
+        "state": "Bihar",
+        "types": [
+          "furniture_store"
+        ],
+        "query_used": "manufacturing hub Jehanabad",
+        "fetched_at": "2026-04-01T15:37:36.436891"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.8115,
+          25.5939
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Chakarmania",
+        "place_id": "ola-platform:5000057627970",
+        "address": "Industrial Area Chakarmania, Chakarmania, Patna, Bihar, 852161, India",
+        "district": "Khagaria",
+        "state": "Bihar",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Khagaria",
+        "fetched_at": "2026-04-01T15:37:44.572092"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.4666,
+          25.5017
+        ]
+      },
+      "properties": {
+        "name": "Shivraj Jewellers & Verma Manufacturing, (SJVM)",
+        "place_id": "ola-platform:5000057221712",
+        "address": "Shivraj Jewellers & Verma Manufacturing, (SJVM), Infront, Ward No 10, Main Rd, Off Bharat Vastralaya, KaliBari, Khagaria, Bihar, 851204, India",
+        "district": "Khagaria",
+        "state": "Bihar",
+        "types": [
+          "store"
+        ],
+        "query_used": "manufacturing hub Khagaria",
+        "fetched_at": "2026-04-01T15:37:45.012765"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.0938,
+          25.1752
+        ]
+      },
+      "properties": {
+        "name": "MahaDev Cinema To Sindur Factory Path",
+        "place_id": "ola-platform:5000185214502",
+        "address": "MahaDev Cinema To Sindur Factory Path, Lakhisarai, Bihar, 811311, India",
+        "district": "Lakhisarai",
+        "state": "Bihar",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Lakhisarai",
+        "fetched_at": "2026-04-01T15:37:51.202873"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.219164,
+          25.220936
+        ]
+      },
+      "properties": {
+        "name": "Nilnikhil Cement Manufacturing Pvt Ltd",
+        "place_id": "ola-platform:5000061805199",
+        "address": "Nilnikhil Cement Manufacturing Pvt Ltd, Surajgarha, Lakhisarai, Bihar, 811106, India",
+        "district": "Lakhisarai",
+        "state": "Bihar",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Lakhisarai",
+        "fetched_at": "2026-04-01T15:37:51.369483"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.7537,
+          25.8989
+        ]
+      },
+      "properties": {
+        "name": "Madhepura Electric Locomotive Factory",
+        "place_id": "ola-platform:5000049658209",
+        "address": "Madhepura Electric Locomotive Factory, Tuniahi Uttarwari, Bihar, 852113, India",
+        "district": "Madhepura",
+        "state": "Bihar",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Madhepura",
+        "fetched_at": "2026-04-01T15:37:55.300201"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.7497,
+          25.8941
+        ]
+      },
+      "properties": {
+        "name": "Alstom Residential Colony, Madhepura Rail Factory",
+        "place_id": "ola-platform:5000051497786",
+        "address": "Alstom Residential Colony, Madhepura Rail Factory, Lchhmirampur Uttarwari Chakla, Bihar, 852121, India",
+        "district": "Madhepura",
+        "state": "Bihar",
+        "types": [
+          "premise",
+          "subpremise"
+        ],
+        "query_used": "factory area Madhepura",
+        "fetched_at": "2026-04-01T15:37:55.334769"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.789,
+          25.9073
+        ]
+      },
+      "properties": {
+        "name": "Railway Line Sleeper Factory",
+        "place_id": "ola-platform:5000187760367",
+        "address": "Railway Line Sleeper Factory, Maheshkhunt - Madhepura - Purnia Rd, Madhepura, Bihar, 852113, India",
+        "district": "Madhepura",
+        "state": "Bihar",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Madhepura",
+        "fetched_at": "2026-04-01T15:37:55.404847"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.7449,
+          25.8859
+        ]
+      },
+      "properties": {
+        "name": "Notebook Files Folder Manufacturing",
+        "place_id": "ola-platform:5000042766206",
+        "address": "Notebook Files Folder Manufacturing, At+post, Shripur Dis+ps, Madhepura, Shreepur Uttarwadi, Bihar, 852121, India",
+        "district": "Madhepura",
+        "state": "Bihar",
+        "types": [
+          "point_of_interest"
+        ],
+        "query_used": "manufacturing hub Madhepura",
+        "fetched_at": "2026-04-01T15:37:55.487430"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.6611,
+          25.0914
+        ]
+      },
+      "properties": {
+        "name": "State Bank Of India Tarapur Industrial Estate",
+        "place_id": "ola-platform:5000049581698",
+        "address": "State Bank Of India Tarapur Industrial Estate, Khodaram Baugh Boisar (WEST Taluka, Kushwaha Colony, Thane, Maharashtra, 813214, India",
+        "district": "Munger",
+        "state": "Bihar",
+        "types": [
+          "bank"
+        ],
+        "query_used": "industrial estate Munger Bihar",
+        "fetched_at": "2026-04-01T15:38:00.968581"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4176,
+          26.0907
+        ]
+      },
+      "properties": {
+        "name": "Bela Industrial Area Muzaffarpur",
+        "place_id": "ola-platform:5000045577732",
+        "address": "Bela Industrial Area Muzaffarpur, Bela, D-3, Phase-2, Industrial Area, Bela, Muzaffarpur, Bihar, 842002, India",
+        "district": "Muzaffarpur",
+        "state": "Bihar",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Muzaffarpur",
+        "fetched_at": "2026-04-01T15:38:03.711745"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4079,
+          26.0983
+        ]
+      },
+      "properties": {
+        "name": "Bela Industrial Area - Muzaffarpur",
+        "place_id": "ola-platform:5000222083802",
+        "address": "Bela Industrial Area - Muzaffarpur, Ground Floor, B4-19, Swami Vivekanand Rd, Textile Cluster, Sherpur, Narayanpur Anant, Muzaffarpur, Bihar 842002, India",
+        "district": "Muzaffarpur",
+        "state": "Bihar",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial area Muzaffarpur",
+        "fetched_at": "2026-04-01T15:38:03.758725"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.40916,
+          26.105408
+        ]
+      },
+      "properties": {
+        "name": "Bela, Industrial Area, Muzaffarpur",
+        "place_id": "ola-platform:5000038483702",
+        "address": "Bela, Industrial Area, Muzaffarpur, Musahri, Muzaffarpur, Bihar, 843116, India",
+        "district": "Muzaffarpur",
+        "state": "Bihar",
+        "types": [
+          "tourist_attraction"
+        ],
+        "query_used": "industrial area Muzaffarpur",
+        "fetched_at": "2026-04-01T15:38:03.801600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.419927,
+          26.093552
+        ]
+      },
+      "properties": {
+        "name": "Architecture Agencies Industrial Area",
+        "place_id": "ola-platform:5000047891054",
+        "address": "Architecture Agencies Industrial Area, Muzaffarpur, Musahri, Muzaffarpur, Bihar, 842002, India",
+        "district": "Muzaffarpur",
+        "state": "Bihar",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Muzaffarpur",
+        "fetched_at": "2026-04-01T15:38:03.850517"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1618,
+          26.2658
+        ]
+      },
+      "properties": {
+        "name": "Bihar Industrial Area Development Authority",
+        "place_id": "ola-platform:5000050214989",
+        "address": "Bihar Industrial Area Development Authority, Motipur, Mahamadpur Balmi, Bihar, 843111, India",
+        "district": "Muzaffarpur",
+        "state": "Bihar",
+        "types": [
+          "local_government_office"
+        ],
+        "query_used": "industrial area Muzaffarpur",
+        "fetched_at": "2026-04-01T15:38:03.896242"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.419156,
+          26.094434
+        ]
+      },
+      "properties": {
+        "name": "Bela Industrial Estate",
+        "place_id": "ola-platform:5000055922930",
+        "address": "Bela Industrial Estate, Muzaffarpur, Musahri, Muzaffarpur, Bihar, 842002, India",
+        "district": "Muzaffarpur",
+        "state": "Bihar",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Muzaffarpur Bihar",
+        "fetched_at": "2026-04-01T15:38:03.942364"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.39191,
+          26.13057
+        ]
+      },
+      "properties": {
+        "name": "1, Chocolate Factory Rd Jangli Mai Asthan Road No",
+        "place_id": "ola-platform:5000194268695",
+        "address": "1, Chocolate Factory Rd Jangli Mai Asthan Road No, 3, Musahri, Muzaffarpur, Nazirpur, Bihar, 842001, India",
+        "district": "Muzaffarpur",
+        "state": "Bihar",
+        "types": [],
+        "query_used": "factory area Muzaffarpur",
+        "fetched_at": "2026-04-01T15:38:04.152078"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3875,
+          26.1344
+        ]
+      },
+      "properties": {
+        "name": "Prabhat Zarda Factory",
+        "place_id": "ola-platform:5000176712235",
+        "address": "Prabhat Zarda Factory, Akharghat, Muzaffarpur, Bihar, 842001, India",
+        "district": "Muzaffarpur",
+        "state": "Bihar",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Muzaffarpur",
+        "fetched_at": "2026-04-01T15:38:04.216081"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4053,
+          26.1152
+        ]
+      },
+      "properties": {
+        "name": "Lijjat Papad Factory, Muzzafarpur",
+        "place_id": "ola-platform:5000041964200",
+        "address": "Lijjat Papad Factory, Muzzafarpur, Rambagh Rd, Mahammadpur Kazi, Buddha Colony, Rambagh Khanhuli, Muzaffarpur, Bihar, 842001, India",
+        "district": "Muzaffarpur",
+        "state": "Bihar",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Muzaffarpur",
+        "fetched_at": "2026-04-01T15:38:04.248736"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.388,
+          26.1559
+        ]
+      },
+      "properties": {
+        "name": "S K Machinery - Plate Making | Machine Manufacturing Muzaffarpur",
+        "place_id": "ola-platform:5000067153420",
+        "address": "S K Machinery - Plate Making | Machine Manufacturing Muzaffarpur, Shanti Comlex, Sitamarhi Rd, New Zero Mile, Chak Ghazi, Bihar, 842001, India",
+        "district": "Muzaffarpur",
+        "state": "Bihar",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "manufacturing hub Muzaffarpur",
+        "fetched_at": "2026-04-01T15:38:04.318152"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.5113,
+          25.1938
+        ]
+      },
+      "properties": {
+        "name": "Bihar Industrial Area Development Authority",
+        "place_id": "ola-platform:5000068815944",
+        "address": "Bihar Industrial Area Development Authority, Nh33, Master Colony, Ramchandrapur, Bihar Sharif, Bihar, 803101, India",
+        "district": "Nalanda",
+        "state": "Bihar",
+        "types": [
+          "local_government_office"
+        ],
+        "query_used": "industrial area Nalanda",
+        "fetched_at": "2026-04-01T15:38:06.599464"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.5354,
+          25.2082
+        ]
+      },
+      "properties": {
+        "name": "Mirdad Nalanda Bulb Factory Road",
+        "place_id": "ola-platform:5000189427882",
+        "address": "Mirdad Nalanda Bulb Factory Road, Mirdad Nalanda Bulb Factory Rd, Kalyanpur, Bihar Sharif, Bihar, 803101, India",
+        "district": "Nalanda",
+        "state": "Bihar",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Nalanda",
+        "fetched_at": "2026-04-01T15:38:06.777972"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.53545,
+          25.20838
+        ]
+      },
+      "properties": {
+        "name": "Mirdad Nalanda Bulb Factory Rd",
+        "place_id": "ola-platform:5000193791063",
+        "address": "Mirdad Nalanda Bulb Factory Rd, Kalyanpur, Bihar Sharif, Bihar, 803101, India",
+        "district": "Nalanda",
+        "state": "Bihar",
+        "types": [],
+        "query_used": "factory area Nalanda",
+        "fetched_at": "2026-04-01T15:38:06.813735"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.451,
+          25.0196
+        ]
+      },
+      "properties": {
+        "name": "Ordnance Factory Nalanda",
+        "place_id": "ola-platform:5000039728321",
+        "address": "Ordnance Factory Nalanda, Nalanda, Rajgir, Ujarpur, Bihar, 803121, India",
+        "district": "Nalanda",
+        "state": "Bihar",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Nalanda",
+        "fetched_at": "2026-04-01T15:38:06.894771"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.0606,
+          25.5762
+        ]
+      },
+      "properties": {
+        "name": "Nalanda Biscuits Factory",
+        "place_id": "ola-platform:5000063348472",
+        "address": "Nalanda Biscuits Factory, Fiya Colony, Maulana Azad Nagar, Phulwari Sharif, Patna, Bihar, 801505, India",
+        "district": "Nalanda",
+        "state": "Bihar",
+        "types": [
+          "food",
+          "restaurant"
+        ],
+        "query_used": "factory area Nalanda",
+        "fetched_at": "2026-04-01T15:38:06.931312"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.5382,
+          25.1997
+        ]
+      },
+      "properties": {
+        "name": "Nalanda Broom Manufacturing",
+        "place_id": "ola-platform:5000057099678",
+        "address": "Nalanda Broom Manufacturing, Railway Station Rd, Near Sagar Tredars, Sakunat Kala, Bihar Sharif, Bihar, 803101, India",
+        "district": "Nalanda",
+        "state": "Bihar",
+        "types": [
+          "point_of_interest"
+        ],
+        "query_used": "manufacturing hub Nalanda",
+        "fetched_at": "2026-04-01T15:38:06.969659"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.104004,
+          25.635641
+        ]
+      },
+      "properties": {
+        "name": "Asian City Hospital, Patna",
+        "place_id": "ola-platform:5000328388554",
+        "address": "Asian City Hospital, Patna, Behind P & M Mall, Patliputra Industrial Area, Patliputra Colony, Patna, Bihar 800013",
+        "district": "Patna",
+        "state": "Bihar",
+        "types": [
+          "hospital"
+        ],
+        "query_used": "industrial area Patna",
+        "fetched_at": "2026-04-01T15:38:12.565949"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3209,
+          25.5028
+        ]
+      },
+      "properties": {
+        "name": "Banshi Air Gases - Medical/industrial Oxygen Gas Manufacturer/dealer/distributor In Patna",
+        "place_id": "ola-platform:5000037095222",
+        "address": "Banshi Air Gases - Medical/industrial Oxygen Gas Manufacturer/dealer/distributor In Patna, G3 & H2 P Phase, 2, Fatuha Industrial Area, Near Bharat Gas, Fatwah, Bihar, 803201, India",
+        "district": "Patna",
+        "state": "Bihar",
+        "types": [
+          "health"
+        ],
+        "query_used": "industrial area Patna",
+        "fetched_at": "2026-04-01T15:38:12.680803"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1041,
+          25.634
+        ]
+      },
+      "properties": {
+        "name": "iON Digital Zone Idz3 Patliputra",
+        "place_id": "ola-platform:5000176715867",
+        "address": "iON Digital Zone Idz3 Patliputra, Gate No. 2, Block 3, Uno Digital Pvt Ltd, Road No. 3, Near Mall Road, Patliputra Industrial Area, Estate, Patna, Bihar, 800013, India",
+        "district": "Patna",
+        "state": "Bihar",
+        "types": [
+          "electronics_store"
+        ],
+        "query_used": "industrial estate Patna Bihar",
+        "fetched_at": "2026-04-01T15:38:12.711735"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.106,
+          25.636
+        ]
+      },
+      "properties": {
+        "name": "Website Design Company In Patna, Bihar Omni Hosting",
+        "place_id": "ola-platform:5000064152023",
+        "address": "Website Design Company In Patna, Bihar Omni Hosting, Patliputra Kurji Rd, Near Patliputra Industrial, Estate, Patna, Bihar, 800010, India",
+        "district": "Patna",
+        "state": "Bihar",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Patna Bihar",
+        "fetched_at": "2026-04-01T15:38:12.742067"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.10417,
+          25.634286
+        ]
+      },
+      "properties": {
+        "name": "Patna Industrial Estate",
+        "place_id": "ola-platform:5000053795729",
+        "address": "Patna Industrial Estate, Patliputra Industrial Area, Digha, Patna, Patna Rural, Patna, Bihar, 800013, India",
+        "district": "Patna",
+        "state": "Bihar",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Patna Bihar",
+        "fetched_at": "2026-04-01T15:38:12.771188"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1041,
+          25.6331
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:5000193060984",
+        "address": "Industrial Estate, 8/1, Near P & M Mall, Patliputra Industrial Area, Patliputra Colony, Patna, Bihar, 800013, India",
+        "district": "Patna",
+        "state": "Bihar",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Patna Bihar",
+        "fetched_at": "2026-04-01T15:38:12.795918"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.106186,
+          25.63251
+        ]
+      },
+      "properties": {
+        "name": "C 22 Patliputra Industrial Estate",
+        "place_id": "ola-platform:5000066371566",
+        "address": "C 22 Patliputra Industrial Estate, Patna, Patna Rural, Patna, Bihar, 800013, India",
+        "district": "Patna",
+        "state": "Bihar",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Patna Bihar",
+        "fetched_at": "2026-04-01T15:38:12.828653"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1814,
+          25.6075
+        ]
+      },
+      "properties": {
+        "name": "Almirah Manufacturing",
+        "place_id": "ola-platform:5000056765516",
+        "address": "Almirah Manufacturing, S.H.A Faizi, Assistant Registrar, Patna Highcourt, Almirah Manufacturing, Ali Rd, New Azimbad Colony, Sandalpur, Patna, Bihar, 800004, India",
+        "district": "Patna",
+        "state": "Bihar",
+        "types": [
+          "local_government_office"
+        ],
+        "query_used": "manufacturing hub Patna",
+        "fetched_at": "2026-04-01T15:38:13.063643"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1806,
+          25.586
+        ]
+      },
+      "properties": {
+        "name": "Alstone Manufacturing",
+        "place_id": "ola-platform:5000052493093",
+        "address": "Alstone Manufacturing, Adarsh Colony, West, NH-30, Near NRL Petrol Pump, Transport Nagar, Kumhrar, Patna, Bihar, 800026, India",
+        "district": "Patna",
+        "state": "Bihar",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "manufacturing hub Patna",
+        "fetched_at": "2026-04-01T15:38:13.168769"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.4599,
+          25.7438
+        ]
+      },
+      "properties": {
+        "name": "Uma Pvt. ITI, Industrial Area, Maranga, Purnea",
+        "place_id": "ola-platform:5000039297782",
+        "address": "Uma Pvt. ITI, Industrial Area, Maranga, Purnea, Industrial Area, Biada, Maranga, Purnia, Bihar, 854303, India",
+        "district": "Purnia",
+        "state": "Bihar",
+        "types": [
+          "university"
+        ],
+        "query_used": "industrial area Purnia",
+        "fetched_at": "2026-04-01T15:38:15.287521"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.517018,
+          25.799657
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:5000060060897",
+        "address": "Industrial Estate, Purnia, Purnia East, Purnia, Bihar, 854305, India",
+        "district": "Purnia",
+        "state": "Bihar",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Purnia Bihar",
+        "fetched_at": "2026-04-01T15:38:15.433044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.5178,
+          25.8002
+        ]
+      },
+      "properties": {
+        "name": "City Rd, Industrial Estate",
+        "place_id": "ola-platform:5000200121120",
+        "address": "City Rd, Industrial Estate, Bihar, 854305, India",
+        "district": "Purnia",
+        "state": "Bihar",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Purnia Bihar",
+        "fetched_at": "2026-04-01T15:38:15.487179"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.5009,
+          25.7709
+        ]
+      },
+      "properties": {
+        "name": "Madhopara",
+        "place_id": "ola-platform:5000176836254",
+        "address": "Madhopara, iON Digital IDZ Purnea, Near Ice Cream Factory, Madhopara, Madhopur, Madhopara, Purnia, Bihar, 854301, India",
+        "district": "Purnia",
+        "state": "Bihar",
+        "types": [
+          "food",
+          "restaurant"
+        ],
+        "query_used": "factory area Purnia",
+        "fetched_at": "2026-04-01T15:38:15.677885"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.02125,
+          24.98042
+        ]
+      },
+      "properties": {
+        "name": "Arun Pipe Manufacturing",
+        "place_id": "ola-platform:5000060550867",
+        "address": "Arun Pipe Manufacturing, Nh119a, Sasaram, Rohtas, Bihar, 821113, India",
+        "district": "Rohtas",
+        "state": "Bihar",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "manufacturing hub Rohtas",
+        "fetched_at": "2026-04-01T15:38:18.682302"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.767067,
+          25.866055
+        ]
+      },
+      "properties": {
+        "name": "Maa Shambhavibajaj Industrial Area",
+        "place_id": "ola-platform:5000177242343",
+        "address": "Maa Shambhavibajaj Industrial Area, Dharampur Chowk, Industrial Area, Samastipur, Bihar- 848101",
+        "district": "Samastipur",
+        "state": "Bihar",
+        "types": [
+          "electronics_store"
+        ],
+        "query_used": "industrial area Samastipur",
+        "fetched_at": "2026-04-01T15:38:24.351795"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.76324,
+          25.83183
+        ]
+      },
+      "properties": {
+        "name": "Plot No. 69, 70. Industrial Area",
+        "place_id": "ola-platform:5000192669641",
+        "address": "Plot No. 69, 70. Industrial Area, Plot No. 69, 70. Industrial Area, Harpur Ailoth, Bihar, 848101, India",
+        "district": "Samastipur",
+        "state": "Bihar",
+        "types": [],
+        "query_used": "industrial area Samastipur",
+        "fetched_at": "2026-04-01T15:38:24.387121"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.83241,
+          25.184185
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Chittaura .",
+        "place_id": "ola-platform:5000039254172",
+        "address": "Industrial Area Chittaura, Sheikhpura, Bihar, 811105, India",
+        "district": "Sheikhpura",
+        "state": "Bihar",
+        "types": [
+          "restaurant",
+          "meal_takeaway",
+          "meal_delivery"
+        ],
+        "query_used": "industrial area Sheikhpura",
+        "fetched_at": "2026-04-01T15:38:30.017179"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.5115,
+          26.5861
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Road",
+        "place_id": "ola-platform:5000186127694",
+        "address": "Industrial Area Road, Sharif Colony, Sitamarhi, Bihar, 843301, India",
+        "district": "Sitamarhi",
+        "state": "Bihar",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Sitamarhi",
+        "fetched_at": "2026-04-01T15:38:38.146516"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.5109,
+          26.588
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Ext Rd",
+        "place_id": "ola-platform:5000184960521",
+        "address": "Industrial Area Ext Rd, Pratap Nagar, Sitamarhi, Bihar, 843301, India",
+        "district": "Sitamarhi",
+        "state": "Bihar",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Sitamarhi",
+        "fetched_at": "2026-04-01T15:38:38.171948"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.5118,
+          26.5861
+        ]
+      },
+      "properties": {
+        "name": "Small Scale Industrial Area",
+        "place_id": "ola-platform:5000185042973",
+        "address": "Small Scale Industrial Area, Sharif Colony, Sitamarhi, Bihar, 843301, India",
+        "district": "Sitamarhi",
+        "state": "Bihar",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Sitamarhi",
+        "fetched_at": "2026-04-01T15:38:38.197466"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.51018,
+          26.58299
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Road",
+        "place_id": "ola-platform:5000183474193",
+        "address": "Industrial Area Road, Chak Rajopatti, Sitamarhi, Bihar, 843301, India",
+        "district": "Sitamarhi",
+        "state": "Bihar",
+        "types": [],
+        "query_used": "industrial area Sitamarhi",
+        "fetched_at": "2026-04-01T15:38:38.224381"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.51614,
+          26.57958
+        ]
+      },
+      "properties": {
+        "name": "Lane No 11, Near Cotton Factory Shantinagr",
+        "place_id": "ola-platform:5000186571958",
+        "address": "Lane No 11, Near Cotton Factory Shantinagr, Lane No 11, Near Cotton Factory Shantinagr, Dumra Rd, Shanti Nagar, Sitamarhi, Bihar, 843314, India",
+        "district": "Sitamarhi",
+        "state": "Bihar",
+        "types": [],
+        "query_used": "factory area Sitamarhi",
+        "fetched_at": "2026-04-01T15:38:38.502180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.28025,
+          25.99436
+        ]
+      },
+      "properties": {
+        "name": "18/23, Guindy Industrial Estate",
+        "place_id": "ola-platform:5000189531678",
+        "address": "18/23, Guindy Industrial Estate, Guindy, Raghunath Pur, Murarpatti, Bihar, 841504, India",
+        "district": "Siwan",
+        "state": "Bihar",
+        "types": [],
+        "query_used": "industrial estate Siwan Bihar",
+        "fetched_at": "2026-04-01T15:38:41.362092"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3862,
+          26.1338
+        ]
+      },
+      "properties": {
+        "name": "Sikandarpur Stadium",
+        "place_id": "ola-platform:5000057414821",
+        "address": "Sikandarpur Stadium, Near Zarda Factory, Near Radha Devi School, New Area, Sikandarpur, Muzaffarpur, Bihar, 842001, India",
+        "district": "Siwan",
+        "state": "Bihar",
+        "types": [
+          "stadium"
+        ],
+        "query_used": "factory area Siwan",
+        "fetched_at": "2026-04-01T15:38:41.685551"
+      }
+    }
+  ]
+}

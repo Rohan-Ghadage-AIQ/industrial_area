@@ -1,0 +1,963 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.4479,
+          26.6536
+        ]
+      },
+      "properties": {
+        "name": "Mini Industrial Estate",
+        "place_id": "ola-platform:5000058861552",
+        "address": "Mini Industrial Estate, Baganpara, Assam, 781344, India",
+        "district": "Baksa",
+        "state": "Assam",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Baksa Assam",
+        "fetched_at": "2026-04-01T15:34:58.395551"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.787,
+          26.185
+        ]
+      },
+      "properties": {
+        "name": "Bamunimaidan Industrial Estate",
+        "place_id": "ola-platform:5000194290984",
+        "address": "Bamunimaidan Industrial Estate, Bamunimaidan, Guwahati, Assam, 781021, India",
+        "district": "Baksa",
+        "state": "Assam",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Baksa Assam",
+        "fetched_at": "2026-04-01T15:34:58.417317"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7403,
+          26.1588
+        ]
+      },
+      "properties": {
+        "name": "Kalapahar Mini Industrial Estate",
+        "place_id": "ola-platform:5000193045757",
+        "address": "Kalapahar Mini Industrial Estate, Fayal Ahmed Rd, Binowa Nagar, Kala Pahar, Guwahati, Assam, 781018, India",
+        "district": "Baksa",
+        "state": "Assam",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Baksa Assam",
+        "fetched_at": "2026-04-01T15:34:58.457984"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.0068,
+          26.3303
+        ]
+      },
+      "properties": {
+        "name": "AP Manufacturing Jewelers",
+        "place_id": "ola-platform:5000221829677",
+        "address": "AP Manufacturing Jewelers, BB Rd, Barpeta, Assam 781314, India",
+        "district": "Barpeta",
+        "state": "Assam",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "manufacturing hub Barpeta",
+        "fetched_at": "2026-04-01T15:35:01.164541"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.53334,
+          26.479105
+        ]
+      },
+      "properties": {
+        "name": "New Bongaigaon Industrial Estate",
+        "place_id": "ola-platform:5000065238324",
+        "address": "New Bongaigaon Industrial Estate, Bongaigaon, Bongaigaon (Pt), Bongaigaon, Assam, 783381, India",
+        "district": "Bongaigaon",
+        "state": "Assam",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Bongaigaon Assam",
+        "fetched_at": "2026-04-01T15:35:07.817593"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.53298,
+          26.47776
+        ]
+      },
+      "properties": {
+        "name": "State Bank Of India - New Bongaigaon Industrial Estate Branch",
+        "place_id": "ola-platform:5000040636877",
+        "address": "State Bank Of India - New Bongaigaon Industrial Estate Branch, Dangtal Road, Tuniapar Market, New Bongaigaon Jn. FOB, Natunpara, Bongaigaon, Assam, 783381, India",
+        "district": "Bongaigaon",
+        "state": "Assam",
+        "types": [
+          "atm"
+        ],
+        "query_used": "industrial estate Bongaigaon Assam",
+        "fetched_at": "2026-04-01T15:35:07.842297"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5336,
+          26.4805
+        ]
+      },
+      "properties": {
+        "name": "Carbon Factory",
+        "place_id": "ola-platform:5000195922419",
+        "address": "Carbon Factory, New Colony, Natunpara, Bongaigaon, Assam, 783381, India",
+        "district": "Bongaigaon",
+        "state": "Assam",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Bongaigaon",
+        "fetched_at": "2026-04-01T15:35:07.911965"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.577,
+          26.4757
+        ]
+      },
+      "properties": {
+        "name": "Birjhora Tea Estate's Factory",
+        "place_id": "ola-platform:5000062407233",
+        "address": "Birjhora Tea Estate's Factory, Bagan Rd, Mayapuri, Bongaigaon, Assam, 783380, India",
+        "district": "Bongaigaon",
+        "state": "Assam",
+        "types": [
+          "food",
+          "restaurant"
+        ],
+        "query_used": "factory area Bongaigaon",
+        "fetched_at": "2026-04-01T15:35:07.961646"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.586923,
+          26.263887
+        ]
+      },
+      "properties": {
+        "name": "Steel Furniture Manufacturing",
+        "place_id": "ola-platform:5000050372144",
+        "address": "Steel Furniture Manufacturing, Boitamari, Bongaigaon, Assam, 783388, India",
+        "district": "Bongaigaon",
+        "state": "Assam",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "manufacturing hub Bongaigaon",
+        "fetched_at": "2026-04-01T15:35:08.036768"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.77558,
+          24.82621
+        ]
+      },
+      "properties": {
+        "name": "ShantiNath Air Products Malinibeel Industrial Area Chirukandi RamNagar -788003",
+        "place_id": "ola-platform:5000192815784",
+        "address": "ShantiNath Air Products Malinibeel Industrial Area Chirukandi RamNagar -788003, Ambicapatty, Silchar, Ambikapur Part-X, Assam, 788008, India",
+        "district": "Cachar",
+        "state": "Assam",
+        "types": [],
+        "query_used": "industrial area Cachar",
+        "fetched_at": "2026-04-01T15:35:10.469539"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.5698,
+          24.8707
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate Badurpur Ghat, Karimganj",
+        "place_id": "ola-platform:5000057667570",
+        "address": "Industrial Estate Badurpur Ghat, Karimganj, Alakulipur, Assam, 788805, India",
+        "district": "Cachar",
+        "state": "Assam",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Cachar Assam",
+        "fetched_at": "2026-04-01T15:35:10.542529"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.00756,
+          26.42872
+        ]
+      },
+      "properties": {
+        "name": "23, Industrial Area Rd",
+        "place_id": "ola-platform:5000184707863",
+        "address": "23, Industrial Area Rd, Mangaldoi, Pakabangipara, Assam, 784529, India",
+        "district": "Darrang",
+        "state": "Assam",
+        "types": [],
+        "query_used": "industrial area Darrang",
+        "fetched_at": "2026-04-01T15:35:22.394703"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.00723,
+          26.43035
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Rd",
+        "place_id": "ola-platform:5000187613970",
+        "address": "Industrial Area Rd, Mangaldoi, Pakabangipara, Assam, 784529, India",
+        "district": "Darrang",
+        "state": "Assam",
+        "types": [],
+        "query_used": "industrial area Darrang",
+        "fetched_at": "2026-04-01T15:35:22.421917"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.9682,
+          26.0173
+        ]
+      },
+      "properties": {
+        "name": "Dhubri Match Factory",
+        "place_id": "ola-platform:5000194067766",
+        "address": "Dhubri Match Factory, Assam Match Company Road, Hazari Gaon, Bagulamari, Dhubri, Assam, 783301, India",
+        "district": "Dhubri",
+        "state": "Assam",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Dhubri",
+        "fetched_at": "2026-04-01T15:35:28.990687"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.98057,
+          26.01764
+        ]
+      },
+      "properties": {
+        "name": "Karai Factory Rd",
+        "place_id": "ola-platform:5000198815851",
+        "address": "Karai Factory Rd, Bidyapara, Dhubri, Assam, 783325, India",
+        "district": "Dhubri",
+        "state": "Assam",
+        "types": [],
+        "query_used": "factory area Dhubri",
+        "fetched_at": "2026-04-01T15:35:29.043063"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.315533,
+          27.353848
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Duliajan Main Gate",
+        "place_id": "ola-platform:5000059115163",
+        "address": "Industrial Area Duliajan Main Gate, Indian Oil, SH-1007, BOC Gate, Duliajan, Tengakhat, Dibrugarh, Assam, 786602, India",
+        "district": "Dibrugarh",
+        "state": "Assam",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Dibrugarh",
+        "fetched_at": "2026-04-01T15:35:31.483136"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.310799,
+          27.353294
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000066963967",
+        "address": "Industrial Area, BOC Gate, Duliajan, Tengakhat, Dibrugarh, Assam, 786602, India",
+        "district": "Dibrugarh",
+        "state": "Assam",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Dibrugarh",
+        "fetched_at": "2026-04-01T15:35:31.512436"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.3153,
+          27.3537
+        ]
+      },
+      "properties": {
+        "name": "Oil India Limited Industrial Area",
+        "place_id": "ola-platform:5000065579414",
+        "address": "Oil India Limited Industrial Area, Oil Industrial Area, Duliajan, Assam, 786602, India",
+        "district": "Dibrugarh",
+        "state": "Assam",
+        "types": [
+          "storage"
+        ],
+        "query_used": "industrial area Dibrugarh",
+        "fetched_at": "2026-04-01T15:35:31.539184"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.31228,
+          27.35388
+        ]
+      },
+      "properties": {
+        "name": "Oil Industrial Area",
+        "place_id": "ola-platform:5000200826176",
+        "address": "Oil Industrial Area, Duliajan, 1 No. Dulia, Assam, 786602, India",
+        "district": "Dibrugarh",
+        "state": "Assam",
+        "types": [],
+        "query_used": "industrial area Dibrugarh",
+        "fetched_at": "2026-04-01T15:35:31.565118"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.31509,
+          27.35395
+        ]
+      },
+      "properties": {
+        "name": "Oil Industrial Area",
+        "place_id": "ola-platform:5000184426074",
+        "address": "Oil Industrial Area, Duliajan, Duliajan Oil Town, Assam, 786602, India",
+        "district": "Dibrugarh",
+        "state": "Assam",
+        "types": [],
+        "query_used": "industrial area Dibrugarh",
+        "fetched_at": "2026-04-01T15:35:31.594066"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.88807,
+          27.42556
+        ]
+      },
+      "properties": {
+        "name": "Behiating Industrial Estate",
+        "place_id": "ola-platform:5000053264230",
+        "address": "Behiating Industrial Estate, Dibrugarh West, Dibrugarh, Assam, 786008, India",
+        "district": "Dibrugarh",
+        "state": "Assam",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Dibrugarh Assam",
+        "fetched_at": "2026-04-01T15:35:31.622875"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.90999,
+          27.4715
+        ]
+      },
+      "properties": {
+        "name": "Match Factory Rd",
+        "place_id": "ola-platform:5000193316641",
+        "address": "Match Factory Rd, Chowkidingee, Dibrugarh, Assam, 786001, India",
+        "district": "Dibrugarh",
+        "state": "Assam",
+        "types": [],
+        "query_used": "factory area Dibrugarh",
+        "fetched_at": "2026-04-01T15:35:31.798551"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.9705,
+          26.4163
+        ]
+      },
+      "properties": {
+        "name": "Dolowjan Tea Factory",
+        "place_id": "ola-platform:5000061865672",
+        "address": "Dolowjan Tea Factory, Dolowjan- Dolowjan, Balijan - Oating - Garigaon Rd, Golaghat, Rupkotia, Assam, 785603, India",
+        "district": "Golaghat",
+        "state": "Assam",
+        "types": [
+          "cafe"
+        ],
+        "query_used": "factory area Golaghat",
+        "fetched_at": "2026-04-01T15:35:40.868299"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9812,
+          25.8928
+        ]
+      },
+      "properties": {
+        "name": "Dalmia Cement Factory Lanka",
+        "place_id": "ola-platform:5000060050706",
+        "address": "Dalmia Cement Factory Lanka, Hojai, Assam, 782446, India",
+        "district": "Hojai",
+        "state": "Assam",
+        "types": [
+          "electronics_store"
+        ],
+        "query_used": "factory area Hojai",
+        "fetched_at": "2026-04-01T15:35:48.460757"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          94.217476,
+          26.749577
+        ]
+      },
+      "properties": {
+        "name": "Caroom Board Manufacturing And Furniture Maker",
+        "place_id": "ola-platform:5000043432900",
+        "address": "Caroom Board Manufacturing And Furniture Maker, Bashbari/ Bongal Pukhuri Area, Jorhat, Jorhat East, Jorhat, Assam, 785001, India",
+        "district": "Jorhat",
+        "state": "Assam",
+        "types": [
+          "furniture_store"
+        ],
+        "query_used": "manufacturing hub Jorhat",
+        "fetched_at": "2026-04-01T15:35:51.736695"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8332,
+          26.1636
+        ]
+      },
+      "properties": {
+        "name": "KL Industrial Estate",
+        "place_id": "ola-platform:5000054539343",
+        "address": "KL Industrial Estate, Sonai Mikir Path, Puberun Nagar, Kalitakuchi, Narengi Tinali, Bonda Gaon, Assam, 781171, India",
+        "district": "Kamrup",
+        "state": "Assam",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Kamrup Assam",
+        "fetched_at": "2026-04-01T15:35:54.152307"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7,
+          26.2268
+        ]
+      },
+      "properties": {
+        "name": "Bajaj Depot Brahmaputra Industrial Estate",
+        "place_id": "ola-platform:5000042117281",
+        "address": "Bajaj Depot Brahmaputra Industrial Estate, Karaibari, Assam, 781101, India",
+        "district": "Kamrup",
+        "state": "Assam",
+        "types": [
+          "storage"
+        ],
+        "query_used": "industrial estate Kamrup Assam",
+        "fetched_at": "2026-04-01T15:35:54.185840"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6832,
+          26.2351
+        ]
+      },
+      "properties": {
+        "name": "Jagati Mini Industrial Estate",
+        "place_id": "ola-platform:5000035899493",
+        "address": "Jagati Mini Industrial Estate, Changsari, Kali Pahar, Assam, 781101, India",
+        "district": "Kamrup",
+        "state": "Assam",
+        "types": [
+          "storage"
+        ],
+        "query_used": "industrial estate Kamrup Assam",
+        "fetched_at": "2026-04-01T15:35:54.220261"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.75621,
+          26.17286
+        ]
+      },
+      "properties": {
+        "name": "Godrej And Boyce Manufacturing Company Ltd",
+        "place_id": "ola-platform:5000056552319",
+        "address": "Godrej And Boyce Manufacturing Company Ltd, Ulubari, Guwahati, Kamrup Metropolitan, Assam, 781008, India",
+        "district": "Kamrup",
+        "state": "Assam",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Kamrup",
+        "fetched_at": "2026-04-01T15:35:54.529746"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.677025,
+          26.185946
+        ]
+      },
+      "properties": {
+        "name": "Amingaon Industrial Area",
+        "place_id": "ola-platform:5000064665291",
+        "address": "Amingaon Industrial Area, Amingaon, North Guwahati (Pt), Kamrup Metropolitan, Assam, 781031, India",
+        "district": "Kamrup Metropolitan",
+        "state": "Assam",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Kamrup Metropolitan",
+        "fetched_at": "2026-04-01T15:35:57.685365"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.677127,
+          26.185173
+        ]
+      },
+      "properties": {
+        "name": "Amingaon Industrial Area",
+        "place_id": "ola-platform:5000040591475",
+        "address": "Amingaon Industrial Area, Amingaon, North Guwahati (Pt), Kamrup Metropolitan, Assam, 781031, India",
+        "district": "Kamrup Metropolitan",
+        "state": "Assam",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Kamrup Metropolitan",
+        "fetched_at": "2026-04-01T15:35:57.714718"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.73997,
+          26.15927
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate Kalapahar",
+        "place_id": "ola-platform:5000047731388",
+        "address": "Industrial Estate Kalapahar, Birubari, Dispur, Kamrup Metropolitan, Assam, 781018, India",
+        "district": "Kamrup Metropolitan",
+        "state": "Assam",
+        "types": [
+          "landmark"
+        ],
+        "query_used": "industrial estate Kamrup Metropolitan Assam",
+        "fetched_at": "2026-04-01T15:35:57.810544"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.785774,
+          26.18592
+        ]
+      },
+      "properties": {
+        "name": "Bamunimaidam Industrial Estate",
+        "place_id": "ola-platform:5000065611970",
+        "address": "Bamunimaidam Industrial Estate, Bamunimaidam, Guwahati, Kamrup Metropolitan, Assam, 781021, India",
+        "district": "Kamrup Metropolitan",
+        "state": "Assam",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Kamrup Metropolitan Assam",
+        "fetched_at": "2026-04-01T15:35:57.840581"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.739952,
+          26.159084
+        ]
+      },
+      "properties": {
+        "name": "Mini Industrial Estate",
+        "place_id": "ola-platform:5000046609982",
+        "address": "Mini Industrial Estate, Birubari, Dispur, Kamrup Metropolitan, Assam, 781018, India",
+        "district": "Kamrup Metropolitan",
+        "state": "Assam",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Kamrup Metropolitan Assam",
+        "fetched_at": "2026-04-01T15:35:57.864715"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.694245,
+          25.901947
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate BPO Post Office",
+        "place_id": "ola-platform:5000051611024",
+        "address": "Industrial Estate BPO Post Office, Diphu, Karbi Anglong, Assam, 797113, India",
+        "district": "Karbi Anglong",
+        "state": "Assam",
+        "types": [
+          "post_office"
+        ],
+        "query_used": "industrial estate Karbi Anglong Assam",
+        "fetched_at": "2026-04-01T15:36:00.778080"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.5579,
+          24.8697
+        ]
+      },
+      "properties": {
+        "name": "State Bank Of India Industrial Estate Badarpur",
+        "place_id": "ola-platform:5000048198241",
+        "address": "State Bank Of India Industrial Estate Badarpur, St Road, Badarpur Dist:karimganj, Badarpur, Assam, 788806, India",
+        "district": "Karimganj",
+        "state": "Assam",
+        "types": [
+          "bank"
+        ],
+        "query_used": "industrial estate Karimganj Assam",
+        "fetched_at": "2026-04-01T15:36:03.646331"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.8996,
+          26.5594
+        ]
+      },
+      "properties": {
+        "name": "AIDC Industrial Area: Naltali",
+        "place_id": "ola-platform:5000055895342",
+        "address": "AIDC Industrial Area: Naltali, AIDC, Naltali, Assam, 782143, India",
+        "district": "Nagaon",
+        "state": "Assam",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Nagaon",
+        "fetched_at": "2026-04-01T15:36:21.271791"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.4221,
+          26.4384
+        ]
+      },
+      "properties": {
+        "name": "Nalbari Industrial Area",
+        "place_id": "ola-platform:5000046993649",
+        "address": "Nalbari Industrial Area, Balikaria, Assam, 781341, India",
+        "district": "Nalbari",
+        "state": "Assam",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Nalbari",
+        "fetched_at": "2026-04-01T15:36:24.132820"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.4232,
+          26.4379
+        ]
+      },
+      "properties": {
+        "name": "Gopal Bazar Industrial Area",
+        "place_id": "ola-platform:5000046067075",
+        "address": "Gopal Bazar Industrial Area, Gopal Bazar, Nalbari, Balikaria Kharjara, Assam, 781341, India",
+        "district": "Nalbari",
+        "state": "Assam",
+        "types": [
+          "supermarket"
+        ],
+        "query_used": "industrial area Nalbari",
+        "fetched_at": "2026-04-01T15:36:24.242084"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2826,
+          26.5061
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate Tihu",
+        "place_id": "ola-platform:5000060466007",
+        "address": "Industrial Estate Tihu, Nathkuchi - Doomni Road, Tihu, No.1.Nathkuchi, Assam, 781371, India",
+        "district": "Nalbari",
+        "state": "Assam",
+        "types": [
+          "real_estate_agency"
+        ],
+        "query_used": "industrial estate Nalbari Assam",
+        "fetched_at": "2026-04-01T15:36:25.049420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.433222,
+          26.44681
+        ]
+      },
+      "properties": {
+        "name": "Sargam Micro Manufacturing",
+        "place_id": "ola-platform:5000046650624",
+        "address": "Sargam Micro Manufacturing, Sh9, Nalbari, Assam, 781341, India",
+        "district": "Nalbari",
+        "state": "Assam",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "manufacturing hub Nalbari",
+        "fetched_at": "2026-04-01T15:36:26.278298"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.394979,
+          27.486392
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000044676602",
+        "address": "Industrial Area, Tinsukia, Assam, 786125, India",
+        "district": "Tinsukia",
+        "state": "Assam",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Tinsukia",
+        "fetched_at": "2026-04-01T15:36:37.767879"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.33477,
+          27.501531
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:5000056361267",
+        "address": "Industrial Estate, I.T.I Ground, DC Office Road, Tinsukia, Assam, 786126, India",
+        "district": "Tinsukia",
+        "state": "Assam",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Tinsukia Assam",
+        "fetched_at": "2026-04-01T15:36:37.855536"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.430138,
+          27.594452
+        ]
+      },
+      "properties": {
+        "name": "Baghjan Tea Manufacturing Plant",
+        "place_id": "ola-platform:5000039944471",
+        "address": "Baghjan Tea Manufacturing Plant, Doom Dooma, Tinsukia, Assam, 786151, India",
+        "district": "Tinsukia",
+        "state": "Assam",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Tinsukia",
+        "fetched_at": "2026-04-01T15:36:38.184268"
+      }
+    }
+  ]
+}

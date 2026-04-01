@@ -1,0 +1,2023 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.33325,
+          9.457
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000062019115",
+        "address": "Industrial Area, Vadackal, Paravoor, Ambalappuzha, Alappuzha, Kerala, 688003, India",
+        "district": "Alappuzha",
+        "state": "Kerala",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Alappuzha",
+        "fetched_at": "2026-04-01T15:46:40.369391"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.581898,
+          9.246767
+        ]
+      },
+      "properties": {
+        "name": "Kochalumoodu Industrial Area",
+        "place_id": "ola-platform:5000067987415",
+        "address": "Kochalumoodu Industrial Area, Mavelikkara - Kozhencherry Road, Kochalumoodu, Mavelikkara, Alappuzha, Kerala, 690108, India",
+        "district": "Alappuzha",
+        "state": "Kerala",
+        "types": [
+          "art_gallery"
+        ],
+        "query_used": "industrial area Alappuzha",
+        "fetched_at": "2026-04-01T15:46:40.413425"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2964,
+          9.8845
+        ]
+      },
+      "properties": {
+        "name": "Aroor Industrial Estate",
+        "place_id": "ola-platform:5000188810687",
+        "address": "Aroor Industrial Estate, Nh47a, Aroor Gram Panchayat, Kochi, Kerala, 688534, India",
+        "district": "Alappuzha",
+        "state": "Kerala",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Alappuzha Kerala",
+        "fetched_at": "2026-04-01T15:46:40.474961"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6393,
+          9.2213
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate Rd",
+        "place_id": "ola-platform:5000195886369",
+        "address": "Industrial Estate Rd, Pattoor, Kerala, 690529, India",
+        "district": "Alappuzha",
+        "state": "Kerala",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Alappuzha Kerala",
+        "fetched_at": "2026-04-01T15:46:40.491060"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5824,
+          9.2468
+        ]
+      },
+      "properties": {
+        "name": "Western Entry Gate Of Kollakadavu Industrial Estate",
+        "place_id": "ola-platform:5000202051791",
+        "address": "Western Entry Gate Of Kollakadavu Industrial Estate, Mavelikara, Kerala, 690108, India",
+        "district": "Alappuzha",
+        "state": "Kerala",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Alappuzha Kerala",
+        "fetched_at": "2026-04-01T15:46:40.509249"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3002,
+          9.8831
+        ]
+      },
+      "properties": {
+        "name": "Aroor Industrial Estate",
+        "place_id": "ola-platform:5000042253415",
+        "address": "Aroor Industrial Estate, Elite Foods Pvt Ltd, Puthanangadi Road, Aroor Gram Panchayat, Kochi, Kerala, 688534, India",
+        "district": "Alappuzha",
+        "state": "Kerala",
+        "types": [
+          "gas_station"
+        ],
+        "query_used": "industrial estate Alappuzha Kerala",
+        "fetched_at": "2026-04-01T15:46:40.526853"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3236,
+          9.4907
+        ]
+      },
+      "properties": {
+        "name": "Rubber Factory Junction",
+        "place_id": "ola-platform:5000194476630",
+        "address": "Rubber Factory Junction, Zackaria Bazar, Alappuzha, Kerala, 688012, India",
+        "district": "Alappuzha",
+        "state": "Kerala",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Alappuzha",
+        "fetched_at": "2026-04-01T15:46:40.546608"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3339,
+          9.4862
+        ]
+      },
+      "properties": {
+        "name": "Golden Factory Colony",
+        "place_id": "ola-platform:5000196927298",
+        "address": "Golden Factory Colony, Municipal Stadium Ward, Vellakkinar, Alappuzha, Kerala, 688001, India",
+        "district": "Alappuzha",
+        "state": "Kerala",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Alappuzha",
+        "fetched_at": "2026-04-01T15:46:40.562514"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.346839,
+          9.493199
+        ]
+      },
+      "properties": {
+        "name": "Kerala State Coir Machinery Manufacturing Company Ltd",
+        "place_id": "ola-platform:5000061801366",
+        "address": "Kerala State Coir Machinery Manufacturing Company Ltd, Kallupalam, Mullakkal, Alappuzha, Ambalappuzha, Alappuzha, Kerala, 688011, India",
+        "district": "Alappuzha",
+        "state": "Kerala",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Alappuzha",
+        "fetched_at": "2026-04-01T15:46:40.636321"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3377,
+          9.503391
+        ]
+      },
+      "properties": {
+        "name": "Kerala State Coir Machinery Manufacturing Company Limited",
+        "place_id": "ola-platform:5000048992140",
+        "address": "Kerala State Coir Machinery Manufacturing Company Limited, Chathanad, Vazhichery, Alappuzha, Ambalappuzha, Alappuzha, Kerala, 688013, India",
+        "district": "Alappuzha",
+        "state": "Kerala",
+        "types": [
+          "furniture_store"
+        ],
+        "query_used": "manufacturing hub Alappuzha",
+        "fetched_at": "2026-04-01T15:46:40.657457"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.32151,
+          9.50103
+        ]
+      },
+      "properties": {
+        "name": "The GoodWill Coir Manufacturing Cooperation",
+        "place_id": "ola-platform:5000058597881",
+        "address": "The GoodWill Coir Manufacturing Cooperation, GoodWill Coir, Sh66, Sea View Ward, Shava Kotta Palam, Alappuzha, Ambalappuzha, Alappuzha, Kerala, 688007, India",
+        "district": "Alappuzha",
+        "state": "Kerala",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Alappuzha",
+        "fetched_at": "2026-04-01T15:46:40.678143"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.32101,
+          9.50071
+        ]
+      },
+      "properties": {
+        "name": "GoodWill Coir Manufacturing Co.",
+        "place_id": "ola-platform:5000054518455",
+        "address": "GoodWill Coir Manufacturing Co, Canal Ward, Vellappally, Kanjiramchira, Alappuzha, Kerala, 688007, India",
+        "district": "Alappuzha",
+        "state": "Kerala",
+        "types": [
+          "furniture_store"
+        ],
+        "query_used": "manufacturing hub Alappuzha",
+        "fetched_at": "2026-04-01T15:46:40.695577"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.327151,
+          9.603557
+        ]
+      },
+      "properties": {
+        "name": "Coir Manufacturing Company",
+        "place_id": "ola-platform:5000050307998",
+        "address": "Coir Manufacturing Company, Kanjikkuzhi, Cherthala, Alappuzha, Kerala, 688523, India",
+        "district": "Alappuzha",
+        "state": "Kerala",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Alappuzha",
+        "fetched_at": "2026-04-01T15:46:40.712885"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.31097,
+          10.07897
+        ]
+      },
+      "properties": {
+        "name": "Ernakulam Plot No 143 Industrial Development Area Edayar",
+        "place_id": "ola-platform:5000184803360",
+        "address": "Ernakulam Plot No 143 Industrial Development Area Edayar, Muppathadam Rd, PO, Ernakulam, Kerala, 683502, India",
+        "district": "Ernakulam",
+        "state": "Kerala",
+        "types": [],
+        "query_used": "industrial area Ernakulam",
+        "fetched_at": "2026-04-01T15:46:43.377878"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.673,
+          10.0147
+        ]
+      },
+      "properties": {
+        "name": "Angamali Industrial Area",
+        "place_id": "ola-platform:5000061970860",
+        "address": "Angamali Industrial Area, Ernakulam, Kerala, 686671, India",
+        "district": "Ernakulam",
+        "state": "Kerala",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Ernakulam",
+        "fetched_at": "2026-04-01T15:46:43.401314"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.267858,
+          9.961013
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000062007389",
+        "address": "Industrial Area, School Of Nursing, Bristow Road, Mattancherry, Kochi, Ernakulam, Kerala, 682009, India",
+        "district": "Ernakulam",
+        "state": "Kerala",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Ernakulam",
+        "fetched_at": "2026-04-01T15:46:43.428259"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.4011,
+          10.0851
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000053046325",
+        "address": "Industrial Area, Kerala, 683112, India",
+        "district": "Ernakulam",
+        "state": "Kerala",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Ernakulam",
+        "fetched_at": "2026-04-01T15:46:43.453454"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5215,
+          10.2013
+        ]
+      },
+      "properties": {
+        "name": "Malayattoor-Illithodu Industrial Area",
+        "place_id": "ola-platform:5000042270381",
+        "address": "Malayattoor-Illithodu Industrial Area, Kerala, 683587, India",
+        "district": "Ernakulam",
+        "state": "Kerala",
+        "types": [
+          "supermarket"
+        ],
+        "query_used": "industrial area Ernakulam",
+        "fetched_at": "2026-04-01T15:46:43.482224"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.43874,
+          10.07203
+        ]
+      },
+      "properties": {
+        "name": "Mini Industrial Estate, Vengola",
+        "place_id": "ola-platform:5000044651217",
+        "address": "Mini Industrial Estate, Vengola, Ernakulam, Kerala, 683547, India",
+        "district": "Ernakulam",
+        "state": "Kerala",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Ernakulam Kerala",
+        "fetched_at": "2026-04-01T15:46:43.530566"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3558,
+          9.9639
+        ]
+      },
+      "properties": {
+        "name": "Mini Industrial Estate",
+        "place_id": "ola-platform:5000047600338",
+        "address": "Mini Industrial Estate, Irumpanam, Thrippunithura, Ernakulam, Kerala, 682309, India",
+        "district": "Ernakulam",
+        "state": "Kerala",
+        "types": [
+          "post_office"
+        ],
+        "query_used": "industrial estate Ernakulam Kerala",
+        "fetched_at": "2026-04-01T15:46:43.556325"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.4307,
+          10.1341
+        ]
+      },
+      "properties": {
+        "name": "Kanjoor Mini Industrial Estate Rd",
+        "place_id": "ola-platform:5000200053337",
+        "address": "Kanjoor Mini Industrial Estate Rd, Thekkumbhagom, Kerala, 683575, India",
+        "district": "Ernakulam",
+        "state": "Kerala",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Ernakulam Kerala",
+        "fetched_at": "2026-04-01T15:46:43.587527"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2729,
+          9.9869
+        ]
+      },
+      "properties": {
+        "name": "Matsyafed Nylon Net Factory",
+        "place_id": "ola-platform:5000201333427",
+        "address": "Matsyafed Nylon Net Factory, Marine Drive, Ernakulam, Kerala, 682031, India",
+        "district": "Ernakulam",
+        "state": "Kerala",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Ernakulam",
+        "fetched_at": "2026-04-01T15:46:43.635104"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3097,
+          10.058
+        ]
+      },
+      "properties": {
+        "name": "163, Glass Factory Rd",
+        "place_id": "ola-platform:5000185239470",
+        "address": "163, Glass Factory Rd, South Kalamassery, Kalamassery, Ernakulam, Kerala, 683104, India",
+        "district": "Ernakulam",
+        "state": "Kerala",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Ernakulam",
+        "fetched_at": "2026-04-01T15:46:43.669752"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.3097,
+          10.058
+        ]
+      },
+      "properties": {
+        "name": "175, Glass Factory Rd",
+        "place_id": "ola-platform:5000202033915",
+        "address": "175, Glass Factory Rd, South Kalamassery, Kalamassery, Ernakulam, Kochi, Kerala, 683104, India",
+        "district": "Ernakulam",
+        "state": "Kerala",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Ernakulam",
+        "fetched_at": "2026-04-01T15:46:43.694277"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.31565,
+          10.05975
+        ]
+      },
+      "properties": {
+        "name": "42338, Glass Factory Rd",
+        "place_id": "ola-platform:5000195145932",
+        "address": "42338, Glass Factory Rd, South Kalamassery, Kalamassery, Ernakulam, Kochi, Kerala, 683104, India",
+        "district": "Ernakulam",
+        "state": "Kerala",
+        "types": [],
+        "query_used": "factory area Ernakulam",
+        "fetched_at": "2026-04-01T15:46:43.718733"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.29949,
+          9.93194
+        ]
+      },
+      "properties": {
+        "name": "Three Star Consumable Products & Manufacturing",
+        "place_id": "ola-platform:5000068769644",
+        "address": "Three Star Consumable Products & Manufacturing, A1 Solutions, Thevara Ferry Road, Thevara South, Thevara, Ernakulam, Kanayannur, Ernakulam, Kerala, 682013, India",
+        "district": "Ernakulam",
+        "state": "Kerala",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "manufacturing hub Ernakulam",
+        "fetched_at": "2026-04-01T15:46:43.818564"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.314634,
+          10.083785
+        ]
+      },
+      "properties": {
+        "name": "Edayar Industrial Estate (Idukki Junction)",
+        "place_id": "ola-platform:5000067032117",
+        "address": "Edayar Industrial Estate (Idukki Junction), Idukki Junction, ആലുവ പാതാളം റോഡ്, Pathalam, Binanipuram, Paravur, Ernakulam, Kerala, 683502, India",
+        "district": "Idukki",
+        "state": "Kerala",
+        "types": [
+          "bus_station",
+          "transit_station",
+          "street_address"
+        ],
+        "query_used": "industrial estate Idukki Kerala",
+        "fetched_at": "2026-04-01T15:46:45.990674"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.37535,
+          11.87785
+        ]
+      },
+      "properties": {
+        "name": "Kannur District ReadyMade Manufacturing Garments Vanitha CoOperative Societ",
+        "place_id": "ola-platform:5000056179058",
+        "address": "Kannur District ReadyMade Manufacturing Garments Vanitha CoOperative Societ, Caltex, Talap, Kannur, Kerala, 670002, India",
+        "district": "Kannur",
+        "state": "Kerala",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "manufacturing hub Kannur",
+        "fetched_at": "2026-04-01T15:46:48.737260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.061,
+          12.4769
+        ]
+      },
+      "properties": {
+        "name": "Chattanchal Industrial Area Rd",
+        "place_id": "ola-platform:5000196231183",
+        "address": "Chattanchal Industrial Area Rd, Mundol, Chattanchal, Thekkil, Kerala, 671541, India",
+        "district": "Kasaragod",
+        "state": "Kerala",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Kasaragod",
+        "fetched_at": "2026-04-01T15:46:51.213734"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.057274,
+          12.484715
+        ]
+      },
+      "properties": {
+        "name": "Mangad Food Manufacturing Company",
+        "place_id": "ola-platform:5000058191515",
+        "address": "Mangad Food Manufacturing Company, Police Station, Melparamba, Kasargod-Kannur-Calicut Highway, Puthiriyadukkam Colony, Chattanchal, Kasaragod, Kerala, 671541, India",
+        "district": "Kasaragod",
+        "state": "Kerala",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "manufacturing hub Kasaragod",
+        "fetched_at": "2026-04-01T15:46:51.647463"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.59848,
+          8.87537
+        ]
+      },
+      "properties": {
+        "name": "Mundakkal Industrial Area Rd",
+        "place_id": "ola-platform:5000183247263",
+        "address": "Mundakkal Industrial Area Rd, Mundakkal, Kollam, Kerala, 691010, India",
+        "district": "Kollam",
+        "state": "Kerala",
+        "types": [],
+        "query_used": "industrial area Kollam",
+        "fetched_at": "2026-04-01T15:46:53.596065"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.59965,
+          8.87202
+        ]
+      },
+      "properties": {
+        "name": "Mundakkal Industrial Area Rd",
+        "place_id": "ola-platform:5000197845103",
+        "address": "Mundakkal Industrial Area Rd, Mundakkal Village, Kollam, Kerala, 691010, India",
+        "district": "Kollam",
+        "state": "Kerala",
+        "types": [],
+        "query_used": "industrial area Kollam",
+        "fetched_at": "2026-04-01T15:46:53.624387"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.637,
+          8.8822
+        ]
+      },
+      "properties": {
+        "name": "EVM Wheels, Self-Drive Rent A Car Company In Kollam/quilon, Kerala.",
+        "place_id": "ola-platform:5000043373230",
+        "address": "EVM Wheels, Self-Drive Rent A Car Company In Kollam/quilon, Kerala, EVM Wheels, Self-Drive Rent A Car Company In Kollam/quilon, Kerala, 1st Floor, Volkswagen Service Kollam, Industrial Estate Rd, Mylapure, Umayanalloor, Mayyanad, Kerala, 691021, India",
+        "district": "Kollam",
+        "state": "Kerala",
+        "types": [
+          "car_rental"
+        ],
+        "query_used": "industrial estate Kollam Kerala",
+        "fetched_at": "2026-04-01T15:46:53.721418"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6578,
+          8.8834
+        ]
+      },
+      "properties": {
+        "name": "Umayanalloor Industrial Estate",
+        "place_id": "ola-platform:5000053969071",
+        "address": "Umayanalloor Industrial Estate, Thazhuthala, Kerala, 691589, India",
+        "district": "Kollam",
+        "state": "Kerala",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Kollam Kerala",
+        "fetched_at": "2026-04-01T15:46:53.753008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.65489,
+          8.8667
+        ]
+      },
+      "properties": {
+        "name": "468, Industrial Estate Rd",
+        "place_id": "ola-platform:5000191013617",
+        "address": "468, Industrial Estate Rd, Umayanalloor, Thazhuthala, Kerala, 691589, India",
+        "district": "Kollam",
+        "state": "Kerala",
+        "types": [],
+        "query_used": "industrial estate Kollam Kerala",
+        "fetched_at": "2026-04-01T15:46:53.777766"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6551,
+          8.86913
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate Rd",
+        "place_id": "ola-platform:5000183523699",
+        "address": "Industrial Estate Rd, Umayanalloor, Thazhuthala, Kerala, 691589, India",
+        "district": "Kollam",
+        "state": "Kerala",
+        "types": [],
+        "query_used": "industrial estate Kollam Kerala",
+        "fetched_at": "2026-04-01T15:46:53.799852"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.655,
+          8.8681
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate Rd",
+        "place_id": "ola-platform:5000183513808",
+        "address": "Industrial Estate Rd, Umayanalloor, Mayyanad, Thazhuthala, Kerala, 691589, India",
+        "district": "Kollam",
+        "state": "Kerala",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Kollam Kerala",
+        "fetched_at": "2026-04-01T15:46:53.821578"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.791358,
+          9.572483
+        ]
+      },
+      "properties": {
+        "name": "Kollamkulam Factory Private Road",
+        "place_id": "ola-platform:441c65d098a9b097d36481526043aeb4",
+        "address": "Kollamkulam Factory Private Road, Kollamkulam Factory (Private Road), Kanjirappally, Kerala, 686507, India",
+        "district": "Kollam",
+        "state": "Kerala",
+        "types": [],
+        "query_used": "factory area Kollam",
+        "fetched_at": "2026-04-01T15:46:53.865934"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6407,
+          8.9474
+        ]
+      },
+      "properties": {
+        "name": "Kuzhiyam Cashew Factory",
+        "place_id": "ola-platform:5000185516142",
+        "address": "Kuzhiyam Cashew Factory, Kollam - Elamballoor Rd, Kuzhiyam, Kerala, 691511, India",
+        "district": "Kollam",
+        "state": "Kerala",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Kollam",
+        "fetched_at": "2026-04-01T15:46:53.911670"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.82729,
+          8.90342
+        ]
+      },
+      "properties": {
+        "name": "Cashew Factory",
+        "place_id": "ola-platform:5000186214996",
+        "address": "Cashew Factory, Elamadu, Kollam-Ayoor Rd, Elamadu, Kerala, 691516, India",
+        "district": "Kollam",
+        "state": "Kerala",
+        "types": [],
+        "query_used": "factory area Kollam",
+        "fetched_at": "2026-04-01T15:46:53.935189"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.4069,
+          9.7581
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000042470155",
+        "address": "Industrial Area, Sh15, Vaikom, Kerala, 686143, India",
+        "district": "Kottayam",
+        "state": "Kerala",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Kottayam",
+        "fetched_at": "2026-04-01T15:46:56.106781"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5472,
+          9.6788
+        ]
+      },
+      "properties": {
+        "name": "Dits Furniture Factory Outlet, Sidco Industrial Estate",
+        "place_id": "ola-platform:5000054948034",
+        "address": "Dits Furniture Factory Outlet, Sidco Industrial Estate, Ettumanoor, Kerala, 686631, India",
+        "district": "Kottayam",
+        "state": "Kerala",
+        "types": [
+          "furniture_store"
+        ],
+        "query_used": "industrial estate Kottayam Kerala",
+        "fetched_at": "2026-04-01T15:46:56.245095"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.55011,
+          9.67667
+        ]
+      },
+      "properties": {
+        "name": "89, Industrial Estate Rd",
+        "place_id": "ola-platform:5000199203928",
+        "address": "89, Industrial Estate Rd, Ettumanoor, Kerala, 686631, India",
+        "district": "Kottayam",
+        "state": "Kerala",
+        "types": [],
+        "query_used": "industrial estate Kottayam Kerala",
+        "fetched_at": "2026-04-01T15:46:56.272314"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5678,
+          9.4687
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate - Bank Padi Rd",
+        "place_id": "ola-platform:5000201099013",
+        "address": "Industrial Estate - Bank Padi Rd, Thrikkodithanam, Kerala, 686104, India",
+        "district": "Kottayam",
+        "state": "Kerala",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Kottayam Kerala",
+        "fetched_at": "2026-04-01T15:46:56.298082"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.5676,
+          9.4673
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate Changanassery",
+        "place_id": "ola-platform:5000065234018",
+        "address": "Industrial Estate Changanassery, Industrial Estate, Changanassery, Kerala, 686104, India",
+        "district": "Kottayam",
+        "state": "Kerala",
+        "types": [
+          "real_estate_agency"
+        ],
+        "query_used": "industrial estate Kottayam Kerala",
+        "fetched_at": "2026-04-01T15:46:56.325135"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.596689,
+          9.674455
+        ]
+      },
+      "properties": {
+        "name": "Jishnu Lighting Solutions, LED Manufacturing Company Kattachira",
+        "place_id": "ola-platform:5000177974464",
+        "address": "Jishnu Lighting Solutions, LED Manufacturing Company Kattachira, Kattachira, Kottayam, Kerala, 686631, India",
+        "district": "Kottayam",
+        "state": "Kerala",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Kottayam",
+        "fetched_at": "2026-04-01T15:46:56.479712"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.540009,
+          9.446412
+        ]
+      },
+      "properties": {
+        "name": "Energy Coffee Manufacturing Company",
+        "place_id": "ola-platform:5000040642560",
+        "address": "Energy Coffee Manufacturing Company, Bava Ladies Store, Market Road, Perunna, Changanassery, Kottayam, Kerala, 686101, India",
+        "district": "Kottayam",
+        "state": "Kerala",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "manufacturing hub Kottayam",
+        "fetched_at": "2026-04-01T15:46:56.504586"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.57859,
+          9.66925
+        ]
+      },
+      "properties": {
+        "name": "Estoc Automation-CNC Manufacturing",
+        "place_id": "ola-platform:5000064374170",
+        "address": "Estoc Automation-CNC Manufacturing, Rajesh's Store, Punnathura Kavala - Kattodu Road, Punnathura West, Kottayam, Kerala, 686631, India",
+        "district": "Kottayam",
+        "state": "Kerala",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "manufacturing hub Kottayam",
+        "fetched_at": "2026-04-01T15:46:56.529713"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8197,
+          11.2108
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate(government Of Kerala)",
+        "place_id": "ola-platform:5000068628899",
+        "address": "Industrial Estate(government Of Kerala), Nallalam, Kozhikode, Kerala, 673027, India",
+        "district": "Kozhikode",
+        "state": "Kerala",
+        "types": [
+          "local_government_office"
+        ],
+        "query_used": "industrial estate Kozhikode Kerala",
+        "fetched_at": "2026-04-01T15:46:59.052057"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8394,
+          11.184099
+        ]
+      },
+      "properties": {
+        "name": "Elite Bag Manufacturing",
+        "place_id": "ola-platform:5000062087036",
+        "address": "Elite Bag Manufacturing, Ration Shop, Petta Feroke, Old Nh17 Road, Cheruvannur, Kozhikode Municipal Corporation - Cheruvannur Nallalam Zone, Feroke, Kozhikode, Kerala, 673632, India",
+        "district": "Kozhikode",
+        "state": "Kerala",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "manufacturing hub Kozhikode",
+        "fetched_at": "2026-04-01T15:46:59.284910"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8406,
+          11.3203
+        ]
+      },
+      "properties": {
+        "name": "Chaithanya Interlock Manufacturing",
+        "place_id": "ola-platform:5000040496711",
+        "address": "Chaithanya Interlock Manufacturing, Karattuthazham, Kozhikode, Kuruvattoor, Kerala, 673611, India",
+        "district": "Kozhikode",
+        "state": "Kerala",
+        "types": [
+          "point_of_interest"
+        ],
+        "query_used": "manufacturing hub Kozhikode",
+        "fetched_at": "2026-04-01T15:46:59.312374"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.937678,
+          11.334746
+        ]
+      },
+      "properties": {
+        "name": "FK LED Lights (Manufacturing And Repairing Of LED Lights)",
+        "place_id": "ola-platform:5000206357085",
+        "address": "FK LED Lights (Manufacturing And Repairing Of LED Lights), Koduvally, Thamarassery, Kozhikode, Kerala, 673601, India",
+        "district": "Kozhikode",
+        "state": "Kerala",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Kozhikode",
+        "fetched_at": "2026-04-01T15:46:59.342158"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.8737,
+          11.2063
+        ]
+      },
+      "properties": {
+        "name": "Avafurns Furniture Manufacturing Unit",
+        "place_id": "ola-platform:5000058462139",
+        "address": "Avafurns Furniture Manufacturing Unit, Kuttikkattil, Karad Paramba, Farook College, Kozhikode, Kerala, 673633, India",
+        "district": "Kozhikode",
+        "state": "Kerala",
+        "types": [
+          "general_contractor"
+        ],
+        "query_used": "manufacturing hub Kozhikode",
+        "fetched_at": "2026-04-01T15:46:59.404308"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.0382,
+          10.916517
+        ]
+      },
+      "properties": {
+        "name": "Chottur Industrial Area",
+        "place_id": "ola-platform:5000048027721",
+        "address": "Chottur Industrial Area, Vettichira, Tirur, Malappuram, Kerala, 676553, India",
+        "district": "Malappuram",
+        "state": "Kerala",
+        "types": [
+          "real_estate_agency"
+        ],
+        "query_used": "industrial area Malappuram",
+        "fetched_at": "2026-04-01T15:47:01.521411"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1188,
+          11.1151
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate Cross Rd",
+        "place_id": "ola-platform:5000190567306",
+        "address": "Industrial Estate Cross Rd, Karuvambram, Manjeri, Kerala, 676121, India",
+        "district": "Malappuram",
+        "state": "Kerala",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Malappuram Kerala",
+        "fetched_at": "2026-04-01T15:47:01.604057"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1184,
+          11.1114
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate Rd",
+        "place_id": "ola-platform:5000202435303",
+        "address": "Industrial Estate Rd, Kacherippadi, Manjeri, Kerala, 676121, India",
+        "district": "Malappuram",
+        "state": "Kerala",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Malappuram Kerala",
+        "fetched_at": "2026-04-01T15:47:01.625892"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.11822,
+          11.12037
+        ]
+      },
+      "properties": {
+        "name": "3, Industrial Estate Rd",
+        "place_id": "ola-platform:5000200770575",
+        "address": "3, Industrial Estate Rd, Karuvambram, Manjeri, Kerala, 676121, India",
+        "district": "Malappuram",
+        "state": "Kerala",
+        "types": [],
+        "query_used": "industrial estate Malappuram Kerala",
+        "fetched_at": "2026-04-01T15:47:01.655210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.11752,
+          11.11706
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate Rd",
+        "place_id": "ola-platform:5000186359665",
+        "address": "Industrial Estate Rd, Karuvambram, Manjeri, Kerala, 676121, India",
+        "district": "Malappuram",
+        "state": "Kerala",
+        "types": [],
+        "query_used": "industrial estate Malappuram Kerala",
+        "fetched_at": "2026-04-01T15:47:01.674638"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.00353,
+          11.00089
+        ]
+      },
+      "properties": {
+        "name": "Home Decor Furniture Manufacturing Company",
+        "place_id": "ola-platform:5000052219729",
+        "address": "Home Decor Furniture Manufacturing Company, LuLu Fashion World, Tirur - Malappuram - Manjeri Road, Kottakkal, Ernad, Malappuram, Kerala, 676503, India",
+        "district": "Malappuram",
+        "state": "Kerala",
+        "types": [
+          "furniture_store"
+        ],
+        "query_used": "manufacturing hub Malappuram",
+        "fetched_at": "2026-04-01T15:47:01.904441"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.226773,
+          10.937194
+        ]
+      },
+      "properties": {
+        "name": "Fashion Sofa Manufacturing",
+        "place_id": "ola-platform:5000055817921",
+        "address": "Fashion Sofa Manufacturing, Perinthalmanna - Pattambi Road, Kunnappally, Perinthalmanna, Malappuram, Kerala, 679340, India",
+        "district": "Malappuram",
+        "state": "Kerala",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "manufacturing hub Malappuram",
+        "fetched_at": "2026-04-01T15:47:01.927575"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.71665,
+          10.78973
+        ]
+      },
+      "properties": {
+        "name": "1/750, Industrial Area",
+        "place_id": "ola-platform:5000187895182",
+        "address": "1/750, Industrial Area, 1/750, Industrial Area, Kurudikkad, Kanjikkode West Post, Kanjikode, Pudussery West, Kerala, 678623, India",
+        "district": "Palakkad",
+        "state": "Kerala",
+        "types": [],
+        "query_used": "industrial area Palakkad",
+        "fetched_at": "2026-04-01T15:47:04.170118"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6271,
+          10.8086
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate Post Office",
+        "place_id": "ola-platform:5000042258412",
+        "address": "Industrial Estate Post Office, Puthuppariyaram, Palakkad, Kerala, 678731, India",
+        "district": "Palakkad",
+        "state": "Kerala",
+        "types": [
+          "post_office"
+        ],
+        "query_used": "industrial estate Palakkad Kerala",
+        "fetched_at": "2026-04-01T15:47:04.271106"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.467,
+          10.6561
+        ]
+      },
+      "properties": {
+        "name": "Mini Industrial Estate",
+        "place_id": "ola-platform:5000040737619",
+        "address": "Mini Industrial Estate, Kavasseri-II, Kerala, 678545, India",
+        "district": "Palakkad",
+        "state": "Kerala",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Palakkad Kerala",
+        "fetched_at": "2026-04-01T15:47:04.292241"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.6272,
+          10.8021
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate Bus Stop",
+        "place_id": "ola-platform:5000050260645",
+        "address": "Industrial Estate Bus Stop, NH 213, Puthuppariyaram, Palakkad, Kerala, 678731, India",
+        "district": "Palakkad",
+        "state": "Kerala",
+        "types": [
+          "bus_station",
+          "transit_station"
+        ],
+        "query_used": "industrial estate Palakkad Kerala",
+        "fetched_at": "2026-04-01T15:47:04.313944"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.63002,
+          10.81059
+        ]
+      },
+      "properties": {
+        "name": "Pudhuppareyaram Industrial Estate 4/696",
+        "place_id": "ola-platform:5000201817992",
+        "address": "Pudhuppareyaram Industrial Estate 4/696, Happy Nagar, Puthuppariyaram, Palakkad, Kerala, 678009, India",
+        "district": "Palakkad",
+        "state": "Kerala",
+        "types": [],
+        "query_used": "industrial estate Palakkad Kerala",
+        "fetched_at": "2026-04-01T15:47:04.335313"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.08915,
+          10.70109
+        ]
+      },
+      "properties": {
+        "name": "Red Sun Plastic Factory",
+        "place_id": "ola-platform:5000195197275",
+        "address": "Red Sun Plastic Factory, Palakkad Ponnani Rd, Perumpilavu, Kerala, 680519, India",
+        "district": "Palakkad",
+        "state": "Kerala",
+        "types": [],
+        "query_used": "factory area Palakkad",
+        "fetched_at": "2026-04-01T15:47:04.383221"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.7391,
+          10.7967
+        ]
+      },
+      "properties": {
+        "name": "Jet Aerospace Drone Manufacturing Hub Private Limited",
+        "place_id": "ola-platform:5000220196487",
+        "address": "Jet Aerospace Drone Manufacturing Hub Private Limited, 64/3, Near KTC, Opposite To ITI Ltd, West Industrial Area, Kanjikode, Palakkad, Kerala 678621, India",
+        "district": "Palakkad",
+        "state": "Kerala",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "manufacturing hub Palakkad",
+        "fetched_at": "2026-04-01T15:47:04.475317"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8086,
+          10.7818
+        ]
+      },
+      "properties": {
+        "name": "Age Industries Private Limited, Latex Surgical Sterile /Non-Sterile Gloves Manufacturing Company, Ageind House, 1/887, Kousapara, Menonpara P O, Palakkad",
+        "place_id": "ola-platform:5000053677819",
+        "address": "Age Industries Private Limited, Latex Surgical Sterile /Non-Sterile Gloves Manufacturing Company, Ageind House, 1/887, Kousapara, Menonpara P O, Palakkad, Menonpara Road, Kanjikode East, Mele Pokkanthode, Palakkad, Kerala 678622, Mele Pokkanthode, Palakkad, Kerala",
+        "district": "Palakkad",
+        "state": "Kerala",
+        "types": [
+          "health"
+        ],
+        "query_used": "manufacturing hub Palakkad",
+        "fetched_at": "2026-04-01T15:47:04.498647"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8973,
+          8.5042
+        ]
+      },
+      "properties": {
+        "name": "Kochuveli Industrial Area",
+        "place_id": "ola-platform:5000202116004",
+        "address": "Kochuveli Industrial Area, Veli, Thiruvananthapuram, Kerala, 695021, India",
+        "district": "Thiruvananthapuram",
+        "state": "Kerala",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Thiruvananthapuram",
+        "fetched_at": "2026-04-01T15:47:09.372963"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.89696,
+          8.50546
+        ]
+      },
+      "properties": {
+        "name": "Kochuveli Industrial Area",
+        "place_id": "ola-platform:5000184678824",
+        "address": "Kochuveli Industrial Area, Kochuveli, Thiruvananthapuram, Kerala, 695021, India",
+        "district": "Thiruvananthapuram",
+        "state": "Kerala",
+        "types": [],
+        "query_used": "industrial area Thiruvananthapuram",
+        "fetched_at": "2026-04-01T15:47:09.398494"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.90009,
+          8.50375
+        ]
+      },
+      "properties": {
+        "name": "6, Kochuveli Industrial Area",
+        "place_id": "ola-platform:5000197160871",
+        "address": "6, Kochuveli Industrial Area, Veli, Thiruvananthapuram, Kerala, 695021, India",
+        "district": "Thiruvananthapuram",
+        "state": "Kerala",
+        "types": [],
+        "query_used": "industrial area Thiruvananthapuram",
+        "fetched_at": "2026-04-01T15:47:09.422653"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8945,
+          8.5442
+        ]
+      },
+      "properties": {
+        "name": "Alphabetz PreSchool Thiruvananthapuram, Kerala",
+        "place_id": "ola-platform:5000056116821",
+        "address": "Alphabetz PreSchool Thiruvananthapuram, Kerala, Pangappara-Manvila Rd, Manvila Industrial Estate, Manvila, Thiruvananthapuram, Kerala, 695582, India",
+        "district": "Thiruvananthapuram",
+        "state": "Kerala",
+        "types": [
+          "school",
+          "premise",
+          "primary_school"
+        ],
+        "query_used": "industrial estate Thiruvananthapuram Kerala",
+        "fetched_at": "2026-04-01T15:47:09.443289"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.9905,
+          8.4727
+        ]
+      },
+      "properties": {
+        "name": "Pappanamcode Industrial Estate",
+        "place_id": "ola-platform:5000066843307",
+        "address": "Pappanamcode Industrial Estate, Satyan Nagar, Pappanamcode, Thiruvananthapuram, Kerala, 695019, India",
+        "district": "Thiruvananthapuram",
+        "state": "Kerala",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Thiruvananthapuram Kerala",
+        "fetched_at": "2026-04-01T15:47:09.474152"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8992,
+          8.503
+        ]
+      },
+      "properties": {
+        "name": "Kochuveli Industrial Estate Association Office",
+        "place_id": "ola-platform:5000044760945",
+        "address": "Kochuveli Industrial Estate Association Office, Thiruvananthapuram, Kochuveli Industrial Area, Veli, Thiruvananthapuram, Kerala, 695021, India",
+        "district": "Thiruvananthapuram",
+        "state": "Kerala",
+        "types": [
+          "real_estate_agency"
+        ],
+        "query_used": "industrial estate Thiruvananthapuram Kerala",
+        "fetched_at": "2026-04-01T15:47:09.498640"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8929,
+          8.5444
+        ]
+      },
+      "properties": {
+        "name": "Manvila Industrial Estate",
+        "place_id": "ola-platform:5000186704837",
+        "address": "Manvila Industrial Estate, Manvila, Thiruvananthapuram, Kerala, 695582, India",
+        "district": "Thiruvananthapuram",
+        "state": "Kerala",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Thiruvananthapuram Kerala",
+        "fetched_at": "2026-04-01T15:47:09.540069"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.89372,
+          8.54377
+        ]
+      },
+      "properties": {
+        "name": "1224/4, Manvila Industrial Estate",
+        "place_id": "ola-platform:5000195431812",
+        "address": "1224/4, Manvila Industrial Estate, Manvila, Thiruvananthapuram, Kerala, 695582, India",
+        "district": "Thiruvananthapuram",
+        "state": "Kerala",
+        "types": [],
+        "query_used": "industrial estate Thiruvananthapuram Kerala",
+        "fetched_at": "2026-04-01T15:47:09.565444"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2051,
+          10.6143
+        ]
+      },
+      "properties": {
+        "name": "Toughglass India Pvt. Ltd. (Athani, Thrissur)",
+        "place_id": "ola-platform:5000219673475",
+        "address": "Toughglass India Pvt. Ltd. (Athani, Thrissur), No: 66D, Resurvey No: 15/4, 110 KV SubStation Road, Industrial Development Plot, Sidco Peringandoor Industrial Area Phase I, P.O, Athani, Peringandoor, Thrissur, Kerala 680596, India",
+        "district": "Thrissur",
+        "state": "Kerala",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial area Thrissur",
+        "fetched_at": "2026-04-01T15:47:12.059386"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2038,
+          10.6185
+        ]
+      },
+      "properties": {
+        "name": "Punjab National Bank Medical College Branch Thrissur",
+        "place_id": "ola-platform:5000221944384",
+        "address": "Punjab National Bank Medical College Branch Thrissur, Ground Floor, Exmo Towers, Opp. Athani Industrial Estate, Sidco Peringandoor Industrial Area Phase I, Athani, Peringandoor, Kerala 680581, India",
+        "district": "Thrissur",
+        "state": "Kerala",
+        "types": [
+          "bank"
+        ],
+        "query_used": "industrial area Thrissur",
+        "fetched_at": "2026-04-01T15:47:12.088294"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2059,
+          10.6181
+        ]
+      },
+      "properties": {
+        "name": "Regional Transport Driving Test Ground Thrissur (Athani Driving Test Ground)",
+        "place_id": "ola-platform:5000059012276",
+        "address": "Regional Transport Driving Test Ground Thrissur (Athani Driving Test Ground), Sidco Peringandoor Industrial Area Phase I, Thangaloor, Peringandoor, Kerala, 680581, India",
+        "district": "Thrissur",
+        "state": "Kerala",
+        "types": [
+          "local_government_office"
+        ],
+        "query_used": "industrial area Thrissur",
+        "fetched_at": "2026-04-01T15:47:12.138146"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.245,
+          10.4725
+        ]
+      },
+      "properties": {
+        "name": "Ollur Industrial Estate",
+        "place_id": "ola-platform:5000191380226",
+        "address": "Ollur Industrial Estate, Ollur, Thrissur, Kerala, 680014, India",
+        "district": "Thrissur",
+        "state": "Kerala",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Thrissur Kerala",
+        "fetched_at": "2026-04-01T15:47:12.160934"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2425,
+          10.4692
+        ]
+      },
+      "properties": {
+        "name": "Ollur Industrial Estate",
+        "place_id": "ola-platform:5000038498084",
+        "address": "Ollur Industrial Estate, Ollur, Thrissur, Kerala, 680301, India",
+        "district": "Thrissur",
+        "state": "Kerala",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Thrissur Kerala",
+        "fetched_at": "2026-04-01T15:47:12.184206"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.24363,
+          10.46823
+        ]
+      },
+      "properties": {
+        "name": "281, Ollur Industrial Estate",
+        "place_id": "ola-platform:5000199617843",
+        "address": "281, Ollur Industrial Estate, Ollur, Thrissur, Kerala, 680301, India",
+        "district": "Thrissur",
+        "state": "Kerala",
+        "types": [],
+        "query_used": "industrial estate Thrissur Kerala",
+        "fetched_at": "2026-04-01T15:47:12.209916"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.25766,
+          10.46993
+        ]
+      },
+      "properties": {
+        "name": "Nh544, Ollur Industrial Estate",
+        "place_id": "ola-platform:5000189946451",
+        "address": "Nh544, Ollur Industrial Estate, Marathakkara, Thrissur, Kerala, 680014, India",
+        "district": "Thrissur",
+        "state": "Kerala",
+        "types": [],
+        "query_used": "industrial estate Thrissur Kerala",
+        "fetched_at": "2026-04-01T15:47:12.232128"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2092,
+          10.5233
+        ]
+      },
+      "properties": {
+        "name": "Fashion Factory",
+        "place_id": "ola-platform:5000036716274",
+        "address": "Fashion Factory, Sree Sankara Hall Vadakke, Madham Brahmaswam, MG Road, Marar Road Area, Thrissur, Kerala, 680020, India",
+        "district": "Thrissur",
+        "state": "Kerala",
+        "types": [
+          "clothing_store"
+        ],
+        "query_used": "factory area Thrissur",
+        "fetched_at": "2026-04-01T15:47:12.313945"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2506,
+          10.4757
+        ]
+      },
+      "properties": {
+        "name": "Tile Factory",
+        "place_id": "ola-platform:5000196140750",
+        "address": "Tile Factory, Marathakkara, Thrissur, Kerala, 680014, India",
+        "district": "Thrissur",
+        "state": "Kerala",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Thrissur",
+        "fetched_at": "2026-04-01T15:47:12.344878"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2078,
+          10.4815
+        ]
+      },
+      "properties": {
+        "name": "SitaRam Ayurveda Factory",
+        "place_id": "ola-platform:5000042170141",
+        "address": "SitaRam Ayurveda Factory, SitaRam Ayurveda (P) Limited Iii/475 A, Gandhi Nagar Road, P.O, Nedupuzha, Thrissur, Kerala, 680007, India",
+        "district": "Thrissur",
+        "state": "Kerala",
+        "types": [
+          "doctor",
+          "health",
+          "hospital"
+        ],
+        "query_used": "factory area Thrissur",
+        "fetched_at": "2026-04-01T15:47:12.370820"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2198,
+          10.5224
+        ]
+      },
+      "properties": {
+        "name": "Aiswarya Jewellery Thrissur (Aiswarya Gold And Diamonds Thrissur | Manufacturing And Wholesale Jewellery)",
+        "place_id": "ola-platform:5000064676247",
+        "address": "Aiswarya Jewellery Thrissur (Aiswarya Gold And Diamonds Thrissur | Manufacturing And Wholesale Jewellery), Aiswarya Gold And Diamonds Thrissur | Manufacturing And Wholesale Jewellery, Rice Bazar Rd, Erinjery Angady, Ariyangadi, Thrissur, Kerala, 680020, India",
+        "district": "Thrissur",
+        "state": "Kerala",
+        "types": [
+          "jewelry_store"
+        ],
+        "query_used": "manufacturing hub Thrissur",
+        "fetched_at": "2026-04-01T15:47:12.425046"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.285272,
+          10.4382
+        ]
+      },
+      "properties": {
+        "name": "Pattikajathi Vanitha Vyavasaya Park (Rope Manufacturing)",
+        "place_id": "ola-platform:5000050783859",
+        "address": "Pattikajathi Vanitha Vyavasaya Park (Rope Manufacturing), MDR, Puthukkad, Mukundapuram, Thrissur, Kerala, 680303, India",
+        "district": "Thrissur",
+        "state": "Kerala",
+        "types": [
+          "local_government_office"
+        ],
+        "query_used": "manufacturing hub Thrissur",
+        "fetched_at": "2026-04-01T15:47:12.464557"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.1582,
+          10.5867
+        ]
+      },
+      "properties": {
+        "name": "Indira EnterPrises - Manufacturing Pearlnet And Repairing",
+        "place_id": "ola-platform:5000065769029",
+        "address": "Indira EnterPrises - Manufacturing Pearlnet And Repairing, Mundur, Kuttippuram Rd, Mundur, Peramangalam, Thrissur, Kerala, 680523, India",
+        "district": "Thrissur",
+        "state": "Kerala",
+        "types": [
+          "car_repair"
+        ],
+        "query_used": "manufacturing hub Thrissur",
+        "fetched_at": "2026-04-01T15:47:12.488274"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.050214,
+          10.523446
+        ]
+      },
+      "properties": {
+        "name": "Nexus Manufacturing Pvt Ltd",
+        "place_id": "ola-platform:5000060942413",
+        "address": "Nexus Manufacturing Pvt Ltd, NH-66, Engandiyoor, Edamuttam, Chavakkad, Thrissur, Kerala, 680616, India",
+        "district": "Thrissur",
+        "state": "Kerala",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Thrissur",
+        "fetched_at": "2026-04-01T15:47:12.538362"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.137399,
+          11.553379
+        ]
+      },
+      "properties": {
+        "name": "Saju Mahindra Industrial Area",
+        "place_id": "ola-platform:5000058261303",
+        "address": "Saju Mahindra Industrial Area, St. Joseph's Upper Primary School, Meppadi, Calicut - Vythiri - Gudalur Road, Meppadi, Vythiri, Wayanad, Kerala, 673123, India",
+        "district": "Wayanad",
+        "state": "Kerala",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Wayanad",
+        "fetched_at": "2026-04-01T15:47:14.919457"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.2631,
+          11.6688
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate Rd",
+        "place_id": "ola-platform:5000189612830",
+        "address": "Industrial Estate Rd, Sultan Bathery, Kerala, 673592, India",
+        "district": "Wayanad",
+        "state": "Kerala",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Wayanad Kerala",
+        "fetched_at": "2026-04-01T15:47:15.024176"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.26324,
+          11.66957
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate Rd",
+        "place_id": "ola-platform:5000183352132",
+        "address": "Industrial Estate Rd, Sultan Bathery, Kidanganad, Kerala, 673592, India",
+        "district": "Wayanad",
+        "state": "Kerala",
+        "types": [],
+        "query_used": "industrial estate Wayanad Kerala",
+        "fetched_at": "2026-04-01T15:47:15.050193"
+      }
+    }
+  ]
+}

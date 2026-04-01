@@ -1,0 +1,746 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.073024,
+          23.66473
+        ]
+      },
+      "properties": {
+        "name": "Kraft Auto, Bokaro Industrial Area",
+        "place_id": "ola-platform:5000176756960",
+        "address": "Kraft Auto, Bokaro Industrial Area, Plot No.- Ii/a 88, Phase - II, Bokaro Industrial Area, Bokaro - Jharkhand 827014",
+        "district": "Bokaro",
+        "state": "Jharkhand",
+        "types": [
+          "gas_station"
+        ],
+        "query_used": "industrial area Bokaro",
+        "fetched_at": "2026-04-01T15:44:01.769787"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.1426,
+          23.66635
+        ]
+      },
+      "properties": {
+        "name": "United Cosmetic Manufacturing",
+        "place_id": "ola-platform:5000055536470",
+        "address": "United Cosmetic Manufacturing, Bokaro Township, Bokaro, Chas, Bokaro, Jharkhand, 827004, India",
+        "district": "Bokaro",
+        "state": "Jharkhand",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "manufacturing hub Bokaro",
+        "fetched_at": "2026-04-01T15:44:02.105353"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4426,
+          23.3692
+        ]
+      },
+      "properties": {
+        "name": "Tatisilwai Industrial Area Phase I",
+        "place_id": "ola-platform:5000059396567",
+        "address": "Tatisilwai Industrial Area Phase I, Ranchi - Purulia Rd, Chatra, Jharkhand, 835103, India",
+        "district": "Chatra",
+        "state": "Jharkhand",
+        "types": [
+          "storage"
+        ],
+        "query_used": "industrial area Chatra",
+        "fetched_at": "2026-04-01T15:44:04.474297"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4461,
+          23.3699
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Rd",
+        "place_id": "ola-platform:5000187425811",
+        "address": "Industrial Area Rd, Chatra, Jharkhand, 835103, India",
+        "district": "Chatra",
+        "state": "Jharkhand",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Chatra",
+        "fetched_at": "2026-04-01T15:44:04.495723"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.6528,
+          24.4995
+        ]
+      },
+      "properties": {
+        "name": "Santhal Pargana Industrial Area Development Authority (Spiada)",
+        "place_id": "ola-platform:5000068161276",
+        "address": "Santhal Pargana Industrial Area Development Authority (Spiada), Unnamed Road, Gajrajpur, Jharkhand 814142, India",
+        "district": "Deoghar",
+        "state": "Jharkhand",
+        "types": [
+          "local_government_office"
+        ],
+        "query_used": "industrial area Deoghar",
+        "fetched_at": "2026-04-01T15:44:07.771245"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.5006,
+          23.6455
+        ]
+      },
+      "properties": {
+        "name": "Sindri Industrial Area",
+        "place_id": "ola-platform:5000038053752",
+        "address": "Sindri Industrial Area, Domgarh, Jharkhand, 828107, India",
+        "district": "Dhanbad",
+        "state": "Jharkhand",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Dhanbad",
+        "fetched_at": "2026-04-01T15:44:10.539828"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.5002,
+          23.6472
+        ]
+      },
+      "properties": {
+        "name": "HURL Industrial Area P.O",
+        "place_id": "ola-platform:5000046790997",
+        "address": "HURL Industrial Area P.O, HURL, Kandra, Sindri, Jharkhand, 828107, India",
+        "district": "Dhanbad",
+        "state": "Jharkhand",
+        "types": [
+          "point_of_interest"
+        ],
+        "query_used": "industrial area Dhanbad",
+        "fetched_at": "2026-04-01T15:44:10.568411"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.4404,
+          23.8121
+        ]
+      },
+      "properties": {
+        "name": "IIT (ISM) Dhanbad",
+        "place_id": "ola-platform:5000037252847",
+        "address": "IIT (ISM) Dhanbad, Department Of Management Studies & Industrial Engineering, IIT (ISM) Dhanbad, Management Studies Iit(ism, IIT Dhanbad Internal Rd, Housing Colony, Sardar Patel Nagar, Dhanbad, Jharkhand, 826004, India",
+        "district": "Dhanbad",
+        "state": "Jharkhand",
+        "types": [
+          "university"
+        ],
+        "query_used": "industrial area Dhanbad",
+        "fetched_at": "2026-04-01T15:44:10.585249"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.4694,
+          23.8208
+        ]
+      },
+      "properties": {
+        "name": "Food Factory, Dhanbad",
+        "place_id": "ola-platform:5000053279816",
+        "address": "Food Factory, Dhanbad, The Ozone Galleria Mall, NH-32, Sugiadih, Sahayogi Nagar Sector II, Dhanbad, Saraidhella, Jharkhand, 826005, India",
+        "district": "Dhanbad",
+        "state": "Jharkhand",
+        "types": [
+          "food",
+          "restaurant"
+        ],
+        "query_used": "factory area Dhanbad",
+        "fetched_at": "2026-04-01T15:44:10.787085"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.20994,
+          22.812654
+        ]
+      },
+      "properties": {
+        "name": "Adityapur Industrial Area Development Authority",
+        "place_id": "ola-platform:5000045524013",
+        "address": "Adityapur Industrial Area Development Authority, Jamshedpur, Golmuri-Cum-Jugsalai, East Singhbhum, Jharkhand, 831001, India",
+        "district": "East Singhbhum",
+        "state": "Jharkhand",
+        "types": [
+          "landmark"
+        ],
+        "query_used": "industrial area East Singhbhum",
+        "fetched_at": "2026-04-01T15:44:15.856904"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.30565,
+          24.20643
+        ]
+      },
+      "properties": {
+        "name": "Cement Factory Rd",
+        "place_id": "ola-platform:5000200009380",
+        "address": "Cement Factory Rd, Pandardih, Giridih, Sihodih, Jharkhand, 815301, India",
+        "district": "Giridih",
+        "state": "Jharkhand",
+        "types": [],
+        "query_used": "factory area Giridih",
+        "fetched_at": "2026-04-01T15:44:21.408900"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3538,
+          23.9929
+        ]
+      },
+      "properties": {
+        "name": "Jain School Dress Hazaribagh - School Dresses & School Manufacturing In Hazaribagh",
+        "place_id": "ola-platform:5000060578805",
+        "address": "Jain School Dress Hazaribagh - School Dresses & School Manufacturing In Hazaribagh, Near Panch Mandir, Chowk, Jain Mandir Rd, Kani Bazar, Hazaribagh, Jharkhand, 825302, India",
+        "district": "Hazaribagh",
+        "state": "Jharkhand",
+        "types": [
+          "clothing_store"
+        ],
+        "query_used": "manufacturing hub Hazaribagh",
+        "fetched_at": "2026-04-01T15:44:30.119377"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.88438,
+          23.83448
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Rd",
+        "place_id": "ola-platform:5000200343688",
+        "address": "Industrial Area Rd, Chittaranjan, Mihijam, Jharkhand, 815354, India",
+        "district": "Jamtara",
+        "state": "Jharkhand",
+        "types": [],
+        "query_used": "industrial area Jamtara",
+        "fetched_at": "2026-04-01T15:44:32.133398"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.507435,
+          23.831692
+        ]
+      },
+      "properties": {
+        "name": "Mining Machineries Manufacturing Works",
+        "place_id": "ola-platform:5000055842922",
+        "address": "Mining Machineries Manufacturing Works, Jamtara-Dhanbad Road, Gobindpur, Dhanbad, Jharkhand, 828109, India",
+        "district": "Jamtara",
+        "state": "Jharkhand",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Jamtara",
+        "fetched_at": "2026-04-01T15:44:32.486752"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.29788,
+          23.24195
+        ]
+      },
+      "properties": {
+        "name": "53, Khunti Road",
+        "place_id": "ola-platform:5000193078655",
+        "address": "53, Khunti Road, Ancillary Industrial Area, Pithiyatil, Ranchi, Gundu, Jharkhand, 835221, India",
+        "district": "Khunti",
+        "state": "Jharkhand",
+        "types": [],
+        "query_used": "industrial area Khunti",
+        "fetched_at": "2026-04-01T15:44:34.686951"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3027,
+          23.2684
+        ]
+      },
+      "properties": {
+        "name": "53, Khunti Road",
+        "place_id": "ola-platform:5000194219046",
+        "address": "53, Khunti Road, Near Premsons Motor, Ancillary Industrial Area, Pithiyatil, Ranchi, Jharkhand, 834003, India",
+        "district": "Khunti",
+        "state": "Jharkhand",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Khunti",
+        "fetched_at": "2026-04-01T15:44:34.710066"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.30249,
+          23.26879
+        ]
+      },
+      "properties": {
+        "name": "53, Khunti - Chaibasa Rd",
+        "place_id": "ola-platform:5000197226182",
+        "address": "53, Khunti - Chaibasa Rd, Near Premsons Motor, Ancillary Industrial Area, Pithiyatil, Ranchi, Jharkhand, 834003, India",
+        "district": "Khunti",
+        "state": "Jharkhand",
+        "types": [],
+        "query_used": "industrial area Khunti",
+        "fetched_at": "2026-04-01T15:44:34.734860"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3097,
+          23.2932
+        ]
+      },
+      "properties": {
+        "name": "National Institute Of Advanced Manufacturing Technology Ranchi",
+        "place_id": "ola-platform:5000036899796",
+        "address": "National Institute Of Advanced Manufacturing Technology Ranchi, National Institute Of Advanced Manufacturing Technology, Khunti Road, NIFFT Colony, Hatia, Ranchi, Jharkhand, 834003, India",
+        "district": "Khunti",
+        "state": "Jharkhand",
+        "types": [
+          "university"
+        ],
+        "query_used": "manufacturing hub Khunti",
+        "fetched_at": "2026-04-01T15:44:35.046680"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3099,
+          23.2938
+        ]
+      },
+      "properties": {
+        "name": "National Institute Of Advanced Manufacturing Technology (Formerly Nifft)",
+        "place_id": "ola-platform:5000220811818",
+        "address": "National Institute Of Advanced Manufacturing Technology (Formerly Nifft), Khunti - Chaibasa Rd, NIFFT Colony, Hatia, Ranchi, Jharkhand 834003, India",
+        "district": "Khunti",
+        "state": "Jharkhand",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "manufacturing hub Khunti",
+        "fetched_at": "2026-04-01T15:44:35.071105"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4033,
+          23.4127
+        ]
+      },
+      "properties": {
+        "name": "Fun Factory",
+        "place_id": "ola-platform:5000052727358",
+        "address": "Fun Factory, Boutique Hotel - Banquet - Convention Center, Nandshila, Lohardaga Rd, Near Jumar Bridge, Ranchi, Getlatu, Jharkhand, 835217, India",
+        "district": "Lohardaga",
+        "state": "Jharkhand",
+        "types": [
+          "lodging"
+        ],
+        "query_used": "factory area Lohardaga",
+        "fetched_at": "2026-04-01T15:44:43.990649"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.5069,
+          23.6562
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Rd",
+        "place_id": "ola-platform:5000194002937",
+        "address": "Industrial Area Rd, Ramgarh Cantonment, Jharkhand, 829101, India",
+        "district": "Ramgarh",
+        "state": "Jharkhand",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Ramgarh",
+        "fetched_at": "2026-04-01T15:44:52.124340"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.359,
+          23.3545
+        ]
+      },
+      "properties": {
+        "name": "Ranchi Industrial Area Development Authority Bhawan",
+        "place_id": "ola-platform:5000189044068",
+        "address": "Ranchi Industrial Area Development Authority Bhawan, Namkum Industrial Area, Lowadih, Ranchi, Jharkhand, 834001, India",
+        "district": "Ranchi",
+        "state": "Jharkhand",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Ranchi",
+        "fetched_at": "2026-04-01T15:44:54.612224"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3011,
+          23.2726
+        ]
+      },
+      "properties": {
+        "name": "Ranchi Refractories (Ind) Pvt Ltd",
+        "place_id": "ola-platform:5000196408139",
+        "address": "Ranchi Refractories (Ind) Pvt Ltd, Ancillary Industrial Area, Pithiyatil, Ranchi, Jharkhand, 834003, India",
+        "district": "Ranchi",
+        "state": "Jharkhand",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Ranchi",
+        "fetched_at": "2026-04-01T15:44:54.662793"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4323,
+          23.3745
+        ]
+      },
+      "properties": {
+        "name": "Tirupati EnterPrises (Ranchi) Pvt. Ltd.",
+        "place_id": "ola-platform:5000052578684",
+        "address": "Tirupati EnterPrises (Ranchi) Pvt. Ltd, 14, Industrial Area, Phase 1, Tatisilwai, Jharkhand, 835103, India",
+        "district": "Ranchi",
+        "state": "Jharkhand",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Ranchi",
+        "fetched_at": "2026-04-01T15:44:54.705128"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4327,
+          23.3702
+        ]
+      },
+      "properties": {
+        "name": "Jharkhand Government Tool Room, Ranchi",
+        "place_id": "ola-platform:5000061546605",
+        "address": "Jharkhand Government Tool Room, Ranchi, Plot No. 38, Industrial Area Phase 1, Tatisilwai, Haratu, Jharkhand, 835103, India",
+        "district": "Ranchi",
+        "state": "Jharkhand",
+        "types": [
+          "university"
+        ],
+        "query_used": "industrial area Ranchi",
+        "fetched_at": "2026-04-01T15:44:54.748830"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3556,
+          23.3763
+        ]
+      },
+      "properties": {
+        "name": "State Bank Of India Industrial Estate (Ranchi)",
+        "place_id": "ola-platform:5000053471137",
+        "address": "State Bank Of India Industrial Estate (Ranchi), Dist:ranchi Bihar, B 597, Kokar Rd, Vasuki Nagar, Ranchi, Jharkhand, 834001, India",
+        "district": "Ranchi",
+        "state": "Jharkhand",
+        "types": [
+          "bank"
+        ],
+        "query_used": "industrial estate Ranchi Jharkhand",
+        "fetched_at": "2026-04-01T15:44:54.786063"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3599,
+          23.3772
+        ]
+      },
+      "properties": {
+        "name": "SBI Branch Industrial Estate",
+        "place_id": "ola-platform:5000221089754",
+        "address": "SBI Branch Industrial Estate, P.O, New Adarsh Nagar, Kokar, Ranchi, Jharkhand 834001, India",
+        "district": "Ranchi",
+        "state": "Jharkhand",
+        "types": [
+          "bank"
+        ],
+        "query_used": "industrial estate Ranchi Jharkhand",
+        "fetched_at": "2026-04-01T15:44:54.817520"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3552,
+          23.376
+        ]
+      },
+      "properties": {
+        "name": "B 426, Near State Bank Of India Industrial Estate (Ranchi)",
+        "place_id": "ola-platform:5000194209118",
+        "address": "B 426, Near State Bank Of India Industrial Estate (Ranchi), Bhaba Nagar, Ranchi, Jharkhand, 834001, India",
+        "district": "Ranchi",
+        "state": "Jharkhand",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Ranchi Jharkhand",
+        "fetched_at": "2026-04-01T15:44:54.875305"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.350979,
+          23.373288
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:5000050818372",
+        "address": "Industrial Estate, Kokar, Ranchi, Kanke, Ranchi, Jharkhand, 834001, India",
+        "district": "Ranchi",
+        "state": "Jharkhand",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Ranchi Jharkhand",
+        "fetched_at": "2026-04-01T15:44:54.905335"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.362,
+          23.3533
+        ]
+      },
+      "properties": {
+        "name": "High Tension Insulator Factory",
+        "place_id": "ola-platform:5000198602467",
+        "address": "High Tension Insulator Factory, Namkum Industrial Area, Samlong, Ranchi, Jharkhand, 834001, India",
+        "district": "Ranchi",
+        "state": "Jharkhand",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Ranchi",
+        "fetched_at": "2026-04-01T15:44:54.957581"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3545,
+          23.375
+        ]
+      },
+      "properties": {
+        "name": "Argon Battery Factory",
+        "place_id": "ola-platform:5000036839359",
+        "address": "Argon Battery Factory, Tapovan Gali, Kokar Industrial Area, Kokar, Ranchi, Jharkhand, 834001, India",
+        "district": "Ranchi",
+        "state": "Jharkhand",
+        "types": [
+          "electronics_store"
+        ],
+        "query_used": "factory area Ranchi",
+        "fetched_at": "2026-04-01T15:44:54.980889"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4225,
+          23.4383
+        ]
+      },
+      "properties": {
+        "name": "Ranchi New Oxygen Gas Factory",
+        "place_id": "ola-platform:5000066071996",
+        "address": "Ranchi New Oxygen Gas Factory, Neuri, Jharkhand, 835217, India",
+        "district": "Ranchi",
+        "state": "Jharkhand",
+        "types": [
+          "gas_station"
+        ],
+        "query_used": "factory area Ranchi",
+        "fetched_at": "2026-04-01T15:44:55.012110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.151331,
+          22.791247
+        ]
+      },
+      "properties": {
+        "name": "Adityapur Industrial Area Post Office",
+        "place_id": "ola-platform:5000061581899",
+        "address": "Adityapur Industrial Area Post Office, Bhetia, Adityapur, Adityapur(gamharia), Seraikela-Kharsawan, Jharkhand, 831013, India",
+        "district": "Seraikela Kharsawan",
+        "state": "Jharkhand",
+        "types": [
+          "post_office"
+        ],
+        "query_used": "industrial area Seraikela Kharsawan",
+        "fetched_at": "2026-04-01T15:45:00.405012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.16534,
+          22.78646
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Dvlpt Authority",
+        "place_id": "ola-platform:5000037888195",
+        "address": "Industrial Area Dvlpt Authority, Bhetia, Adityapur, Adityapur(gamharia), Seraikela-Kharsawan, Jharkhand, 831013, India",
+        "district": "Seraikela Kharsawan",
+        "state": "Jharkhand",
+        "types": [
+          "local_government_office"
+        ],
+        "query_used": "industrial area Seraikela Kharsawan",
+        "fetched_at": "2026-04-01T15:45:00.447741"
+      }
+    }
+  ]
+}

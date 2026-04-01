@@ -1,0 +1,1592 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.8556,
+          20.2917
+        ]
+      },
+      "properties": {
+        "name": "Rasulgarh Industrial Estate",
+        "place_id": "ola-platform:5000194707834",
+        "address": "Rasulgarh Industrial Estate, Industrial Area Estate, Rasulgarh, Bhubaneswar, Odisha, 751010, India",
+        "district": "Angul",
+        "state": "Odisha",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Angul Odisha",
+        "fetched_at": "2026-04-01T15:54:22.746653"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.8558,
+          20.3018
+        ]
+      },
+      "properties": {
+        "name": "Mancheswar Industrial Estate",
+        "place_id": "ola-platform:5000200843107",
+        "address": "Mancheswar Industrial Estate, Bhubaneswar, Odisha, 751017, India",
+        "district": "Angul",
+        "state": "Odisha",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Angul Odisha",
+        "fetched_at": "2026-04-01T15:54:22.772500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.1544,
+          20.8438
+        ]
+      },
+      "properties": {
+        "name": "Nalco Factory Rd",
+        "place_id": "ola-platform:5000197081454",
+        "address": "Nalco Factory Rd, Nalco Nagar, Angul, Odisha, 759145, India",
+        "district": "Angul",
+        "state": "Odisha",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Angul",
+        "fetched_at": "2026-04-01T15:54:22.819405"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.15769,
+          20.84715
+        ]
+      },
+      "properties": {
+        "name": "Nalco Factory Rd",
+        "place_id": "ola-platform:5000194796526",
+        "address": "Nalco Factory Rd, National Aluminium Company Ltd, Angul, Odisha, 759145, India",
+        "district": "Angul",
+        "state": "Odisha",
+        "types": [],
+        "query_used": "factory area Angul",
+        "fetched_at": "2026-04-01T15:54:22.841292"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.15425,
+          20.84558
+        ]
+      },
+      "properties": {
+        "name": "Nalco Factory Rd",
+        "place_id": "ola-platform:5000191596778",
+        "address": "Nalco Factory Rd, National Aluminium Company Ltd, Angul, Nalco, Odisha, 759145, India",
+        "district": "Angul",
+        "state": "Odisha",
+        "types": [],
+        "query_used": "factory area Angul",
+        "fetched_at": "2026-04-01T15:54:22.863657"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.1712,
+          19.9423
+        ]
+      },
+      "properties": {
+        "name": "IDCO Industrial Estate",
+        "place_id": "ola-platform:5000046827161",
+        "address": "IDCO Industrial Estate, Bhawanipatna - Balangir Hwy, Bhejipadar, Odisha, 766002, India",
+        "district": "Balangir",
+        "state": "Odisha",
+        "types": [
+          "real_estate_agency"
+        ],
+        "query_used": "industrial estate Balangir Odisha",
+        "fetched_at": "2026-04-01T15:54:25.411400"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.889404,
+          21.496553
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Police Station Balasore",
+        "place_id": "ola-platform:5000044877934",
+        "address": "Industrial Area Police Station Balasore, Baleshwar (M), Baleshwar, Odisha, 756001, India",
+        "district": "Balasore",
+        "state": "Odisha",
+        "types": [
+          "police"
+        ],
+        "query_used": "industrial area Balasore",
+        "fetched_at": "2026-04-01T15:54:27.973772"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.939611,
+          21.489639
+        ]
+      },
+      "properties": {
+        "name": "Odisha Fast Food And Restaurant (Odisha Fast Food & Restaurant)",
+        "place_id": "ola-platform:5000035591021",
+        "address": "Odisha Fast Food And Restaurant (Odisha Fast Food & Restaurant), Makalpur, Industrial Estate, Balasore Locality, Balasore, 756001, India",
+        "district": "Balasore",
+        "state": "Odisha",
+        "types": [
+          "restaurant",
+          "meal_takeaway",
+          "meal_delivery"
+        ],
+        "query_used": "industrial estate Balasore Odisha",
+        "fetched_at": "2026-04-01T15:54:28.049839"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.9231,
+          21.5014
+        ]
+      },
+      "properties": {
+        "name": "Odisha Khabar",
+        "place_id": "ola-platform:5000052537125",
+        "address": "Odisha Khabar, Angaradia, Plot No.802, IDCO Industrial Estate, Head Post Office, Railway Colony, Balasore, Odisha, 756001, India",
+        "district": "Balasore",
+        "state": "Odisha",
+        "types": [
+          "point_of_interest"
+        ],
+        "query_used": "industrial estate Balasore Odisha",
+        "fetched_at": "2026-04-01T15:54:28.074376"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.90895,
+          21.48298
+        ]
+      },
+      "properties": {
+        "name": "25/B, Industrial Estate",
+        "place_id": "ola-platform:5000198273016",
+        "address": "25/B, Industrial Estate, Balasore, Biseikhunta, Odisha, 756001, India",
+        "district": "Balasore",
+        "state": "Odisha",
+        "types": [],
+        "query_used": "industrial estate Balasore Odisha",
+        "fetched_at": "2026-04-01T15:54:28.098273"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.9154,
+          21.4865
+        ]
+      },
+      "properties": {
+        "name": "Traxo India Automation GPS Manufacturing Company",
+        "place_id": "ola-platform:5000045323339",
+        "address": "Traxo India Automation GPS Manufacturing Company, Mallikashpur, Karanjia, Balasore, Odisha, 756001, India",
+        "district": "Balasore",
+        "state": "Odisha",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Balasore",
+        "fetched_at": "2026-04-01T15:54:28.380603"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.6168,
+          21.3712
+        ]
+      },
+      "properties": {
+        "name": "ACC Cement Factory",
+        "place_id": "ola-platform:5000184487811",
+        "address": "ACC Cement Factory, Bargarh, Odisha, 768038, India",
+        "district": "Bargarh",
+        "state": "Odisha",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Bargarh",
+        "fetched_at": "2026-04-01T15:54:30.641203"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.6095,
+          21.3667
+        ]
+      },
+      "properties": {
+        "name": "Cement Factory Rd",
+        "place_id": "ola-platform:5000194484769",
+        "address": "Cement Factory Rd, Cement Nagar, Bargarh, Odisha, 768038, India",
+        "district": "Bargarh",
+        "state": "Odisha",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Bargarh",
+        "fetched_at": "2026-04-01T15:54:30.675637"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.55011,
+          21.1422
+        ]
+      },
+      "properties": {
+        "name": "Rahanja Industrial Estate",
+        "place_id": "ola-platform:5000065350951",
+        "address": "Rahanja Industrial Estate, Rahanja, Odisha, 756111, India",
+        "district": "Bhadrak",
+        "state": "Odisha",
+        "types": [
+          "home_goods_store"
+        ],
+        "query_used": "industrial estate Bhadrak Odisha",
+        "fetched_at": "2026-04-01T15:54:33.228209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.8559,
+          20.2913
+        ]
+      },
+      "properties": {
+        "name": "721, Puri - Cuttack Rd",
+        "place_id": "ola-platform:5000202621029",
+        "address": "721, Puri - Cuttack Rd, Rasulgarh Industrial Estate, Industrial Area Estate, Rasulgarh, Bhubaneswar, Odisha, 751010, India",
+        "district": "Cuttack",
+        "state": "Odisha",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Cuttack",
+        "fetched_at": "2026-04-01T15:54:38.559553"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.8574,
+          20.2906
+        ]
+      },
+      "properties": {
+        "name": "Puri - Cuttack Rd",
+        "place_id": "ola-platform:5000188501540",
+        "address": "Puri - Cuttack Rd, Industrial Area Estate, Rasulgarh, Bhubaneswar, Odisha, 751010, India",
+        "district": "Cuttack",
+        "state": "Odisha",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Cuttack",
+        "fetched_at": "2026-04-01T15:54:38.592288"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.8573,
+          20.2911
+        ]
+      },
+      "properties": {
+        "name": "Cuttack Rd",
+        "place_id": "ola-platform:5000199479152",
+        "address": "Cuttack Rd, Industrial Area Estate, Rasulgarh, Bhubaneswar, Odisha, 751010, India",
+        "district": "Cuttack",
+        "state": "Odisha",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Cuttack",
+        "fetched_at": "2026-04-01T15:54:38.626753"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.85735,
+          20.28839
+        ]
+      },
+      "properties": {
+        "name": "505, Puri - Cuttack Rd",
+        "place_id": "ola-platform:5000200671107",
+        "address": "505, Puri - Cuttack Rd, Industrial Area Estate, Rasulgarh, Bhubaneswar, Odisha, 751010, India",
+        "district": "Cuttack",
+        "state": "Odisha",
+        "types": [],
+        "query_used": "industrial area Cuttack",
+        "fetched_at": "2026-04-01T15:54:38.660853"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.9327,
+          20.4952
+        ]
+      },
+      "properties": {
+        "name": "Sadguru Medical College(paramedical College In Cuttack, Odisha)",
+        "place_id": "ola-platform:5000035591453",
+        "address": "Sadguru Medical College(paramedical College In Cuttack, Odisha), Plot No. 2241, Jagatpur Industrial Estate, Cuttack, Jagatpur, Odisha, 754025, India",
+        "district": "Cuttack",
+        "state": "Odisha",
+        "types": [
+          "university"
+        ],
+        "query_used": "industrial estate Cuttack Odisha",
+        "fetched_at": "2026-04-01T15:54:38.694554"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.9456,
+          20.4922
+        ]
+      },
+      "properties": {
+        "name": "OEU Orissa Engineering Udyog (Orissa Engineering Udyog - Best Transformer Manufacturing In Cuttack Odisha)",
+        "place_id": "ola-platform:5000041155049",
+        "address": "OEU Orissa Engineering Udyog (Orissa Engineering Udyog - Best Transformer Manufacturing In Cuttack Odisha), Orissa Engineering Udyog - Best Transformer Manufacturing In Cuttack Odisha, Plot No.S-3/17, Phase III, New Industrial Estate, Jagatpur, Cuttack, Jagatpur, Odisha, 754025, India",
+        "district": "Cuttack",
+        "state": "Odisha",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Cuttack Odisha",
+        "fetched_at": "2026-04-01T15:54:38.723964"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.9425,
+          20.4854
+        ]
+      },
+      "properties": {
+        "name": "Krishna Coke India Pvt. Ltd, Plot No. 85, Phase -III, New Industrial Estate, Jagatpur, Cuttack, Odisha",
+        "place_id": "ola-platform:5000221586961",
+        "address": "Krishna Coke India Pvt. Ltd, Plot No. 85, Phase -III, New Industrial Estate, Jagatpur, Cuttack, Odisha, New Industrial Estate, Plot No.85, Jagatpur Industrial Estate, Jagatpur, Odisha 754025, India",
+        "district": "Cuttack",
+        "state": "Odisha",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial estate Cuttack Odisha",
+        "fetched_at": "2026-04-01T15:54:38.751069"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.9278,
+          20.489
+        ]
+      },
+      "properties": {
+        "name": "Kay Bee Industries, Jagatpur, Cuttack, Odisha",
+        "place_id": "ola-platform:5000052258848",
+        "address": "Kay Bee Industries, Jagatpur, Cuttack, Odisha, Phase 1, Plot No. 196 & 196A New, Jagatpur Industrial Estate, Jagatpur, Odisha, 754025, India",
+        "district": "Cuttack",
+        "state": "Odisha",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Cuttack Odisha",
+        "fetched_at": "2026-04-01T15:54:38.776141"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.9428,
+          20.4847
+        ]
+      },
+      "properties": {
+        "name": "Subhalaxmi Pet - Best Plastic Manufacturer Cuttack Odisha | Best Plastic Bottle Manufacturer In Cuttack Odisha",
+        "place_id": "ola-platform:5000220166940",
+        "address": "Subhalaxmi Pet - Best Plastic Manufacturer Cuttack Odisha | Best Plastic Bottle Manufacturer In Cuttack Odisha, Plot No :75/C, IDCO Rd, Near Pragati Milk Unit-1, Jagatpur Industrial Estate, Phase-III, Jagatpur, Odisha 754025, India",
+        "district": "Cuttack",
+        "state": "Odisha",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial estate Cuttack Odisha",
+        "fetched_at": "2026-04-01T15:54:38.802356"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.9023,
+          20.4704
+        ]
+      },
+      "properties": {
+        "name": "Ice Factory Road Cuttack",
+        "place_id": "ola-platform:5000053741859",
+        "address": "Ice Factory Road Cuttack, Travels, Ice Factory Road Cuttack, Ice Factory, Road, Jobra Colony, Cuttack, Odisha, 753003, India",
+        "district": "Cuttack",
+        "state": "Odisha",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Cuttack",
+        "fetched_at": "2026-04-01T15:54:38.858038"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.8863,
+          20.388
+        ]
+      },
+      "properties": {
+        "name": "Ram's Assorted Cold Storage Limited Cuttack Factory",
+        "place_id": "ola-platform:5000063456891",
+        "address": "Ram's Assorted Cold Storage Limited Cuttack Factory, Arakhakuda, Odisha, 753051, India",
+        "district": "Cuttack",
+        "state": "Odisha",
+        "types": [
+          "storage"
+        ],
+        "query_used": "factory area Cuttack",
+        "fetched_at": "2026-04-01T15:54:38.888184"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.9013,
+          20.4468
+        ]
+      },
+      "properties": {
+        "name": "Ruchi Factory Road",
+        "place_id": "ola-platform:5000198655506",
+        "address": "Ruchi Factory Road, Ruchi Factory Rd, Rajendra Nagar, Cuttack, Odisha, 753012, India",
+        "district": "Cuttack",
+        "state": "Odisha",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Cuttack",
+        "fetched_at": "2026-04-01T15:54:38.944498"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.9018,
+          20.4458
+        ]
+      },
+      "properties": {
+        "name": "Ruchi Factory Road",
+        "place_id": "ola-platform:5000186266134",
+        "address": "Ruchi Factory Road, Ruchi Factory Rd, Rajendra Nagar, Khanna Nagar, Rajendra Nagar, Cuttack, Odisha, 753012, India",
+        "district": "Cuttack",
+        "state": "Odisha",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Cuttack",
+        "fetched_at": "2026-04-01T15:54:38.971683"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.8649,
+          20.4702
+        ]
+      },
+      "properties": {
+        "name": "Shree Trade And Manufacturing",
+        "place_id": "ola-platform:5000048232329",
+        "address": "Shree Trade And Manufacturing, Mohanty LN, Oriya Bazar, Cuttack, Odisha, 753002, India",
+        "district": "Cuttack",
+        "state": "Odisha",
+        "types": [
+          "food",
+          "restaurant"
+        ],
+        "query_used": "manufacturing hub Cuttack",
+        "fetched_at": "2026-04-01T15:54:39.023602"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.8176,
+          19.3012
+        ]
+      },
+      "properties": {
+        "name": "Regional Office State Pollution Control Board Berhampur, New Division Office, IDCO, Berhampur Division, Industrial Estate, Berhampur, Ganjam, Odisha",
+        "place_id": "ola-platform:5000219633009",
+        "address": "Regional Office State Pollution Control Board Berhampur, New Division Office, IDCO, Berhampur Division, Industrial Estate, Berhampur, Ganjam, Odisha, Panchasila Nagar, Keshav Nagar, Brahmapur, Odisha 760008, India",
+        "district": "Ganjam",
+        "state": "Odisha",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial estate Ganjam Odisha",
+        "fetched_at": "2026-04-01T15:54:49.819335"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.8203,
+          19.2999
+        ]
+      },
+      "properties": {
+        "name": "Laxmi Nagar 3rd Lane Industrial Estate, Ankuli",
+        "place_id": "ola-platform:5000053690284",
+        "address": "Laxmi Nagar 3rd Lane Industrial Estate, Ankuli, Panchasila Nagar, Keshav Nagar, Brahmapur, Odisha, 760008, India",
+        "district": "Ganjam",
+        "state": "Odisha",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Ganjam Odisha",
+        "fetched_at": "2026-04-01T15:54:49.882559"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.81841,
+          19.30285
+        ]
+      },
+      "properties": {
+        "name": "Ankuli OverBridge Industrial Estate",
+        "place_id": "ola-platform:5000189366197",
+        "address": "Ankuli OverBridge Industrial Estate, Brahmapur-8, Ganjam, Odisha, 760008, India760008, Indira Nagar, Brahmapur, Odisha",
+        "district": "Ganjam",
+        "state": "Odisha",
+        "types": [],
+        "query_used": "industrial estate Ganjam Odisha",
+        "fetched_at": "2026-04-01T15:54:49.912107"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.81544,
+          19.30099
+        ]
+      },
+      "properties": {
+        "name": "567, Industrial Estate",
+        "place_id": "ola-platform:5000201412326",
+        "address": "567, Industrial Estate, Lanjipalli, Brahmapur, Odisha, 760008, India",
+        "district": "Ganjam",
+        "state": "Odisha",
+        "types": [],
+        "query_used": "industrial estate Ganjam Odisha",
+        "fetched_at": "2026-04-01T15:54:49.939525"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.9889,
+          19.3576
+        ]
+      },
+      "properties": {
+        "name": "LED Bulb Manufacturing Unit, Chatrapur, Ganjam. Odisha",
+        "place_id": "ola-platform:5000046487350",
+        "address": "LED Bulb Manufacturing Unit, Chatrapur, Ganjam. Odisha, Sankar Math Street, Rama Krishna Nagar, Chatrapur, Humuribana, Odisha, 761020, India",
+        "district": "Ganjam",
+        "state": "Odisha",
+        "types": [
+          "point_of_interest"
+        ],
+        "query_used": "manufacturing hub Ganjam",
+        "fetched_at": "2026-04-01T15:54:50.120981"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.17736,
+          20.25316
+        ]
+      },
+      "properties": {
+        "name": "Nh56 Jagatpur Industrial Estate",
+        "place_id": "ola-platform:5000191663817",
+        "address": "Nh56 Jagatpur Industrial Estate, Nehru Colony, Vinayak Nagar Jagatpur, Jagatsinghpur, Odisha, 754103, India",
+        "district": "Jagatsinghpur",
+        "state": "Odisha",
+        "types": [],
+        "query_used": "industrial estate Jagatsinghpur Odisha",
+        "fetched_at": "2026-04-01T15:54:52.590847"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.3955,
+          21.8756
+        ]
+      },
+      "properties": {
+        "name": ", Industrial Area",
+        "place_id": "ola-platform:5000219875413",
+        "address": ", Industrial Area, Jharsuguda - Raigarh Rd, Industrial Area, Raigarh, Chhattisgarh 496001, India",
+        "district": "Jharsuguda",
+        "state": "Odisha",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial area Jharsuguda",
+        "fetched_at": "2026-04-01T15:54:58.372411"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.0108,
+          21.8876
+        ]
+      },
+      "properties": {
+        "name": "Kapumal, Industrial Estate, Jharsuguda, Odisha",
+        "place_id": "ola-platform:5000221145040",
+        "address": "Kapumal, Industrial Estate, Jharsuguda, Odisha, Jharsuguda, Odisha 768203, India",
+        "district": "Jharsuguda",
+        "state": "Odisha",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial estate Jharsuguda Odisha",
+        "fetched_at": "2026-04-01T15:54:58.476307"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.0102,
+          21.8857
+        ]
+      },
+      "properties": {
+        "name": "Kapumal, Industrial Estate, Jharsuguda (Lalit Store)",
+        "place_id": "ola-platform:5000042343101",
+        "address": "Kapumal, Industrial Estate, Jharsuguda (Lalit Store), BTM Colony, Jharsuguda, Odisha, 768203, India",
+        "district": "Jharsuguda",
+        "state": "Odisha",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "industrial estate Jharsuguda Odisha",
+        "fetched_at": "2026-04-01T15:54:58.509040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.0088,
+          21.8855
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate, Jharsuguda",
+        "place_id": "ola-platform:5000046394502",
+        "address": "Industrial Estate, Jharsuguda, Panchpara Main Road, BTM Colony, Jharsuguda, Odisha, 768203, India",
+        "district": "Jharsuguda",
+        "state": "Odisha",
+        "types": [
+          "post_office"
+        ],
+        "query_used": "industrial estate Jharsuguda Odisha",
+        "fetched_at": "2026-04-01T15:54:58.553000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.0104,
+          21.882
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate Jharsuguda Sub Post Office",
+        "place_id": "ola-platform:5000221111575",
+        "address": "Industrial Estate Jharsuguda Sub Post Office, Industrial Estate, Panchpara Main Road, Near PhD, Industrial Estate, Jharsuguda, Odisha 768203, India",
+        "district": "Jharsuguda",
+        "state": "Odisha",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial estate Jharsuguda Odisha",
+        "fetched_at": "2026-04-01T15:54:58.591102"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.08016,
+          21.82247
+        ]
+      },
+      "properties": {
+        "name": "7459, Industrial Estate",
+        "place_id": "ola-platform:5000201783617",
+        "address": "7459, Industrial Estate, Jharsuguda, Siriapali, Odisha, 768202, India",
+        "district": "Jharsuguda",
+        "state": "Odisha",
+        "types": [],
+        "query_used": "industrial estate Jharsuguda Odisha",
+        "fetched_at": "2026-04-01T15:54:58.625140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.5909,
+          21.6532
+        ]
+      },
+      "properties": {
+        "name": "IDCO Industrial Estate, Dhurpada",
+        "place_id": "ola-platform:5000049526350",
+        "address": "IDCO Industrial Estate, Dhurpada, Gopinathapur, Odisha, 758002, India",
+        "district": "Kendujhar",
+        "state": "Odisha",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Kendujhar Odisha",
+        "fetched_at": "2026-04-01T15:55:09.692325"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.6828,
+          20.2582
+        ]
+      },
+      "properties": {
+        "name": "Chhatabar Industrial Area",
+        "place_id": "ola-platform:5000047384158",
+        "address": "Chhatabar Industrial Area, Chatabar, Odisha, 752054, India",
+        "district": "Khordha",
+        "state": "Odisha",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Khordha",
+        "fetched_at": "2026-04-01T15:55:12.247984"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.6996,
+          20.2211
+        ]
+      },
+      "properties": {
+        "name": "Janla Industrial Area",
+        "place_id": "ola-platform:5000187122176",
+        "address": "Janla Industrial Area, Alakar, Odisha, 752054, India",
+        "district": "Khordha",
+        "state": "Odisha",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Khordha",
+        "fetched_at": "2026-04-01T15:55:12.282559"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.64537,
+          20.17184
+        ]
+      },
+      "properties": {
+        "name": "Khurdha Industrial Area 1",
+        "place_id": "ola-platform:5000198707989",
+        "address": "Khurdha Industrial Area 1, Jagannathpur, Khordha, Odisha, 752055, India",
+        "district": "Khordha",
+        "state": "Odisha",
+        "types": [],
+        "query_used": "industrial area Khordha",
+        "fetched_at": "2026-04-01T15:55:12.319359"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.6299,
+          20.1747
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Tower",
+        "place_id": "ola-platform:5000066369219",
+        "address": "Industrial Area Tower, Badhha Pokhori, Industrial Area, Khordha, Odisha, 752055, India",
+        "district": "Khordha",
+        "state": "Odisha",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Khordha",
+        "fetched_at": "2026-04-01T15:55:12.357114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.7048,
+          20.2865
+        ]
+      },
+      "properties": {
+        "name": "Giriganput Industrial Area",
+        "place_id": "ola-platform:5000221814504",
+        "address": "Giriganput Industrial Area, Haripur, Giringaput, Odisha 752054, India",
+        "district": "Khordha",
+        "state": "Odisha",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial area Khordha",
+        "fetched_at": "2026-04-01T15:55:12.389770"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.6377,
+          20.1752
+        ]
+      },
+      "properties": {
+        "name": "Khordha Industrial Estate",
+        "place_id": "ola-platform:5000220519278",
+        "address": "Khordha Industrial Estate, Khordha Industrial Rd, Jagannathpur, Khordha, Odisha 752055, India",
+        "district": "Khordha",
+        "state": "Odisha",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial estate Khordha Odisha",
+        "fetched_at": "2026-04-01T15:55:12.424555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.852,
+          20.2976
+        ]
+      },
+      "properties": {
+        "name": "Super OYO Collection O Mancheswar Industrial Estate",
+        "place_id": "ola-platform:5000052889505",
+        "address": "Super OYO Collection O Mancheswar Industrial Estate, A/10, Sector A, Mancheswar Industrial Estate, Bhubaneswar, Odisha, 751017, India",
+        "district": "Khordha",
+        "state": "Odisha",
+        "types": [
+          "lodging"
+        ],
+        "query_used": "industrial estate Khordha Odisha",
+        "fetched_at": "2026-04-01T15:55:12.492241"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.8183,
+          20.3522
+        ]
+      },
+      "properties": {
+        "name": "Queens' Castle 2, Chandaka Industrial Estate",
+        "place_id": "ola-platform:5000197256032",
+        "address": "Queens' Castle 2, Chandaka Industrial Estate, K I I T University, Patia, Bhubaneswar, Odisha, 751027, India",
+        "district": "Khordha",
+        "state": "Odisha",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Khordha Odisha",
+        "fetched_at": "2026-04-01T15:55:12.527419"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.8102,
+          20.3553
+        ]
+      },
+      "properties": {
+        "name": "Chandaka Industrial Estate",
+        "place_id": "ola-platform:5000189543045",
+        "address": "Chandaka Industrial Estate, K I I T University, Patia, Bhubaneswar, Odisha, 751032, India",
+        "district": "Khordha",
+        "state": "Odisha",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Khordha Odisha",
+        "fetched_at": "2026-04-01T15:55:12.561736"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.6378,
+          20.1671
+        ]
+      },
+      "properties": {
+        "name": "Britannia Factory",
+        "place_id": "ola-platform:5000040367098",
+        "address": "Britannia Factory, Jagannathpur, Khordha, Odisha, 752055, India",
+        "district": "Khordha",
+        "state": "Odisha",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Khordha",
+        "fetched_at": "2026-04-01T15:55:12.661446"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.6572,
+          20.1686
+        ]
+      },
+      "properties": {
+        "name": "ITC Factory Rd",
+        "place_id": "ola-platform:5000198637026",
+        "address": "ITC Factory Rd, Khordha, Odisha, 752055, India",
+        "district": "Khordha",
+        "state": "Odisha",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Khordha",
+        "fetched_at": "2026-04-01T15:55:12.692460"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.64508,
+          20.18032
+        ]
+      },
+      "properties": {
+        "name": "34, Government Rice Factory Rd",
+        "place_id": "ola-platform:5000191742887",
+        "address": "34, Government Rice Factory Rd, Khordha, Odisha, 752055, India",
+        "district": "Khordha",
+        "state": "Odisha",
+        "types": [],
+        "query_used": "factory area Khordha",
+        "fetched_at": "2026-04-01T15:55:12.725176"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.6378,
+          20.1691
+        ]
+      },
+      "properties": {
+        "name": "Factory Rd",
+        "place_id": "ola-platform:5000190439599",
+        "address": "Factory Rd, Jagannathpur, Khordha, Odisha, 752055, India",
+        "district": "Khordha",
+        "state": "Odisha",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Khordha",
+        "fetched_at": "2026-04-01T15:55:12.753768"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.884365,
+          20.325401
+        ]
+      },
+      "properties": {
+        "name": "Godrej And Boyce Manufacturing Company Ltd",
+        "place_id": "ola-platform:5000051694333",
+        "address": "Godrej And Boyce Manufacturing Company Ltd, Ward 4, North Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751017, India",
+        "district": "Khordha",
+        "state": "Odisha",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Khordha",
+        "fetched_at": "2026-04-01T15:55:12.784629"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.852513,
+          20.306997
+        ]
+      },
+      "properties": {
+        "name": "Utkal Valves And Specials Manufacturing Industries",
+        "place_id": "ola-platform:5000053087588",
+        "address": "Utkal Valves And Specials Manufacturing Industries, Ward 10, North Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751017, India",
+        "district": "Khordha",
+        "state": "Odisha",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Khordha",
+        "fetched_at": "2026-04-01T15:55:12.815906"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.84257,
+          20.265915
+        ]
+      },
+      "properties": {
+        "name": "Godrej And Boyce Manufacturing Co Ltd.",
+        "place_id": "ola-platform:5000039763624",
+        "address": "Godrej And Boyce Manufacturing Co Ltd, Ward 41, South East Zone, Bhubaneswar Municipal Corporation, Bhubaneswar (M.Corp.), Khordha, Odisha, 751009, India",
+        "district": "Khordha",
+        "state": "Odisha",
+        "types": [
+          "electronics_store"
+        ],
+        "query_used": "manufacturing hub Khordha",
+        "fetched_at": "2026-04-01T15:55:12.848833"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.7008,
+          20.1605
+        ]
+      },
+      "properties": {
+        "name": "Godrej, Project Manufacturing Etc.",
+        "place_id": "ola-platform:5000044454362",
+        "address": "Godrej, Project Manufacturing Etc, Unnamed Road, Ramchandrapur Bazar, Khordha, Odisha, 752050, India",
+        "district": "Khordha",
+        "state": "Odisha",
+        "types": [
+          "point_of_interest"
+        ],
+        "query_used": "manufacturing hub Khordha",
+        "fetched_at": "2026-04-01T15:55:12.880961"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.549,
+          18.8907
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area",
+        "place_id": "ola-platform:5000195687209",
+        "address": "Industrial Area, Jeypore, Odisha, 764002, India",
+        "district": "Koraput",
+        "state": "Odisha",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Koraput",
+        "fetched_at": "2026-04-01T15:55:16.047859"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.59249,
+          18.85828
+        ]
+      },
+      "properties": {
+        "name": "Nh26, Industrial Estate",
+        "place_id": "ola-platform:5000200105798",
+        "address": "Nh26, Industrial Estate, Jeypore, Odisha, 764001, India",
+        "district": "Koraput",
+        "state": "Odisha",
+        "types": [],
+        "query_used": "industrial estate Koraput Odisha",
+        "fetched_at": "2026-04-01T15:55:16.155955"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.587414,
+          18.857637
+        ]
+      },
+      "properties": {
+        "name": "RCM Industrial Estate",
+        "place_id": "ola-platform:5000056114092",
+        "address": "RCM Industrial Estate, Nh26;nh326, Jeypore, Koraput, Odisha, 764001, India",
+        "district": "Koraput",
+        "state": "Odisha",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "industrial estate Koraput Odisha",
+        "fetched_at": "2026-04-01T15:55:16.189725"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.879021,
+          18.339401
+        ]
+      },
+      "properties": {
+        "name": "RK Manufacturing Works",
+        "place_id": "ola-platform:5000037901264",
+        "address": "RK Manufacturing Works, Nh326, Malakanagiri, Malkangiri, Odisha, 764048, India",
+        "district": "Malkangiri",
+        "state": "Odisha",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "manufacturing hub Malkangiri",
+        "fetched_at": "2026-04-01T15:55:19.658632"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.7737,
+          20.1603
+        ]
+      },
+      "properties": {
+        "name": "Kurki Industrial Estate",
+        "place_id": "ola-platform:5000065409046",
+        "address": "Kurki Industrial Estate, Near OEC College, Kurki Industrial Estate, Nizigada-Kurukhi, Odisha, 752104, India",
+        "district": "Puri",
+        "state": "Odisha",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Puri Odisha",
+        "fetched_at": "2026-04-01T15:55:39.487393"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.4054,
+          19.1739
+        ]
+      },
+      "properties": {
+        "name": "Railway Sleeper Factory Rayagada",
+        "place_id": "ola-platform:5000189704127",
+        "address": "Railway Sleeper Factory Rayagada, Road, Sastri Nagar, Rayagada, Odisha, 765002, India",
+        "district": "Rayagada",
+        "state": "Odisha",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Rayagada",
+        "fetched_at": "2026-04-01T15:55:42.965004"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.4067,
+          21.7603
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area, Teli-Tileimal",
+        "place_id": "ola-platform:5000222262805",
+        "address": "Industrial Area, Teli-Tileimal, Ramjhali, Odisha 768222, India",
+        "district": "Sambalpur",
+        "state": "Odisha",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "industrial area Sambalpur",
+        "fetched_at": "2026-04-01T15:55:46.079333"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9625,
+          21.4931
+        ]
+      },
+      "properties": {
+        "name": "The Odisha Agro Industries Corporation Ltd",
+        "place_id": "ola-platform:5000060029198",
+        "address": "The Odisha Agro Industries Corporation Ltd, Baraipali, Mancheswar Industrial Estate, Sambalpur, Odisha, 768003, India",
+        "district": "Sambalpur",
+        "state": "Odisha",
+        "types": [
+          "storage"
+        ],
+        "query_used": "industrial estate Sambalpur Odisha",
+        "fetched_at": "2026-04-01T15:55:46.199069"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9747,
+          21.4944
+        ]
+      },
+      "properties": {
+        "name": "Bareipali Industrial Estate Branch (State Bank Of India Ind Est Bareipalli Sambalpur)",
+        "place_id": "ola-platform:5000060509672",
+        "address": "Bareipali Industrial Estate Branch (State Bank Of India Ind Est Bareipalli Sambalpur), State Bank Of 768004, India Ind Est Bareipalli Sambalpur, Industrial Estate Atpo, Bareipali, Sambalpur, Odisha",
+        "district": "Sambalpur",
+        "state": "Odisha",
+        "types": [
+          "bank"
+        ],
+        "query_used": "industrial estate Sambalpur Odisha",
+        "fetched_at": "2026-04-01T15:55:46.235910"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.9815,
+          21.4838
+        ]
+      },
+      "properties": {
+        "name": "Fashion Factory By Reliance",
+        "place_id": "ola-platform:5000064655577",
+        "address": "Fashion Factory By Reliance, Budharaja, Sambalpur, Odisha, 768004, India",
+        "district": "Sambalpur",
+        "state": "Odisha",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "factory area Sambalpur",
+        "fetched_at": "2026-04-01T15:55:46.456761"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.80986,
+          22.22144
+        ]
+      },
+      "properties": {
+        "name": "31, Industrial Estate",
+        "place_id": "ola-platform:5000199963824",
+        "address": "31, Industrial Estate, Rourkela, Odisha, 769004, India",
+        "district": "Sundargarh",
+        "state": "Odisha",
+        "types": [],
+        "query_used": "industrial estate Sundargarh Odisha",
+        "fetched_at": "2026-04-01T15:55:52.660404"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.76524,
+          22.22873
+        ]
+      },
+      "properties": {
+        "name": "2/B, Industrial Estate",
+        "place_id": "ola-platform:5000186750809",
+        "address": "2/B, Industrial Estate, Kalunga, Rourkela, Odisha, 770071, India",
+        "district": "Sundargarh",
+        "state": "Odisha",
+        "types": [],
+        "query_used": "industrial estate Sundargarh Odisha",
+        "fetched_at": "2026-04-01T15:55:52.695645"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.8241,
+          22.2299
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate SubStation Rsed",
+        "place_id": "ola-platform:5000063218016",
+        "address": "Industrial Estate SubStation Rsed, Chhend Colony, Rourkela, Odisha, 769004, India",
+        "district": "Sundargarh",
+        "state": "Odisha",
+        "types": [
+          "local_government_office"
+        ],
+        "query_used": "industrial estate Sundargarh Odisha",
+        "fetched_at": "2026-04-01T15:55:52.733260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.80616,
+          22.23341
+        ]
+      },
+      "properties": {
+        "name": "B-24 Industrial Estate",
+        "place_id": "ola-platform:5000185607994",
+        "address": "B-24 Industrial Estate, Falcon Machines, Panposh, Rourkela, Odisha, 769004, India",
+        "district": "Sundargarh",
+        "state": "Odisha",
+        "types": [],
+        "query_used": "industrial estate Sundargarh Odisha",
+        "fetched_at": "2026-04-01T15:55:52.769437"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.8257,
+          22.2311
+        ]
+      },
+      "properties": {
+        "name": "Industrial Estate",
+        "place_id": "ola-platform:5000064657088",
+        "address": "Industrial Estate, Bijay Steel Industries, Industrial Estate, Rourkela, B/11, Industrial Estate, Chhend Colony, Rourkela, Odisha, 769004, India",
+        "district": "Sundargarh",
+        "state": "Odisha",
+        "types": [
+          "storage"
+        ],
+        "query_used": "industrial estate Sundargarh Odisha",
+        "fetched_at": "2026-04-01T15:55:52.805433"
+      }
+    }
+  ]
+}

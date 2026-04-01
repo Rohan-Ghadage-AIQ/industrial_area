@@ -1,0 +1,292 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.97359,
+          20.23363
+        ]
+      },
+      "properties": {
+        "name": "Nanji Industrial Area",
+        "place_id": "ola-platform:5000057525231",
+        "address": "Nanji Industrial Area, Silvassa, Nagar Haveli, Dadra And Nagar Haveli, Dadra And Nagar Haveli And Daman And Diu, 396235, India",
+        "district": "Dadra and Nagar Haveli",
+        "state": "Dadra and Nagar Haveli and Daman and Diu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Dadra and Nagar Haveli",
+        "fetched_at": "2026-04-01T16:09:42.765944"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.009279,
+          20.247083
+        ]
+      },
+      "properties": {
+        "name": "TCPL Industrial Area",
+        "place_id": "ola-platform:5000042972609",
+        "address": "TCPL Industrial Area, Nh848a, Silvassa, Nagar Haveli, Dadra And Nagar Haveli, Dadra And Nagar Haveli And Daman And Diu, 396230, India",
+        "district": "Dadra and Nagar Haveli",
+        "state": "Dadra and Nagar Haveli and Daman and Diu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Dadra and Nagar Haveli",
+        "fetched_at": "2026-04-01T16:09:42.786866"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.999722,
+          20.245829
+        ]
+      },
+      "properties": {
+        "name": "Masat Industrial Area",
+        "place_id": "ola-platform:10390",
+        "address": "Masat Industrial Area, The Dadra And Nagar Haveli And Daman And Diu, India",
+        "district": "Dadra and Nagar Haveli",
+        "state": "Dadra and Nagar Haveli and Daman and Diu",
+        "types": [
+          "locality"
+        ],
+        "query_used": "industrial area Dadra and Nagar Haveli",
+        "fetched_at": "2026-04-01T16:09:42.807150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0298,
+          19.0436
+        ]
+      },
+      "properties": {
+        "name": "Sky Gold Ltd (Jewellery Manufacturing Hub)",
+        "place_id": "ola-platform:5000057208322",
+        "address": "Sky Gold Ltd (Jewellery Manufacturing Hub), Plot No. D-222/2 TTC Industrial Area, MIDC, MIDC Industrial Area, Shiravane, Nerul, Navi Mumbai, Maharashtra, 400706, India",
+        "district": "Dadra and Nagar Haveli",
+        "state": "Dadra and Nagar Haveli and Daman and Diu",
+        "types": [
+          "jewelry_store"
+        ],
+        "query_used": "manufacturing hub Dadra and Nagar Haveli",
+        "fetched_at": "2026-04-01T16:09:42.875838"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0056,
+          19.1712
+        ]
+      },
+      "properties": {
+        "name": "Isoklin Ecobot Manufacturing Hub",
+        "place_id": "ola-platform:5000058045657",
+        "address": "Isoklin Ecobot Manufacturing Hub, Ram Nagar, Subhash Nagar, Dighe, Navi Mumbai, Maharashtra, 400708, India",
+        "district": "Dadra and Nagar Haveli",
+        "state": "Dadra and Nagar Haveli and Daman and Diu",
+        "types": [
+          "establishment"
+        ],
+        "query_used": "manufacturing hub Dadra and Nagar Haveli",
+        "fetched_at": "2026-04-01T16:09:42.902248"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8571,
+          20.4289
+        ]
+      },
+      "properties": {
+        "name": "Bheslore Industrial Estate",
+        "place_id": "ola-platform:5000199257114",
+        "address": "Bheslore Industrial Estate, A-1, Daman - Kunta Rd, Dunetha, Daman, Dadra And Nagar Haveli And Daman And Diu, 396210, India",
+        "district": "Daman",
+        "state": "Dadra and Nagar Haveli and Daman and Diu",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Daman Dadra and Nagar Haveli and Daman and Diu",
+        "fetched_at": "2026-04-01T16:09:45.033182"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8636,
+          20.4574
+        ]
+      },
+      "properties": {
+        "name": "Silver Industrial Estate",
+        "place_id": "ola-platform:5000197703942",
+        "address": "Silver Industrial Estate, Bhimpore, Daman, Dadra And Nagar Haveli And Daman And Diu, 396210, India",
+        "district": "Daman",
+        "state": "Dadra and Nagar Haveli and Daman and Diu",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Daman Dadra and Nagar Haveli and Daman and Diu",
+        "fetched_at": "2026-04-01T16:09:45.042044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8824,
+          20.3743
+        ]
+      },
+      "properties": {
+        "name": "Modern Industrial Estate",
+        "place_id": "ola-platform:5000191717100",
+        "address": "Modern Industrial Estate, Daman, Vapi, Dadra And Nagar Haveli And Daman And Diu, 396215, India",
+        "district": "Daman",
+        "state": "Dadra and Nagar Haveli and Daman and Diu",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Daman Dadra and Nagar Haveli and Daman and Diu",
+        "fetched_at": "2026-04-01T16:09:45.051137"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8807,
+          20.413
+        ]
+      },
+      "properties": {
+        "name": "Sai Krupa Industrial Estate",
+        "place_id": "ola-platform:5000186961308",
+        "address": "Sai Krupa Industrial Estate, Daman, Vapi, Dadra And Nagar Haveli And Daman And Diu, 396215, India",
+        "district": "Daman",
+        "state": "Dadra and Nagar Haveli and Daman and Diu",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Daman Dadra and Nagar Haveli and Daman and Diu",
+        "fetched_at": "2026-04-01T16:09:45.059440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8312,
+          20.4134
+        ]
+      },
+      "properties": {
+        "name": "Daman Ice Factory",
+        "place_id": "ola-platform:5000035883278",
+        "address": "Daman Ice Factory, Dhamatne, Daman, Dadra And Nagar Haveli And Daman And Diu, 396210, India",
+        "district": "Daman",
+        "state": "Dadra and Nagar Haveli and Daman and Diu",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Daman",
+        "fetched_at": "2026-04-01T16:09:45.111199"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0354,
+          20.2408
+        ]
+      },
+      "properties": {
+        "name": "Navneet Education Ltd Silvassa Factory",
+        "place_id": "ola-platform:5000051794741",
+        "address": "Navneet Education Ltd Silvassa Factory, Survey No. 100/14, Village Sayali, Group GramPanchayat Area, Park City, Silvassa, Dadra And Nagar Haveli And Daman And Diu, 396240, India",
+        "district": "Daman",
+        "state": "Dadra and Nagar Haveli and Daman and Diu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "factory area Daman",
+        "fetched_at": "2026-04-01T16:09:45.119671"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9505,
+          20.3667
+        ]
+      },
+      "properties": {
+        "name": "Manufacturing In Vapi Daman Silvassa Sarigam Mumbai.",
+        "place_id": "ola-platform:5000055480996",
+        "address": "Manufacturing In Vapi Daman Silvassa Sarigam Mumbai, Amar Engineering Works. Conveyor Systems, Industrial Dryers, Fabrication, Manufacturing In Vapi Daman Silvassa Sarigam Mumbai, Amar Engineering Works. Conveyor Systems, Industrial Dryers, Fabrication, Manufacturing In Vapi Daman Silvassa Sarigam Mumbai, L-2704/17 Phase, 3, 3rd Phase, Phase 3, GIDC, Vapi, Gujarat, 396191, India",
+        "district": "Daman",
+        "state": "Dadra and Nagar Haveli and Daman and Diu",
+        "types": [
+          "hardware_store"
+        ],
+        "query_used": "manufacturing hub Daman",
+        "fetched_at": "2026-04-01T16:09:45.129129"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.86285,
+          20.45559
+        ]
+      },
+      "properties": {
+        "name": "East India Drums And Barrels Manufacturing Company",
+        "place_id": "ola-platform:5000055263190",
+        "address": "East India Drums And Barrels Manufacturing Company, Goldseal - Saargummi India Pvt. Ltd. - Daman, Daulet Abad, Bhimpore Char Rasta, Daman To Nh8, Daman, Dadra And Nagar Haveli And Daman And Diu, 396210, India",
+        "district": "Daman",
+        "state": "Dadra and Nagar Haveli and Daman and Diu",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Daman",
+        "fetched_at": "2026-04-01T16:09:45.154995"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1998 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4337,
+          26.71726
+        ]
+      },
+      "properties": {
+        "name": "Siliguri Industrial Area",
+        "place_id": "ola-platform:5000188057657",
+        "address": "Siliguri Industrial Area, 18-B, Ward 38, Dabgram, Siliguri, West Bengal, 734001, India",
+        "district": "Alipurduar",
+        "state": "West Bengal",
+        "types": [],
+        "query_used": "industrial area Alipurduar",
+        "fetched_at": "2026-04-01T16:07:06.682115"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.52675,
+          26.49205
+        ]
+      },
+      "properties": {
+        "name": "Dharandsons Manufacturing Jewellery",
+        "place_id": "ola-platform:5000043955057",
+        "address": "Dharandsons Manufacturing Jewellery, SPOT On Ganga, Sh12a, Alipurduar, Alipurduar - I, Alipurduar, West Bengal, 736123, India",
+        "district": "Alipurduar",
+        "state": "West Bengal",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "manufacturing hub Alipurduar",
+        "fetched_at": "2026-04-01T16:07:06.837320"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.3102,
+          23.1029
+        ]
+      },
+      "properties": {
+        "name": "Bishnupur Industrial Area",
+        "place_id": "ola-platform:5000062392810",
+        "address": "Bishnupur Industrial Area, Bishnupur - Sonamukhi Rd, Dwarika, West Bengal, 722122, India",
+        "district": "Bankura",
+        "state": "West Bengal",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Bankura",
+        "fetched_at": "2026-04-01T16:07:09.002029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.877464,
+          23.766645
+        ]
+      },
+      "properties": {
+        "name": "Bag Repairing And Manufacturing House",
+        "place_id": "ola-platform:5000036049192",
+        "address": "Bag Repairing And Manufacturing House, Sh6, Nanoor, Birbhum, West Bengal, 731302, India",
+        "district": "Birbhum",
+        "state": "West Bengal",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "manufacturing hub Birbhum",
+        "fetched_at": "2026-04-01T16:07:11.464637"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.69572,
+          23.66491
+        ]
+      },
+      "properties": {
+        "name": "ShantiNiketan Kathastitch Manufacturing",
+        "place_id": "ola-platform:5000049420832",
+        "address": "ShantiNiketan Kathastitch Manufacturing, Nh114, Bolpur, Bolpur Sriniketan, Birbhum, West Bengal, 731204, India",
+        "district": "Birbhum",
+        "state": "West Bengal",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Birbhum",
+        "fetched_at": "2026-04-01T16:07:11.473631"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.2817,
+          22.7172
+        ]
+      },
+      "properties": {
+        "name": "Shivalik Industrial Estate",
+        "place_id": "ola-platform:5000063689879",
+        "address": "Shivalik Industrial Estate, Hoogly, Mollaber Village, Mollarber, Dankunibil, West Bengal, 712250, India",
+        "district": "Hooghly",
+        "state": "West Bengal",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Hooghly West Bengal",
+        "fetched_at": "2026-04-01T16:07:20.561655"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3354,
+          22.67
+        ]
+      },
+      "properties": {
+        "name": "Hindmotor Factory Uttarpara, Hooghly.",
+        "place_id": "ola-platform:5000040962732",
+        "address": "Hindmotor Factory Uttarpara, Hooghly, Hindmotor Factory Uttarpara, Hooghly, Hindmotor Factory Uttarpara, Hooghly, Hindmotor Factory Uttarpara, Hooghly, Makhla, Uttarpara, West Bengal, 712245, India",
+        "district": "Hooghly",
+        "state": "West Bengal",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Hooghly",
+        "fetched_at": "2026-04-01T16:07:20.614675"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.1283,
+          22.7889
+        ]
+      },
+      "properties": {
+        "name": "STP Limited Hooghly Factory",
+        "place_id": "ola-platform:5000051130447",
+        "address": "STP Limited Hooghly Factory, Sh15, Sipai Gachhi, Nilarpur West, West Bengal, 712707, India",
+        "district": "Hooghly",
+        "state": "West Bengal",
+        "types": [
+          "premise"
+        ],
+        "query_used": "factory area Hooghly",
+        "fetched_at": "2026-04-01T16:07:20.624902"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3126,
+          22.7297
+        ]
+      },
+      "properties": {
+        "name": "Bhushan Steel Factory",
+        "place_id": "ola-platform:5000055938071",
+        "address": "Bhushan Steel Factory, 22/1, SH 13, Bangihati Village, Bangihati, Hooghly, West Bengal, 712250, India",
+        "district": "Hooghly",
+        "state": "West Bengal",
+        "types": [
+          "hardware_store"
+        ],
+        "query_used": "factory area Hooghly",
+        "fetched_at": "2026-04-01T16:07:20.643639"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3396,
+          22.7469
+        ]
+      },
+      "properties": {
+        "name": "Standard Pharma Factory",
+        "place_id": "ola-platform:5000036311869",
+        "address": "Standard Pharma Factory, 100/2, Tarapur LN, Binod Behari Pally, Serampore, Hooghly, West Bengal, 712203, India",
+        "district": "Hooghly",
+        "state": "West Bengal",
+        "types": [
+          "drugstore",
+          "pharmacy"
+        ],
+        "query_used": "factory area Hooghly",
+        "fetched_at": "2026-04-01T16:07:20.653993"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.38415,
+          22.9192
+        ]
+      },
+      "properties": {
+        "name": "AnnaPurna Engineering & Manufacturing",
+        "place_id": "ola-platform:5000039601956",
+        "address": "AnnaPurna Engineering & Manufacturing, Bandel, Hugli-Chuchura, Chinsurah - Magra, Hooghly, West Bengal, 712103, India",
+        "district": "Hooghly",
+        "state": "West Bengal",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "manufacturing hub Hooghly",
+        "fetched_at": "2026-04-01T16:07:20.663783"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.31749,
+          22.765558
+        ]
+      },
+      "properties": {
+        "name": "Nirman Udyog Manufacturing Pvt Ltd",
+        "place_id": "ola-platform:5000051242531",
+        "address": "Nirman Udyog Manufacturing Pvt Ltd, Serampore, Serampur Uttarpara, Hooghly, West Bengal, 712223, India",
+        "district": "Hooghly",
+        "state": "West Bengal",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Hooghly",
+        "fetched_at": "2026-04-01T16:07:20.673794"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.331138,
+          22.7384
+        ]
+      },
+      "properties": {
+        "name": "Keymer Bagshawe Manufacturing Company Private Limited",
+        "place_id": "ola-platform:5000052953886",
+        "address": "Keymer Bagshawe Manufacturing Company Private Limited, Serampore, Serampur Uttarpara, Hooghly, West Bengal, 712203, India",
+        "district": "Hooghly",
+        "state": "West Bengal",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Hooghly",
+        "fetched_at": "2026-04-01T16:07:20.683711"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.277536,
+          22.759541
+        ]
+      },
+      "properties": {
+        "name": "Swarati Manufacturing",
+        "place_id": "ola-platform:5000055860260",
+        "address": "Swarati Manufacturing, 31 Number Road, Singur, Hooghly, West Bengal, 712223, India",
+        "district": "Hooghly",
+        "state": "West Bengal",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Hooghly",
+        "fetched_at": "2026-04-01T16:07:20.693045"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.29484,
+          22.7526
+        ]
+      },
+      "properties": {
+        "name": "United Cosmetics Manufacturing",
+        "place_id": "ola-platform:5000049223986",
+        "address": "United Cosmetics Manufacturing, 31 Number Road, Singur, Hooghly, West Bengal, 712306, India",
+        "district": "Hooghly",
+        "state": "West Bengal",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "manufacturing hub Hooghly",
+        "fetched_at": "2026-04-01T16:07:20.705184"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3267,
+          22.6241
+        ]
+      },
+      "properties": {
+        "name": "Mirpara Industrial Area",
+        "place_id": "ola-platform:5000062148351",
+        "address": "Mirpara Industrial Area, Unnamed Road, Bhatta Nagar, Liluah, Howrah, West Bengal, 711204, India",
+        "district": "Howrah",
+        "state": "West Bengal",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Howrah",
+        "fetched_at": "2026-04-01T16:07:22.930714"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3267,
+          22.6241
+        ]
+      },
+      "properties": {
+        "name": "Bhatta Nagar Industrial Area",
+        "place_id": "ola-platform:5000068984401",
+        "address": "Bhatta Nagar Industrial Area, Unnamed Road, Bhatta Nagar, Liluah, Howrah, West Bengal, 711204, India",
+        "district": "Howrah",
+        "state": "West Bengal",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Howrah",
+        "fetched_at": "2026-04-01T16:07:22.958879"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3312,
+          22.5846
+        ]
+      },
+      "properties": {
+        "name": "Industrial Development Bank Of India Ltd (IDBI Bank)",
+        "place_id": "ola-platform:5000064661952",
+        "address": "Industrial Development Bank Of India Ltd (IDBI Bank), IDBI Bank, Ray Villa, 240, Panchanantala Rd, Kadam Tala, Howrah, West Bengal, 711101, India",
+        "district": "Howrah",
+        "state": "West Bengal",
+        "types": [
+          "bank"
+        ],
+        "query_used": "industrial area Howrah",
+        "fetched_at": "2026-04-01T16:07:23.003737"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.2921,
+          22.6034
+        ]
+      },
+      "properties": {
+        "name": "Bengal Industries",
+        "place_id": "ola-platform:5000057764179",
+        "address": "Bengal Industries, Sadananda Industrial Estate, Balitikuri, Bakultala, Howrah, West Bengal, 711104, India",
+        "district": "Howrah",
+        "state": "West Bengal",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Howrah West Bengal",
+        "fetched_at": "2026-04-01T16:07:23.018328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3062,
+          22.6092
+        ]
+      },
+      "properties": {
+        "name": "Howrah Industrial Estate I.W.Association",
+        "place_id": "ola-platform:5000046957352",
+        "address": "Howrah Industrial Estate I.W.Association, Natun Pally, Khaldhar Para, Balitikuri, Howrah, West Bengal, 711113, India",
+        "district": "Howrah",
+        "state": "West Bengal",
+        "types": [
+          "real_estate_agency"
+        ],
+        "query_used": "industrial estate Howrah West Bengal",
+        "fetched_at": "2026-04-01T16:07:23.027503"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.30523,
+          22.60989
+        ]
+      },
+      "properties": {
+        "name": "A7, Howrah Industrial Estate",
+        "place_id": "ola-platform:5000200371581",
+        "address": "A7, Howrah Industrial Estate, Aptech Enterprise, Dasnagar, Howrah, West Bengal, 711113, India",
+        "district": "Howrah",
+        "state": "West Bengal",
+        "types": [],
+        "query_used": "industrial estate Howrah West Bengal",
+        "fetched_at": "2026-04-01T16:07:23.036897"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.30646,
+          22.61177
+        ]
+      },
+      "properties": {
+        "name": "L 28 Baltikuri Industrial Estate Howrah",
+        "place_id": "ola-platform:5000192205385",
+        "address": "L 28 Baltikuri Industrial Estate Howrah, Balitikuri, Howrah, West Bengal, 711113, India",
+        "district": "Howrah",
+        "state": "West Bengal",
+        "types": [],
+        "query_used": "industrial estate Howrah West Bengal",
+        "fetched_at": "2026-04-01T16:07:23.047652"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3317,
+          22.5793
+        ]
+      },
+      "properties": {
+        "name": "Dhulagarh Industrial Estates Private Limited",
+        "place_id": "ola-platform:5000066884282",
+        "address": "Dhulagarh Industrial Estates Private Limited, 545, GT Rd S, Howrah Railway Station, Howrah, West Bengal, 711101, India",
+        "district": "Howrah",
+        "state": "West Bengal",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Howrah West Bengal",
+        "fetched_at": "2026-04-01T16:07:23.057353"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3189,
+          22.6057
+        ]
+      },
+      "properties": {
+        "name": "Baidyanath Howrah Factory",
+        "place_id": "ola-platform:5000052367198",
+        "address": "Baidyanath Howrah Factory, Kashipur, Netajigarh, Dasnagar, Howrah, West Bengal, 711108, India",
+        "district": "Howrah",
+        "state": "West Bengal",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Howrah",
+        "fetched_at": "2026-04-01T16:07:23.066116"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3331,
+          22.5829
+        ]
+      },
+      "properties": {
+        "name": "Fashion Factory",
+        "place_id": "ola-platform:5000067935679",
+        "address": "Fashion Factory, 3, Nityadhan Mukherjee Rd, Kadam Tala, Howrah, West Bengal, 711101, India",
+        "district": "Howrah",
+        "state": "West Bengal",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "factory area Howrah",
+        "fetched_at": "2026-04-01T16:07:23.077230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3271,
+          22.5958
+        ]
+      },
+      "properties": {
+        "name": "M.K Pipe Fitting || Pipe Fitting Manufacturing In Howrah | Scaffolding Manufacturing In Howrah",
+        "place_id": "ola-platform:5000055547783",
+        "address": "M.K Pipe Fitting || Pipe Fitting Manufacturing In Howrah | Scaffolding Manufacturing In Howrah, 18/3, Musalman Para LN, Tikiapara, Howrah, West Bengal, 711101, India",
+        "district": "Howrah",
+        "state": "West Bengal",
+        "types": [
+          "store"
+        ],
+        "query_used": "manufacturing hub Howrah",
+        "fetched_at": "2026-04-01T16:07:23.127995"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.14199,
+          22.5208
+        ]
+      },
+      "properties": {
+        "name": "PU Rubber Manufacturing National Highway 6raghudebpur Howrah Ganesh Complex Panchla",
+        "place_id": "ola-platform:5000185801610",
+        "address": "PU Rubber Manufacturing National Highway 6raghudebpur Howrah Ganesh Complex Panchla, Howrah, Raghudebpur, West Bengal, 711307, India",
+        "district": "Howrah",
+        "state": "West Bengal",
+        "types": [],
+        "query_used": "manufacturing hub Howrah",
+        "fetched_at": "2026-04-01T16:07:23.138499"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3411,
+          22.5979
+        ]
+      },
+      "properties": {
+        "name": "Nice Look Weaving Centre!wig Manufacturer!hair Fixing!non-Surgical Hair Replacement!hair Patch! (Nice Look Weaving Centre!call 7003015150!Original Hair Fixer!wig Manufacturing!hair Patch!hair Wig!in Howrah)",
+        "place_id": "ola-platform:5000177689078",
+        "address": "Nice Look Weaving Centre!wig Manufacturer!hair Fixing!non-Surgical Hair Replacement!hair Patch! (Nice Look Weaving Centre!call 7003015150!Original Hair Fixer!wig Manufacturing!hair Patch!hair Wig!in Howrah), Nice Look Weaving Centre!!call 7003015150!!ORIGINAL Hair Fixer!!wig Manufacturing!!hair Patch!!hair Wig!!in Howrah, Pathak Bhawan, 108/4/1A, Grand Trunk Rd, Babudanga, Bandhaghat, Salkia, Howrah, West Bengal, 711106, India",
+        "district": "Howrah",
+        "state": "West Bengal",
+        "types": [
+          "beauty_salon",
+          "hair_care"
+        ],
+        "query_used": "manufacturing hub Howrah",
+        "fetched_at": "2026-04-01T16:07:23.148496"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5162,
+          26.5967
+        ]
+      },
+      "properties": {
+        "name": "Aambari Falakata Industrial Area",
+        "place_id": "ola-platform:5000056768935",
+        "address": "Aambari Falakata Industrial Area, Kismat Sukani, West Bengal, 735135, India",
+        "district": "Jalpaiguri",
+        "state": "West Bengal",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Jalpaiguri",
+        "fetched_at": "2026-04-01T16:07:25.316182"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4344,
+          26.7349
+        ]
+      },
+      "properties": {
+        "name": "Siliguri Industrial Area",
+        "place_id": "ola-platform:5000194282228",
+        "address": "Siliguri Industrial Area, Jyoti Nagar, Bankim Nagar, Siliguri, West Bengal, 734001, India",
+        "district": "Jalpaiguri",
+        "state": "West Bengal",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Jalpaiguri",
+        "fetched_at": "2026-04-01T16:07:25.333028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4301,
+          26.617
+        ]
+      },
+      "properties": {
+        "name": "Kohinoor Industrial Area",
+        "place_id": "ola-platform:5000035656767",
+        "address": "Kohinoor Industrial Area, B607, Sannyasikata, West Bengal, 735203, India",
+        "district": "Jalpaiguri",
+        "state": "West Bengal",
+        "types": [
+          "general_contractor"
+        ],
+        "query_used": "industrial area Jalpaiguri",
+        "fetched_at": "2026-04-01T16:07:25.347299"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.43457,
+          26.75438
+        ]
+      },
+      "properties": {
+        "name": "Siliguri Industrial Area",
+        "place_id": "ola-platform:5000192394166",
+        "address": "Siliguri Industrial Area, 40, VidyaSagar Rd, Nimbu Basti, Prakash Nagar, Siliguri, West Bengal, 734001, India",
+        "district": "Jalpaiguri",
+        "state": "West Bengal",
+        "types": [],
+        "query_used": "industrial area Jalpaiguri",
+        "fetched_at": "2026-04-01T16:07:25.359101"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.43643,
+          26.74832
+        ]
+      },
+      "properties": {
+        "name": "Siliguri Industrial Area",
+        "place_id": "ola-platform:5000197023454",
+        "address": "Siliguri Industrial Area, 3, Kaviyatri Parijat Path, Nimbu Basti, Prakash Nagar, Siliguri, West Bengal, 734001, India",
+        "district": "Jalpaiguri",
+        "state": "West Bengal",
+        "types": [],
+        "query_used": "industrial area Jalpaiguri",
+        "fetched_at": "2026-04-01T16:07:25.369482"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4399,
+          26.6521
+        ]
+      },
+      "properties": {
+        "name": "Fulbari Industrial Estate Power House",
+        "place_id": "ola-platform:5000041745793",
+        "address": "Fulbari Industrial Estate Power House, WBSEDCL, Jalpaiguri, Binnaguri, West Bengal, 734015, India",
+        "district": "Jalpaiguri",
+        "state": "West Bengal",
+        "types": [
+          "storage"
+        ],
+        "query_used": "industrial estate Jalpaiguri West Bengal",
+        "fetched_at": "2026-04-01T16:07:25.379474"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5165,
+          26.5931
+        ]
+      },
+      "properties": {
+        "name": "Ambari Falkata Industrial Estate",
+        "place_id": "ola-platform:5000063379115",
+        "address": "Ambari Falkata Industrial Estate, Kismat Sukani, West Bengal, 735135, India",
+        "district": "Jalpaiguri",
+        "state": "West Bengal",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Jalpaiguri West Bengal",
+        "fetched_at": "2026-04-01T16:07:25.399970"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4185,
+          26.6672
+        ]
+      },
+      "properties": {
+        "name": "Dabgram Industrial Estate Phase 2",
+        "place_id": "ola-platform:5000045362093",
+        "address": "Dabgram Industrial Estate Phase 2, Kamrangaguri, Siliguri, Fulbari, West Bengal, 734015, India",
+        "district": "Jalpaiguri",
+        "state": "West Bengal",
+        "types": [
+          "storage"
+        ],
+        "query_used": "industrial estate Jalpaiguri West Bengal",
+        "fetched_at": "2026-04-01T16:07:25.411261"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.647883,
+          26.543987
+        ]
+      },
+      "properties": {
+        "name": "Raninagar Jalpaiguri Railway Station",
+        "place_id": "ola-platform:5000205202085",
+        "address": "Raninagar Jalpaiguri Railway Station, Raninagar Jalpaiguri Junction, WBIIDC Road, Raninagar Industrial Park, Raninagar, Jalpaiguri, West Bengal, 735133, India",
+        "district": "Jalpaiguri",
+        "state": "West Bengal",
+        "types": [
+          "railway_station"
+        ],
+        "query_used": "MIDC Jalpaiguri",
+        "fetched_at": "2026-04-01T16:07:25.421916"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6454,
+          26.5384
+        ]
+      },
+      "properties": {
+        "name": "Raninagar Cocacola Factory",
+        "place_id": "ola-platform:5000192611254",
+        "address": "Raninagar Cocacola Factory, Patkata Colony, Jalpaiguri, West Bengal, 735133, India",
+        "district": "Jalpaiguri",
+        "state": "West Bengal",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "factory area Jalpaiguri",
+        "fetched_at": "2026-04-01T16:07:25.433674"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.814158,
+          26.557539
+        ]
+      },
+      "properties": {
+        "name": "Soap Manufacturing Factory",
+        "place_id": "ola-platform:5000047352847",
+        "address": "Soap Manufacturing Factory, Maynaguri, Jalpaiguri, West Bengal, 735224, India",
+        "district": "Jalpaiguri",
+        "state": "West Bengal",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Jalpaiguri",
+        "fetched_at": "2026-04-01T16:07:25.486787"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6981,
+          26.5128
+        ]
+      },
+      "properties": {
+        "name": "Rajdeep Grill Manufacturing",
+        "place_id": "ola-platform:5000044026683",
+        "address": "Rajdeep Grill Manufacturing, Chaulhati Rd, Debnagar, Jalpaiguri, West Bengal, 735101, India",
+        "district": "Jalpaiguri",
+        "state": "West Bengal",
+        "types": [
+          "restaurant",
+          "meal_takeaway",
+          "meal_delivery"
+        ],
+        "query_used": "manufacturing hub Jalpaiguri",
+        "fetched_at": "2026-04-01T16:07:25.498213"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.405471,
+          22.515452
+        ]
+      },
+      "properties": {
+        "name": "Bengal Food Product",
+        "place_id": "ola-platform:5000056196986",
+        "address": "Bengal Food Product, Kasba Industrial Estate, Kolkata, West Bengal, 700107, India",
+        "district": "Kolkata",
+        "state": "West Bengal",
+        "types": [
+          "restaurant",
+          "meal_takeaway",
+          "meal_delivery"
+        ],
+        "query_used": "industrial estate Kolkata West Bengal",
+        "fetched_at": "2026-04-01T16:07:33.067805"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3031,
+          22.5136
+        ]
+      },
+      "properties": {
+        "name": "Bengal Industries",
+        "place_id": "ola-platform:5000064207683",
+        "address": "Bengal Industries, 1, RIC Industrial Estate Rd, Parnasree Palli, Behala, Kolkata, West Bengal, 700060, India",
+        "district": "Kolkata",
+        "state": "West Bengal",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Kolkata West Bengal",
+        "fetched_at": "2026-04-01T16:07:33.086782"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3137,
+          22.489
+        ]
+      },
+      "properties": {
+        "name": "Manjusha-West Bengal Handicrafts Development Corporation Ltd",
+        "place_id": "ola-platform:5000039974016",
+        "address": "Manjusha-West Bengal Handicrafts Development Corporation Ltd, 620, Diamond Harbour Rd, Behala Industrial Estate, Paschim Barisha, Kolkata, West Bengal, 700034, India",
+        "district": "Kolkata",
+        "state": "West Bengal",
+        "types": [
+          "local_government_office"
+        ],
+        "query_used": "industrial estate Kolkata West Bengal",
+        "fetched_at": "2026-04-01T16:07:33.109555"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4023,
+          22.5163
+        ]
+      },
+      "properties": {
+        "name": "West Bengal Voluntary Health Association (Wbvha)",
+        "place_id": "ola-platform:5000035303166",
+        "address": "West Bengal Voluntary Health Association (Wbvha), Wbvha Tower, 3rd Floor, 580 Anandapur, Kolkata 700107, (Near Ruby General Hospital, Emami Building, Opposite To CISF Hq), 580, Anandapur Main Rd, Kasba Industrial Estate, Sector I, East Kolkata Twp, Kolkata, West Bengal",
+        "district": "Kolkata",
+        "state": "West Bengal",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Kolkata West Bengal",
+        "fetched_at": "2026-04-01T16:07:33.132922"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3805,
+          22.5563
+        ]
+      },
+      "properties": {
+        "name": "Tangra Industrial Estate - II Bengal Potteries Ground",
+        "place_id": "ola-platform:5000177441355",
+        "address": "Tangra Industrial Estate - II Bengal Potteries Ground, 45, Radhanath Chowdhury Rd, Seal Lane, Tangra, Kolkata, West Bengal, 700015, India",
+        "district": "Kolkata",
+        "state": "West Bengal",
+        "types": [
+          "premise",
+          "subpremise"
+        ],
+        "query_used": "industrial estate Kolkata West Bengal",
+        "fetched_at": "2026-04-01T16:07:33.157092"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3762,
+          22.4763
+        ]
+      },
+      "properties": {
+        "name": "Perfect Nails & Glam Factory",
+        "place_id": "ola-platform:5000038583852",
+        "address": "Perfect Nails & Glam Factory, 87/251, Raja Subodh Chandra Mallick Rd, Mallik Road, Ramgarh, Garia, Kolkata, West Bengal, 700047, India",
+        "district": "Kolkata",
+        "state": "West Bengal",
+        "types": [
+          "beauty_salon",
+          "hair_care"
+        ],
+        "query_used": "factory area Kolkata",
+        "fetched_at": "2026-04-01T16:07:33.209401"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.39,
+          22.5785
+        ]
+      },
+      "properties": {
+        "name": "Turtle (Factory Outlet Store) - Kankurgachi (Turtle Store - Kankurgachi, Phool Bagan, Kolkata)",
+        "place_id": "ola-platform:5000041321845",
+        "address": "Turtle (Factory Outlet Store) - Kankurgachi (Turtle Store - Kankurgachi, Phool Bagan, Kolkata), Turtle Store - Kankurgachi, Phool Bagan, Kolkata, Bharat Petrol Pump, 328, CIT Rd Scheme 6M, Scheme Vi-M, Phool Bagan, Kankurgachi, Kolkata, West Bengal, 700054, India",
+        "district": "Kolkata",
+        "state": "West Bengal",
+        "types": [
+          "clothing_store"
+        ],
+        "query_used": "factory area Kolkata",
+        "fetched_at": "2026-04-01T16:07:33.234797"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3088,
+          22.5016
+        ]
+      },
+      "properties": {
+        "name": "Polar Fan Factory, Chotobazar, Behala, Kolkata",
+        "place_id": "ola-platform:5000047172280",
+        "address": "Polar Fan Factory, Chotobazar, Behala, Kolkata, RamKrishna Sarani, Surya Sen Pally, Behala, Kolkata, West Bengal, 700034, India",
+        "district": "Kolkata",
+        "state": "West Bengal",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Kolkata",
+        "fetched_at": "2026-04-01T16:07:33.247096"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.36,
+          22.5284
+        ]
+      },
+      "properties": {
+        "name": "Paharpur Cooling Towers Ltd - Kolkata Factory",
+        "place_id": "ola-platform:5000176685636",
+        "address": "Paharpur Cooling Towers Ltd - Kolkata Factory, Paharpur Cooling Towers Limited, 5A, Oil Installation Rd, Paharpur, Garden Reach, Kolkata, West Bengal, 700019, India",
+        "district": "Kolkata",
+        "state": "West Bengal",
+        "types": [
+          "storage"
+        ],
+        "query_used": "factory area Kolkata",
+        "fetched_at": "2026-04-01T16:07:33.265464"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.380273,
+          22.54074
+        ]
+      },
+      "properties": {
+        "name": "The Calcutta Machine Manufacturing",
+        "place_id": "ola-platform:5000039165549",
+        "address": "The Calcutta Machine Manufacturing, Park Circus, Kolkata, West Bengal, 700046, India",
+        "district": "Kolkata",
+        "state": "West Bengal",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Kolkata",
+        "fetched_at": "2026-04-01T16:07:33.290949"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.324627,
+          22.607185
+        ]
+      },
+      "properties": {
+        "name": "Calcutta Rolls Manufacturing",
+        "place_id": "ola-platform:5000063377161",
+        "address": "Calcutta Rolls Manufacturing, Haora, Howrah, West Bengal, 711108, India",
+        "district": "Kolkata",
+        "state": "West Bengal",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Kolkata",
+        "fetched_at": "2026-04-01T16:07:33.301746"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3744,
+          22.714
+        ]
+      },
+      "properties": {
+        "name": "Calcutta Silk Manufacturing Limited",
+        "place_id": "ola-platform:5000049139490",
+        "address": "Calcutta Silk Manufacturing Limited, 32, Barrackpore Trunk Rd, Sukchar, Preo Nagar, Khardaha, Barrackpore, Khardaha, West Bengal, 700116, India",
+        "district": "Kolkata",
+        "state": "West Bengal",
+        "types": [
+          "clothing_store"
+        ],
+        "query_used": "manufacturing hub Kolkata",
+        "fetched_at": "2026-04-01T16:07:33.313846"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.32459,
+          22.60636
+        ]
+      },
+      "properties": {
+        "name": "Calcutta Rolls Manufacturing Company",
+        "place_id": "ola-platform:5000065202853",
+        "address": "Calcutta Rolls Manufacturing Company, J Rd, Belgachia, Liluah, Howrah, West Bengal, 711108, India",
+        "district": "Kolkata",
+        "state": "West Bengal",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Kolkata",
+        "fetched_at": "2026-04-01T16:07:33.324626"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.943668,
+          24.661614
+        ]
+      },
+      "properties": {
+        "name": "Jeet Biri Manufacturing Company Pvt Ltd",
+        "place_id": "ola-platform:5000054033288",
+        "address": "Jeet Biri Manufacturing Company Pvt Ltd, Dhulian, Samserganj, Murshidabad, West Bengal, 742202, India",
+        "district": "Murshidabad",
+        "state": "West Bengal",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Murshidabad",
+        "fetched_at": "2026-04-01T16:07:38.219569"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.451795,
+          22.98337
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area School",
+        "place_id": "ola-platform:5000057852505",
+        "address": "Industrial Area School, A-3, Kalyani City, Kalyani, Nadia, West Bengal, 741235, India",
+        "district": "Nadia",
+        "state": "West Bengal",
+        "types": [
+          "school",
+          "premise",
+          "primary_school"
+        ],
+        "query_used": "industrial area Nadia",
+        "fetched_at": "2026-04-01T16:07:40.745477"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.48382,
+          22.96978
+        ]
+      },
+      "properties": {
+        "name": "2 C WBIIDC Industrial Area",
+        "place_id": "ola-platform:5000189841362",
+        "address": "2 C WBIIDC Industrial Area, Kalyani, Gayeshpur, West Bengal, 741234, India",
+        "district": "Nadia",
+        "state": "West Bengal",
+        "types": [],
+        "query_used": "industrial area Nadia",
+        "fetched_at": "2026-04-01T16:07:40.780217"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4373,
+          22.9793
+        ]
+      },
+      "properties": {
+        "name": "Allahabad Bank Kalyani Industrial Estate Branch (Allahabad Bank - Kalyani Industrial Estate Branch)",
+        "place_id": "ola-platform:5000068810881",
+        "address": "Allahabad Bank Kalyani Industrial Estate Branch (Allahabad Bank - Kalyani Industrial Estate Branch), Allahabad Bank - Kalyani Industrial Estate Branch, Administrative Building Kalyani Industrial State, SH 1, B8, Block B, Kalyani, West Bengal, 741235, India",
+        "district": "Nadia",
+        "state": "West Bengal",
+        "types": [
+          "bank"
+        ],
+        "query_used": "industrial estate Nadia West Bengal",
+        "fetched_at": "2026-04-01T16:07:40.805129"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.428485,
+          22.965359
+        ]
+      },
+      "properties": {
+        "name": "S And H Manufacturing And Trading Pvt Ltd",
+        "place_id": "ola-platform:5000063911039",
+        "address": "S And H Manufacturing And Trading Pvt Ltd, B-4, Kalyani City, Kalyani, Nadia, West Bengal, 741235, India",
+        "district": "Nadia",
+        "state": "West Bengal",
+        "types": [
+          "premise"
+        ],
+        "query_used": "manufacturing hub Nadia",
+        "fetched_at": "2026-04-01T16:07:40.917523"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3932,
+          22.7505
+        ]
+      },
+      "properties": {
+        "name": "Ruiya Industrial Estate",
+        "place_id": "ola-platform:5000041474206",
+        "address": "Ruiya Industrial Estate, Kalyani Expy, Ruiya, Kolkata, Barrackpore, West Bengal, 700119, India",
+        "district": "North 24 Parganas",
+        "state": "West Bengal",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate North 24 Parganas West Bengal",
+        "fetched_at": "2026-04-01T16:07:43.291007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.385793,
+          22.648698
+        ]
+      },
+      "properties": {
+        "name": "RIC Industrial Estate",
+        "place_id": "ola-platform:5000052958072",
+        "address": "RIC Industrial Estate, Baranagar, Barrackpore, North 24 Parganas, West Bengal, 700108, India",
+        "district": "North 24 Parganas",
+        "state": "West Bengal",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate North 24 Parganas West Bengal",
+        "fetched_at": "2026-04-01T16:07:43.302994"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.378474,
+          22.645442
+        ]
+      },
+      "properties": {
+        "name": "Bongooghly Industrial Estate",
+        "place_id": "ola-platform:5000043520246",
+        "address": "Bongooghly Industrial Estate, Baranagar, Barrackpore, North 24 Parganas, West Bengal, 700108, India",
+        "district": "North 24 Parganas",
+        "state": "West Bengal",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate North 24 Parganas West Bengal",
+        "fetched_at": "2026-04-01T16:07:43.315923"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.379061,
+          22.659225
+        ]
+      },
+      "properties": {
+        "name": "Sawant Industrial Estate",
+        "place_id": "ola-platform:5000039732284",
+        "address": "Sawant Industrial Estate, Baranagar, Barrackpore, North 24 Parganas, West Bengal, 700056, India",
+        "district": "North 24 Parganas",
+        "state": "West Bengal",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate North 24 Parganas West Bengal",
+        "fetched_at": "2026-04-01T16:07:43.327436"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.415,
+          22.7417
+        ]
+      },
+      "properties": {
+        "name": "Balagarh Navarand Industrial Estate",
+        "place_id": "ola-platform:5000048769922",
+        "address": "Balagarh Navarand Industrial Estate, Unnamed Road, Ruiya, Nabharanda, West Bengal, 700118, India",
+        "district": "North 24 Parganas",
+        "state": "West Bengal",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate North 24 Parganas West Bengal",
+        "fetched_at": "2026-04-01T16:07:43.338496"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.101814,
+          23.692688
+        ]
+      },
+      "properties": {
+        "name": "Super Smelters Limited (Sai Group), Jamuria Industrial Area",
+        "place_id": "ola-platform:5000056344717",
+        "address": "Super Smelters Limited (Sai Group), Jamuria Industrial Area, Jamuria, Paschim Bardhaman, West Bengal, 713336, India",
+        "district": "Paschim Bardhaman",
+        "state": "West Bengal",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Paschim Bardhaman",
+        "fetched_at": "2026-04-01T16:07:45.720708"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.383713,
+          23.485977
+        ]
+      },
+      "properties": {
+        "name": "HPCL Industrial Area",
+        "place_id": "ola-platform:5000037211889",
+        "address": "HPCL Industrial Area, Kanksa, Paschim Bardhaman, West Bengal, 713212, India",
+        "district": "Paschim Bardhaman",
+        "state": "West Bengal",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Paschim Bardhaman",
+        "fetched_at": "2026-04-01T16:07:45.741093"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.328901,
+          23.510257
+        ]
+      },
+      "properties": {
+        "name": "AIMS Industrial Area",
+        "place_id": "ola-platform:5000057293029",
+        "address": "AIMS Industrial Area, Durgapur, Faridpur Durgapur, Paschim Bardhaman, West Bengal, 713201, India",
+        "district": "Paschim Bardhaman",
+        "state": "West Bengal",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Paschim Bardhaman",
+        "fetched_at": "2026-04-01T16:07:45.758734"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.323901,
+          23.4968
+        ]
+      },
+      "properties": {
+        "name": "Bata Industrial Area",
+        "place_id": "ola-platform:5000049144754",
+        "address": "Bata Industrial Area, Durgapur, Faridpur Durgapur, Paschim Bardhaman, West Bengal, 713201, India",
+        "district": "Paschim Bardhaman",
+        "state": "West Bengal",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "industrial area Paschim Bardhaman",
+        "fetched_at": "2026-04-01T16:07:45.773969"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.324585,
+          23.497063
+        ]
+      },
+      "properties": {
+        "name": "KFC Industrial Area",
+        "place_id": "ola-platform:5000044307784",
+        "address": "KFC Industrial Area, Durgapur, Faridpur Durgapur, Paschim Bardhaman, West Bengal, 713201, India",
+        "district": "Paschim Bardhaman",
+        "state": "West Bengal",
+        "types": [
+          "restaurant",
+          "meal_takeaway",
+          "meal_delivery"
+        ],
+        "query_used": "industrial area Paschim Bardhaman",
+        "fetched_at": "2026-04-01T16:07:45.788781"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.9444,
+          23.7144
+        ]
+      },
+      "properties": {
+        "name": "Adda Industrial Estate",
+        "place_id": "ola-platform:5000058366936",
+        "address": "Adda Industrial Estate, Asansol, West Bengal, 713305, India",
+        "district": "Paschim Bardhaman",
+        "state": "West Bengal",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Paschim Bardhaman West Bengal",
+        "fetched_at": "2026-04-01T16:07:45.800554"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.34473,
+          23.501253
+        ]
+      },
+      "properties": {
+        "name": "Durgapur Industrial Estate",
+        "place_id": "ola-platform:5000048324695",
+        "address": "Durgapur Industrial Estate, Durgapur, Faridpur Durgapur, Paschim Bardhaman, West Bengal, 713201, India",
+        "district": "Paschim Bardhaman",
+        "state": "West Bengal",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Paschim Bardhaman West Bengal",
+        "fetched_at": "2026-04-01T16:07:45.813776"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.3399,
+          23.49997
+        ]
+      },
+      "properties": {
+        "name": "Durgapur Industrial Estate",
+        "place_id": "ola-platform:5000068557746",
+        "address": "Durgapur Industrial Estate, Durgapur, Faridpur Durgapur, Paschim Bardhaman, West Bengal, 713201, India",
+        "district": "Paschim Bardhaman",
+        "state": "West Bengal",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Paschim Bardhaman West Bengal",
+        "fetched_at": "2026-04-01T16:07:45.825474"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.272064,
+          22.343197
+        ]
+      },
+      "properties": {
+        "name": "Khargpur Industrial Estate",
+        "place_id": "ola-platform:5000035357044",
+        "address": "Khargpur Industrial Estate, Kharagpur, Kharagpur-I, Paschim Medinipur, West Bengal, 721301, India",
+        "district": "Paschim Medinipur",
+        "state": "West Bengal",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial estate Paschim Medinipur West Bengal",
+        "fetched_at": "2026-04-01T16:07:48.251458"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.263,
+          22.343
+        ]
+      },
+      "properties": {
+        "name": "Kharagpur Industrial Estate",
+        "place_id": "ola-platform:5000054517463",
+        "address": "Kharagpur Industrial Estate, Nimpura, Kharagpur, West Bengal, 721303, India",
+        "district": "Paschim Medinipur",
+        "state": "West Bengal",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Paschim Medinipur West Bengal",
+        "fetched_at": "2026-04-01T16:07:48.264086"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.301994,
+          22.420322
+        ]
+      },
+      "properties": {
+        "name": "Goverment Industrial Training Institute (I.T.I) Rangamati, Paschim Midnapore",
+        "place_id": "ola-platform:5000035259920",
+        "address": "Goverment Industrial Training Institute (I.T.I) Rangamati, Paschim Midnapore, Medinipur, Midnapore, Paschim Medinipur, West Bengal, 721101, India",
+        "district": "Paschim Medinipur",
+        "state": "West Bengal",
+        "types": [
+          "university"
+        ],
+        "query_used": "MIDC Paschim Medinipur",
+        "fetched_at": "2026-04-01T16:07:48.299763"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.3194,
+          23.4854
+        ]
+      },
+      "properties": {
+        "name": "Home Industrial Area",
+        "place_id": "ola-platform:5000044251800",
+        "address": "Home Industrial Area, Purbachal, Industrial Area, Durgapur, West Bengal, 713218, India",
+        "district": "Purba Bardhaman",
+        "state": "West Bengal",
+        "types": [
+          "lodging"
+        ],
+        "query_used": "industrial area Purba Bardhaman",
+        "fetched_at": "2026-04-01T16:07:50.621573"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.479,
+          23.437
+        ]
+      },
+      "properties": {
+        "name": "Panagarh Industrial Area Gate",
+        "place_id": "ola-platform:5000044969110",
+        "address": "Panagarh Industrial Area Gate, Dharala, West Bengal, 713148, India",
+        "district": "Purba Bardhaman",
+        "state": "West Bengal",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area Purba Bardhaman",
+        "fetched_at": "2026-04-01T16:07:50.642451"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.9574,
+          23.1812
+        ]
+      },
+      "properties": {
+        "name": "Shaktigarh Industrial Estate Unite-2",
+        "place_id": "ola-platform:5000066754518",
+        "address": "Shaktigarh Industrial Estate Unite-2, Baje Salepur, West Bengal, 713124, India",
+        "district": "Purba Bardhaman",
+        "state": "West Bengal",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Purba Bardhaman West Bengal",
+        "fetched_at": "2026-04-01T16:07:50.678683"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.9571,
+          23.181
+        ]
+      },
+      "properties": {
+        "name": "Saktigarh Industrial Estate",
+        "place_id": "ola-platform:5000068849402",
+        "address": "Saktigarh Industrial Estate, Unnamed Road, Barsul, Baje Salepur, West Bengal, 713124, India",
+        "district": "Purba Bardhaman",
+        "state": "West Bengal",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Purba Bardhaman West Bengal",
+        "fetched_at": "2026-04-01T16:07:50.690669"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.1353,
+          22.0796
+        ]
+      },
+      "properties": {
+        "name": "City Center-Industrial Area Rd",
+        "place_id": "ola-platform:5000193541307",
+        "address": "City Center-Industrial Area Rd, Haldia, West Bengal, 721602, India",
+        "district": "Purba Medinipur",
+        "state": "West Bengal",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Purba Medinipur",
+        "fetched_at": "2026-04-01T16:07:53.110586"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.1384,
+          22.0804
+        ]
+      },
+      "properties": {
+        "name": "2, City Center-Industrial Area Rd",
+        "place_id": "ola-platform:5000186389067",
+        "address": "2, City Center-Industrial Area Rd, Haldia, West Bengal, 721602, India",
+        "district": "Purba Medinipur",
+        "state": "West Bengal",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial area Purba Medinipur",
+        "fetched_at": "2026-04-01T16:07:53.154406"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.13848,
+          22.08043
+        ]
+      },
+      "properties": {
+        "name": "13, City Center-Industrial Area Rd",
+        "place_id": "ola-platform:5000197315576",
+        "address": "13, City Center-Industrial Area Rd, Haldia, West Bengal, 721602, India",
+        "district": "Purba Medinipur",
+        "state": "West Bengal",
+        "types": [],
+        "query_used": "industrial area Purba Medinipur",
+        "fetched_at": "2026-04-01T16:07:53.180695"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.4426,
+          23.3692
+        ]
+      },
+      "properties": {
+        "name": "Tatisilwai Industrial Area Phase I",
+        "place_id": "ola-platform:5000059396567",
+        "address": "Tatisilwai Industrial Area Phase I, Ranchi - Purulia Rd, Chatra, Jharkhand, 835103, India",
+        "district": "Purulia",
+        "state": "West Bengal",
+        "types": [
+          "storage"
+        ],
+        "query_used": "industrial area Purulia",
+        "fetched_at": "2026-04-01T16:07:55.505291"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3543,
+          23.3511
+        ]
+      },
+      "properties": {
+        "name": "Shree Shyam Aluminium Industries (Lota Factory)",
+        "place_id": "ola-platform:5000044699910",
+        "address": "Shree Shyam Aluminium Industries (Lota Factory), Ranchi - Purulia Rd, Samlong, Ranchi, Jharkhand, 834001, India",
+        "district": "Purulia",
+        "state": "West Bengal",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Purulia",
+        "fetched_at": "2026-04-01T16:07:55.647618"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.38694,
+          22.43588
+        ]
+      },
+      "properties": {
+        "name": "Ramchandrapur Industrial Area",
+        "place_id": "ola-platform:5000041918290",
+        "address": "Ramchandrapur Industrial Area, Sreepur Bagher Khol, Rajpur Sonarpur, Sonarpur, South 24 Parganas, West Bengal, 700153, India",
+        "district": "South 24 Parganas",
+        "state": "West Bengal",
+        "types": [
+          "premise"
+        ],
+        "query_used": "industrial area South 24 Parganas",
+        "fetched_at": "2026-04-01T16:07:57.877968"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.2575,
+          22.49
+        ]
+      },
+      "properties": {
+        "name": "Palan Industrial Estate Owner's Association",
+        "place_id": "ola-platform:5000041787647",
+        "address": "Palan Industrial Estate Owner's Association, 700142, Banerjeepara, Maheshtala, West Bengal",
+        "district": "South 24 Parganas",
+        "state": "West Bengal",
+        "types": [
+          "real_estate_agency"
+        ],
+        "query_used": "industrial estate South 24 Parganas West Bengal",
+        "fetched_at": "2026-04-01T16:07:57.929579"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.2871,
+          22.4488
+        ]
+      },
+      "properties": {
+        "name": "BS Industrial Estates Road",
+        "place_id": "ola-platform:5000196857653",
+        "address": "BS Industrial Estates Road, BS Industrial Estates Rd, Sankharipota, Raypur, West Bengal, 700104, India",
+        "district": "South 24 Parganas",
+        "state": "West Bengal",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate South 24 Parganas West Bengal",
+        "fetched_at": "2026-04-01T16:07:57.942040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.25566,
+          22.41559
+        ]
+      },
+      "properties": {
+        "name": "J D Industrial Estate",
+        "place_id": "ola-platform:5000054524347",
+        "address": "J D Industrial Estate, Samali, Thakurpukur Maheshtala, South 24 Parganas, West Bengal, 743503, India",
+        "district": "South 24 Parganas",
+        "state": "West Bengal",
+        "types": [
+          "shopping_mall"
+        ],
+        "query_used": "industrial estate South 24 Parganas West Bengal",
+        "fetched_at": "2026-04-01T16:07:57.955596"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.2588,
+          22.492405
+        ]
+      },
+      "properties": {
+        "name": "Bari Industrial Estate",
+        "place_id": "ola-platform:5000051026927",
+        "address": "Bari Industrial Estate, Biren Roy Road West, Maheshtala, Thakurpukur Maheshtala, South 24 Parganas, West Bengal, 700142, India",
+        "district": "South 24 Parganas",
+        "state": "West Bengal",
+        "types": [
+          "premise",
+          "subpremise"
+        ],
+        "query_used": "industrial estate South 24 Parganas West Bengal",
+        "fetched_at": "2026-04-01T16:07:57.968601"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.2259,
+          22.4169
+        ]
+      },
+      "properties": {
+        "name": "Hazra Industrial Estate",
+        "place_id": "ola-platform:5000057612877",
+        "address": "Hazra Industrial Estate, Hatberia, Ramdebpur, West Bengal, 700140, India",
+        "district": "South 24 Parganas",
+        "state": "West Bengal",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate South 24 Parganas West Bengal",
+        "fetched_at": "2026-04-01T16:07:57.981838"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.2196,
+          26.281
+        ]
+      },
+      "properties": {
+        "name": "Illuabri Industrial Estate",
+        "place_id": "ola-platform:5000065539749",
+        "address": "Illuabri Industrial Estate, Iluabari, West Bengal, 733207, India",
+        "district": "Uttar Dinajpur",
+        "state": "West Bengal",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "industrial estate Uttar Dinajpur West Bengal",
+        "fetched_at": "2026-04-01T16:08:00.393923"
+      }
+    }
+  ]
+}

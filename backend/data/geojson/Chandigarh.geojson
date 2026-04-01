@@ -1,0 +1,402 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.804816,
+          30.705107
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Phase 1",
+        "place_id": "ola-platform:1002515",
+        "address": "Industrial Area Phase 1, Chandigarh, India",
+        "district": "Chandigarh",
+        "state": "Chandigarh",
+        "types": [
+          "borough"
+        ],
+        "query_used": "industrial area Chandigarh",
+        "fetched_at": "2026-04-01T16:09:33.280908"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.785751,
+          30.694443
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Phase 2",
+        "place_id": "ola-platform:1002516",
+        "address": "Industrial Area Phase 2, Chandigarh, India",
+        "district": "Chandigarh",
+        "state": "Chandigarh",
+        "types": [
+          "borough"
+        ],
+        "query_used": "industrial area Chandigarh",
+        "fetched_at": "2026-04-01T16:09:33.289889"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.82738,
+          30.68501
+        ]
+      },
+      "properties": {
+        "name": "Industrial Area Phase 2",
+        "place_id": "ola-platform:5000191126433",
+        "address": "Industrial Area Phase 2, Chandigarh, Panchkula, Chandigarh, 160102, India",
+        "district": "Chandigarh",
+        "state": "Chandigarh",
+        "types": [],
+        "query_used": "industrial area Chandigarh",
+        "fetched_at": "2026-04-01T16:09:33.297508"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.80425,
+          31.70023
+        ]
+      },
+      "properties": {
+        "name": "0, Industrial Area Phase I",
+        "place_id": "ola-platform:5000200248315",
+        "address": "0, Industrial Area Phase I, Chandigarh, Daulatpur, Chandigarh, 144210, India",
+        "district": "Chandigarh",
+        "state": "Chandigarh",
+        "types": [],
+        "query_used": "industrial area Chandigarh",
+        "fetched_at": "2026-04-01T16:09:33.306300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.83012,
+          30.68338
+        ]
+      },
+      "properties": {
+        "name": "414, Industrial Area Phase",
+        "place_id": "ola-platform:5000198618861",
+        "address": "414, Industrial Area Phase, 2, Chandigarh, Panchkula, Chandigarh, 160102, India",
+        "district": "Chandigarh",
+        "state": "Chandigarh",
+        "types": [],
+        "query_used": "industrial area Chandigarh",
+        "fetched_at": "2026-04-01T16:09:33.315188"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8039,
+          30.7017
+        ]
+      },
+      "properties": {
+        "name": "136-140/5, Industrial Area Estate",
+        "place_id": "ola-platform:5000183154874",
+        "address": "136-140/5, Industrial Area Estate, Phase - I, Industrial Area Phase I, Chandigarh, 160002, India",
+        "district": "Chandigarh",
+        "state": "Chandigarh",
+        "types": [
+          "street_address"
+        ],
+        "query_used": "industrial estate Chandigarh Chandigarh",
+        "fetched_at": "2026-04-01T16:09:33.323474"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8005,
+          30.7052
+        ]
+      },
+      "properties": {
+        "name": "The Brew Estate, Chandigarh Industrial Area, Chandigarh",
+        "place_id": "ola-platform:5000220770002",
+        "address": "The Brew Estate, Chandigarh Industrial Area, Chandigarh, 308, Elante Mall, Industrial Area Phase I, Chandigarh, 160002, India",
+        "district": "Chandigarh",
+        "state": "Chandigarh",
+        "types": [
+          "bar"
+        ],
+        "query_used": "industrial estate Chandigarh Chandigarh",
+        "fetched_at": "2026-04-01T16:09:33.334036"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8027,
+          30.708
+        ]
+      },
+      "properties": {
+        "name": "Chill Hotel Hometel, Chandigarh Industrial Area, Chandigarh (Hometel Chandigarh)",
+        "place_id": "ola-platform:5000037712740",
+        "address": "Chill Hotel Hometel, Chandigarh Industrial Area, Chandigarh (Hometel Chandigarh), Hometel Chandigarh, A Sarovar Hotel, Plot No 147, 148, Purv Marg, Industrial Area Phase 2, Industrial Area Phase I, Chandigarh, 160002, India",
+        "district": "Chandigarh",
+        "state": "Chandigarh",
+        "types": [
+          "lodging"
+        ],
+        "query_used": "industrial estate Chandigarh Chandigarh",
+        "fetched_at": "2026-04-01T16:09:33.340773"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8011,
+          30.7093
+        ]
+      },
+      "properties": {
+        "name": "Anardana, Chandigarh Industrial Area, Chandigarh (Anardana Chandigarh)",
+        "place_id": "ola-platform:5000067130318",
+        "address": "Anardana, Chandigarh Industrial Area, Chandigarh (Anardana Chandigarh), Anardana Chandigarh, City Emporium Mall Ground Floor, Shop No. 19-21 Industrial Area Phase 1, Industrial Area Phase 1 Wave Cinema Mall, Industrial Area Phase 2, Industrial Area Phase I, Chandigarh, 160002, India",
+        "district": "Chandigarh",
+        "state": "Chandigarh",
+        "types": [
+          "restaurant",
+          "meal_takeaway",
+          "meal_delivery"
+        ],
+        "query_used": "industrial estate Chandigarh Chandigarh",
+        "fetched_at": "2026-04-01T16:09:33.350095"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8005,
+          30.7013
+        ]
+      },
+      "properties": {
+        "name": "Ordnance Factory Chandigarh",
+        "place_id": "ola-platform:5000053012970",
+        "address": "Ordnance Factory Chandigarh, #183, Near, Elante Mall, Industrial Area Phase I, Chandigarh, 160002, India",
+        "district": "Chandigarh",
+        "state": "Chandigarh",
+        "types": [
+          "street_address",
+          "premise"
+        ],
+        "query_used": "factory area Chandigarh",
+        "fetched_at": "2026-04-01T16:09:33.357288"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.7881,
+          30.6974
+        ]
+      },
+      "properties": {
+        "name": "Print Factory Chandigarh",
+        "place_id": "ola-platform:5000176527353",
+        "address": "Print Factory Chandigarh, Print Factory, First Floor, Plot No. 109, Opposite ESIC Model Hospital, Industrial Area Phase II, Chandigarh, 160002, India",
+        "district": "Chandigarh",
+        "state": "Chandigarh",
+        "types": [
+          "store"
+        ],
+        "query_used": "factory area Chandigarh",
+        "fetched_at": "2026-04-01T16:09:33.365801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8019,
+          30.6979
+        ]
+      },
+      "properties": {
+        "name": "Chandigarh Solar Garden Light Factory (A Unit Of R.K. Enterprises) (Regd.)",
+        "place_id": "ola-platform:5000051769859",
+        "address": "Chandigarh Solar Garden Light Factory (A Unit Of R.K. Enterprises) (Regd.), 254, Industrial Area Phase I, Chandigarh, 160002, India",
+        "district": "Chandigarh",
+        "state": "Chandigarh",
+        "types": [
+          "home_goods_store"
+        ],
+        "query_used": "factory area Chandigarh",
+        "fetched_at": "2026-04-01T16:09:33.374797"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8054,
+          30.7255
+        ]
+      },
+      "properties": {
+        "name": "The Great Kabab Factory Chandigarh",
+        "place_id": "ola-platform:5000036201825",
+        "address": "The Great Kabab Factory Chandigarh, The Great Kabab Factory, Ground SCO 43, Madhya Marg, Sector 26, Chandigarh, 160019, India",
+        "district": "Chandigarh",
+        "state": "Chandigarh",
+        "types": [
+          "restaurant",
+          "meal_takeaway",
+          "meal_delivery"
+        ],
+        "query_used": "factory area Chandigarh",
+        "fetched_at": "2026-04-01T16:09:33.384625"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.7747,
+          30.7195
+        ]
+      },
+      "properties": {
+        "name": "Blackberrys Factory Outlet Sector 20, Chandigarh",
+        "place_id": "ola-platform:5000061639145",
+        "address": "Blackberrys Factory Outlet Sector 20, Chandigarh, SCO-8, Tribune Rd, Sector 20D, Sector 33, Chandigarh, 160020, India",
+        "district": "Chandigarh",
+        "state": "Chandigarh",
+        "types": [
+          "clothing_store"
+        ],
+        "query_used": "factory area Chandigarh",
+        "fetched_at": "2026-04-01T16:09:33.392378"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.7518,
+          30.7492
+        ]
+      },
+      "properties": {
+        "name": "Lifevision HealthCare | Pharma Third Party Manufacturing Company India | Pharma Manufacturers In Chandigarh",
+        "place_id": "ola-platform:5000060273906",
+        "address": "Lifevision HealthCare | Pharma Third Party Manufacturing Company India | Pharma Manufacturers In Chandigarh, Plot No 11-12 Dainik Bhaskar Building, 25D, Slum, Sector 25, Chandigarh, 160036, India",
+        "district": "Chandigarh",
+        "state": "Chandigarh",
+        "types": [
+          "drugstore",
+          "pharmacy"
+        ],
+        "query_used": "manufacturing hub Chandigarh",
+        "fetched_at": "2026-04-01T16:09:33.401521"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.752,
+          30.7486
+        ]
+      },
+      "properties": {
+        "name": "Daniel Pasteur- PCD Pharma Manufacturing Company In Chandigarh",
+        "place_id": "ola-platform:5000062368652",
+        "address": "Daniel Pasteur- PCD Pharma Manufacturing Company In Chandigarh, Plot No. 11, Dainik Bhaskar, Building, Slum, Sector 25, Chandigarh, 160036, India",
+        "district": "Chandigarh",
+        "state": "Chandigarh",
+        "types": [
+          "health"
+        ],
+        "query_used": "manufacturing hub Chandigarh",
+        "fetched_at": "2026-04-01T16:09:33.409331"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.7311,
+          30.6509
+        ]
+      },
+      "properties": {
+        "name": "NB Healthcare: Third Party Manufacturing Company In Chandigarh",
+        "place_id": "ola-platform:5000219932635",
+        "address": "NB Healthcare: Third Party Manufacturing Company In Chandigarh, Plot No, Industrial Park, 966, Sector 82, JLPL Industrial Area, Sahibzada Ajit Singh Nagar, Punjab 140306, India",
+        "district": "Chandigarh",
+        "state": "Chandigarh",
+        "types": [
+          "health"
+        ],
+        "query_used": "manufacturing hub Chandigarh",
+        "fetched_at": "2026-04-01T16:09:33.418657"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.8343,
+          30.7164
+        ]
+      },
+      "properties": {
+        "name": "Velgret HealthCare PCD Pharma Franchise&third Party Manufacturing In Chandigarh",
+        "place_id": "ola-platform:5000039982579",
+        "address": "Velgret HealthCare PCD Pharma Franchise&third Party Manufacturing In Chandigarh, 262-D, Cabin No-1 Towards Street No-5, Shanti Nagar, Sector 13, Chandigarh, 160101, India",
+        "district": "Chandigarh",
+        "state": "Chandigarh",
+        "types": [
+          "drugstore",
+          "pharmacy"
+        ],
+        "query_used": "manufacturing hub Chandigarh",
+        "fetched_at": "2026-04-01T16:09:33.426941"
+      }
+    }
+  ]
+}
